@@ -1,4 +1,5 @@
 collections:
   our-cedar:
     output: true
-    order: []
+    order:
+      - Our Identity/.keep
