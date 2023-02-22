@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - International Students.md
       - Frequently Asked Questions.md
