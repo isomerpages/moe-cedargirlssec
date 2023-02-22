@@ -2,17 +2,17 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Academic/Science.md
-      - Academic/Physical Education.md
-      - Academic/Mother Tongue.md
-      - Academic/Mathematics.md
-      - Academic/Humanities.md
-      - Academic/English Language and Literature.md
-      - Academic/Aesthetics table.md
-      - Academic/Aesthetics.md
+      - Academic/.keep
       - Academic/Integrated Programme.md
       - Academic/Instructional Programme.md
-      - Academic/.keep
+      - Academic/Aesthetics.md
+      - Academic/Aesthetics table.md
+      - Academic/English Language and Literature.md
+      - Academic/Humanities.md
+      - Academic/Mathematics.md
+      - Academic/Mother Tongue.md
+      - Academic/Physical Education.md
+      - Academic/Science.md
       - CCA/Overview.md
       - CCA/Sports.md
       - CCA/Performing Arts.md
