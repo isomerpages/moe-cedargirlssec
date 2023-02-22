@@ -2,6 +2,7 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
+      - Incubating Spaces/Maker Space–The Maker's Clinic.md
       - Incubating Spaces/.keep
       - The Nexus/Social Innovation Speaker Series.md
       - The Nexus/Our Partners And External Organisations.md
