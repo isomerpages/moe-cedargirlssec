@@ -3,9 +3,7 @@ title: Accordion
 permalink: /permalink/
 description: ""
 ---
-
-
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
 <li>
 
