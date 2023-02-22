@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic/Aesthetics.md
       - Academic/Integrated Programme.md
       - Academic/Instructional Programme.md
       - Academic/.keep
