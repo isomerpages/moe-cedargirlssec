@@ -42,12 +42,3 @@ AESTHETICS
 ![aes35](/images/aes35.png)
 ![aes36](/images/aes36.png)
 ![aes37](/images/aes37.png)
-
-humanities
-
-![h1](/images/h1.png)
-![h2](/images/h2.png)
-![h3](/images/h3.png)
-![h4](/images/h4.png)
-![h5](/images/h5.png)
-![h6](/images/h6.png)
