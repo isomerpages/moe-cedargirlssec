@@ -6,6 +6,8 @@ third_nav_title: Academic
 ---
 ### Humanities
 
+<img src="/images/humanities.png" style="width:80%">
+
 <ul class="jekyllcodex_accordion">
 
 <li>
