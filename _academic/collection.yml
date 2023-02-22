@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Student Leadership/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education (NE).md
       - CCE/MOE Sexuality Education.md
