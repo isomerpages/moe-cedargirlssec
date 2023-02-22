@@ -130,7 +130,11 @@ For the final leg of their four-year Research Education journey, students are ab
 <br><br>In addition to Research Education, the Electives Programme offers broad-based learning experiences and empowers students to learn about topics that interest them. Some electives in the English Language and Literature offered in the past include<br><br>
 	
 	
-• <b>Reframing Femme Fatale:</b>		
+• <b>Writing for Stage.</b>		Students engaged in a discussion of the theories and perspectives of selected playwrights on playwriting. They applied writing techniques and skills in constructing a 10 to 15 minute play-text, justified the themes and choices made in the text and organised a dramatised reading of the play-text as a final creative product.<br><br>
+	
+• <b>The Writer's Ink.</b>	A creative writing module, this elective honed the writing abilities of students and developed their ability to give an effective critique of one another’s writing. By the end of the elective, the students wrote a full-length short story.	<br><br>
+	
+<b>The Science of Language.</b>	Studying the structure of languages through a scientific lens enabled students to break out of the traditional perception of grammar as a strictly imposed set of rules. They ‘discovered’ the grammar of a language of their choice or attempted to solve a puzzling language-specific phenomenon by formulating and testing hypotheses, as well as evaluating one and another’s conclusions.
 	
 </p>
 
