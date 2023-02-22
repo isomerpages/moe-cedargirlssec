@@ -14,11 +14,11 @@ third_nav_title: Academic
 
 <input type="checkbox" id="accordion1">
  
-<label for="accordion1">Simple</label>
+<label for="accordion1">Why Arts Education</label>
 
 <div>
 
-<p>This is a simple one line item</p>
+<p>The Arts and Performing Arts Curriculum is tailored to provide opportunities for our students to be able to Appreciate, Express and Compose/Create works through the exploration of mixed media, forms and the affordance of technology.</p>
 
 </div>
 
@@ -28,12 +28,14 @@ third_nav_title: Academic
 
 <input type="checkbox" id="accordion2">
 
-<label for="accordion2">Multi-line Block</label>
+<label for="accordion2">Performing Arts Curriculum</label>
 
 <div>
 
 <p>
-text
+<b>Vision:</b>Develop Cedarians into gracious confident young ladies who have an appreciation for the arts<br><br>
+
+<b>Mission:</b> To provide a holistic 4-year Arts Programme and to teach the Art of Arts Appreciation and Critique to all Cedarians
 </p>
 
 </div>
@@ -44,7 +46,7 @@ text
 
 <input type="checkbox" id="accordion3">
 
-<label for="accordion3">Multi-line Folded</label>
+<label for="accordion3">Overview of Aesthetics Curriculum</label>
 
 <div>
 
@@ -61,7 +63,7 @@ text
 
 <input type="checkbox" id="accordion4">
 
-<label for="accordion4">Multi-line Folded</label>
+<label for="accordion4">Different Aesthetics Subjects in a Snapshot</label>
 
 <div>
 
@@ -78,7 +80,7 @@ text
 
 <input type="checkbox" id="accordion5">
 
-<label for="accordion5">Multi-line Folded</label>
+<label for="accordion5">The Arts Curriculum</label>
 
 <div>
 
