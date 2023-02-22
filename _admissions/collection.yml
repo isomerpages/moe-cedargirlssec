@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Administration   Year 1 to 4/School Bus Transport Service.md
       - Administration   Year 1 to 4/School Dental Service.md
       - Administration   Year 1 to 4/.keep
       - Returning Singaporeans.md
