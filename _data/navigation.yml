@@ -1,11 +1,9 @@
 logo: /images/school logo_updated.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our Cedar
-    url: /our-cedar
+    url: https://moe-cedargirlssec-staging.netlify.app/our-cedar/overview/
     sublinks:
       - title: Our Identity
         url: /our-identity
+      - title: Submenu Title
+        url: /permalink
