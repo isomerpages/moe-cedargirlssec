@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parent Support Group/Vision and Mission.md
       - Parent Support Group/PSG Exco.md
       - Parent Support Group/Join as Parent Volunteer.md
       - Parent Support Group/Events.md
