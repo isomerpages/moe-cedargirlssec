@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Admission to Year 3 VCA IP in 2023.md
       - Administration   Year 1 to 4/Group Personal Accident (GPA) Insurance
         Plan for Students.md
       - Administration   Year 1 to 4/School Bookshop.md
