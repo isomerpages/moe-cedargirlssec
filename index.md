@@ -9,10 +9,13 @@ sections:
   - hero:
       background: /images/cgsbanner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Announcements
+          description: ""
+          url: /announcements/
+        - title: Centre for Social Innovation
+          description: ""
+          url: /centre-for-social-innovation/our-story/about-csi-inc/
+        - title: Quick Links
+          description: ""
+          url: /for-staff/
 ---
