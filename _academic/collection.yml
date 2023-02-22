@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Talent Development/Humanities Special Programme (HSP).md
       - Talent Development/Mathematics.md
       - Talent Development/Regional Studies Programme (RSP).md
       - Talent Development/Sciences.md
