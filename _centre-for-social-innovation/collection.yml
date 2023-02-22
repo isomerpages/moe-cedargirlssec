@@ -2,6 +2,7 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
+      - Our Story/.keep
       - Incubating Spaces/Our Journey.md
       - Incubating Spaces/Our Social Innovation Projects.md
       - Incubating Spaces/Maker Space–The Maker's Clinic.md
