@@ -2,5 +2,6 @@ collections:
   our-cedar:
     output: true
     order:
+      - Our History.md
       - Yearbook.md
       - Prospectus.md
