@@ -1,5 +1,5 @@
 collections:
-  academic:
+  our-curriculum:
     output: true
     order:
       - CCA/Overview.md
