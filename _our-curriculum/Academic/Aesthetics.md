@@ -10,20 +10,22 @@ third_nav_title: Academic
 
 <ul class="jekyllcodex_accordion">
 
+
 <li>
 
 <input type="checkbox" id="accordion1">
- 
+
 <label for="accordion1">Why Arts Education</label>
 
 <div>
 
-<p>The Arts and Performing Arts Curriculum is tailored to provide opportunities for our students to be able to Appreciate, Express and Compose/Create works through the exploration of mixed media, forms and the affordance of technology.</p>
+<p>
+The Arts and Performing Arts Curriculum is tailored to provide opportunities for our students to be able to Appreciate, Express and Compose/Create works through the exploration of mixed media, forms and the affordance of technology.
+</p>
 
 </div>
 
-</li>  
-
+</li>
 <li>
 
 <input type="checkbox" id="accordion2">
