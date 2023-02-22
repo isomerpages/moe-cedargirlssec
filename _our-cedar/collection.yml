@@ -1,7 +1,0 @@
-collections:
-  our-cedar:
-    output: true
-    order:
-      - Our Identity.md
-      - Our Identity/School Vision, Mission, Values.md
-      - Our Identity/.keep
