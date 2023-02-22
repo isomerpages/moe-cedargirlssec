@@ -2,6 +2,7 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
+      - Capacity Building/Imagineering Programme.md
       - Capacity Building/Social Innovation Curriculum.md
       - Capacity Building/Social Innovation Talent Development.md
       - Capacity Building/Staff Capacity Building.md
