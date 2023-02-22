@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/AV and Photography Club.md
       - Clubs and Societies/English Language Drama and Debating Society
         (ELDDS).md
       - Clubs and Societies/Environment Club.md
