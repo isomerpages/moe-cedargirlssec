@@ -1,5 +1,5 @@
 collections:
-  departments:
+  our-people:
     output: true
     order:
       - Departments/Science.md
