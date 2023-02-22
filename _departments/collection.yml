@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Departments/School Counsellor.md
       - Departments/Executive and Administrative Staff.md
       - Departments/.keep
