@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic/English Language and Literature.md
       - Academic/Aesthetics table.md
       - Academic/Aesthetics.md
       - Academic/Integrated Programme.md
