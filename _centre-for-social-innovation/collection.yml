@@ -2,6 +2,7 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
+      - Our Story/Vision, Purpose and Values.md
       - Our Story/.keep
       - Incubating Spaces/Our Journey.md
       - Incubating Spaces/Our Social Innovation Projects.md
