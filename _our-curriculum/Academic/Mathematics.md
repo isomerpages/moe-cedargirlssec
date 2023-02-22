@@ -9,17 +9,22 @@ third_nav_title: Academic
 <img src="/images/math7.png" style="width:80%"> <br><br>
 
 <ul class="jekyllcodex_accordion">
+
 <li>
+
 <input type="checkbox" id="accordion1">
-<label for="accordion1">Philosphy</label>
+
+<label for="accordion1">Philosophy</label>
+
 <div>
 
-<p>Mathematics is very important as it permeates every aspect of our daily lives. Our differentiated approach strives to maximise the potential of every student in the subject. Problem Solving is the central theme of our Integrated Mathematics Programme. The pentagon framework shows the underlying principles of the Integrated Mathematics Programme. It sets the direction for the teaching, learning and assessment of Mathematics.</p>
+<p>
+Mathematics is very important as it permeates every aspect of our daily lives. Our differentiated approach strives to maximise the potential of every student in the subject. Problem Solving is the central theme of our Integrated Mathematics Programme. The pentagon framework shows the underlying principles of the Integrated Mathematics Programme. It sets the direction for the teaching, learning and assessment of Mathematics.	
+</p>
 
 </div>
 
-</li>  
-
+</li>
 <li>
 
 <input type="checkbox" id="accordion2">
@@ -88,6 +93,7 @@ In Cedar, the assessment principles are based on the belief that assessment is u
 
 </div>
 
-</li>
+</li>	
+
  
 </ul>
