@@ -2,6 +2,7 @@ collections:
   our-cedar:
     output: true
     order:
+      - Our Identity/School Crest, Motto and School Song.md
       - Our Identity/.keep
       - Our History.md
       - Yearbook.md
