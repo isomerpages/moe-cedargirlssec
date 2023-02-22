@@ -10,10 +10,11 @@ third_nav_title: Academic
 
 <ul class="jekyllcodex_accordion">
 
+
 <li>
 
 <input type="checkbox" id="accordion1">
- 
+
 <label for="accordion1">Philosophy</label>
 
 <div>
@@ -28,8 +29,7 @@ The learning of English Language and Literature empowers students to express the
 
 </div>
 
-</li>  
-
+</li>
 <li>
 
 <input type="checkbox" id="accordion2">
@@ -57,7 +57,6 @@ We have incorporated teaching questioning techniques such as Socratic Questionin
 </div>
 
 </li>
-
 <li>
 
 <input type="checkbox" id="accordion3">
@@ -67,10 +66,6 @@ We have incorporated teaching questioning techniques such as Socratic Questionin
 <div>
 
 <p>
-<b>Level 2 English Enrichment Programme</b><br><br>
-
-  
-
 The Lower Secondary English Enrichment Programme stimulates creativity in students with an aptitude for speaking and writing. Selection is based on their performance in the English Language and Literature at Level 1, in terms of academic performance and enthusiasm for these subjects. In the programme, they have the opportunity to develop their creative writing skills and build a writing portfolio with the help of teacher-mentors. The students are given avenues to stretch their potential through the art of storytelling. Furthermore, students are given priority during selection for ad-hoc writing competitions, attendance at writing festivals, plays, etc.<br><br>
 
   
@@ -135,7 +130,6 @@ For the final leg of their four-year Research Education journey, students are ab
 • <b>The Writer's Ink.</b>	A creative writing module, this elective honed the writing abilities of students and developed their ability to give an effective critique of one another’s writing. By the end of the elective, the students wrote a full-length short story.	<br><br>
 	
 <b>The Science of Language.</b>	Studying the structure of languages through a scientific lens enabled students to break out of the traditional perception of grammar as a strictly imposed set of rules. They ‘discovered’ the grammar of a language of their choice or attempted to solve a puzzling language-specific phenomenon by formulating and testing hypotheses, as well as evaluating one and another’s conclusions.
-	
 </p>
 
 </div>
