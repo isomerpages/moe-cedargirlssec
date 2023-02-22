@@ -2,6 +2,7 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
+      - The Nexus/Our Partners And External Organisations.md
       - The Nexus/Social Innovation Awards.md
       - The Nexus/News.md
       - The Nexus/.keep
