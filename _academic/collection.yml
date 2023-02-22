@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Talent Development/Regional Studies Programme.md
       - Talent Development/Sciences.md
       - Talent Development/Social Innovation.md
       - Talent Development/.keep
