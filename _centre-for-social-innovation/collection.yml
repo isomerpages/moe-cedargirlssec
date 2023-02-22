@@ -1,4 +1,5 @@
 collections:
   centre-for-social-innovation:
     output: true
-    order: []
+    order:
+      - Connect.md
