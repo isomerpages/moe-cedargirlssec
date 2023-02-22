@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Parent Support Group/Parents' Resources.md
       - Parent Support Group/.keep
