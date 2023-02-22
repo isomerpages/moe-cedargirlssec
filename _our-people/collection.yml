@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Principal/Principal's Welcome.md
       - Principal/Former Principals.md
       - Principal/.keep
       - School Executive Committee.md
