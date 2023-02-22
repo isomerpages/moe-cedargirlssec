@@ -2,4 +2,5 @@ collections:
   academic:
     output: true
     order:
+      - Talent Development/.keep
       - Overseas Immersion Programme.md
