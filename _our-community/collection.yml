@@ -2,5 +2,6 @@ collections:
   our-community:
     output: true
     order:
+      - Parent Support Group/Newsletters.md
       - Parent Support Group/Parents' Resources.md
       - Parent Support Group/.keep
