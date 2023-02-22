@@ -2,5 +2,6 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
+      - Capacity Building/Staff Capacity Building.md
       - Capacity Building/.keep
       - Connect.md
