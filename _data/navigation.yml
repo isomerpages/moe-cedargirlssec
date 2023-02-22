@@ -4,6 +4,12 @@ links:
     url: https://moe-cedargirlssec-staging.netlify.app/our-cedar/overview/
     sublinks:
       - title: Our Identity
-        url: /our-identity
-      - title: Submenu Title
-        url: /permalink
+        url: /our-cedar/our-identity/vision-mission-values/
+      - title: Our History
+        url: /our-cedar/our-history/
+      - title: Yearbook
+        url: /our-cedar/yearbook/
+      - title: Prospectus
+        url: /our-cedar/prospectus/
+      - title: Cedar65
+        url: https://sites.google.com/moe.edu.sg/cedar65
