@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Academic/humanities images.md
       - Academic/.keep
       - Academic/Integrated Programme.md
       - Academic/Instructional Programme.md
