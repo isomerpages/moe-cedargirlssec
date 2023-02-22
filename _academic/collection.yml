@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - CCE/Student Well–being.md
       - CCE/.keep
       - Talent Development/Overview.md
       - Talent Development/Humanities Special Programme (HSP).md
