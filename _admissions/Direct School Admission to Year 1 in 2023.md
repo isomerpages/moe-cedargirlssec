@@ -96,3 +96,27 @@ Shortlisted applicants will be required to submit the following documents.&nbsp;
 | 4 | Interviews at Cedar Girls’ Sec School | 25 Jul – 5 Aug |
 |  5 | Notification of outcome via email  | 12 Sep  |
 |  |  |  |
+
+**Social Innovation Category**
+
+| S/N | Activity | Period |
+|---|---|---|
+| 1 | Online Application @ MOE DSA-Sec Portal | 5 May, 11am – 1 Jun, 3pm |
+| 2 | Notification of Performance Task and Interview schedule via email<br><br>Both the task and interview will be conducted in a single session. | 15 Jul  |
+| 3 | Performance Tasks and Interview at Cedar Girls’ Sec School  | 20 Jul – 29 Jul |
+| 4 |  Notification of outcome via email  | 12 Sep  |
+| 5 | Notification of outcome via email  | 12 Sep  |
+|  |  |  |
+
+**Important Points to Note**<br>
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s profile, and the programmes available to develop the area of talent.
+
+Successful applicants will be admitted if they accept the DSA offer and qualify for the Express Course after the release of the PSLE results. Please take note that once applicants have exercised the Confirmed Offer or Wait List, they are not allowed to participate in the Secondary One Posting Exercise. They are also not allowed to transfer to another school after the release of the PSLE results.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the O-Level track or 6 years for the Integrated Programme), and participate in the activities related to the talent they are selected for from Year 1-4.
+
+  
+
+**Clarification**
+
+If you have any&nbsp;queries, please email&nbsp;[cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)&nbsp;or call us at 6288 4909, between 8.00am to 4.00pm, Monday to Friday, except for public holidays.
