@@ -240,3 +240,208 @@ Watch their video here!! : [https://drive.google.com/open?id=0B\_7KiPanS\_GdTmZ
 <img src="/images/osip33.png" style="width:60%">
 <img src="/images/osip34.png" style="width:60%">
 <img src="/images/osip35.png" style="width:60%">
+
+**CSI - Connecting Communities on 25 May!**
+
+  
+**How did your class conduct the activity?**  <br>
+For some activities, such as The 3 Booths in the K2 class, we conducted them by separating the children into smaller groups, in order to make it easier to give them instructions and make it easier to manage them. Also, we made use of colourful pictures and props in order to capture their attention. There were also several hands-on activities to make them more interesting, and to allow the children to be better engaged in them. For those activities that were not hands-on, such as the storytelling, they were instead made to be interactive, with questions posed toward the children.  
+  
+**What are the responses from the organisation/community that your class is serving?**  <br>
+The organisation was very welcoming, and the responses from the children were all very warm. They truly enjoyed the activities, and showed great understanding in the lessons taught through the activities conducted. When asked to share their learnings for the day, they all demonstrated environmental awareness as they pointed out how they should not litter, and how dirtying the environment would bring about several unwanted impacts.  
+  
+**How does your class feel about the outcome of their project?**  <br>
+We feel really happy being able to interact with the children and to be able to personally teach them more about the environment. However, we did feel that we could have been better prepared in order to make our project more effective. We could have prepared more activities as the activities we conducted proceeded faster than we expected, and it resulted in several pauses in between activities as we thought about what we could do. Thankfully, we were able to overcome this difficulty by giving them impromptu activities like drawing and colouring.  
+  
+**What have the class learnt, collectively?**  <br>
+As a class, we have gained many valuable skills, some of which includes organising such events, and effectively communicating with the children. We also feel that this project is really a meaningful one, and it gives us a sense of fulfilment, as we turn away from our studies and are able to contribute back to society. Therefore, we have learnt how to better appreciate such activities, and we have also learnt how placing lesser focus on our academics at certain times to do such meaningful events can actually be very rewarding.
+
+<img src="/images/osip36.png" style="width:60%">
+
+**Idea and Innovation from 4P!**
+
+ **What activity has your class planned?**As the organisation has allowed us to plan our own schedules for the different classes, our class has planned 3 timetables for the 3 classes, with all of them including a 20 minute snack break for the children.    
+  
+
+**Programme for Nursery**
+
+  
+**8.45: Start of programme**  <br>
+Start of skit regarding Responsible Roy and Stubborn Stacy.  
+  
+_Resources/Remarks:  <br>
+Skit is centered around Stubborn Stacy and Responsible Roy conversing with their grandparents, where the grandparents shed light on air pollution that contemporary modes of modes of transport cause._  
+  
+**8.45-10.00:**   <br>
+Carrying out of skit and evaluation of skit, where we explain to them why we should care about the environment.  
+  
+**10.00-11.00:**   <br>
+Carry out handicraft session, where students make modes of transport, such as cars and buses, out of recycled materials.  
+  
+**11:00-11.15:**   <br>
+Debrief and closure.
+
+**Programme for K1 - Outdoor Learning Journey around the Neighbourhood**
+
+  
+**8.40-9.00:**  <br>
+Start of programme.  
+Briefing the kids about the LJ.  
+Prepare the kids for outdoor LJ.  
+Objectives: (to be confirmed)  
+  
+**9.00-10.30:**  <br>
+Start of skit regarding Responsible Roy and Stubborn Stacy.  
+It will be done during LJ in musical form.  
+
+**10.30-11:15**  <br>
+teach them to clean up after themselves, keeping the community clean walk back  
+  
+**11.00-11.15:**  <br>
+Debrief and closure.
+
+**Programme for K2**
+
+  
+**8.40 - 8.50:**  
+Start of programme.  
+Introduction + brief introduction to environmental awareness (Questions will be asked)  
+  
+**8.50 - 9.00:**  
+Briefing on ‘The 3 Booths’  
+  
+**9.00 - 9.30:**  
+The 3 Booths  
+21 students split into 3 groups, 2 classmates per group, the rest will help out with 3 booths.  
+  
+There will be one booth at one group at a time. Each booth will have to stamp the card after the task is completed. Collect all 3 stamps and meet us at the (assembly place - certain corner in class). Fastest feet wins!  
+  
+Booths:  
+
+1.  Learn a cheer and the louder the better. Only stamp when you’re satisfied and they’ve learnt it well. Cheer below the table.  
+    
+2.  Children will be given pictures of rubbish and they will sort into recyclables and non and into ‘bins’ of different colours. Sort it correctly and they get a stamp  
+    
+3.  Question and answer. You have to answer all 3 questions right to be able to get a stamp  
+    
+
+  
+Resources/Remarks  
+\- A cheer  
+\- Printed pictures of rubbish and ‘bins’  
+\- List of Q & As  
+\- Prizes eg sweets  
+\- Paper, stamps, or we can use our signature as stamps.  
+  
+**9.50 - 10.20**  
+Start of skit regarding Responsible Roy and Stubborn Stacy.  
+  
+Resources/Remarks:  
+Costumes:  
+\- Recycled cape  
+\- Cute hair band  
+\- White coat  
+\- Fake doctor thing  
+\- Labels for different characters  
+\- Dog leash (Lanyard worn backwards)  
+\- Dog ears  
+\- Cap  
+  
+Props:  
+\- Rubbish (Rubbish collected from previous activities/Pieces of paper)  
+  
+**10.20 -10.35**  
+Making of Shakers  
+1) Give out materials (10.15am)  
+2) Short briefing (10.20am)  
+
+*   Tell them to listen closely to the instructions  
+    
+
+3) Step-by-step demonstration and students follow (10.25am)  
+
+*   Place the green beans in the bottles ¼ full  
+    
+*   Cover the opening of the bottle with the paper  
+    
+*   Tape it over using the scotch tape  
+    
+
+4) Pick up dropped beans  
+(10.35am)  
+  
+\*Things to take note: Make sure they do not eat the green beans  
+  
+Resources/Remarks  
+\- Vitagen bottles  
+\- Green beans  
+\- Small cut-out papers  
+\- Scotch tape  
+  
+**10.35 - 11.00**  
+Song Singing  
+1) Teach songs to children (tune+ lyrics) (10.38am)  
+     - Main Song we are learning is ‘Singapore town’  
+2) Teach them hand actions (10.45)  
+3) Performance (10.58 am)  
+  
+Resources/Remarks  
+\- Shaker from previous activity  
+\- Writing of lyrics on big sheet of paper  
+  
+**11.00 - 11.15**  
+Debrief and closure.  
+  
+How does this benefit the organisation/community that your class is serving?  
+We made sure to include their activities that can satisfy their needs, and tried to tailor them according to the given themes for each class. For example, as mentioned earlier, the theme for the K2 class would be ‘Singapore - My Discovery of the World’, and thus, we incorporated a song-singing activity, and chose the song to be ‘Singapore Town’. As such, we can both teach the children about Singapore, and about loving the environment. When the students learn how to love the environment, they will then also be able to take more ownership and do their part in protecting the environment. This has a long term benefit for the community, as these students will eventually be the ones who lead Singapore, and it is important for us to have people who love the country as leaders of our country.  
+  
+What preparation needs to be done?  
+In order to ensure that the activities planned run smoothly, we will need to ensure that all materials needed are prepared before we visit the childcare centre. Also, we will need to rehearse our skit to make sure that we can keep the children entertained. More visitations to childcare centre may also need to be made, in order for us to be able
+
+Kolam Ayer PAP Education Centre
+
+<img src="/images/osip37.png" style="width:60%">
+<img src="/images/osip38.png" style="width:60%">
+
+_Picture of the childcare centre_
+
+  
+Our class 4 P, will be helping out at a childcare centre, Kolam Ayer PAP Education Centre. There are a total of 3 classes; the nursery, kindergarten 1 (K1) and kindergarten 2 (K2) classes.
+
+<img src="/images/osip39.png" style="width:60%">
+<img src="/images/osip40.png" style="width:60%">
+_Pictures of the interior of a regular classroom at the centre_
+
+**1\) For the concept of 'Protecting out Environment' to be introduced to the children:**
+
+<img src="/images/osip41.png" style="width:60%">
+<img src="/images/osip42.png" style="width:60%">
+_Picture of the books used_
+
+Our class feels that it can be difficult to introduce recycling to children, especially so at such a young age. Therefore, we want to help the child-care centre to do so, using the books "Responsible Roy" and "Stubborn Stacy". We hope to help the children grasp the importance of protecting our environment through little things we may do in our daily life an we want to be able to engage the children so that they will enjoy the process of learning this important concept.
+
+**2\) For our activities to correspond to their given themes:**
+
+<img src="/images/osip43.png" style="width:60%">
+<img src="/images/osip44.png" style="width:60%">
+<img src="/images/osip45.png" style="width:60%">
+_Places that surround the childcare centre_
+
+When organising our activities, the childcare centre has stated that they wish for us to do so also with themes that differ according to the classes. This is also as they themselves have different learning objectives that they have to fulfil with each class. For the nursery, the theme would be 'Transportation', while for the K1 class, it would be "Places in my Community'. For the K2 class, it should have activities relating to the theme of 'Singapore - My Discovery of the World'.
+
+<img src="/images/osip46.png" style="width:60%">
+_Nearby community garden where learning journeys can be held_
+
+**3\) For our activities to help the children exercise a wide-range of skills:**
+
+<img src="/images/osip47.png" style="width:60%">
+_Wide range of activities in the childcare centr_e
+
+  
+The centre has also given us a list of skills that can be developed through the activities we have organised. The skills to be covered would be: language and literacy, numeracy, motor skills, social abilities, discovering of the world and artistic capabilities.
+
+<img src="/images/osip48.png" style="width:60%">
+_Books to improve language_
+
+<img src="/images/osip49.png" style="width:60%">
+_Arts and Craft done by the children_
