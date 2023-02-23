@@ -8,12 +8,14 @@ description: ""
 <li>
 
 <input type="checkbox" id="accordion1">
- 
-<label for="accordion1">Simple</label>
+
+<label for="accordion1">Multi-line Block</label>
 
 <div>
 
-<p>This is a simple one line item</p>
+<p>
+text
+</p>
 
 </div>
 
@@ -39,13 +41,12 @@ text
 
 <input type="checkbox" id="accordion3">
 
-<label for="accordion3">Multi-line Folded</label>
+<label for="accordion3">Multi-line Block</label>
 
 <div>
 
 <p>
-
-	text
+text
 </p>
 
 </div>
