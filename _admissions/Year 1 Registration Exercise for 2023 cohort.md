@@ -41,13 +41,13 @@ Please note that only students whose PSLE score meets the school’s cut-off poi
 
 | S/N | Item | Link / Documents | Action by |
 |:---:|:---:|:---:|---|
-| 1 | Purchase of Textbooks and Uniforms |  For purchase in school, book an appointment, via register.ezy-queue.com from 21 Dec, 8:00am - 22 Dec 3:00pm.<br>2023 Secondary 1 O-Level booklist.pdf<br><br>2023 Secondary 1 Integrated Prog booklist.pdf<br><br>2023 Uniform Purchase Instructions.pdf | All Parents |
-| 2 | Parental Consent for HPB Vaccination, School-based Health Screening and Dental Service<br>Deadline: 6 Jan 2023 | Online Child Consent Portal<br>  | All Parents |
-| 3 | Appeal to offer MSP/CSP | Late application Appeal to offer MSP CSP updated.pdf | For students who wish to offer MSP/CSP |
-| 4 | Daily School Bus Service | 2023 Daily School Bus Service Cover Letter.pdf  | For students who need the bus service |
-| 5 | Application for Car-Decal <br>  | Application for car decal 2023<br>(only can be accessed from 28 Dec to 9 Jan) | For parents who drive children to school |
-| 6 | Financial Assistance Schemes | 2023 FAS Flyer.pdf<br>2023 CGSS FAS Information.pdf<br><br>2023 MOE FAS Application Form.pdf | For students who need assistance |
-| 7 | School Fees Structure<br>  | 2023 CGSS School Fees Structure-9Dec.pdf | For Information |
-| 8 | Group Personal Accident Insurance Plan | https://studentgpa.incomegroupins.com.sg/#/  | For Information |
-| 9 | CCA Information | Y1 CCA Infokit 2023.pdf | For Information |
-| 10 | Application to join Parent Support Group | Cedar PSG Y1 Leaflet 2023.pdf | Parents are strongly encouraged to join PSG |
+| 1 | Purchase of Textbooks and Uniforms |  For purchase in school, book an appointment, via register.ezy-queue.com from 21 Dec, 8:00am - 22 Dec 3:00pm.<br>[2023 Secondary 1 O-Level booklist.pdf](/files/spam1.pdf)<br><br>[2023 Secondary 1 Integrated Prog booklist.pdf](/files/spam2.pdf)<br><br>[2023 Uniform Purchase Instructions.pdf](/files/spam3.pdf) | All Parents |
+| 2 | Parental Consent for HPB Vaccination, School-based Health Screening and Dental Service<br>Deadline: 6 Jan 2023 | [Online Child Consent Portal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal)<br>  | All Parents |
+| 3 | Appeal to offer MSP/CSP | [Late application Appeal to offer MSP CSP updated.pdf](/files/spam4.pdf) | For students who wish to offer MSP/CSP |
+| 4 | Daily School Bus Service | [2023 Daily School Bus Service Cover Letter.pdf](/files/spam5.pdf)  | For students who need the bus service |
+| 5 | Application for Car-Decal <br>  | [Application for car decal 2023](https://form.gov.sg/638eb240eb0b70001248bd31)<br>(only can be accessed from 28 Dec to 9 Jan) | For parents who drive children to school |
+| 6 | Financial Assistance Schemes | [2023 FAS Flyer.pdf](/files/spam6.pdf)<br>[2023 CGSS FAS Information.pdf](/files/spam7.pdf)<br><br>[2023 MOE FAS Application Form.pdf](/files/spam8.pdf) | For students who need assistance |
+| 7 | School Fees Structure<br>  | [2023 CGSS School Fees Structure-9Dec.pdf](/files/spam9.pdf) | For Information |
+| 8 | Group Personal Accident Insurance Plan |[https://studentgpa.incomegroupins.com.sg/#/](https://studentgpa.incomegroupins.com.sg/#/)| For Information |
+| 9 | CCA Information | [Y1 CCA Infokit 2023.pdf](/files/spam10.pdf) | For Information |
+| 10 | Application to join Parent Support Group | [Cedar PSG Y1 Leaflet 2023.pdf](/files/spam11.pdf) | Parents are strongly encouraged to join PSG |
