@@ -11,7 +11,7 @@ Congratulations on your posting to Cedar Girls’ Secondary School. This is a ne
 
 **(A) e-Registration** **– Compulsory for all posted students (including students posted via DSA)**
 
-Students do not need to report to school physically on e-Registration day**.** You are required to complete the **online registration on 21 Dec to 22 Dec latest by 4:00 pm.** 
+Students do not need to report to school physically on e-Registration day. You are required to complete the **online registration on 21 Dec to 22 Dec latest by 4:00 pm.** 
 
 Please complete all the fields.
 
