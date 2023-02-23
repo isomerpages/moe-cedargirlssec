@@ -399,21 +399,20 @@ Kolam Ayer PAP Education Centre
 
 <img src="/images/osip37.png" style="width:60%">
 <img src="/images/osip38.png" style="width:60%">
-
-_Picture of the childcare centre_
+<center><i>Picture of the childcare centre</i></center>
 
   
 Our class 4 P, will be helping out at a childcare centre, Kolam Ayer PAP Education Centre. There are a total of 3 classes; the nursery, kindergarten 1 (K1) and kindergarten 2 (K2) classes.
 
 <img src="/images/osip39.png" style="width:60%">
 <img src="/images/osip40.png" style="width:60%">
-_Pictures of the interior of a regular classroom at the centre_
+<center><i>Pictures of the interior of a regular classroom at the centre</i></center>
 
 **1\) For the concept of 'Protecting out Environment' to be introduced to the children:**
 
 <img src="/images/osip41.png" style="width:60%">
 <img src="/images/osip42.png" style="width:60%">
-_Picture of the books used_
+<center><i>Picture of the books used</i></center>
 
 Our class feels that it can be difficult to introduce recycling to children, especially so at such a young age. Therefore, we want to help the child-care centre to do so, using the books "Responsible Roy" and "Stubborn Stacy". We hope to help the children grasp the importance of protecting our environment through little things we may do in our daily life an we want to be able to engage the children so that they will enjoy the process of learning this important concept.
 
@@ -422,23 +421,23 @@ Our class feels that it can be difficult to introduce recycling to children, esp
 <img src="/images/osip43.png" style="width:60%">
 <img src="/images/osip44.png" style="width:60%">
 <img src="/images/osip45.png" style="width:60%">
-_Places that surround the childcare centre_
+<center><i>Places that surround the childcare centre_
 
 When organising our activities, the childcare centre has stated that they wish for us to do so also with themes that differ according to the classes. This is also as they themselves have different learning objectives that they have to fulfil with each class. For the nursery, the theme would be 'Transportation', while for the K1 class, it would be "Places in my Community'. For the K2 class, it should have activities relating to the theme of 'Singapore - My Discovery of the World'.
 
 <img src="/images/osip46.png" style="width:60%">
-_Nearby community garden where learning journeys can be held_
+<center><i>Nearby community garden where learning journeys can be held</i></center>
 
-**3\) For our activities to help the children exercise a wide-range of skills:**
+<b>3\) For our activities to help the children exercise a wide-range of skills:</b>
 
 <img src="/images/osip47.png" style="width:60%">
-_Wide range of activities in the childcare centre_
+<center><i>Wide range of activities in the childcare centre</i></center>
 
   
 The centre has also given us a list of skills that can be developed through the activities we have organised. The skills to be covered would be: language and literacy, numeracy, motor skills, social abilities, discovering of the world and artistic capabilities.
 
 <img src="/images/osip48.png" style="width:60%">
-_Books to improve language_
+<center><i>Books to improve language</i></center>
 
 <img src="/images/osip49.png" style="width:60%">
-_Arts and Craft done by the children_
+<center><i>Arts and Craft done by the children</i></center>
