@@ -19,7 +19,8 @@ third_nav_title: Academic
 <div>
 
 <p>
-The Cedar Humanities Department aims to nurture in our Cedarians a passion for the Humanities. We see the importance in developing and equipping Cedarians with the skills and dispositions of a Geographer and a Historian, which we believe are essential in the development of important life skills like collaboration, critical thinking and communication.</p>
+The Cedar Humanities Department aims to nurture in our Cedarians a passion for the Humanities. We see the importance in developing and equipping Cedarians with the skills and dispositions of a Geographer and a Historian, which we believe are essential in the development of important life skills like collaboration, critical thinking and communication.
+</p>
 
 </div>
 
