@@ -27,11 +27,11 @@ To sign up as Cedar Connect member, scroll below  <br><br>
 1. To encourage a life-long relationship between the Cedarian Alumni and Cedar Girls' Secondary School by:  <br><br>  
   
 
-*   Offering whatever assistance that may be required in the School's pursuit of excellence  <br><br>  
+•  Offering whatever assistance that may be required in the School's pursuit of excellence  <br><br>  
     
-*   Acting as a liaison centre between alumni members and present students and teachers of the School in order that the latter may benefit from the advice, experience, guidance and assistance of the members.  <br><br>  
+•  Acting as a liaison centre between alumni members and present students and teachers of the School in order that the latter may benefit from the advice, experience, guidance and assistance of the members.  <br><br>  
     
-*   Preserving a historical account of the School and recording the achievements of its former students, teachers and principals.  <br><br>  
+•  Preserving a historical account of the School and recording the achievements of its former students, teachers and principals.  <br><br>  
     
 
   
@@ -40,13 +40,13 @@ To sign up as Cedar Connect member, scroll below  <br><br>
 
   
 
-*   Promoting friendship, cooperation, goodwill and solidarity among alumni members through social, cultural, educational and recreational activities.  <br><br>  
+•  Promoting friendship, cooperation, goodwill and solidarity among alumni members through social, cultural, educational and recreational activities.  <br><br>  
     
-*   Extending the influence of the old students, teachers and others formerly associated with the School for the benefit of all.  <br><br>  
+•  Extending the influence of the old students, teachers and others formerly associated with the School for the benefit of all.  <br><br>  
     
-*   Providing a platform for bonding and networking among members.  <br><br>  
+•  Providing a platform for bonding and networking among members.  <br><br>  
     
-*   Fostering among members a spirit of pride, loyalty and love for the Alma Mater. <br><br>   
+•  Fostering among members a spirit of pride, loyalty and love for the Alma Mater. <br><br>   
     
 
   
@@ -67,7 +67,20 @@ To sign up as Cedar Connect member, scroll below  <br><br>
 <div>
 
 <p>
-text
+
+To contact the exco, please write to alumnicedar@yahoo.com.sg <br><br>
+
+  
+
+Facebook site links<br>
+www.facebook.com/cedarconnect.cedar<br>
+www.facebook.com/cedargirls<br><br>
+
+  
+
+Membership is free<br><br>
+
+To register yourself as a cedar connect member click here	
 </p>
 
 </div>
@@ -83,7 +96,12 @@ text
 <div>
 
 <p>
-text
+Mrs Har Ying Ying- Vice Principal - (lim_ying_ying@moe.edu.sg)  
+  
+
+•  <a href="http://cedarianalumni.blogspot.com/">Alumni website</a><br>
+•  <a href="http://cedarconnect.blogspot.com/">Cedar Connect </a><br>
+•   Our Success Stories
 </p>
 
 </div>
