@@ -66,12 +66,9 @@ Prototypes: [Exercise video](https://drive.google.com/file/d/1WJlJ9-EDBL11lM_F_U
 
 Prototypes:
 
-Activity 1: [Dance therapy](https://drive.google.com/file/d/15EoKiY2hLjB4T3BGLlfytU6ld9fdMvsW/view?usp=sharing)
-
-Activity 2: [Exercise](https://drive.google.com/file/d/1sZyJ5lYVuR-N-e4jlFyAdhJjpvvFuJMo/view?usp=sharing)
-
-Activity 3: [Colouring](https://drive.google.com/file/d/1JUo_PQzY58wImOKOyrvQJn1uwEutMjUV/view?usp=sharing), [Video](https://drive.google.com/file/d/1Ppht2W1nhUev85EZPomfVedaHF9VA5mq/view?usp=sharing)
-
+Activity 1: [Dance therapy](https://drive.google.com/file/d/15EoKiY2hLjB4T3BGLlfytU6ld9fdMvsW/view?usp=sharing)<br>
+Activity 2: [Exercise](https://drive.google.com/file/d/1sZyJ5lYVuR-N-e4jlFyAdhJjpvvFuJMo/view?usp=sharing)<br>
+Activity 3: [Colouring](https://drive.google.com/file/d/1JUo_PQzY58wImOKOyrvQJn1uwEutMjUV/view?usp=sharing), [Video](https://drive.google.com/file/d/1Ppht2W1nhUev85EZPomfVedaHF9VA5mq/view?usp=sharing)<br>
 Activity 4: [Origami](https://drive.google.com/file/d/15MO_OPfdrmnlimGAhyKayLjzaBvIA7Fg/view?usp=sharing)
 
 Activity 5: [Video(Android)](https://drive.google.com/file/d/1uOPMajIPYA7zrzp4pOuPVUY4dkPF39fc/view?usp=sharing), [Video(iPhone)](https://drive.google.com/file/d/1EhZqLaPQ_Y8WY6QYHZJiSiZMLPiRltmR/view?usp=sharing)
@@ -435,7 +432,7 @@ _Nearby community garden where learning journeys can be held_
 **3\) For our activities to help the children exercise a wide-range of skills:**
 
 <img src="/images/osip47.png" style="width:60%">
-_Wide range of activities in the childcare centr_e
+_Wide range of activities in the childcare centre_
 
   
 The centre has also given us a list of skills that can be developed through the activities we have organised. The skills to be covered would be: language and literacy, numeracy, motor skills, social abilities, discovering of the world and artistic capabilities.
