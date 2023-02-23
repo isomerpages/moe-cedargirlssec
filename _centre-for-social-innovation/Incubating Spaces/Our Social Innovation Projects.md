@@ -44,10 +44,10 @@ Our project is a three legged race Relay race. There will be 4 stations (with 10
 
 <img src="/images/osip2.png" style="width:30%">
 
-<iframe width="440" height="327" src="https://www.youtube.com/embed/Fh1q6AIW-KY" title="Year 2  - Tech for good Enlivening public spaces" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="440" height="327" src="https://www.youtube.com/embed/Fh1q6AIW-KY" title="Year 2  - Tech for good Enlivening public spaces" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
 
-**Tech for good: Enlivening public spaces**<br>
-2020, Sec 2I, Group 3: Mehak, Wanni, Gwyneth, Ashley, Thanmayi, Jechaele
+<b>Tech for good: Enlivening public spaces</b><br>
+2020, Sec 2I, Group 3: Mehak, Wanni, Gwyneth, Ashley, Thanmayi, Jechaele</center>
 
 <img src="/images/osip3.png" style="width:30%">
 
