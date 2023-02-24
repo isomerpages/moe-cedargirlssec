@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ### Track and Field
 
-<img src="/images/sports5.png" style="width:60%">
+<img src="/images/sports6.png" style="width:60%">
 
 **ABOUT**  
 Track and Field is a niche CCA of Cedar Girls’ Secondary School. Since 1968, we have clinched  more than 40 B and C Division championships in the National Inter-School Track and Field Championships. Today, there are close to 100 members in the team. Our CCA comprises of several events such as cross-country, sprints, jumps, throws, long-distance, pole vault and race walk. The training sessions are held 3 times a week, with sessions running throughout the year, including during part of the school holidays. Through these rigorous training sessions, our athletes have achieved huge success in competitions like the SAA Series and the National Schools Track and Field Meet. Some of our athletes even represented the nation in overseas competitions such as ASEAN Schools Games and LAWA (Little Athletics Western Australia).   
@@ -20,7 +20,7 @@ Ms Marianne John
 Mr Xing Han  
   
 **CCA SCHEDULE**<br> 
-Monday, Wednesday and Friday (For Track events and Throws)<br>    
+Monday, Wednesday and Friday (For Track events and Throws)<br>
 3.45pm - 6.00pm  
   
 
