@@ -3,7 +3,7 @@ title: Connect
 permalink: /centre-for-social-innovation/connect/
 description: ""
 ---
-
+### Contact Us
 
 **Address:**&nbsp;<br>
 1 Cedar Avenue,<br>
