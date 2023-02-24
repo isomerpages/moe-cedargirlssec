@@ -96,7 +96,17 @@ text
 <div>
 
 <p>
-text
+
+<img src="/images/oj6.png" style="width:60%">		
+IP3 students and staff from Cedar and VS together with the faculty from SUTD.<br><br>
+	
+• Partnership with Lee Kuan Yew Centre for Innovative Cities, SUTD for IP3 Imagineering Programme.<br>
+	
+• Three teams of Cedarians were selected to compete in Destination Imagination Singapore in the Social Innovation category. One team emerged as champions in the category, and advanced to the Destination Imagination Global finals at the University of Tennessee, USA.	<br>
+	
+• Student leadership boards and co-curricular activities used Design Thinking to solve issues in school.<br>
+	
+• VCA Design Thinking Academy (DTA) conducted Design Thinking workshops for Singapore teachers under the auspices of Association for Supervision and Curriculum Development, Singapore (ASCD Singapore).	
 </p>
 
 </div>
