@@ -112,7 +112,15 @@ text
 <div>
 
 <p>
-text
+<img src="/images/oj4.png" style="width:60%">	
+IP4 students present their social innovation project to a representative from Changi Simei Constituency Office. <br><br>
+
+• Social Innovation Fair was launched for existing partners in collaboration with Victoria School.
+	
+<img src="/images/oj5.png" style="width:60%">		
+Students create prototypes of their project solutions using skills learned in SUTD.<br><br>
+	
+• Partnership with SUTD, Land Transport Authority (LTA) and National Library Board (NLB) for the IP3 Imagineering Programme.	
 </p>
 
 </div>
@@ -128,7 +136,13 @@ text
 <div>
 
 <p>
-text
+<img src="/images/oj3.png" style="width:60%">	
+Students sharing solutions brought about by Design Thinking in Integrated Project Work. <br> <br>
+	
+• Imagineering Programme was offered to IP2 and IP3 students. <br>
+•  Design Thinking was introduced to Integrated Project Work for Sec 1 and 2 students. <br>
+•  Collaboration with SUTD partnering four Voluntary Welfare Organisations (Tung Ling Elder Care, St Hildas Elder Care, Brahm Centre and Changi Simei Constituency).	
+	
 </p>
 
 </div>
@@ -144,7 +158,12 @@ text
 <div>
 
 <p>
-text
+• Teachers attended workshops at Stanford d.school and Henry Ford Learning Institute on Design Thinking. <br>
+• All staff in Cedar Girls’ Secondary School were trained in Design Thinking.<br>
+<img src="/images/oj2.png" style="width:80%">
+IP1 students in actions.	<br><br>
+• Imagineering Programme was launched for the first batch of IP1 students.<br>
+•Pilot collaboration with Singapore University of Technology and Design (SUTD) with VCA schools on Design Thinking projects.
 </p>
 
 </div>
@@ -160,7 +179,11 @@ text
 <div>
 
 <p>
-text
+<img src="/images/oj1.png" style="width:60%">
+	
+VCA Design Thinking Committee bonding over coffee.<br><br>
+	
+• Victoria Cedar Alliance (VCA) Design Thinking Committee was set up.	
 </p>
 
 </div>
