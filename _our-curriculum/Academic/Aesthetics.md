@@ -95,20 +95,5 @@ The Arts and Performing Arts Curriculum is tailored to provide opportunities for
 
 </li>	
  
-<li>
 
-<input type="checkbox" id="accordion6">
-
-<label for="accordion6">Multi-line Folded</label>
-
-<div>
-
-<p>
-
-	text
-</p>
-
-</div>
-
-</li>	
 </ul>
