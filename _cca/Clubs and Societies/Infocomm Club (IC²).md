@@ -21,6 +21,8 @@ As part of the nation's effort to build a digital hub that is globally competiti
 Ms Yeo Bi Xia<br>
 Ms Mumtas Begam Haja Muhudin 
 
+**CCA Achievements:**
+
 | Yr 2022 | Name of Competition | Students |
 |---|---|---|
 | 1 | LockheedMartin CodeQuest | Ananthita Yathukulan<br>Lee Yu Shuen Treena |
@@ -29,4 +31,3 @@ Ms Mumtas Begam Haja Muhudin 
 | 4 | Swift Accelerator Programme<br>(Team App published on Apple App) | Janine Yeoh<br> Lee Yu Shuen Treena |
   
 
-**CCA Achievements:**
