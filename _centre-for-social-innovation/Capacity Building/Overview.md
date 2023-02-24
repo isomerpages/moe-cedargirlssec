@@ -10,4 +10,4 @@ third_nav_title: Capacity Building
 
 A talent development programme has been established in 2019 for the students to deepen their passion and advocacy to drive innovation for social causes in a bigger way.
 
-<img src="/images/capacity.png" style="width:80%">
+<img src="/images/capacity.png" style="width:60%">
