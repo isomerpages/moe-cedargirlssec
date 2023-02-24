@@ -19,3 +19,9 @@ The following table shows some of the leadership opportunities we cater to stude
 | **Student Leadership Boards**<br><br>• Prefect Councillors<br>• Peer Support Leaders<br>• Monitresses<br>• Sports and Health Leaders | **Co-Curriculum Activities (CCA)**<br><br>• Chairperson and Vice-Chairperson<br>• President and Vice-President<br>• Captain and Vice-Captain<br>• CCA Executive Committee <br>• Member |
 | **Other Leadership Position**<br><br>• Active Citizenry Ambassadors<br>• Class Committee Members<br>• Integrated Project Work Leaders<br>• Social Innovation Project Group Leader<br>• Sports Day Captains<br>• Green Ambassadors<br>• Ad-hoc Event Leaders (e.g.YOG, Cedar65 etc.) |  |
 |  |  |
+
+<img src="/images/sl2.png" style="width:60%">
+
+**Student Heads of the Student Leadership Boards**
+
+<img src="/images/sl3.png" style="width:60%">
