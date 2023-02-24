@@ -4,3 +4,4 @@ permalink: /cca/Clubs-and-Societies/av-and-photography-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<img src="/images/xxx.png" style="width:60%">
