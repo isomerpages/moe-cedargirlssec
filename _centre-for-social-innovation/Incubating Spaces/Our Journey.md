@@ -81,7 +81,26 @@ text
 <div>
 
 <p>
-text
+<img src="/images/oj7.png" style="width:60%">			
+A panoramic view of the Cedar  <br>
+Social Innovation Learning Space.<br><br>
+	
+• Social Innovation Learning Space (SILS) was launched during Speech Day, for students to collaborate and learn about social innovation in different subject disciplines.	<br>
+	
+<img src="/images/oj8.png" style="width:60%">		
+Cedarians collaborate with a Chinese Opera Troupe for Cedar Social Innovation Day 2016.<br><br>
+	
+• Inaugural Cedar Social Innovation Day with the theme of Connecting Communities was launched on 25 May. All students participated in class-level social innovation projects to impact the community.<br>
+	
+<img src="/images/oj9.png" style="width:60%">		
+
+Cedarians interact with the elderly as part of Cedar Social Innovation Day 2016.	<br><br>
+	
+<img src="/images/oj10.png" style="width:60%">		
+Cedarians promote environmental cleanliness at hawker centres as part of Cedar Social Innovation Day 2016.<br><br>
+	
+• Teachers went on a study trip to Denmark and Sweden to glean possibilities on how to further improve our Social Innovation Programme and move towards becoming a Centre for Social Innovation.	
+	
 </p>
 
 </div>
