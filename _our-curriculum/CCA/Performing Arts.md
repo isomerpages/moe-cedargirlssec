@@ -6,5 +6,5 @@ third_nav_title: CCA
 ---
 |  |  |  |
 |---|---|---|
-| <a href="link"><img style="width:95%" src="/images/cca.png"></a> <center>cca</center>  | <a href="link"><img style="width:95%" src="/images/cca.png"></a> <center>cca</center> | <a href="link"><img style="width:95%" src="/images/cca.png"></a> <center>cca</center> |
-| <a href="link"><img style="width:95%" src="/images/cca.png"></a> <center>cca</center> |  |  |
+| <a href="https://moe-cedargirlssec-staging.netlify.app/cca/performing-arts/choir/"><img style="width:95%" src="/images/cca57.png"></a> <center>Choir</center>  | <a href="https://cedargirlssec.moe.edu.sg/our-curriculum/cca/performing-arts"><img style="width:95%" src="/images/cca58.png"></a> <center>Dance Club</center> | <a href="https://moe-cedargirlssec-staging.netlify.app/cca/performing-arts/handbell-ensemble/"><img style="width:95%" src="/images/cca59.png"></a> <center>Handbell Ensemble</center> |
+| <a href="https://moe-cedargirlssec-staging.netlify.app/cca/performing-arts/guzheng-ensemble/"><img style="width:95%" src="/images/cca60.png"></a> <center>Guzheng Ensemble</center> | <a href="https://moe-cedargirlssec-staging.netlify.app/cca/performing-arts/symphonic-band/"><img style="width:95%" src="/images/cca61.png"></a> <center>Symphonic Band</center> |  |
