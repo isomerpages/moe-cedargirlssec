@@ -19,3 +19,6 @@ description: ""
 * * *
 
 ##### [Year 1 registration for 2023 cohort](https://moe-cedargirlssec-staging.netlify.app/admissions/year-1-registration-exercise-2023/)
+* * *
+
+##### [Cedar Open House 2022](https://sites.google.com/moe.edu.sg/cedar-open-house-2022)
