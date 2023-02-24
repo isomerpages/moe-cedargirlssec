@@ -4,4 +4,33 @@ permalink: /cca/Performing-Arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-<img src="/images/xxx.png" style="width:60%">
+### Symphonic Band
+
+<img src="/images/pa4.png" style="width:60%">
+
+**ABOUT**  <br>
+The Cedar Girls’ Secondary School Band was previously a military band that clinched the Best Display Band Award in 1996. In 1997, it became a symphonic band.
+
+  
+
+Under the baton of Ms Sia Swee Suan and Mr Ong Tee Hoe, Cedar Symphonic Band not only strives to achieve higher standards of musical expertise but also to inculcate important values in its members, such as teamwork, discipline and commitment, thus staying true to our motto: ‘Ordinary people, Extraordinary music’.
+
+  
+
+Every Cedar Symphonic Band member strives to be a leader of character with a lifelong appreciation for music. Through regular public performances and joint concerts, band members are encouraged to reach their fullest potential by developing showmanship, solo and ensemble skills.
+
+  
+**TEACHERS-IN-CHARGE**  
+Mr Ng Jian Zhang  
+Ms Goh Cui Ying  
+Mr Lee Lian Siong  
+Ms Guan Xing Hua  
+  
+**CCA SCHEDULE**  <br>
+Monday, Tuesday and alternate Thursdays<br>
+3:30pm - 6:00pm
+
+  
+**ACHIEVEMENTS**<br>
+2021 Singapore Youth Festival (SYF) - Certificate of Accomplishment  <br>
+2019 Singapore Youth Festival (SYF) - Certificate of Distinction
