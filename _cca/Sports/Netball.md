@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ### Netball
 
-<img src="/images/sports3.png" style="width:60%">
+<img src="/images/sports4.png" style="width:60%">
 
 **ABOUT**  
 The Cedar Netball Team strives to nurture in members a passion for the sport and personal growth in terms of character building and technical skills. Guided by strong team spirit, diligence and resilience, Cedar Netballers seek to become the best version of themselves and pursue excellence. Besides national competitions, Cedar Netball further provides opportunities for greater exposure, skills development and team bonding through intra-CCA Internal League, external tournaments and friendly matches.  
