@@ -70,7 +70,9 @@ text
 
 </div>
 
-</li>
+</li>	
+
+<li>
 
 <input type="checkbox" id="accordion5">
 
@@ -85,7 +87,6 @@ text
 </div>
 
 </li>
-
 <li>
 
 <input type="checkbox" id="accordion6">
