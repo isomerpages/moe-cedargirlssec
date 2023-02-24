@@ -4,4 +4,4 @@ permalink: /cca/Clubs-and-Societies/inter-cultural-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
+<img src="/images/xxx.png" style="width:60%">
