@@ -33,7 +33,44 @@ text
 <div>
 
 <p>
-text
+• This year marked the establishment of the school’s Social Innovation Talent Development Programme. Selected students represented Cedar to achieve accolades at national competitions such as Shell NXplorers, the MOE Gifted Education Branch Innovation Programme and Prudential Young Trailblazers 2019. We are also proud to announce that Kok Kit Yan Chavelle (4I) and Thantry Neha Biju (4P) have won the Merit prize for the Tan Kah Kee Young Inventors Award 2019, for their project ‘The Spillcatcher’, a cup designed for individuals with uncontrollable tremors. The mindset and dispositions of a social innovator continue to flourish in each Cedarian through our core programmes, Integrated Project Work, Values-In-Action Projects and the Imagineering Programme. <br><br>
+	
+<iframe width="515" height="386" src="https://www.youtube.com/embed/Lnidlek254Q" title="Our journey  - The Spillcatcher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	<br><br>
+	
+<b>Social Innovation Learning Space</b> <br>
+
+With the help of our SI students in the planning process, our school’s social innovation learning space had a fresh new look.	<br><br>
+<img src="/images/oj20.png" style="width:60%">	<br><br>
+	
+<b>Shell NXplorers Innovation and Cultural Trip to Busan and Seoul</b><br>
+
+The Shell NXplorers Innovation and Cultural Trip to Busan and Seoul took place from 22 November to 1 December 2019. It was an all-expenses-paid study trip for a group of three students from Talent Development - Social Innovation who emerged first runner-up in the Shell NXplorers competition 2019. In this trip,the students learnt about the various kinds of innovation ranging from something as small(yet equally ingenious) as an improved spray bottle,to something as large as an entire industrial system to improve the recycling process.They also learnt about how innovation took place in the past,and how it will likely take place in the future.		<br><br>
+<img src="/images/oj21.png" style="width:60%">	<br>
+<img src="/images/oj22.png" style="width:60%">	<br>	
+<img src="/images/oj23.png" style="width:60%">	<br>	
+Portable Basketball in a Box (IPW) <br><br>
+	
+• The physically-disabled elderly residents of Lee Ah Mooi Old Age Home needed a way to exercise indoors. This group of students devised a portable basketball hoop set which impressed the organisation so much that they requested for the latest version of the prototype to be used in their physiotherapy room. The students also presented their ideas to educators across Singapore in 2018.	<br><br>
+<img src="/images/oj24.png" style="width:60%">	<br>	
+Under the Sea Translation Project (IPW) <br><br>
+	
+• In how many languages can you express your love for the enrivonment? Students collaborated with NEA and LKY Fund for Bilingualism to translate the book ‘Under the Sea’ into Mother Tongue Languages (Mandarin, Malay, and Tamil). They also worked together to create teaching resources that accompanied the book, suitable for pre-school and kindergarten students. The books have been shared at the NEA Clean & Green Carnival.	<br><br>
+	
+<img src="/images/oj25.png" style="width:60%">	<br>		
+The SAFE KNIFE (Y3 GEB IVP) <br><br>
+	
+• Cerebral palsy patients often have difficulty handling kitchen knives. This group of students created an acrylic covered knife held together by magnets, which reduces the likelihood of injury. Their solution was well received by the Cerebral Palsy Alliance of Singapore, and subsequently showcased at the MOE Gifted Education Branch Young Innovator’s Fair and at the SUTD’s Maker’s Faire.	<br><br>
+	
+<img src="/images/oj26.png" style="width:60%">	<br>		
+All-in-one box-of-fun (VIA) <br><br>
+
+• Dyspraxic children have difficulty with body coordination and movement. These students created 5 games that targeted specific psychomotor skills that dyspraxic children have difficulty with. The set of games went through multiple rounds of iteration with occupational therapists from Therapy Alliance, and are currently being adopted by the organisation as learning aids for dysphraxic children.	<br><br>
+	
+<img src="/images/oj27.png" style="width:60%">	<br>		
+PROJECT FORTIS (Citi-YMCA Youth For Causes) <br><br>
+
+• This group of Cedarians from IP4 raised awareness about the importance of inclusivity in society by a fund-raising concert for the Disabled People’s Association. Through the support of the Citi-YMCA Youth for Causes Programme, they galvanised the support from 50 volunteers both from and outside of Cedar and raised $5,600 from the concert.	
+	
 </p>
 
 </div>
