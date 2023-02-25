@@ -4,7 +4,6 @@ permalink: /admissions/Administration-Year-1-to-4/school-attire/
 description: ""
 third_nav_title: Administration   Year 1 to 4
 ---
-
 ### School Attire
 
 **School Attire Vendor**  <br>
@@ -38,6 +37,6 @@ Sunday/Public Holidays - Closed
 
   
 
-**Note:** DSA students are encouraged to buy their uniform earlier, before the year end (by appointment ONLY, via [www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/)**).**
+**Note:** DSA students are encouraged to buy their uniform earlier, before the year end (by appointment ONLY, via [www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/).
 
-Please **[**click**](https://cedargirlssec.moe.edu.sg/qql/slot/u170/2023/Letter%20for%20Parents%202022.pdf)** [**here**](https://cedargirlssec.moe.edu.sg/qql/slot/u170/2021/Uniform%20Letter%20for%20Parents%202021%20-%20CGSS.pdf) for more information.
+Please [click here](/files/Letter%20for%20Parents%202022.pdf) for more information.
