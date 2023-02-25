@@ -65,7 +65,24 @@ text
 <div>
 
 <p>
-text
+<img src="/images/oj11.png" style="width:60%">	
+	
+<b>Launch of Cedar as a Centre for Social Innovation.</b><br><br>
+	
+<img src="/images/oj12.png" style="width:60%">	
+Student participating in the GEB Innovation Programme.	<br><br>
+
+• Cedar participated in the Gifted Education Branch Innovation Programme.	<br><br>
+
+<img src="/images/oj13.png" style="width:60%">	<br><br>
+Launch of Social Innovation Journal.	<br><br>
+
+• Launch of the Social Innovation Journal as a handbook and reflection log for students during their 4 years in Cedar.	<br><br>
+
+<img src="/images/oj14.png" style="width:60%">	<br><br>	
+
+• Launch of the Social Innovation Award.
+• Launch of Cedar as a Centre for Social Innovation.
 </p>
 
 </div>
