@@ -49,7 +49,29 @@ text
 <div>
 
 <p>
-text
+<img src="/images/oj15.png" style="width:60%">	<br>
+Be that___,Stop the discrimination (IP3 GEB IVP)	<br><br>
+	
+• Students were inspired by volunteering at Singapore Cancer Foundation to come up with a storybook and accompanying doll with removable hair to educate students to be more sensitive to those who are different from them (e.g.: youth who have cancer). They presented their ideas at the MOE Gifted Education Branch Young Innovator’s Fair.	<br><br>
+	
+<img src="/images/oj16.png" style="width:60%">	<br>	
+Exercise Cube (Y3 Imagineering)	<br><br>
+
+• Students collaborated with Henderson Senior Activity Centre to design a mobile exercise cube which could allow elderly with weak knees exercise with basic hand movements, so that they could maintain an active lifestyle.	They presented their ideas to IP3 students in Cedar and VS at SUTD.<br><br>
+
+<img src="/images/oj17.png" style="width:60%">	<br>		
+U-Walker (Y3 Imagineering)	<br><br>
+	
+• Students collaborated with SilverACE Senior Activity Centre to design a device which could be added to the base of an umbrella which could provide elderly better stability during wet weather without the social stigma of using a walking stick. They presented their ideas to IP3 students in Cedar and VS at SUTD.	<br><br>
+
+<img src="/images/oj18.png" style="width:60%"><br>	
+
+The Bystander Effect (IPW)	<br>	<br>	
+• A group of school Cyberwellness Ambassadors created a set of lesson plans and resources to educate students on the importance of taking a stand towards cyber-bullying. The lesson package was implemented by the students during Level 1 and 2 CCE lessons, and presented at the East Zone Cyberwellness Conference 2017.	<br><br>
+
+<img src="/images/oj19.png" style="width:40%"><br>	
+Under the Sea (VIA)<br>	<br>	
+• A group of Cedarians created a storybook in Sec 2 to raise awareness amongst pre-school students to keep beaches clean. The book was then professionally developed with the assistance of NEA, and distributed to pre-schools under the South-East Community Development Council. The students carried out further outreach to kindergartens using the storybook in Sec 4 for their VIA project.	
 </p>
 
 </div>
