@@ -17,7 +17,23 @@ third_nav_title: Incubating Spaces
 <div>
 
 <p>
-text
+<b>Cedar Social Innovation (CSI) Day</b> <br> 
+
+Held once every four years, Cedar Social Innovation 2020 (CSI 2020) is a special event where our girls stayed on top of their game by designing socially innovative solutions in collaboration with their various partner organisations while gamely adapting to the ever-evolving Covid-19 situation.<br><br>
+
+  
+
+The morning of CSI 2020  started off with a live show hosted by deejays Archie and Will (Mr Akmal and Mr Wilfred Low). They entertained the school throughout the day while students also received feedback from their organisations and voted for the best social innovation project of each level for the year. The day ended with the Youth Day celebrations to mark the success of CSI 2020 and celebrate the positive role youths play in our community. <br><br>
+	
+<iframe width="753" height="389" src="https://www.youtube.com/embed/VWNst7XB5O4" title="CSI Ending" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	<br><br>
+<img src="/images/oj28.png" style="width:40%">	<br>
+Enhancing Society’s Capacity To Act<br>
+Learn. Collaborate. Advocate	<br><br>
+<img src="/images/oj29.png" style="width:40%">	<br>
+	
+	
+	
+	
 </p>
 
 </div>
