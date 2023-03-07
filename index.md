@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Centre for Social Innovation
+        - title: Contact Us
           description: ""
-          url: /centre-for-social-innovation/our-story/about-csi-inc/
+          url: /contact-us/
         - title: Quick Links
           description: ""
           url: /for-staff/
