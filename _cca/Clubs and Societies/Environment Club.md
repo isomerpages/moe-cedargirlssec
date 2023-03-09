@@ -1,6 +1,6 @@
 ---
 title: Environment Club
-permalink: /cca/Clubs-and-Societies/environment-club/
+permalink: /cca/clubs-and-societies/environment-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---

@@ -1,6 +1,6 @@
 ---
 title: Instructional Programme
-permalink: /our-curriculum/Academic/instructional-programme/
+permalink: /our-curriculum/academic/instructional-programme/
 description: ""
 third_nav_title: Academic
 ---

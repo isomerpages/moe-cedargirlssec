@@ -1,6 +1,6 @@
 ---
 title: National Education (NE)
-permalink: /our-curriculum/CCE/NE/
+permalink: /our-curriculum/cce/ne/
 description: ""
 third_nav_title: CCE
 ---

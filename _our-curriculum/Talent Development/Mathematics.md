@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/Talent-Development/mathematics/
+permalink: /our-curriculum/talent-development/mathematics/
 description: ""
 third_nav_title: Talent Development
 ---

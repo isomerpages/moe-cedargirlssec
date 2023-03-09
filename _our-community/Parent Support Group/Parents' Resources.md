@@ -1,6 +1,6 @@
 ---
 title: Parents' Resources
-permalink: /our-community/Parent-Support-Group/resources/
+permalink: /our-community/parent-support-group/resources/
 description: ""
 third_nav_title: Parent Support Group
 ---

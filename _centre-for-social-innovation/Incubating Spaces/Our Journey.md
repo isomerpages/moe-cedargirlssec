@@ -1,6 +1,6 @@
 ---
 title: Our Journey
-permalink: /centre-for-social-innovation/Incubating-Spaces/our-journey/
+permalink: /centre-for-social-innovation/incubating-spaces/our-journey/
 description: ""
 third_nav_title: Incubating Spaces
 ---

@@ -1,6 +1,6 @@
 ---
 title: Group Personal Accident (GPA) Insurance Plan for Students
-permalink: /admissions/Administration-Year-1-to-4/GPA/
+permalink: /admissions/administration-year-1-to-4/gpa/
 description: ""
 third_nav_title: Administration   Year 1 to 4
 ---

@@ -1,5 +1,5 @@
 ---
 title: Victoria–Cedar Alliance
-permalink: /our-community/Victoria-Cedar-Alliance/
+permalink: /our-community/victoria-cedar-alliance/
 description: ""
 ---

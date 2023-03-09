@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-curriculum/Talent-Development/overview/
+permalink: /our-curriculum/talent-development/overview/
 description: ""
 third_nav_title: Talent Development
 ---

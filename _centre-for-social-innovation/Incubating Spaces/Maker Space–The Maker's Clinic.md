@@ -1,6 +1,6 @@
 ---
 title: Maker Space–The Maker's Clinic
-permalink: /centre-for-social-innovation/Incubating-Spaces/makers-clinic/
+permalink: /centre-for-social-innovation/incubating-spaces/makers-clinic/
 description: ""
 third_nav_title: Incubating Spaces
 ---

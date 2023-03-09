@@ -1,6 +1,6 @@
 ---
 title: Regional Studies Programme (RSP)
-permalink: /our-curriculum/Talent-Development/regional-studies-programme/
+permalink: /our-curriculum/talent-development/regional-studies-programme/
 description: ""
 third_nav_title: Talent Development
 ---

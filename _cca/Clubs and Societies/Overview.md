@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /cca/Clubs-and-Societies/overview/
+permalink: /cca/clubs-and-societies/overview/
 description: ""
 third_nav_title: Clubs and Societies
 ---

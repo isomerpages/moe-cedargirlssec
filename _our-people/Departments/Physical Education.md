@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /our-people/Departments/physical-education/
+permalink: /our-people/departments/physical-education/
 description: ""
 third_nav_title: Departments
 ---

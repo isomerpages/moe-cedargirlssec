@@ -1,6 +1,6 @@
 ---
 title: Our Cedar
-permalink: /our-cedar
+permalink: /our-cedar/
 description: ""
 image: /images/cedar girls logo.png
 ---

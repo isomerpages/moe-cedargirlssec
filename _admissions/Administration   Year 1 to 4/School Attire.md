@@ -1,6 +1,6 @@
 ---
 title: School Attire
-permalink: /admissions/Administration-Year-1-to-4/school-attire/
+permalink: /admissions/administration-year-1-to-4/school-attire/
 description: ""
 third_nav_title: Administration   Year 1 to 4
 ---

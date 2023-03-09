@@ -1,6 +1,6 @@
 ---
 title: Boards
-permalink: /our-curriculum/Student-Leadership/boards/
+permalink: /our-curriculum/student-leadership/boards/
 description: ""
 third_nav_title: Student Leadership
 ---

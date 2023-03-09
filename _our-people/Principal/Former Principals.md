@@ -1,6 +1,6 @@
 ---
 title: Former Principals
-permalink: /our-people/Principal/former-principals/
+permalink: /our-people/principal/former-principals/
 description: ""
 third_nav_title: Principal
 ---

@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /cca/Performing-Arts/choir/
+permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---

@@ -1,6 +1,6 @@
 ---
 title: Education and Career Guidance (ECG)
-permalink: /our-curriculum/CCE/ECG/
+permalink: /our-curriculum/cce/ecg/
 description: ""
 third_nav_title: CCE
 ---

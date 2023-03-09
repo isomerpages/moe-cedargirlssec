@@ -1,6 +1,6 @@
 ---
 title: Handbell Ensemble
-permalink: /cca/Performing-Arts/handbell-ensemble/
+permalink: /cca/performing-arts/handbell-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---

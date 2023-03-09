@@ -1,6 +1,6 @@
 ---
 title: Social Innovation Curriculum
-permalink: /centre-for-social-innovation/Capacity-Building/social-innovation-curriculum/
+permalink: /centre-for-social-innovation/capacity-building/social-innovation-curriculum/
 description: ""
 third_nav_title: Capacity Building
 ---

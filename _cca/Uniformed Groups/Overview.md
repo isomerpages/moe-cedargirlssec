@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /cca/Uniformed-Groups/overview/
+permalink: /cca/uniformed-groups/overview/
 description: ""
 third_nav_title: Uniformed Groups
 ---

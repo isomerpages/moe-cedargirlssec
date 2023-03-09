@@ -1,6 +1,6 @@
 ---
 title: Sciences
-permalink: /our-curriculum/Talent-Development/sciences/
+permalink: /our-curriculum/talent-development/sciences/
 description: ""
 third_nav_title: Talent Development
 ---

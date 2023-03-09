@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-curriculum/CCA/overview/
+permalink: /our-curriculum/cca/overview/
 description: ""
 third_nav_title: CCA
 ---

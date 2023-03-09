@@ -1,6 +1,6 @@
 ---
 title: School Counsellor
-permalink: /our-people/Departments/school-counsellor/
+permalink: /our-people/departments/school-counsellor/
 description: ""
 third_nav_title: Departments
 ---

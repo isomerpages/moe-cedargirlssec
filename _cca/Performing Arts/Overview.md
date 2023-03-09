@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /cca/Performing-Arts/overview/
+permalink: /cca/performing-arts/overview/
 description: ""
 third_nav_title: Performing Arts
 ---

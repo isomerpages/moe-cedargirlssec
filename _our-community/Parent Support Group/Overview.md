@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-community/Parent-Support-Group/overview/
+permalink: /our-community/parent-support-group/overview/
 description: ""
 third_nav_title: Parent Support Group
 ---

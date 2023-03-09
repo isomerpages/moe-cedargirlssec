@@ -1,6 +1,6 @@
 ---
 title: Imagineering Programme
-permalink: /centre-for-social-innovation/Capacity-Building/imagineering-programme/
+permalink: /centre-for-social-innovation/capacity-building/imagineering-programme/
 description: ""
 third_nav_title: Capacity Building
 ---

@@ -1,6 +1,6 @@
 ---
 title: Infocomm Club (IC²)
-permalink: /cca/Clubs-and-Societies/IC/
+permalink: /cca/clubs-and-societies/ic/
 description: ""
 third_nav_title: Clubs and Societies
 ---

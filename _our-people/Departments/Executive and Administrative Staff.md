@@ -1,6 +1,6 @@
 ---
 title: Executive and Administrative Staff
-permalink: /our-people/Departments/executive-and-administrative-staff/
+permalink: /our-people/departments/executive-and-administrative-staff/
 description: ""
 third_nav_title: Departments
 ---

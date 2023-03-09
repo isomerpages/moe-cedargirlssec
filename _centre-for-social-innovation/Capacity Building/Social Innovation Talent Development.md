@@ -1,6 +1,6 @@
 ---
 title: Social Innovation Talent Development
-permalink: /centre-for-social-innovation/Capacity-Building/social-innovation-talent-development/
+permalink: /centre-for-social-innovation/capacity-building/social-innovation-talent-development/
 description: ""
 third_nav_title: Capacity Building
 ---

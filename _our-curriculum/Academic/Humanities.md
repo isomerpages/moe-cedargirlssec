@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /our-curriculum/Academic/humanities/
+permalink: /our-curriculum/academic/humanities/
 description: ""
 third_nav_title: Academic
 ---

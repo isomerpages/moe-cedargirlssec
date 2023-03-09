@@ -1,6 +1,6 @@
 ---
 title: Vision, Purpose and Values
-permalink: /centre-for-social-innovation/Our-Story/vision-purpose-values/
+permalink: /centre-for-social-innovation/our-story/vision-purpose-values/
 description: ""
 third_nav_title: Our Story
 ---

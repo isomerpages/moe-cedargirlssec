@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /our-people/Departments/science/
+permalink: /our-people/departments/science/
 description: ""
 third_nav_title: Departments
 ---

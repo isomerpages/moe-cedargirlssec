@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /our-people/Departments/mathematics/
+permalink: /our-people/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---

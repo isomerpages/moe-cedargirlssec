@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /cca/Sports/overview/
+permalink: /cca/sports/overview/
 description: ""
 third_nav_title: Sports
 ---

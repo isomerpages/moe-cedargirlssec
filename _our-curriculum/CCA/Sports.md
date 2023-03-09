@@ -1,6 +1,6 @@
 ---
 title: Sports
-permalink: /our-curriculum/CCA/sports/
+permalink: /our-curriculum/cca/sports/
 description: ""
 third_nav_title: CCA
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /our-people/Departments/mother-tongue/
+permalink: /our-people/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /centre-for-social-innovation/Capacity-Building/overview/
+permalink: /centre-for-social-innovation/capacity-building/overview/
 description: ""
 third_nav_title: Capacity Building
 ---

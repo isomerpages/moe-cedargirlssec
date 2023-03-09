@@ -1,6 +1,6 @@
 ---
 title: Integrated Programme
-permalink: /our-curriculum/Academic/integrated-programme/
+permalink: /our-curriculum/academic/integrated-programme/
 description: ""
 third_nav_title: Academic
 ---

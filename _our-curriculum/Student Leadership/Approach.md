@@ -1,6 +1,6 @@
 ---
 title: Approach
-permalink: /our-curriculum/Student-Leadership/approach/
+permalink: /our-curriculum/student-leadership/approach/
 description: ""
 third_nav_title: Student Leadership
 ---

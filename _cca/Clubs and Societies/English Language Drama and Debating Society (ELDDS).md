@@ -1,6 +1,6 @@
 ---
 title: English Language Drama and Debating Society (ELDDS)
-permalink: /cca/Clubs-and-Societies/ELDDS/
+permalink: /cca/clubs-and-societies/eldds/
 description: ""
 third_nav_title: Clubs and Societies
 ---

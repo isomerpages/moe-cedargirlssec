@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /admissions/FAQ/
+permalink: /admissions/faq/
 description: ""
 ---
 ### Frequently Asked Questions

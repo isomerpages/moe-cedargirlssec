@@ -1,6 +1,6 @@
 ---
 title: Social Innovation Awards
-permalink: /centre-for-social-innovation/The-Nexus/social-innovation-awards/
+permalink: /centre-for-social-innovation/the-nexus/social-innovation-awards/
 description: ""
 third_nav_title: The Nexus
 ---

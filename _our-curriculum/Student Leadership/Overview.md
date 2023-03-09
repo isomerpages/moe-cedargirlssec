@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-curriculum/Student-Leadership/overview/
+permalink: /our-curriculum/student-leadership/overview/
 description: ""
 third_nav_title: Student Leadership
 ---

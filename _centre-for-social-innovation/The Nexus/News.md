@@ -1,6 +1,6 @@
 ---
 title: News
-permalink: /centre-for-social-innovation/The-Nexus/news/
+permalink: /centre-for-social-innovation/the-nexus/news/
 description: ""
 third_nav_title: The Nexus
 ---

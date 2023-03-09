@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /our-curriculum/Academic/mother-tongue/
+permalink: /our-curriculum/academic/mother-tongue/
 description: ""
 third_nav_title: Academic
 ---
