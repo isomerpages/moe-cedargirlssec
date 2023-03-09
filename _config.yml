@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-cedargirlssec-staging.netlify.app
-prod: https://moe-cedargirlssec-prod.netlify.app
+staging: https://staging.d2zlbq5skwriv3.amplifyapp.com/
+prod: https://master.d2zlbq5skwriv3.amplifyapp.com/
 shareicon: /images/cedar girls logo.png
