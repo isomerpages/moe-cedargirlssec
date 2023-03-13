@@ -1,5 +1,5 @@
 title: Cedar Girls Secondary School
-url: ""
+url: https://www.google.com
 favicon: /images/cedar girls logo.png
 colors:
   primary-color: "#2d51a0"
@@ -52,3 +52,7 @@ plugins:
 staging: https://staging.d2zlbq5skwriv3.amplifyapp.com/
 prod: https://master.d2zlbq5skwriv3.amplifyapp.com/
 shareicon: /images/cedar girls logo.png
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
