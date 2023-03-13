@@ -9,8 +9,6 @@ description: ""
 
   
 
-####   
-
 #### Address
 1 Cedar Avenue, Singapore 349692
 
@@ -41,7 +39,6 @@ Block 2A Joo Seng Road Multi-story Carpark
 
 Public Transport
 ----------------
-
 #### Bus Services:
 
 1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
@@ -57,9 +54,7 @@ Public Transport
 
 Connect with Us
 ---------------
-
 Facebook: [https://www.facebook.com/cedargirls/](https://www.facebook.com/cedargirls/)
-
 Instagram: @cedargirlssecondary
 
 Youtube: [https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured](https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured)
