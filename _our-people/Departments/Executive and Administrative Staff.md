@@ -4,13 +4,13 @@ permalink: /our-people/departments/executive-and-administrative-staff/
 description: ""
 third_nav_title: Departments
 ---
-
 #### Executive and Administrative Staff
 
 | Title | Name |
 |---|---|
 | Administration Manager | Ms Evelyn Ho |
 | Operations Manager  | Mr Ang Kok Heng |
+| Operations Manager  | Mr Felix Suresh |
 | Administrative Executive | Ms Linda Chew |
 | Administrative Executive  | Ms Diyana Marina Bte Jasmi  |
 | Corporate Support Officer | Ms Patricia Nai |
