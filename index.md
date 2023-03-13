@@ -17,4 +17,5 @@ sections:
         - title: Quick Links
           description: ""
           url: /for-staff/
+      background: /images/Home Banner/CGSS Home Banner.gif
 ---
