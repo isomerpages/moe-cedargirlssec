@@ -1,6 +1,5 @@
 contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/cedargirls/
   youtube: https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA
