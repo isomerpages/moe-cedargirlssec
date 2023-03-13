@@ -2,31 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Cedar Girls Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 1 Cedar Avenue
+      - Singapore 349692
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com.sg/maps/place/Cedar+Girls'+Secondary+School/@1.3342352,103.8722523,17z/data=!3m1!4b1!4m6!3m5!1s0x31da178489286b39:0x30f3b17c854cd0f6!8m2!3d1.3342298!4d103.8744464!16zL20vMGdsZDhu
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6288 4909
+      - email: cedargirlss@moe.edu.sg
+      - other: "Fax: 62820244"
+    title: General Enquiries & Feedback
 ---

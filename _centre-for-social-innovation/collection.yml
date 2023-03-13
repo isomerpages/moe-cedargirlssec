@@ -1,0 +1,25 @@
+collections:
+  centre-for-social-innovation:
+    output: true
+    order:
+      - Our Story/About CSI INC.md
+      - Our Story/Vision, Purpose and Values.md
+      - Our Story/.keep
+      - Incubating Spaces/Overview.md
+      - Incubating Spaces/Our Journey.md
+      - Incubating Spaces/Our Social Innovation Projects.md
+      - Incubating Spaces/Maker Space–The Maker's Clinic.md
+      - Incubating Spaces/.keep
+      - The Nexus/Overview.md
+      - The Nexus/Social Innovation Speaker Series.md
+      - The Nexus/Our Partners And External Organisations.md
+      - The Nexus/Social Innovation Awards.md
+      - The Nexus/News.md
+      - The Nexus/.keep
+      - Capacity Building/Overview.md
+      - Capacity Building/Imagineering Programme.md
+      - Capacity Building/Social Innovation Curriculum.md
+      - Capacity Building/Social Innovation Talent Development.md
+      - Capacity Building/Staff Capacity Building.md
+      - Capacity Building/.keep
+      - Connect.md

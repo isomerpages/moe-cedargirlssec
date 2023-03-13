@@ -1,13 +1,25 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school logo_updated.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Cedar
+    url: https://moe-cedargirlssec-staging.netlify.app/our-cedar/overview/
+    sublinks:
+      - title: Our Identity
+        url: /our-cedar/our-identity/vision-mission-values/
+      - title: Our History
+        url: /our-cedar/our-history/
+      - title: Prospectus
+        url: /our-cedar/prospectus/
+      - title: Cedar65
+        url: https://sites.google.com/moe.edu.sg/cedar65
+      - title: Contact Us
+        url: /our-cedar/contact-us/
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Community
+    collection: our-community
+  - title: Admissions
+    collection: admissions
+  - title: Centre of Social Innovation
+    url: /centre-for-social-innovation/our-story/about-csi-inc/
