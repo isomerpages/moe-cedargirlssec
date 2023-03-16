@@ -23,11 +23,6 @@ Fax: 62820244
 #### Email Address
 [cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)
 
-### Alumni
-
-The Cedarian Alumni is dedicated to fostering ties between fellow Cedarians. It is driven by enthusiasm and good spirit and will constantly uphold the tradition of Honesty, Perseverance and Courtesy. Once a Cedarian, Always a Cedarian.
-
-<img src="/images/alumni1.png" style="width:60%">
 
 <ul class="jekyllcodex_accordion">
 
@@ -35,23 +30,17 @@ The Cedarian Alumni is dedicated to fostering ties between fellow Cedarians. It 
 
 <input type="checkbox" id="accordion1">
 
-<label for="accordion1">Objectives</label>
+<label for="accordion1">Driving Directions</label>
 
 <div>
 
 <p>
-To sign up as an Alumni Member, click <a href="https://moe-cedargirlssec-staging.netlify.app/files/alumni_membership_form.pdf">here</a>. <br><br>  
-  
-To sign up as Cedar Connect member, scroll below  <br><br>  
-  
-1. To encourage a life-long relationship between the Cedarian Alumni and Cedar Girls' Secondary School by:  <br><br>  
-  
-
-•  Offering whatever assistance that may be required in the School's pursuit of excellence  <br><br>  
-    
-•  Acting as a liaison centre between alumni members and present students and teachers of the School in order that the latter may benefit from the advice, experience, guidance and assistance of the members.  <br><br>  
-    
-•  Preserving a historical account of the School and recording the achievements of its former students, teachers and principals.  <br><br>  
+1. 	From Upper Serangoon Road, turn into Wan Tho Avenue
+	
+2. From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
+	
+3. From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
+ <br><br>  
 
 </p>
 
