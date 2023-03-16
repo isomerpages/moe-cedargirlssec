@@ -41,7 +41,8 @@ Fax: 62820244
 	
 3. From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
 <br><br>
-****Nearest carpark****<br>
+	
+### Nearest carpark<br>
 	Block 2A Joo Seng Road Multi-story Carpark
 	
  <br><br>  
@@ -62,18 +63,18 @@ Fax: 62820244
 
 <p>
 
-**Bus Services:**
+### Bus Services:
 
 1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
-	
+<br>
 2.  To alight at Potong Pasir MRT station, take bus 13, 107, 107M, 133, 147, 853 & 853C
 <br>
   
 
-#### MRT Station:
+### MRT Station:
 
 1.  Walk from Potong Pasir Mrt Station
-	
+	<br>
 2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road <br><br>
 </p>
 
@@ -90,7 +91,7 @@ Fax: 62820244
 <div>
 
 <p>
-**Facebook site links<br>**
+### Facebook site links<br>
 www.facebook.com/cedarconnect.cedar<br>
 www.facebook.com/cedargirls<br><br>
 </p>
