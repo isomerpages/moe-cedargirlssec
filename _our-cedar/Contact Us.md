@@ -28,7 +28,6 @@ Fax: 62820244
 <li>
 
 <input type="checkbox" id="accordion1">
-
 <label for="accordion1">Driving Directions</label>
 <div>
 	<p>
@@ -41,13 +40,12 @@ Nearest Carpark
 Block 2A Joo Seng Road Multi-story Carpark
 </p>
 </div>
-		</input>
 </li>  
 
 
 	<li>
 	<input type="checkbox" id="accordion2">
-<label for="accordion1">Public Transport</label>
+<label for="accordion2">Public Transport</label>
 
 <div>
 <p>
@@ -64,9 +62,8 @@ Block 2A Joo Seng Road Multi-story Carpark
 </p>
 </div>
 </li>  
-	</input>
-	
 
+	
 Connect with Us
 ---------------
 Facebook: [https://www.facebook.com/cedargirls/](https://www.facebook.com/cedargirls/)
