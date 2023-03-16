@@ -35,8 +35,8 @@ Fax: 62820244
 2.  From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
 		<br>
 3.  From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
-		
 <br>
+		
 Nearest Carpark
 <br>
 Block 2A Joo Seng Road Multi-story Carpark
