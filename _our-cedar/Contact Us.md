@@ -65,13 +65,15 @@ Fax: 62820244
 #### Bus Services:
 
 1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
+	
 2.  To alight at Potong Pasir MRT station, take bus 13, 107, 107M, 133, 147, 853 & 853C
-
+<br>
   
 
 #### MRT Station:
 
 1.  Walk from Potong Pasir Mrt Station
+	
 2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road <br><br>
 </p>
 
@@ -88,7 +90,7 @@ Fax: 62820244
 <div>
 
 <p>
-Facebook site links<br>
+**Facebook site links<br>**
 www.facebook.com/cedarconnect.cedar<br>
 www.facebook.com/cedargirls<br><br>
 </p>
