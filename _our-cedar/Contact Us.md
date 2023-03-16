@@ -41,7 +41,7 @@ Fax: 62820244
 	
 3. From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
 <br><br>
-#### **Nearest carpark**<br>
+****Nearest carpark****<br>
 	Block 2A Joo Seng Road Multi-story Carpark
 	
  <br><br>  
@@ -62,7 +62,7 @@ Fax: 62820244
 
 <p>
 
-#### Bus Services:
+**Bus Services:**
 
 1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
 	
