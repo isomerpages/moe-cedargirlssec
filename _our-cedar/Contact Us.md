@@ -22,21 +22,18 @@ Fax: 62820244
   
 #### Email Address
 [cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)
+
 <ul class="jekyllcodex_accordion">
 
 <li>
 
 <input type="checkbox" id="accordion1">
 
-<label for="accordion1">Driving directions</label>
+<label for="accordion1">##Driving directions</label>
 
 <div>
 
 <p>
-	
-Driving Directions
-------------------
-
 1.  From Upper Serangoon Road, turn into Wan Tho Avenue
 2.  From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
 3.  From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
@@ -45,6 +42,8 @@ Nearest Carpark
 ---------------
 
 Block 2A Joo Seng Road Multi-story Carpark
+	</p>
+	</div>
 
 
 Public Transport
