@@ -42,6 +42,7 @@ Block 2A Joo Seng Road Multi-story Carpark
 </p>
 </div>
 </li>  
+	</input>
 
 	
 	<input type="checkbox" id="accordion2">
@@ -62,6 +63,7 @@ Block 2A Joo Seng Road Multi-story Carpark
 </p>
 </div>
 </li>  
+	</input>
 	
 
 Connect with Us
