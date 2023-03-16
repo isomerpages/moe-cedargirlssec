@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /our-cedar/contact-us/
 description: ""
 ---
-![Cedar Girls Secondary School Address Map.jpg](https://cedargirlssec.moe.edu.sg/qql/slot/u170/2019/Contact%20Us/Cedar%20Girls%20Secondary%20School%20Address%20Map.jpg)  
+![](/images/CGSS%20map.jpg)
 
 [](mailto:cedargirlss@moe.edu.sg)
 
