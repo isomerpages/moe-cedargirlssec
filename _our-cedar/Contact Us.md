@@ -26,7 +26,6 @@ Fax: 62820244
 <ul class="jekyllcodex_accordion">
 
 <li>
-
 <input type="checkbox" id="accordion1">
 <label for="accordion1">Driving Directions</label>
 <div>
@@ -38,13 +37,12 @@ Fax: 62820244
 3.  From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
 		
 <br>
-<label for="accordion1">Nearest Carpark</label>
-<div>	
+Nearest Carpark
 <br>
 Block 2A Joo Seng Road Multi-story Carpark
 </p>
-</div>
-</li>  
+
+
 
 
 	<li>
