@@ -20,10 +20,20 @@ Telephone: 62884909
 Fax: 62820244
 
   
-
 #### Email Address
 [cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)
+<ul class="jekyllcodex_accordion">
 
+<li>
+
+<input type="checkbox" id="accordion1">
+
+<label for="accordion1">Driving directions</label>
+
+<div>
+
+<p>
+	
 Driving Directions
 ------------------
 
