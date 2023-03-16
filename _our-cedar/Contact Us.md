@@ -41,13 +41,14 @@ Nearest Carpark
 Block 2A Joo Seng Road Multi-story Carpark
 </p>
 </div>
+		</input>
 </li>  
-	</input>
 
-	
+
+	<li>
 	<input type="checkbox" id="accordion2">
 <label for="accordion1">Public Transport</label>
-<li>
+
 <div>
 <p>
 #### Bus Services:
