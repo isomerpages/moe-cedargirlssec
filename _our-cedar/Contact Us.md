@@ -67,10 +67,12 @@ Block 2A Joo Seng Road Multi-story Carpark
 </div>
 </li>  
 
-	
+
+	<p>
 Connect with Us
 ---------------
 Facebook: [https://www.facebook.com/cedargirls/](https://www.facebook.com/cedargirls/)
 Instagram: @cedargirlssecondary
 
-Youtube: [https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured](https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured)
+Youtube: [https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured]
+	</p>(https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured)
