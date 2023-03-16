@@ -29,47 +29,6 @@ Fax: 62820244
 
 <input type="checkbox" id="accordion1">
 
-<label for="accordion1">##Driving directions</label>
-
-<div>
-
-<p>
-1.  From Upper Serangoon Road, turn into Wan Tho Avenue
-2.  From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
-3.  From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
-
-Nearest Carpark
----------------
-
-Block 2A Joo Seng Road Multi-story Carpark
-	</p>
-	</div>
-
-<input type="checkbox" id="accordion2">
-<label for="accordion1">##Public Transport</label>
-<div>
-<p>
-#### Bus Services:
-
-1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
-2.  To alight at Potong Pasir MRT station, take bus 13, 107, 107M, 133, 147, 853 & 853C
-
-  
-#### MRT Station:
-
-1.  Walk from Potong Pasir Mrt Station
-2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
-
-	
-	
-	
-	
-<ul class="jekyllcodex_accordion">
-
-<li>
-
-<input type="checkbox" id="accordion1">
-
 <label for="accordion1">Driving Directions</label>
 <div>
 	<p>
@@ -83,7 +42,26 @@ Block 2A Joo Seng Road Multi-story Carpark
 </p>
 </div>
 </li>  
+
 	
+	<input type="checkbox" id="accordion2">
+<label for="accordion1">Public Transport</label>
+<li>
+<div>
+<p>
+#### Bus Services:
+
+1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
+2.  To alight at Potong Pasir MRT station, take bus 13, 107, 107M, 133, 147, 853 & 853C
+
+  
+#### MRT Station:
+
+1.  Walk from Potong Pasir Mrt Station
+2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
+</p>
+</div>
+</li>  
 	
 
 Connect with Us
