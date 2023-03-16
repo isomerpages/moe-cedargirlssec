@@ -46,7 +46,6 @@ Block 2A Joo Seng Road Multi-story Carpark
 	</div>
 
 <input type="checkbox" id="accordion2">
-
 <label for="accordion1">##Public Transport</label>
 <div>
 <p>
@@ -62,6 +61,8 @@ Block 2A Joo Seng Road Multi-story Carpark
 2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
 	</p>
 	</div>
+	
+	<li>
 
 Connect with Us
 ---------------
