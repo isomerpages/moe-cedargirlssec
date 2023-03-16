@@ -40,12 +40,10 @@ Fax: 62820244
 Nearest Carpark
 <br>
 Block 2A Joo Seng Road Multi-story Carpark
-</p>
 
 
 
 
-	<li>
 	<input type="checkbox" id="accordion2">
 <label for="accordion2">Public Transport</label>
 
@@ -63,7 +61,6 @@ Block 2A Joo Seng Road Multi-story Carpark
 2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
 </p>
 </div>
-</li>  
 <br>
 
 	<p>
