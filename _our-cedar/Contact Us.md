@@ -45,21 +45,23 @@ Block 2A Joo Seng Road Multi-story Carpark
 	</p>
 	</div>
 
+<input type="checkbox" id="accordion2">
 
-Public Transport
-----------------
+<label for="accordion1">##Public Transport</label>
+<div>
+<p>
 #### Bus Services:
 
 1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
 2.  To alight at Potong Pasir MRT station, take bus 13, 107, 107M, 133, 147, 853 & 853C
 
   
-
 #### MRT Station:
 
 1.  Walk from Potong Pasir Mrt Station
 2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
-
+	</p>
+	</div>
 
 Connect with Us
 ---------------
