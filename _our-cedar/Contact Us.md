@@ -59,10 +59,32 @@ Block 2A Joo Seng Road Multi-story Carpark
 
 1.  Walk from Potong Pasir Mrt Station
 2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
-	</p>
-	</div>
+
 	
-	<li>
+	
+	
+	
+<ul class="jekyllcodex_accordion">
+
+<li>
+
+<input type="checkbox" id="accordion1">
+
+<label for="accordion1">Driving Directions</label>
+<div>
+	<p>
+  1.  From Upper Serangoon Road, turn into Wan Tho Avenue
+2.  From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
+3.  From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
+
+Nearest Carpark
+---------------
+Block 2A Joo Seng Road Multi-story Carpark
+</p>
+</div>
+</li>  
+	
+	
 
 Connect with Us
 ---------------
