@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /our-cedar/contact-us/
 description: ""
 ---
-![Cedar Girls Secondary School Address Map.jpg](https://cedargirlssec.moe.edu.sg/qql/slot/u170/2019/Contact%20Us/Cedar%20Girls%20Secondary%20School%20Address%20Map.jpg)  
+![](/images/CGSS%20map.jpg)
 
 [](mailto:cedargirlss@moe.edu.sg)
 
@@ -20,41 +20,85 @@ Telephone: 62884909
 Fax: 62820244
 
   
-
 #### Email Address
 [cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)
 
-Driving Directions
-------------------
 
-1.  From Upper Serangoon Road, turn into Wan Tho Avenue
-2.  From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
-3.  From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
+<ul class="jekyllcodex_accordion">
 
-Nearest Carpark
----------------
+<li>
 
-Block 2A Joo Seng Road Multi-story Carpark
+<input type="checkbox" id="accordion1">
 
+<label for="accordion1">Driving Directions</label>
 
-Public Transport
-----------------
-#### Bus Services:
+<div>
+
+<p>
+1. 	From Upper Serangoon Road, turn into Wan Tho Avenue
+	
+2. From Upper Aljunied Road, turn into Lichi Avenue and then turn right into Willow Avenue
+	
+3. From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue and then turn right to Willow Avenue
+<br><br>
+	
+### Nearest carpark<br>
+	Block 2A Joo Seng Road Multi-story Carpark
+	
+ <br><br>  
+
+</p>
+
+</div>
+
+</li>  
+
+<li>
+
+<input type="checkbox" id="accordion2">
+
+<label for="accordion2">Public Transport</label>
+
+<div>
+
+<p>
+
+### Bus Services:
 
 1.  To alight at Joo Seng Road along Upper Aljunied Road, take bus 100, 135 & 155
+<br>
 2.  To alight at Potong Pasir MRT station, take bus 13, 107, 107M, 133, 147, 853 & 853C
-
+<br>
   
 
-#### MRT Station:
+### MRT Station:
 
 1.  Walk from Potong Pasir Mrt Station
-2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road
+	<br>
+2.  From Woodleigh MRT Station, take bus 100,135 & 155 and stop at Joo Seng Road <br><br>
+</p>
 
+</div>
 
-Connect with Us
----------------
-Facebook: [https://www.facebook.com/cedargirls/](https://www.facebook.com/cedargirls/)
-Instagram: @cedargirlssecondary
+</li>  
+  
+<li>
 
-Youtube: [https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured](https://www.youtube.com/channel/UCT-OtyOpN3ngj8t1M090NmA/featured)
+<input type="checkbox" id="accordion3">
+
+<label for="accordion3">Connect with Us</label>
+
+<div>
+
+<p>
+### Facebook site links<br>
+www.facebook.com/cedarconnect.cedar<br>
+www.facebook.com/cedargirls<br><br>
+</p>
+
+</div>
+
+</li>  
+  
+
+</ul>

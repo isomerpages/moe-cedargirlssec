@@ -1,7 +1,7 @@
 logo: /images/school logo_updated.png
 links:
   - title: Our Cedar
-    url: https://moe-cedargirlssec-staging.netlify.app/our-cedar/overview/
+    url: /our-cedar/overview/
     sublinks:
       - title: Our Identity
         url: /our-cedar/our-identity/vision-mission-values/
