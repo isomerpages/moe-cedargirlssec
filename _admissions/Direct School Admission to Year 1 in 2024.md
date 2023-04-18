@@ -49,7 +49,7 @@ d. Entrepreneurship and communication workshops<br>
 e. Conferences and competitions <br>
 f. Research on social issues and presentation opportunities&nbsp;
 
-Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-innovation)&nbsp;for more information on our Social Innovation Programme.
+Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi-inc/)&nbsp;for more information on our Social Innovation Programme.
 
 Kindly access our&nbsp;[eopen house page](https://sites.google.com/moe.edu.sg/cedar-open-house-2022)&nbsp;for more details.
 
