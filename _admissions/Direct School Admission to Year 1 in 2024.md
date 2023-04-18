@@ -15,7 +15,7 @@ CGSS offers DSA in both the Sports and Social Innovation categories.&nbsp;
 
   
 
-<u>****DSA (Sports)****</u><br>
+<u>DSA (Sports)</u><br>
 We offer DSA (Sports) in Badminton, Basketball, Netball, Table Tennis, Track &amp; Field, or Volleyball. The programme aims to develop students’ talents and potentials in the various sports categories. 
 
 Our sports programme comprises:<br>
@@ -28,7 +28,7 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/our-curriculum/cca/spo
 
   
 
-<u>**DSA (Social Innovation)**</u><br>
+<u>DSA (Social Innovation)</u><br>
 Our DSA (Social Innovation) programme aims to develop students to be advocates for social change and nurture their talents in creating user-centric solutions for the community that they serve.&nbsp;
 
   
