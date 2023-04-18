@@ -27,8 +27,5 @@ The three letter 'i's in the words 'social innovation' show the journey of how, 
  
 #### DESIGN COUNCIL
 
-<iframe width="584" height="438" src="https://www.youtube.com/embed/ZI-O8XlpxH0" title="1  About CSI INC   Design Council Cedar Girls Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="584" height="438" src="https://www.youtube.com/embed/ZI-O8XlpxH0" title="1  About CSI INC   Design Council Cedar Girls Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-#### CENTRE FOR SOCIAL INNOVATION - THE ROAD AHEAD
-
-Upload video here.
