@@ -33,7 +33,7 @@ Our DSA (Social Innovation) programme aims to develop students to be advocates f
 
   
 
-The programme comprises:
+The programme comprises:<br>
 a. Training in Design Thinking and Innovation <br>
 b. Training in Persuasive Communication Skills<br>
 c. Exposure to Tech and Entrepreneurship<br>
