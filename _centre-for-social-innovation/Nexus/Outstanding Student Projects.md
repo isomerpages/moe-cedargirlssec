@@ -4,7 +4,6 @@ permalink: /centre-for-social-innovation/nexus/osp/
 description: ""
 third_nav_title: Nexus
 ---
-<div>
 <table>
 <tbody>
 <tr>
@@ -28,7 +27,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>External Award</strong></span> Shell NExplorer - Gold&nbsp; Xylem Innovation Challenge - Overall Winner of Category&nbsp; <span style="text-decoration: underline;"><strong>School Award&nbsp;</strong></span>Social Innovation Award&nbsp;</td>
+<td><strong><u>External Award</u></strong> Shell NExplorer - Gold&nbsp; Xylem Innovation Challenge - Overall Winner of Category&nbsp; <strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -38,7 +37,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>&nbsp;</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span [if !supportLineBreakNewLine][endif]</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -65,7 +64,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td>Participation in Youth STEM Empowerment Programme<span style="text-decoration: underline;">School Award&nbsp;</span>Social Innovation Award&nbsp;&nbsp;</td>
+<td>Participation in Youth STEM Empowerment Programme<u>School Award&nbsp;</u>Social Innovation Award&nbsp;&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -75,7 +74,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>&nbsp;</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif] [if gte vml 1] [endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif] [if gte vml 1] [endif] [if !vml][endif]&lt;/span</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -95,7 +94,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td><span style="text-decoration: underline;">External Award</span> MOE Innovation Programme (IvP) - Distinction&nbsp; <span style="text-decoration: underline;">School Award&nbsp;</span>Social Innovation Award&nbsp;</td>
+<td><u>External Award</u> MOE Innovation Programme (IvP) - Distinction&nbsp; <u>School Award&nbsp;</u>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -105,7 +104,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>&nbsp;</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif] [if gte vml 1] [endif] [if !vml][endif]&lt;/span</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -143,7 +142,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>&nbsp;</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -152,9 +151,7 @@ third_nav_title: Nexus
 </tr>
 </tbody>
 </table>
-</div>
 <p>2022 / 2021 Outstanding Student Projects → suggest to place in google site resposirtory&nbsp;</p>
-<div>
 <table>
 <tbody>
 <tr>
@@ -177,7 +174,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>School Award&nbsp;</strong></span>Social Innovation Award&nbsp;</td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -187,7 +184,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>Diagram of the proposed prototype for the wearable</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/spanDiagram of the proposed prototype for the wearable</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -215,7 +212,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>School Award&nbsp;</strong></span>Social Innovation Award&nbsp;</td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -225,7 +222,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td><a rel="noopener" target="_blank" href="https://docs.google.com/presentation/d/1i-WnSUElqGA7CvB7iyoSqLY5HHegjVkMhhykewUuiEs/edit#slide=id.ge0e20a46fb_0_18">Link</a> to group’s interactive book</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span <a rel="noopener" target="_blank" href="https://docs.google.com/presentation/d/1i-WnSUElqGA7CvB7iyoSqLY5HHegjVkMhhykewUuiEs/edit#slide=id.ge0e20a46fb_0_18">Link</a> to group’s interactive book</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -251,7 +248,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>External Award</strong></span> MOE Innovation Programme (IvP) - Distinction&nbsp; <span style="text-decoration: underline;"><strong>School Award&nbsp;</strong></span>Social Innovation Award&nbsp;</td>
+<td><strong><u>External Award</u></strong> MOE Innovation Programme (IvP) - Distinction&nbsp; <strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -261,7 +258,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>&nbsp;</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -290,7 +287,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>School Award&nbsp;</strong></span>Social Innovation Award&nbsp;</td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -300,7 +297,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>Modified prototype of napkin/sanitiser holder</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/spanModified prototype of napkin/sanitiser holder [if !supportLineBreakNewLine][endif]</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -329,7 +326,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>School Award&nbsp;</strong></span>Social Innovation Award&nbsp;</td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -339,7 +336,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>Students’ prototype</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span Students’ prototype [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -365,7 +362,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><span style="text-decoration: underline;"><strong>External Award</strong></span>MOE Innovation Programme (IvP) - Distinction&nbsp;Featured in the Virutal Young Innovators’ Fair 2021</td>
+<td><strong><u>External Award</u></strong>MOE Innovation Programme (IvP) - Distinction&nbsp;Featured in the Virutal Young Innovators’ Fair 2021</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -375,8 +372,7 @@ third_nav_title: Nexus
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td><a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1MJjieUztRBplC15gU-Mlj6uC32Tj3yOx?usp=sharing">Link </a>to group’s PPT slides</td>
+<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span <a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1MJjieUztRBplC15gU-Mlj6uC32Tj3yOx?usp=sharing">Link </a>to group’s PPT slides</td>
 </tr>
 </tbody>
 </table>
-</div>
