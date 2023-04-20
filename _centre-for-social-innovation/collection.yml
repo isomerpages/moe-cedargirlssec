@@ -2,7 +2,7 @@ collections:
   centre-for-social-innovation:
     output: true
     order:
-      - Our Story/About CSI INC.md
+      - Our Story/About CSI.md
       - Our Story/.keep
       - Incubating Spaces/Overview.md
       - Incubating Spaces/Our Journey.md
