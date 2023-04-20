@@ -33,12 +33,17 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Description of Project&nbsp;</td>
-<td>The group worked on challenge statement 3 - Keeping water flowing in rural communities and has proposed the following suggestions:&nbsp;a.<strong>Deploying volunteers from Americares to teach locals how to repair and maintain hand-pumps easily with face-to-face interactions</strong> b.<strong>Ways to improve the hand pump system</strong>•Increasing Helplines•Being Self-Sufficient•System to check groundwater supply</td>
+<td>The group worked on challenge statement 3 - Keeping water flowing in rural communities and has proposed the following suggestions:&nbsp;<br><br>
+	a.<strong>Deploying volunteers from Americares to teach locals how to repair and maintain hand-pumps easily with face-to-face interactions</strong> <br><br>
+	b.<strong>Ways to improve the hand pump system</strong>
+	•Increasing Helplines<br>
+	•Being Self-Sufficient<br>
+	•System to check groundwater supply</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span [if !supportLineBreakNewLine][endif]</td>
+<td> </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -54,12 +59,10 @@ Tiffany Koh Hoon Chin<br>
 <td>&nbsp;</td>
 <td>Members</td>
 <td>
-<ol>
-<li>Cheng Xin Ling</li>
-<li>Kyarra Lee Qian Ying</li>
-<li>Pavitra Konar</li>
-<li>Seo Yelin</li>
-</ol>
+Cheng Xin Ling<br>
+Kyarra Lee Qian Ying<br>
+Pavitra Konar<br>
+Seo Yelin<br>
 </td>
 </tr>
 <tr>
@@ -70,12 +73,13 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Description of Project</td>
-<td>HYPERKS was created to help teenagers with ADHD who are aware of their condition but are unaware of how to manage it due to their hyperactivity. ADHD is an invisible disability that is often overlooked, thus the group wanted to use this opportunity to shed light on the ADHD community. HYPERKS aims to help teenagers with ADHD focus better via 3 main components – Productivity, Health and Community.Productivity breaks down complex tasks into more manageable steps, transferring them to a tasklist which can be checked off once completed. Health consists of meditation and exercises, providing an avenue for these teens to channel their excess energy and enhance their overall well-being. Community consists of avatars and a reward system to incentivise these teens to continue using our app, serving as a motivation to complete tasks/ exercises.&nbsp;</td>
+<td>HYPERKS was created to help teenagers with ADHD who are aware of their condition but are unaware of how to manage it due to their hyperactivity. ADHD is an invisible disability that is often overlooked, thus the group wanted to use this opportunity to shed light on the ADHD community. HYPERKS aims to help teenagers with ADHD focus better via 3 main components – Productivity, Health and Community.<br><br>
+	Productivity breaks down complex tasks into more manageable steps, transferring them to a tasklist which can be checked off once completed. Health consists of meditation and exercises, providing an avenue for these teens to channel their excess energy and enhance their overall well-being. Community consists of avatars and a reward system to incentivise these teens to continue using our app, serving as a motivation to complete tasks/ exercises.&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif] [if gte vml 1] [endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif] [if gte vml 1] [endif] [if !vml][endif]&lt;/span</td>
+<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -85,27 +89,32 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project&nbsp;</td>
-<td>A-ron</td>
+<td>**A-ron**</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members</td>
-<td>Nurul Iman Binte Mohamed RidzalSng Min Ning&nbsp;Yap Wan Yun Grace&nbsp;</td>
+<td>Nurul Iman Binte Mohamed Ridzal<br>
+	Sng Min Ning&nbsp;<br>
+	Yap Wan Yun Grace&nbsp;<br>
+	</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td><u>External Award</u> MOE Innovation Programme (IvP) - Distinction&nbsp; <u>School Award&nbsp;</u>Social Innovation Award&nbsp;</td>
+<td><u>External Award</u> MOE Innovation Programme (IvP) - Distinction&nbsp;<br><br>
+	<u>School Award&nbsp;</u>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Description of Project</td>
-<td>Envision a world where everyone has equal opportunities, no matter how old you are or what disability you have — this is the goal of A-ron. The group hopes to pioneer in a <strong>unique innovation for a marginalised group </strong>and pave the way to cultivate inclusivity as the norm in our society. The group focused on household chores that pose a larger safety hazard to the blind such as ironing. <strong>Group has designed an iron with safety features for the blind to reduce their risk of burns</strong>.</td>
+<td>Envision a world where everyone has equal opportunities, no matter how old you are or what disability you have — this is the goal of A-ron.<br><br>
+	The group hopes to pioneer in a <strong>unique innovation for a marginalised group </strong>and pave the way to cultivate inclusivity as the norm in our society. The group focused on household chores that pose a larger safety hazard to the blind such as ironing. <strong>Group has designed an iron with safety features for the blind to reduce their risk of burns</strong>.</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif] [if gte vml 1] [endif] [if !vml][endif]&lt;/span</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -115,19 +124,18 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project</td>
-<td>Froggy</td>
+<td>**Froggy**</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members</td>
 <td>
-<ol>
-<li>Rae Nadya Binte Muhammad Nazri&nbsp;</li>
-<li>Jannisa Fong Jie Si&nbsp;</li>
-<li>Utlapally Charita Sri</li>
-<li>Mandapti Hannah&nbsp;</li>
-<li>Ang en Hsuen, Claire-Marie</li>
-</ol>
+Rae Nadya Binte Muhammad Nazr<br>
+Jannisa Fong Jie Si<br>
+Utlapally Charita Sri<br>
+Mandapti Hannah<br>
+Ang en Hsuen<br>
+Claire-Marie<br>
 </td>
 </tr>
 <tr>
@@ -142,8 +150,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -164,12 +172,10 @@ Tiffany Koh Hoon Chin<br>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Alexandra Ng&nbsp;</li>
-<li>Jerlene Sim&nbsp;</li>
-<li>Aishwarya Goyal&nbsp;</li>
-<li>Miina Hayashi</li>
-</ol>
+Alexandra Ng<br>
+Jerlene Sim<br>
+Aishwarya Goyal<br>
+Miina Hayashi<br>
 </td>
 </tr>
 <tr>
@@ -184,8 +190,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/spanDiagram of the proposed prototype for the wearable</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -195,19 +201,17 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project&nbsp;</td>
-<td>Bob Tackling Technology</td>
+<td>**Bob Tackling Technology**</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Vona Tanisha&nbsp;</li>
-<li>Kasthuri Ganeshkumar&nbsp;</li>
-<li>See Tow Jo Lynn&nbsp;</li>
-<li>Tey Xin Yu, Charis&nbsp;</li>
-<li>Verlin Veriandra Fortuna</li>
-</ol>
+Vona Tanisha<br>
+Kasthuri Ganeshkumar<br>
+See Tow Jo Lynn<br>
+Tey Xin Yu, Charis<br>
+Verlin Veriandra Fortuna<br>
 </td>
 </tr>
 <tr>
@@ -222,8 +226,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span <a rel="noopener" target="_blank" href="https://docs.google.com/presentation/d/1i-WnSUElqGA7CvB7iyoSqLY5HHegjVkMhhykewUuiEs/edit#slide=id.ge0e20a46fb_0_18">Link</a> to group’s interactive book</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -233,17 +237,15 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project&nbsp;</td>
-<td>Caps Off</td>
+<td>**Caps Off**</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Cadence Chua&nbsp;</li>
-<li>Caitlyn Lim&nbsp;</li>
-<li>Tiffany Tan</li>
-</ol>
+Cadence Chua<br>
+Caitlyn Lim<br>
+Tiffany Tan<br>
 </td>
 </tr>
 <tr>
@@ -258,8 +260,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -269,20 +271,18 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project&nbsp;</td>
-<td>Rotating Poster Holder</td>
+<td>**Rotating Poster Holder**</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Faith Tan&nbsp;</li>
-<li>Keryn Lim&nbsp;</li>
-<li>Natalie Ng&nbsp;</li>
-<li>Pay Xinyi&nbsp;</li>
-<li>Serene Neo&nbsp;</li>
-<li>Alyssa Tan</li>
-</ol>
+Faith Tan<br>
+Keryn Lim<br>
+Natalie Ng<br>
+Pay Xinyi<br>
+Serene Neo<br>
+Alyssa Tan<br>
 </td>
 </tr>
 <tr>
@@ -297,8 +297,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/spanModified prototype of napkin/sanitiser holder [if !supportLineBreakNewLine][endif]</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -308,20 +308,18 @@ Tiffany Koh Hoon Chin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project&nbsp;</td>
-<td>Brahm Centre Design Project&nbsp;</td>
+<td>**Brahm Centre Design Project**</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Sayli Omkar Bapat</li>
-<li>Lashirah Ebansha Aaisha&nbsp;</li>
-<li>Low Yuxian Florence</li>
-<li>Pavitra Konar</li>
-<li>Prabhakaran Shamiksha</li>
-<li>Lakshmanan Kumar Dakshata</li>
-</ol>
+Sayli Omkar Bapat<br>
+Lashirah Ebansha Aaisha<br>
+Low Yuxian Florence<br>
+Pavitra Kona<br>
+Prabhakaran Shamiksh<br>
+Lakshmanan Kumar Dakshata<br>
 </td>
 </tr>
 <tr>
@@ -336,8 +334,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span Students’ prototype [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -353,11 +351,9 @@ Tiffany Koh Hoon Chin<br>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Briel Chua Le Wen&nbsp;</li>
-<li>Cherise Chow Qi Rui&nbsp;</li>
-<li>Tan Si Ying</li>
-</ol>
+Briel Chua Le Wen<br>
+Cherise Chow Qi Rui<br>
+Tan Si Ying<br>
 </td>
 </tr>
 <tr>
@@ -372,8 +368,8 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td>[if gte vml 1]&gt;[endif] [if !vml][endif]&lt;/span [if gte vml 1]&gt; [endif] [if !vml][endif]&lt;/span <a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1MJjieUztRBplC15gU-Mlj6uC32Tj3yOx?usp=sharing">Link </a>to group’s PPT slides</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
