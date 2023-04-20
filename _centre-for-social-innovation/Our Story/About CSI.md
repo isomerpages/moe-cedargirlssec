@@ -4,24 +4,20 @@ permalink: /centre-for-social-innovation/our-story/about-csi/
 description: ""
 third_nav_title: Our Story
 ---
-### ABOUT CSI INC
+### ABOUT CSI
 
-#### THE CENTRE FOR SOCIAL INNOVATION
+#### **THE CENTRE FOR SOCIAL INNOVATION**
 
-  
+The Cedar Centre for Social Innovation is set up to be a nexus for social innovation, to inspire, create and share best practices. We seek to instill a mindset and disposition towards innovative practices for social causes, and enhance society’s capacity to act. 
 
-**About CSI** (the INC refers to Incubating Spaces, Nexus and Capacity Building, but I don’t think we need it in the title)<br>
-The **Cedar** Centre for Social Innovation is set up to be a nexus for social innovation, to inspire, create and share best practices. We seek to instill a mindset and disposition towards innovative practices for social causes, and enhance society’s capacity to act. 
-
-#### CSI INC LOGO
+### **CSI INC LOGO**
 
 <img src="/images/csi1.png" style="width:40%">
 
 This vibrant and youthful design brings out the value of empathy, seen in the colourful shape of a heart on the right, formed by people holding hands, symbolising our community. Another heart tops the logo and represents a soaring eagle, inspiring our students to scale to greater heights as social innovators. The three letter ‘i’s in the words ‘social innovation’ show how, with the value of empathy, individuals can come together as a community to break new ground and innovate for social good.
 
- **Three tenets of CSI**<br>
-Keep the blocks under “Our Areas of Work” found here but change the heading to the one above and the words as follows:<br>
-1. **Incubating Spaces**
+###  **Three tenets of CSI**<br>
+1. **Incubating Spaces**<br>
 The school is an environment where students can incubate their ideas and bring their social innovations to fruition. We provide facilities and spaces to enable students to explore, experiment, connect, collaborate and co-create solutions with one another. With the support of teacher mentors and industry professionals, students apply their knowledge and bring their proposed user-centric ideas to reality.<br><br>
 2. **Nexus**<br>
 The Cedar Center for Social Innovation aims to be a nexus that brings communities and ideas together. We bring together those who share the same passion to discuss social issues and challenges, share best practices, and deepen learning and broaden perspectives of students so as to inspire them to create novel solutions that will impact the community.<br><br>
