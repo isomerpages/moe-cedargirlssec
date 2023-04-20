@@ -15,19 +15,20 @@ third_nav_title: Nexus
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-<ol>
-<li>Low Yuxian Florence</li>
-<li>Avani Vishal Moye&nbsp;</li>
-<li>Tay Yi Ting Chloe&nbsp;</li>
-<li>Sneha Susan Thomas</li>
-<li>Tiffany Koh Hoon Chin</li>
-</ol>
+
+Low Yuxian Florence<br>
+Avani Vishal Moye<br>
+Tay Yi Ting Chloe<br>
+Sneha Susan Thomas<br>
+Tiffany Koh Hoon Chin<br>
+
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><strong><u>External Award</u></strong> Shell NExplorer - Gold&nbsp; Xylem Innovation Challenge - Overall Winner of Category&nbsp; <strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+<td><strong><u>External Award</u></strong> Shell NExplorer - Gold&nbsp; Xylem Innovation Challenge - Overall Winner of Category&nbsp; <strong><br><br>
+	<u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
