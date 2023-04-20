@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Story/About CSI INC.md
-      - Our Story/Vision, Purpose and Values.md
       - Our Story/.keep
       - Incubating Spaces/Overview.md
       - Incubating Spaces/Our Journey.md
