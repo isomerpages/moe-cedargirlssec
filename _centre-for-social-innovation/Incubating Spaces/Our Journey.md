@@ -7,12 +7,25 @@ third_nav_title: Incubating Spaces
 ### OUR JOURNEY
 
 <ul class="jekyllcodex_accordion">
-
-<li>
+	<li>
 
 <input type="checkbox" id="accordion1">
 
-<label for="accordion1">2020</label>
+<label for="accordion1">2022</label>
+<div>
+	<p>
+		In 2022, Cedar celebrated 10 years of Social Innovation and produced an e-book detailing our growth from our nascent beginnings to establishing ourselves as a Center for Social Innovation. The commemorative book also highlights some of the school’s achievements in social innovation over the years. 
+	</p>
+
+</div>
+
+</li>
+
+<li>
+
+<input type="checkbox" id="accordion2">
+
+<label for="accordion2">2020</label>
 
 <div>
 
@@ -23,9 +36,9 @@ Held once every four years, Cedar Social Innovation 2020 (CSI 2020) is a special
 
   
 
-The morning of CSI 2020  started off with a live show hosted by deejays Archie and Will (Mr Akmal and Mr Wilfred Low). They entertained the school throughout the day while students also received feedback from their organisations and voted for the best social innovation project of each level for the year. The day ended with the Youth Day celebrations to mark the success of CSI 2020 and celebrate the positive role youths play in our community. <br><br>
+The morning of CSI 2020&nbsp; started off with a live show hosted by deejays Archie and Will (Mr Akmal and Mr Wilfred Low). They entertained the school throughout the day while students also received feedback from their organisations and voted for the best social innovation project of each level for the year. The day ended with the Youth Day celebrations to mark the success of CSI 2020 and celebrate the positive role youths play in our community. <br><br>
 	
-<iframe width="753" height="389" src="https://www.youtube.com/embed/VWNst7XB5O4" title="CSI Ending" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	<br><br>
+<iframe width="753" height="389" src="https://www.youtube.com/embed/VWNst7XB5O4" title="CSI Ending" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br><br>
 <img src="/images/oj28.png" style="width:40%">	<br>
 Enhancing Society’s Capacity To Act<br>
 Learn. Collaborate. Advocate	<br><br>
@@ -42,18 +55,18 @@ Learn. Collaborate. Advocate	<br><br>
 
 <li>
 
-<input type="checkbox" id="accordion2">
+<input type="checkbox" id="accordion3">
 
-<label for="accordion2">2019</label>
+<label for="accordion3">2019</label>
 
 <div>
 
 <p>
 • This year marked the establishment of the school’s Social Innovation Talent Development Programme. Selected students represented Cedar to achieve accolades at national competitions such as Shell NXplorers, the MOE Gifted Education Branch Innovation Programme and Prudential Young Trailblazers 2019. We are also proud to announce that Kok Kit Yan Chavelle (4I) and Thantry Neha Biju (4P) have won the Merit prize for the Tan Kah Kee Young Inventors Award 2019, for their project ‘The Spillcatcher’, a cup designed for individuals with uncontrollable tremors. The mindset and dispositions of a social innovator continue to flourish in each Cedarian through our core programmes, Integrated Project Work, Values-In-Action Projects and the Imagineering Programme. <br><br>
 	
-<iframe width="515" height="386" src="https://www.youtube.com/embed/Lnidlek254Q" title="Our journey  - The Spillcatcher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	<br><br>
+<iframe width="515" height="386" src="https://www.youtube.com/embed/Lnidlek254Q" title="Our journey  - The Spillcatcher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br><br>
 	
-<b>Social Innovation Learning Space</b> <br>
+<b>Social Innovation Learning Space</b>&nbsp;<br>
 
 With the help of our SI students in the planning process, our school’s social innovation learning space had a fresh new look.	<br><br>
 <img src="/images/oj20.png" style="width:60%">	<br><br>
@@ -70,7 +83,7 @@ Portable Basketball in a Box (IPW) <br><br>
 <img src="/images/oj24.png" style="width:60%">	<br>	
 Under the Sea Translation Project (IPW) <br><br>
 	
-• In how many languages can you express your love for the enrivonment? Students collaborated with NEA and LKY Fund for Bilingualism to translate the book ‘Under the Sea’ into Mother Tongue Languages (Mandarin, Malay, and Tamil). They also worked together to create teaching resources that accompanied the book, suitable for pre-school and kindergarten students. The books have been shared at the NEA Clean & Green Carnival.	<br><br>
+• In how many languages can you express your love for the enrivonment? Students collaborated with NEA and LKY Fund for Bilingualism to translate the book ‘Under the Sea’ into Mother Tongue Languages (Mandarin, Malay, and Tamil). They also worked together to create teaching resources that accompanied the book, suitable for pre-school and kindergarten students. The books have been shared at the NEA Clean &amp; Green Carnival.	<br><br>
 	
 <img src="/images/oj25.png" style="width:60%">	<br>		
 The SAFE KNIFE (Y3 GEB IVP) <br><br>
@@ -95,9 +108,9 @@ PROJECT FORTIS (Citi-YMCA Youth For Causes) <br><br>
 
 <li>
 
-<input type="checkbox" id="accordion3">
+<input type="checkbox" id="accordion4">
 
-<label for="accordion3">2018</label>
+<label for="accordion4">2018</label>
 
 <div>
 
@@ -110,7 +123,7 @@ Be that___,Stop the discrimination (IP3 GEB IVP)	<br><br>
 <img src="/images/oj16.png" style="width:60%">	<br>	
 Exercise Cube (Y3 Imagineering)	<br><br>
 
-• Students collaborated with Henderson Senior Activity Centre to design a mobile exercise cube which could allow elderly with weak knees exercise with basic hand movements, so that they could maintain an active lifestyle.	They presented their ideas to IP3 students in Cedar and VS at SUTD.<br><br>
+•&nbsp;Students collaborated with Henderson Senior Activity Centre to design a mobile exercise cube which could allow elderly with weak knees exercise with basic hand movements, so that they could maintain an active lifestyle.	They presented their ideas to IP3 students in Cedar and VS at SUTD.<br><br>
 
 <img src="/images/oj17.png" style="width:60%">	<br>		
 U-Walker (Y3 Imagineering)	<br><br>
@@ -120,7 +133,7 @@ U-Walker (Y3 Imagineering)	<br><br>
 <img src="/images/oj18.png" style="width:60%"><br>	
 
 The Bystander Effect (IPW)	<br>	<br>	
-• A group of school Cyberwellness Ambassadors created a set of lesson plans and resources to educate students on the importance of taking a stand towards cyber-bullying. The lesson package was implemented by the students during Level 1 and 2 CCE lessons, and presented at the East Zone Cyberwellness Conference 2017.	<br><br>
+• A group of school Cyberwellness Ambassadors created a set of lesson plans and resources to educate students on the importance of taking a stand towards cyber-bullying. The lesson package was implemented by&nbsp;the students during Level 1 and 2 CCE lessons, and presented at the East Zone Cyberwellness Conference 2017.	<br><br>
 
 <img src="/images/oj19.png" style="width:40%"><br>	
 Under the Sea (VIA)<br>	<br>	
@@ -133,9 +146,9 @@ Under the Sea (VIA)<br>	<br>
 
 <li>
 
-<input type="checkbox" id="accordion4">
+<input type="checkbox" id="accordion5">
 
-<label for="accordion4">2017</label>
+<label for="accordion5">2017</label>
 
 <div>
 
@@ -152,7 +165,7 @@ Student participating in the GEB Innovation Programme.	<br><br>
 <img src="/images/oj13.png" style="width:60%">	<br><br>
 Launch of Social Innovation Journal.	<br><br>
 
-• Launch of the Social Innovation Journal as a handbook and reflection log for students during their 4 years in Cedar.	<br><br>
+•&nbsp;Launch of the Social Innovation Journal as a handbook and reflection log for students during their 4 years in Cedar.	<br><br>
 
 <img src="/images/oj14.png" style="width:60%">	<br><br>	
 
@@ -166,9 +179,9 @@ Launch of Social Innovation Journal.	<br><br>
 
 <li>
 
-<input type="checkbox" id="accordion5">
+<input type="checkbox" id="accordion6">
 
-<label for="accordion5">2016</label>
+<label for="accordion6">2016</label>
 
 <div>
 
@@ -200,9 +213,9 @@ Cedarians promote environmental cleanliness at hawker centres as part of Cedar S
 </li>
 <li>
 
-<input type="checkbox" id="accordion6">
+<input type="checkbox" id="accordion7">
 
-<label for="accordion6">2015</label>
+<label for="accordion7">2015</label>
 
 <div>
 
@@ -226,9 +239,9 @@ IP3 students and staff from Cedar and VS together with the faculty from SUTD.<br
 
 <li>
 
-<input type="checkbox" id="accordion7">
+<input type="checkbox" id="accordion8">
 
-<label for="accordion7">2014</label>
+<label for="accordion8">2014</label>
 
 <div>
 
@@ -250,9 +263,9 @@ Students create prototypes of their project solutions using skills learned in SU
 
 <li>
 
-<input type="checkbox" id="accordion8">
+<input type="checkbox" id="accordion9">
 
-<label for="accordion8">2013</label>
+<label for="accordion9">2013</label>
 
 <div>
 
@@ -272,9 +285,9 @@ Students sharing solutions brought about by Design Thinking in Integrated Projec
 
 <li>
 
-<input type="checkbox" id="accordion9">
+<input type="checkbox" id="accordion10">
 
-<label for="accordion9">2012</label>
+<label for="accordion10">2012</label>
 
 <div>
 
@@ -293,9 +306,9 @@ IP1 students in actions.	<br><br>
 
 <li>
 
-<input type="checkbox" id="accordion10">
+<input type="checkbox" id="accordion11">
 
-<label for="accordion10">2011</label>
+<label for="accordion11">2011</label>
 
 <div>
 
@@ -310,5 +323,5 @@ VCA Design Thinking Committee bonding over coffee.<br><br>
 </div>
 
 </li>
- 
+&nbsp;
 </ul>
