@@ -15,6 +15,7 @@ third_nav_title: Incubating Spaces
 <div>
 	<p>
 		In 2022, Cedar celebrated 10 years of Social Innovation and produced an e-book detailing our growth from our nascent beginnings to establishing ourselves as a Center for Social Innovation. The commemorative book also highlights some of the school’s achievements in social innovation over the years. 
+		[Link for book](https://heyzine.com/flip-book/efb6d99a0b.html#page/1)
 	</p>
 
 </div>
