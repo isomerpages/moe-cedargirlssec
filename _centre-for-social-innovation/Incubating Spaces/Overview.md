@@ -14,5 +14,5 @@ This is an environment created to enable the students to connect, collaborate an
 <img src="images/SI/guest%20speaker%20from%20japan.jpg" style="width:100%">
 **Guest speaker from Japan on Social Entrepreneurship Start-up**<br><br>
 
-<img src="images/SI/guest%20speaker%20from%20japan.jpg" style="width:100%">
+<img src="images/SI/mentorship%20by%20psg%20volunteer.jpg" style="width:100%">
 **Mentorship by PSG volunteer **<br><br>
