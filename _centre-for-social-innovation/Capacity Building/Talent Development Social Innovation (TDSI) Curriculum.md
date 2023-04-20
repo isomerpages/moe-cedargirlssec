@@ -4,8 +4,16 @@ permalink: /centre-for-social-innovation/capacity-building/social-innovation-tal
 description: ""
 third_nav_title: Capacity Building
 ---
-### Social Innovation Talent Development
+### Talent Development Social Innovation (TDSI) Curriculum 
 
-<img src="/images/sitd.png" style="width:80%">
+The Talent Development Social Innovation (TDSI) curriculum is  designed for our (i) Direct School Admission Social Innovation students from Year 1 - 4 and our (ii) Year 3 - 4 talent development students. Our TDSI students have the opportunity to participate in local and global innovation competitions. 
 
-The CREATE acronym embodies the core values of our Social Innovation programme, an essential part of our DNA to support Cedarians’ growth.
+  
+
+*   Year 1 - Exposure to global and local issues 
+    
+*   Year 2 -  Developing and creating innovative solutions 
+    
+*   Year 3 - Deepen application of academic learning to problem-solving and exposure to business concepts
+    
+*   Year 4 - Application of learning and skills to set-up a social enterprise
