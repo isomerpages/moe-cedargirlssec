@@ -7,9 +7,9 @@ third_nav_title: Nexus
 <table>
 <tbody>
 <tr>
-<td>**2022**</td>
-<td>**Name of Project**</td>
-<td><strong>**Aquaristic Pumpers**</strong></td>
+<td>2022</td>
+<td>Name of Project</td>
+<td><strong>Aquaristic Pumpers</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -52,7 +52,7 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
+<td>Name of Project</td>
 <td><strong>Hyperks</strong></td>
 </tr>
 <tr>
@@ -87,8 +87,8 @@ Seo Yelin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**A-ron**</td>
+<td>Name of Project</td>
+<td>A-ron</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -122,8 +122,8 @@ Seo Yelin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**Froggy**</td>
+<td>Name of Project</td>
+<td>Froggy</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -164,8 +164,8 @@ Claire-Marie<br>
 <tbody>
 <tr>
 <td>2021</td>
-<td>**Name of Project**</td>
-<td>**AI(R)CREW – Be in the Role, Feel the Heritage**.</td>
+<td>Name of Project</td>
+<td>AI(R)CREW – Be in the Role, Feel the Heritage.</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -199,8 +199,8 @@ Miina Hayashi<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**Bob Tackling Technology**</td>
+<td>Name of Project</td>
+<td>Bob Tackling Technology</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -235,8 +235,8 @@ Verlin Veriandra Fortuna<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**Caps Off**</td>
+<td>Name of Project</td>
+<td>Caps Off</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -269,8 +269,8 @@ Tiffany Tan<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**Rotating Poster Holder**</td>
+<td>Name of Project</td>
+<td>Rotating Poster Holder</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -306,8 +306,8 @@ Alyssa Tan<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**Brahm Centre Design Project**</td>
+<td>Name of Project</td>
+<td>Brahm Centre Design Project</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -343,8 +343,8 @@ Lakshmanan Kumar Dakshata<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>**Name of Project**</td>
-<td>**E-companions**</td>
+<td>Name of Project</td>
+<td>E-companions</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
