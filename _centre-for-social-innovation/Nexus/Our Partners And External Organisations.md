@@ -2,7 +2,7 @@
 title: Our Partners And External Organisations
 permalink: /centre-for-social-innovation/the-nexus/our-partners-and-external-organisations/
 description: ""
-third_nav_title: The Nexus
+third_nav_title: Nexus
 ---
 ### Our Partners And External Organisations
 

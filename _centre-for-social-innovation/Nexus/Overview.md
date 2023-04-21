@@ -2,7 +2,7 @@
 title: Overview
 permalink: /centre-for-social-innovation/the-nexus/overview/
 description: ""
-third_nav_title: The Nexus
+third_nav_title: Nexus
 ---
 ### The Nexus
 

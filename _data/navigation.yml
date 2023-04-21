@@ -13,6 +13,8 @@ links:
         url: https://sites.google.com/moe.edu.sg/cedar65
       - title: Contact Us
         url: /our-cedar/contact-us/
+      - title: SI
+        url: /Our-Story/About-CSI
   - title: Our People
     collection: our-people
   - title: Our Curriculum
@@ -21,5 +23,5 @@ links:
     collection: our-community
   - title: Admissions
     collection: admissions
-  - title: Centre of Social Innovation
-    url: /centre-for-social-innovation/our-story/about-csi-inc/
+  - title: Centre For Social Innovation
+    collection: centre-for-social-innovation

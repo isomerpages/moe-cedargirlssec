@@ -2,7 +2,7 @@
 title: Social Innovation Speaker Series
 permalink: /centre-for-social-innovation/the-nexus/social-innovation-speaker-series/
 description: ""
-third_nav_title: The Nexus
+third_nav_title: Nexus
 ---
 ### Social Innovation Speaker Series
 
@@ -40,4 +40,3 @@ Ms Farah delivered a talk to our IP2 students on 17 Oct 2016 during their Imagin
 
 **Mr Jonathan Chang (Executive Director, Lien Centre for Soial Innovation)**  <br>
 During his lecture with the Cedarians on 12 Oct 2015, Mr Chang recounted his motivations of becoming an advocate for social entrepreneurship. He also shared with our students the importance of adopting a resilient, yet adaptable mindset when carrying out projects.
-

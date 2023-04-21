@@ -2,7 +2,7 @@
 title: News
 permalink: /centre-for-social-innovation/the-nexus/news/
 description: ""
-third_nav_title: The Nexus
+third_nav_title: Nexus
 ---
 ### News
 
@@ -13,7 +13,7 @@ As part of the National Environment Agency (NEA)’s Design-a-Table initiative, 
 <img src="/images/news1.png" style="width:60%">
 <img src="/images/news2.png" style="width:60%">
 
-A NEA collaboration
+A&nbsp;NEA collaboration
 
 “Under the Sea”
 
