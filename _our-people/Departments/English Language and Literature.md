@@ -11,7 +11,6 @@ third_nav_title: Departments
 | HOD/ English | Mr Ong Chin Meng |
 | HOD/ SSD | Mdm Pang Ee Wei |
 | Year Head/Y3 & 4 | Ms Sophia Sim |
-| SH/ English | Ms Lim Hui Mei, Jasmine |
 | Teacher | Mrs Peh Lai Wah |
 | Teacher | Ms Esther Low Mui Sum |
 | Teacher | Ms Sri Laxshemy V Thevan |
