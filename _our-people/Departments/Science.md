@@ -4,7 +4,6 @@ permalink: /our-people/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-
 #### Science
 
 | Title | Name |
@@ -24,7 +23,6 @@ third_nav_title: Departments
 | Teacher  | Mr Gui Eng Hong |
 | Teacher  | Ms Olivia Ng |
 | Teacher | Mr Raymond Tan |
-| Teacher | Mr Lee Lian Siong  |
 | Teacher | Mr Ang Ter Shien |
 | Teacher | Ms Low Xin Yu |
 | Teacher  | Ms Guan Xing Hua |
