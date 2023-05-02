@@ -93,7 +93,7 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 <td width="300">
 <p><strong>Service to the Community </strong></p>
 <p>Values-In-Action Projects (school initiated) and/or volunteer experience at organisation of choice</p>
-<p>&nbsp;</p>
+
 <p><strong>Innovation-related competitions (If any):</strong></p>
 <p>Representation or achievement in National, Zonal or school based or non-school based innovation competitions.</p>
 <p>Examples of relevant competitions are Sony Creative Awards, Junior Lego Robotics Competition, Tan Kah Kee Young Inventors Awards, Innovation Awards (MOE- IVP).</p>
@@ -107,14 +107,14 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 <tr>
 <td width="618" colspan="3">
 <p>Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</p>
-<p>&nbsp;</p>
+
 <p>For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 <p><strong><u>&nbsp;</u></strong></p>
 <p><strong><u>Application Process</u></strong></p>
 <ul>
@@ -124,8 +124,6 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 <ul>
 <li><u>Applicants NOT studying in MOE mainstream primary schools: </u>A placement test may be conducted for Returning Singaporeans and non-mainstream students in foreign system schools and private education institutions to assess their course suitability.</li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><u>Submission of Documents </u></strong></p>
 <p>Shortlisted applicants will be required to submit the following documents. Please scan and email the documents to <a href="mailto:cedargirlss@moe.edu.sg">cedargirlss@moe.edu.sg</a>. Please indicate in your subject title: DSA 2021_DSA Category_ Name of Primary School_Name of student.</p>
 <p><strong>&nbsp;</strong></p>
@@ -161,7 +159,7 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 <p><strong>Note: Certified True Copy refers to copy stamped with primary school’s endorsement. </strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong><u>Timeline</u></strong></p>
-<p><strong><u>&nbsp;</u></strong></p>
+
 <p><strong>Sports Category</strong></p>
 <table width="588">
 <tbody>
@@ -265,7 +263,7 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 </td>
 <td width="280">
 <p>Email notification to attend interview and conduct of performance task</p>
-<p>&nbsp;</p>
+
 <p>Both the task and interview will be conducted in a single session.</p>
 </td>
 <td width="249">
@@ -297,12 +295,12 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p><strong><u>Important Points to Note<br> </u></strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s profile, and the programmes available to develop the area of talent.</p>
-<p>&nbsp;</p>
+
 <p>Successful applicants will be admitted if they accept the DSA offer and qualify for the Express Course after the release of the PSLE results. Please take note that once applicants have exercised the Confirmed Offer or Wait List, they are not allowed to participate in the Secondary One Posting Exercise. They are also not allowed to transfer to another school after the release of the PSLE results.</p>
-<p>&nbsp;</p>
+
 <p>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the O-Level track or 6 years for the Integrated Programme), and participate in the activities related to the talent they are selected for from year 1-4.</p>
-<p>&nbsp;</p>
+
 <p><strong><u>Clarification</u></strong></p>
 <p>If you have any queries, please email <a href="mailto:cedargirlss@moe.edu.sg">cedargirlss@moe.edu.sg</a> or call us at 6288 4909, between 8.00am to 4.00pm, Monday to Friday, except for public holidays.</p>
