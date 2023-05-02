@@ -115,12 +115,12 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 </tbody>
 </table>
 
-<p><strong><u>&nbsp;</u></strong></p>
+
 <p><strong><u>Application Process</u></strong></p>
 <ul>
 <li>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11.00am – 31 May 2023, 3.00pm. For more details, please refer to MOE website <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a>.</li>
 </ul>
-<p><span style="text-decoration: line-through;">&nbsp;</span></p>
+
 <ul>
 <li><u>Applicants NOT studying in MOE mainstream primary schools: </u>A placement test may be conducted for Returning Singaporeans and non-mainstream students in foreign system schools and private education institutions to assess their course suitability.</li>
 </ul>
@@ -141,7 +141,7 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 <td width="301">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Not required</u> to submit any hard copies of any school-based results activities and achievements.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificates of non-school based activities and achievements relevant to the selected talent area(s) if any.</p>
-<p><strong><u>&nbsp;</u></strong></p>
+
 </td>
 <td width="301">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Certified True Copy</strong> of</p>
