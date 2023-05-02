@@ -150,14 +150,14 @@ Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-inno
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificate of participation in community-based projects or activities</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificates of non-school based activities and achievements</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A photocopy of the <strong>Registration Number Form</strong></p>
-<p><strong><u>&nbsp;</u></strong></p>
+
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 <p><strong>Note: Certified True Copy refers to copy stamped with primary school’s endorsement. </strong></p>
-<p><strong>&nbsp;</strong></p>
+
 <p><strong><u>Timeline</u></strong></p>
 
 <p><strong>Sports Category</strong></p>
