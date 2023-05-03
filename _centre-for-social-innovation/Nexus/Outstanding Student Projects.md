@@ -42,11 +42,6 @@ Tiffany Koh Hoon Chin<br>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Pictures&nbsp;</td>
-<td> </td>
-</tr>
-<tr>
-<td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
@@ -82,8 +77,6 @@ Seo Yelin<br>
 <td> </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -116,9 +109,6 @@ Seo Yelin<br>
 <td></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -159,7 +149,7 @@ Claire-Marie<br>
 </tr>
 </tbody>
 </table>
-<p>2022 / 2021 Outstanding Student Projects → suggest to place in google site resposirtory&nbsp;</p>
+
 <table>
 <tbody>
 <tr>
@@ -193,9 +183,6 @@ Miina Hayashi<br>
 <td></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -229,9 +216,6 @@ Verlin Veriandra Fortuna<br>
 <td></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -263,9 +247,6 @@ Tiffany Tan<br>
 <td></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -300,9 +281,6 @@ Alyssa Tan<br>
 <td></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -337,9 +315,6 @@ Lakshmanan Kumar Dakshata<br>
 <td></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
