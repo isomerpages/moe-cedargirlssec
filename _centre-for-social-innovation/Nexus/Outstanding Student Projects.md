@@ -159,7 +159,7 @@ Claire-Marie<br>
 </tr>
 </tbody>
 </table>
-<p>2022 / 2021 Outstanding Student Projects → suggest to place in google site resposirtory&nbsp;</p>
+
 <table>
 <tbody>
 <tr>
