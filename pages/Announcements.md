@@ -5,8 +5,8 @@ description: ""
 ---
 ### Announcements
 
-##### [Cedar Open House 2023]![](/images/motd%20-%20corporate%20style.jpg)
-Cedar Open House is back live this year! Do join us on 20 May 2023 (Saturday), 0830 – 1230 for an experience of what life in Cedar is like. Sign up for the day’s programme of talks and tours via the URL provided: https://go.gov.sg/cgssopenhouse23reg 
+##### Cedar Open House 2023![](/images/motd%20-%20corporate%20style.jpg)
+Cedar Open House is back live this year! Do join us on 20 May 2023 (Saturday), 0830 – 1230 for an experience of what life in Cedar is like. Sign up for the day’s programme of talks and tours via the URL provided: [https://go.gov.sg/cgssopenhouse23reg ](https://go.gov.sg/cgssopenhouse23reg )
 
 We look forward to seeing you on 20 May!
 
