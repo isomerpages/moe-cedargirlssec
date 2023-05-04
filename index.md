@@ -20,5 +20,5 @@ sections:
         - title: Information
           description: ""
           url: /information/
-      background: /images/Home Banner/CGSS Hero Banner.gif
+      background: /images/Home Banner/zest2023.gif
 ---
