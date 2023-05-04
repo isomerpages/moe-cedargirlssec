@@ -3,8 +3,8 @@ title: INFORMATION
 permalink: /information/
 description: ""
 ---
-        
-
+## Canteen Stall Advertisement
+## 
 **Cedar Girls' Secondary School**&nbsp;is looking for a suitable Muslim food vendor to sell a mix of traditional (e.g. mee siam, mee rebus) and, or non-traditional Malay food (e.g. Hor Fun, Yong Tau Fu, Japanese, Korean, Mediterranean/others). Please submit your application form&nbsp;with your&nbsp;**proposed \*Set Menu (include fruit serving) with Set Meal price list.**&nbsp;Our school is participating in&nbsp;**Healthy Meals&nbsp;in Schools Programme (HMSP).**&nbsp;\*Please refer to HPB website for more infor on HMSP guidelines (e.g. wholegrain, non-fried, low sugar/salt, etc.).
 
 #### **A. Basic Requirement for application:**
