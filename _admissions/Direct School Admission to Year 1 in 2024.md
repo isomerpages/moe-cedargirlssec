@@ -41,7 +41,7 @@ d. Mentorship<br>
 e. Conferences and competitions <br>
 f. Learning Journeys and Interactions with Industry Experts &nbsp;
 
-Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi-inc/)&nbsp;for more information on our Social Innovation Programme.
+Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/)&nbsp;for more information on our Social Innovation Programme.
 
 
 <p><strong>Criteria and Selection Process for <u>both O-Level and IP Programme</u></strong></p>
