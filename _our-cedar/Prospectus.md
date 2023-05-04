@@ -9,4 +9,4 @@ Click on the thumbnail to view our prospectus!
 <a href="/files%2FProspectus/editMediaSettings/Cedar%20Prospectus%202022_update%2028Apr.pdf">
 
 [Cedar Prospectus 2023]
-	</a><a href="/files/Cedar%20Prospectus%202022_update%2028Apr.pdf"><img style="width:35%" src="/images/prospectus.png"></a>
+	</a><a href="files/Cedar%20Prospectus%202022_update%2028Apr.pdf"><img style="width:35%" src="/images/prospectus.png"></a>
