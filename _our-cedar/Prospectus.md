@@ -6,7 +6,8 @@ description: ""
 ### Prospectus
 
 Click on the thumbnail to view our prospectus!
-<a href="/files%2FProspectus/editMediaSettings/Cedar%20Prospectus%202022_update%2028Apr.pdf">
+
+[CGSS Prospectus 2023](/files/Prospectus/prospectus2023.pdf)
 
 [Cedar Prospectus 2023]
-	</a><a href="files/Prospectus/Cedar%20Prospectus%202022_update%2028Apr.pdf"><img style="width:35%" src="/images/prospectus.png"></a>
+	<a href="files/Prospectus/Cedar%20Prospectus%202022_update%2028Apr.pdf"><img style="width:35%" src="/images/prospectus.png"></a>
