@@ -7,7 +7,8 @@ description: ""
 
 Click on the thumbnail to view our prospectus!
 
-### [CGSS Prospectus 2023](/files/Prospectus/prospectus2023.pdf)
+
+[CGSS Prospectus](/files/Prospectus/cgssprospectus2023.pdf)
 
 [Cedar Prospectus 2023]
-	<a href="www.cedargirlssec.moe.edu.sg/files/Prospectus/prospectus2023.pdf"><img style="width:35%" src="/images/prospectus.png"></a>
+	<a href="/files/Prospectus/cgssprospectus2023.pdf"><img style="width:35%" src="/images/prospectus.png"></a>
