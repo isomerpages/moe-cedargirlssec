@@ -3,9 +3,6 @@ title: Prospectus
 permalink: /our-cedar/prospectus/
 description: ""
 ---
-### Prospectus
-
+### Cedar Prospectus 2023
+<a href="https://moe-cedargirlssec-staging.netlify.app/files/Prospectus/cgssProspectus2023.pdf"><img src="/images/prospectus.png"></a>
 Click on the thumbnail to view our prospectus!
-
-<a href="https://moe-cedargirlssec-staging.netlify.app/files/Cedar%20Prospectus%202022_update%2028Apr.pdf"><img style="width:35%" src="/images/prospectus.png">
-

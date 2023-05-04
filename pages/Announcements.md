@@ -14,13 +14,12 @@ Cedar Open House is back live this year! Do join us on 20 May 2023 (Saturday), 0
 We look forward to seeing you on 20 May!
 
 
-##### [2022 MOE OBS Briefing slides](/files/obs.pdf)
 
 * * *
 ##### [Cedar65](https://sites.google.com/moe.edu.sg/cedar65)
 
 * * *
-##### [Cedar Prospectus 2022](/files/Cedar%20Prospectus%202022_update%2028Apr.pdf)
+##### [Cedar Prospectus 2023](/files/Cedar%20Prospectus%202022_update%2028Apr.pdf)
 * * *
 
 ##### [SLS Support for Home-Based Learning](https://moe-cedargirlssec-staging.netlify.app/contact-us/sls-support-hbl/)
