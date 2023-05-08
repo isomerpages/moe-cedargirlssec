@@ -29,4 +29,5 @@ sections:
       button: Click here to sign up
       url: https://go.gov.sg/cgssopenhouse23reg
       image: /images/motd - corporate style.jpg
+      alt: Open House 2023
 ---
