@@ -20,4 +20,5 @@ sections:
         - title: Information
           description: ""
           url: /information/
+      background: /images/Home Banner/zest_v3.gif
 ---
