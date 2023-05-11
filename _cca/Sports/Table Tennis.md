@@ -13,10 +13,10 @@ The Cedar Table Tennis team aims to instill discipline, resilience and sportsman
 
   
 **TEACHERS-IN-CHARGE**  <br>
-Ms Poon Pui Fun<br>
-Mr Akmal Hussain Muhammad<br>
-Mr Ang Ter Shien<br>
-Ms Winnie Liang Huiyi (Sem 1)
+Mr Muhammad Akmal BIn Hussain<br>
+Mr Eric Tan<br>
+Mr Chan Chee Khiang<br>
+Ms Rachel Poh
 
   
 
