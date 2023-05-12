@@ -19,7 +19,7 @@ Over the years, CHE had the honour to collaborate and learn from many profession
 
   
 
-In 2014, CHE was given the opportunity to showcase our skills through the Community Chest Care & Share SG50 Light up Ceremony (Christmas light up by H.E President Tony Tan). In 2015, we had the privilege and honour to perform for both the 16th ASEAN Culture and Information (COCI) Sub-Committee for Culture (SCC) meetings and the Peranakan Arts Festival. CHE was honoured to be chosen to perform for the MTV of the SYF 2017 Virtual Music Clip. In 2018, CHE had performed in the MOB concert and Nexilius concert in support of the Singapore’s Association for the deaf. Our continued partnership with MOB for the Extra•Ordinary People concert in 2019 provided another platform for us to perform with students from Special Education (SPED) schools. Through this process, we 
+In 2014, CHE was given the opportunity to showcase our skills through the Community Chest Care &amp; Share SG50 Light up Ceremony (Christmas light up by H.E President Tony Tan). In 2015, we had the privilege and honour to perform for both the 16th ASEAN Culture and Information (COCI) Sub-Committee for Culture (SCC) meetings and the Peranakan Arts Festival. CHE was honoured to be chosen to perform for the MTV of the SYF 2017 Virtual Music Clip. In 2018, CHE had performed in the MOB concert and Nexilius concert in support of the Singapore’s Association for the deaf. Our continued partnership with MOB for the Extra•Ordinary People concert in 2019 provided another platform for us to perform with students from Special Education (SPED) schools. Through this process, we&nbsp;
 
 seek to build on the foundation for a more inclusive society. These valuable experiences not only help us develop critical skills and broaden our horizons, but also boost our team’s confidence for public performance.
 
@@ -27,13 +27,13 @@ seek to build on the foundation for a more inclusive society. These valuable exp
 
 **TEACHERS-IN-CHARGE**<br>
 Ms Jocelyn Yeow<br>
-Mdm Irdawati Binte Iskandar <br>
+Ms Poon Pui Fun&nbsp;<br>
 Ms Olivia Ng
 
   
 
 **CCA SCHEDULE**<br>
-Monday and Tuesday <br>
+Monday and Tuesday&nbsp;<br>
 3.30pm - 6.00pm
 
   
@@ -41,4 +41,5 @@ Monday and Tuesday <br>
 **ACHIEVEMENTS**<br>
 2017 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction<br>
 2019 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction<br>
-2021 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction
+2021 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction<br>
+2023 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction
