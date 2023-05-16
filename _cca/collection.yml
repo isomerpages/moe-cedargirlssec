@@ -2,8 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - CCA Achivements.md
       - Overview.md
+      - CCA Achivements.md
+      - Sports/.keep
       - Sports/Overview.md
       - Sports/Badminton.md
       - Sports/Basketball.md
@@ -11,20 +12,20 @@ collections:
       - Sports/Table Tennis.md
       - Sports/Track and Field.md
       - Sports/Volleyball.md
-      - Sports/.keep
+      - Performing Arts/.keep
       - Performing Arts/Overview.md
       - Performing Arts/Choir.md
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Handbell Ensemble.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/Symphonic Band.md
-      - Performing Arts/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/Overview.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/National Police Cadet Corps (NPCC).md
       - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/.keep
+      - Clubs and Societies/.keep
       - Clubs and Societies/Overview.md
       - Clubs and Societies/AV and Photography Club.md
       - Clubs and Societies/English Language Drama and Debating Society
@@ -32,4 +33,3 @@ collections:
       - Clubs and Societies/Environment Club.md
       - Clubs and Societies/Infocomm Club (IC²).md
       - Clubs and Societies/Inter–Cultural Clubs (ICC).md
-      - Clubs and Societies/.keep
