@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### Handbell Ensemble
-  
+
+
+![](/images/handbell2023.jpg)
 **ABOUT**  <br>
 Cedar Handbell Ensemble (CHE) was established in 2000, being one of the eight privileged schools to own handbells and handchimes. As of 2022, the Ensemble consists of 57 ringers, from Year One to Four.
 
