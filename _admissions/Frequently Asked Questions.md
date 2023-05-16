@@ -9,7 +9,7 @@ description: ""
 <table style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 864.667px;" width="0" class="iveo_table ives_tab_1">
   <tbody style="margin: 0px; outline: 0px; padding: 0px;" class="">
     <tr style="margin: 0px; outline: 0px; padding: 0px;" class="">
-      <td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 247, 222); color: rgb(34, 34, 34); vertical-align: top;" class="" width="34">
+      <td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 247, 222); color: rgb(34, 34, 34); vertical-align: top;" class="" width="40">
         <p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 23, 61); font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;" class="">
           <b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN">1.</span></b>
         </p>
