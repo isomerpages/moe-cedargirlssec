@@ -47,6 +47,11 @@ Wednesday and Friday
 3:45pm - 5:45pm  
   
 **ACHIEVEMENTS**  <br>
+2023 First Aid Championships (Senior Category) – Overall 2nd Runner Up, Silver Award<br>
+2023 First Aid Championships (Junior Category) – Silver Award<br>
+2023 Ambassadors of Blood Donation Competition – Overall Champion, Gold Award<br>
+2023 Disaster Risk Reduction Championships – Silver Award<br>
+2022 Excellent Unit Award – Gold Award<br>
 2022 First Aid Championships (Senior Category) – Gold Award, Silver Award<br>
 2022 First Aid Championships (Junior Category) – Bronze Award<br>
 2022 Ambassadors of Blood Donation Competition – Gold Award, Silver Award<br>
@@ -54,7 +59,6 @@ Wednesday and Friday
 2022 Trailblazers Championship – Gold Award, Silver Award, Commendation Award
 
   
-
 2021 Excellent Unit Award – Gold Award<br>
 2021 First Aid Championships (Senior Category) – Bronze Award<br>
 2021 First Aid Championships (Junior Category) – Silver Award<br>
