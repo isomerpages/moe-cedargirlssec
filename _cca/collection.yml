@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Achivements.md
       - Overview.md
       - Sports/Overview.md
       - Sports/Badminton.md
