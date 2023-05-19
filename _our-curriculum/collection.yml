@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCA Achivements.md
       - Academic/.keep
       - Academic/Integrated Programme.md
       - Academic/Instructional Programme.md
@@ -13,28 +12,29 @@ collections:
       - Academic/Mother Tongue.md
       - Academic/Physical Education.md
       - Academic/Science.md
+      - CCA/.keep
       - CCA/Overview.md
       - CCA/Sports.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Clubs and Societies.md
-      - CCA/.keep
-      - Student Leadership/Overview.md
-      - Student Leadership/Approach.md
-      - Student Leadership/Boards.md
-      - Student Leadership/.keep
+      - CCA Achivements.md
+      - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education (NE).md
       - CCE/MOE Sexuality Education.md
       - CCE/Cyber Wellness.md
       - CCE/Education and Career Guidance (ECG).md
       - CCE/Student Well–being.md
-      - CCE/.keep
+      - Student Leadership/.keep
+      - Student Leadership/Overview.md
+      - Student Leadership/Approach.md
+      - Student Leadership/Boards.md
+      - Talent Development/.keep
       - Talent Development/Overview.md
       - Talent Development/Humanities Special Programme (HSP).md
       - Talent Development/Mathematics.md
       - Talent Development/Regional Studies Programme (RSP).md
       - Talent Development/Sciences.md
       - Talent Development/Social Innovation.md
-      - Talent Development/.keep
       - Overseas Immersion Programme.md
