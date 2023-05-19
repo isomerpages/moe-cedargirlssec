@@ -28,7 +28,7 @@ Mr Raymond Tan<br>
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  
-3.45pm - 6.00pm  
+3.30pm - 6.00pm  
   
 **ACHIEVEMENTS**
 <br>2019 Singapoe Youth Festival (SYF) - Certificate of Distinction
