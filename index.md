@@ -30,4 +30,10 @@ sections:
       url: https://sites.google.com/moe.edu.sg/open-house-2023/home
       alt: Open House 2023
       image: /images/openhsebannerlatest.jpg
+  - infobar:
+      title: DSA to 2024 Year 1
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+      url: /admissions/dsa-year-1-2024/
 ---
