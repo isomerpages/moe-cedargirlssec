@@ -13,8 +13,7 @@ The Cedar Guzheng Ensemble strives to inculcate a deep artistic appreciation for
 
   
 
-The Cedar Guzheng Ensemble has attained many remarkable achievements through the years, such as the Certificate of Distinction/Accomplishment at the Singapore Youth Festival for the past few years. We also had the privilege of performing among 5000 performers at the Singapore Chinese Orchestra’s largest ever concert, ‘Our People, Our Music 2014’, which was held at the Singapore Sports Hub.
-
+The Cedar Guzheng Ensemble has attained many remarkable achievements through the years, such as the Certificate of Distinction/Accomplishment at the Singapore Youth Festival for the past few years. 
   
 
 Under the guidance of our instructors as well as the continuous support of our teachers-In-charge, the members of the Cedar Guzheng Ensemble will continue to do their best and strive for greater heights.
