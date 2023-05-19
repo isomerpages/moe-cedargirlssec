@@ -29,4 +29,5 @@ sections:
       button: our open house microsite
       url: https://sites.google.com/moe.edu.sg/open-house-2023/home
       alt: Open House 2023
+      image: /images/openhsebannerlatest.jpg
 ---
