@@ -28,8 +28,13 @@ Monday and Wednesday<br>
 
   
 **ACHIEVEMENTS**  <br>
+2023 Freestyle Exhibition Drill Competition – Grand Finalist<br>
+2023 Freestyle Exhibition Drill Competition – East District 1st runner up<br>
+
+2022 Unit Recognition Award - Distinction Award 2019 Unit Recognition Award - Distinction Award<br>
 2022 Freestyle Exhibition Drill Competition – Grand Finalist<br>
 2022 Freestyle Exhibition Drill Competition – East District 1st runner up<br>
 2022 Freestyle Exhibition Drill Competition – Best in Tempo and Synchronisation<br>
 2022 Orienteering – Girls Team 3rd Place<br>
-2021 Unit Recognition Award - Distinction Award 2019 Unit Recognition Award - Distinction Award
+
+2021 Unit Recognition Award - Distinction Award&nbsp;2019 Unit Recognition Award - Distinction Award

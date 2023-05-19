@@ -13,20 +13,22 @@ The Cedar Guzheng Ensemble strives to inculcate a deep artistic appreciation for
 
   
 
-The Cedar Guzheng Ensemble has attained many remarkable achievements through the years, such as the Certificate of Distinction at the Singapore Youth Festival 2015 and 2017. We also had the privilege of performing among 5000 performers at the Singapore Chinese Orchestra’s largest ever concert, ‘Our People, Our Music 2014’, which was held at the Singapore Sports Hub.
-
+The Cedar Guzheng Ensemble has attained many remarkable achievements through the years, such as the Certificate of Distinction/Accomplishment at the Singapore Youth Festival for the past few years. 
   
 
 Under the guidance of our instructors as well as the continuous support of our teachers-In-charge, the members of the Cedar Guzheng Ensemble will continue to do their best and strive for greater heights.
 
   
 **TEACHERS-IN-CHARGE**  
-Mdm Sia Lay Choon  
-Mdm Hu Xiaosu  
+Mdm Dai Xiaojin<br>
+Mdm Hu Xiaosu<br>
+Mr Hang Kam Long<br>
+Mr Raymond Tan<br>
+
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  
-3.45pm - 6.00pm  
+3.30pm - 6.00pm  
   
 **ACHIEVEMENTS**
-<br>2019 Singapoe Youth Festival (SYF) - Certificate of Distinction
+<br>2023 Singapoe Youth Festival (SYF) - Certificate of Accomplishment
