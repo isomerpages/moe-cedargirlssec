@@ -20,8 +20,11 @@ Under the guidance of our instructors as well as the continuous support of our t
 
   
 **TEACHERS-IN-CHARGE**  
-Mdm Sia Lay Choon  
-Mdm Hu Xiaosu  
+Mdm Dai Xiaojin<br>
+Mdm Hu Xiaosu<br>
+Mr Hang Kam Long<br>
+Mr Raymond Tan<br>
+
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  
