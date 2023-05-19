@@ -31,4 +31,4 @@ Monday, Wednesday and Friday
 3.30pm - 6.00pm  
   
 **ACHIEVEMENTS**
-<br>2019 Singapoe Youth Festival (SYF) - Certificate of Distinction
+<br>2023 Singapoe Youth Festival (SYF) - Certificate of Accomplishment
