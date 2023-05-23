@@ -17,11 +17,27 @@ As part of the nation's effort to build a digital hub that is globally competiti
 
   
 
-**Teachers:**<br>
+##### **Teachers:**<br>
 Ms Yeo Bi Xia<br>
-Ms Mumtas Begam Haja Muhudin 
+Ms Mumtas Begam Haja Muhudin&nbsp;
 
-**CCA Achievements:**
+##### **CCA Achievements:**
+**Year 2023**<br><br>
+**Robocup 2023 competition results**<br>
+**First Steps Category:**  
+2nd- Ang Shang Yan  
+4th- Sarah Yeow  
+Top 8- Bai Xin Jie, Loo Xin Ni Bernice  
+  
+**U19 Category:**  
+Top 6- Ong Yun Qing  
+Top 12- Yu Nian-Tong Nicole  
+  
+**SuperTeam challenge:**  
+3rd- Cedar &amp; PeiHwa Team (Cedar member: Ong Yun Qing)
+<br><br>
+
+
 
 | Yr 2022 | Name of Competition | Students |
 |---|---|---|
@@ -29,5 +45,3 @@ Ms Mumtas Begam Haja Muhudin 
 | 2 | DrCT 2022 (Design Thinking with robotics and Computational Thinking International Competition) | Isabel Sia Yu Xuan,<br> Lee Yu Shuen Treena (Bronze medal)<br>Mahtani Rhea Rajesh |
 | 3 | Mobile Apps creation competition (In Tamil Language) | kumarathasan kallpana (Second Place)<br> Kaaviya Jeevan kumar |
 | 4 | Swift Accelerator Programme<br>(Team App published on Apple App) | Janine Yeoh<br> Lee Yu Shuen Treena |
-  
-
