@@ -21,14 +21,6 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
-  - infopic:
-      title: Open House 2023
-      description: Cedar Open House is back live this year! Do join us on 20 May 2023
-        (Saturday), 0830 – 1230 for an experience of what life in Cedar is like.
-      button: our open house microsite
-      url: https://sites.google.com/moe.edu.sg/open-house-2023/home
-      alt: Open House 2023
-      image: /images/openhsebannerlatest.jpg
   - infobar:
       title: DSA to Year 1 in 2024
       button: Click here for more info
