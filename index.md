@@ -25,4 +25,8 @@ sections:
       title: DSA to Year 1 in 2024
       button: Click here for more info
       url: /admissions/dsa-year-1-2024/
+  - infobar:
+      title: Open House microsite
+      button: Click here for more info
+      url: https://sites.google.com/moe.edu.sg/open-house-2023/home
 ---
