@@ -125,7 +125,7 @@ Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/centre-for-social-
 <li><u>Applicants NOT studying in MOE mainstream primary schools: </u>A placement test may be conducted for Returning Singaporeans and non-mainstream students in foreign system schools and private education institutions to assess their course suitability.</li>
 </ul>
 <p><strong><u>Submission of Documents </u></strong></p>
-<p>Shortlisted applicants will be required to submit the following documents. Please scan and email the documents to <a href="mailto:cedargirlss@moe.edu.sg">cedargirlss@moe.edu.sg</a>. Please indicate in your subject title: DSA 2021_DSA Category_ Name of Primary School_Name of student.</p>
+<p>Shortlisted applicants will be required to submit the following documents. Please scan and email the documents to <a href="mailto:cedargirlss@moe.edu.sg">cedargirlss@moe.edu.sg</a>. Please indicate in your subject title: DSA 2023_DSA Category_ Name of Primary School_Name of student.</p>
 <p><strong>&nbsp;</strong></p>
 <table>
 <tbody>
