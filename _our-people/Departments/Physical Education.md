@@ -15,4 +15,3 @@ third_nav_title: Departments
 | Teacher | Mr Chris Chan |
 | Teacher | Mr Kelvin Neo Kai Hong |
 | Teacher | Ms Tan Li Si |
-| Teacher  | Ms Tan Yee Ting |
