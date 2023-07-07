@@ -267,7 +267,7 @@ Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/centre-for-social-
 <p>Both the task and interview will be conducted in a single session.</p>
 </td>
 <td width="249">
-<p>17 Jul</p>
+<p>5 Jul</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +278,7 @@ Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/centre-for-social-
 <p>Conduct of performance tasks and interview at Cedar Girls’ Sec School</p>
 </td>
 <td width="249">
-<p>18 Jul – 4 Aug</p>
+<p>10 Jul – 21 Jul</p>
 </td>
 </tr>
 <tr>
