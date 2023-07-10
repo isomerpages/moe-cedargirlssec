@@ -626,7 +626,7 @@ description: ""
       </td>
       <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: white;padding: 1.5pt 2.25pt;height: 15.75pt;vertical-align: top;">
         <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">
-          <span style="font-size:13px;font-family:&quot;Arial&quot;,sans-serif;color:black;">Excellent Unit Award - Gold</span>
+          <span style="font-size:13px;font-family:&quot;Arial&quot;,sans-serif;color:black;"></span>
         </p>
       </td>
     </tr>
