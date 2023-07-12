@@ -37,7 +37,7 @@ b.&nbsp;&nbsp;&nbsp; Proposed food items with proposed selling prices (price inc
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;Successful applicant will be expected to commence operation of the stall asap. Note: Stall license application will take about 2 weeks to approve.
 
-5\. Interested applicant, please email your application form to 'cedargirlss@moe.edu.sg' or call school (b/w 8.00am - 5.00pm) to arrange for an interview appointment.
+5\. Interested applicant, please email your application form to cedargirlss@moe.edu.sg or call school (b/w 8.00am - 5.00pm) to arrange for an interview appointment.
 
 6\. Shortlisted applicants will be contacted for an interview.
 
