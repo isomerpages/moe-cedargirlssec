@@ -8,11 +8,11 @@ third_nav_title: Departments
 
 | Title | Name |
 |---|---|
-| HOD/ Mathematics | Mr Ang Kai Jie |
 | HOD/ Student Management | Ms Goh Aun Lii Audrie |
 | SH/ Mathematics | Ms Ang Shu Shan |
 | SH/Student Leadership | Mr Kathiravan Bhupathy |
 | Senior Teacher | Mr Tan Gin Peng Eric |
+| Teacher | Mr Ang Kai Jie |
 | Teacher | Mr Ong Wei De |
 | Teacher | Ms Faith He |
 | Teacher | Mr Kenneth Lui Cherng Ginn |
