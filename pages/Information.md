@@ -25,7 +25,7 @@ description: ""
 
 #### **B. Submission:**
 
-1.&nbsp;&nbsp;&nbsp;Please fill-up the attached application form.
+1.&nbsp;&nbsp;&nbsp;Please download and fill-up the application form here:  [Application Form](/files/school%20canteen%20application%20form%201207.pdf).
 
 2.&nbsp; &nbsp;Shortlisted applicants will be invited to participate in a food tasting session.
 
