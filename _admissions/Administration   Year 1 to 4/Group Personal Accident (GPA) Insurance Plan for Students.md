@@ -37,4 +37,4 @@ Note:-
 
   
 
-[**Click here**](https://studentgpa.incomegroupins.com.sg/) for the insurance fact sheet with summary of claims procedures. As MOE is advocating paperless and saving our environment, please submit your claims, via e-claim submission.
+[**Click here**](https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Product+Fact+Sheet+(Year+2022).pdf) for the insurance fact sheet with summary of claims procedures. As MOE is advocating paperless and saving our environment, please submit your claims, via e-claim submission.
