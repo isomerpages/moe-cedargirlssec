@@ -5,6 +5,8 @@ description: ""
 ---
 ### Announcements
 
+### [Admission to Year 3 VCA IP in 2024](/admissions/admission-to-year3-vca-ip/)
+
 ### [Direct School Admission to Year 1 in 2024](/admissions/dsa-year-1-2024/)
 
 
