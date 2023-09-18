@@ -58,7 +58,7 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   margin-bottom:0in;margin-left:21.85pt;mso-add-space:auto;text-align:justify;
   text-justify:inter-ideograph;text-indent:-21.85pt;mso-text-indent-alt:-9.0pt;
   line-height:normal;mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>d.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>d.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;</span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   SimSun;color:black;mso-themecolor:text1;mso-ansi-language:EN-US">Achievement(s) in academic and non-academic areas (e.g. Olympiad, CCAs)</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
@@ -105,4 +105,3 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
 #### Clarification
 
 If you have any queries, please email&nbsp;[cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)&nbsp;or call us at 6288 4909, between 9.00am to 4.30pm, Monday to Friday, except for public holidays.
-
