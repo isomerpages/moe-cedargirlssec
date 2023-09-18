@@ -15,6 +15,8 @@ The Cedar National Cadet Corps (NCC) aims to develop a strong sense of responsib
 
 The NCC cadets also learn the importance of teamwork, through the Freestyle Drill (FSD), which incorporates fun into foot drills. Senior Cadets also have the opportunity to participate in the Orienteering Competition, which hones their map skills and problem-solving skills, as they face numerous adversaries in a foreign environment. The strong camaraderie forged with their platoon mates during the NCC Journey will truly enrich the lives of the cadets in the Cedar NCC.
 
+**Our Instagram:** [Click here](https://www.instagram.com/cedargirlsncc/)
+<br><br>
   
 
 **TEACHERS-IN-CHARGE**<br>
