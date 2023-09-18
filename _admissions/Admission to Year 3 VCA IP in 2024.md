@@ -60,15 +60,12 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   line-height:normal;mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>d.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;</span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   SimSun;color:black;mso-themecolor:text1;mso-ansi-language:EN-US">Achievement(s) in academic and non-academic areas (e.g. Olympiad, CCAs)</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:SimSun;color:black;mso-themecolor:
   text1;mso-ansi-language:EN-US;mso-bidi-font-weight:bold">Indicate your email subject title as Application for VCA IP3 2024_Name of Applicant_Current Sec School.</span><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
   bold"></span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:bold">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:bold">Late or incomplete submissions will not be considered.</span></p></td><td width="118" style="width:88.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
