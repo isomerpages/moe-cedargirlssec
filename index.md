@@ -22,6 +22,11 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
+      title: Admission to Year 3 VCA IP in 2024
+      id: infobar
+      button: CLICK HERE FOR MORE INFO
+      url: /admissions/admission-to-year3-vca-ip/
+  - infobar:
       title: DSA to Year 1 in 2024
       button: Click here for more info
       url: /admissions/dsa-year-1-2024/
