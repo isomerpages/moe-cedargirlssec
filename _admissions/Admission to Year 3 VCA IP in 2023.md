@@ -3,7 +3,7 @@ title: Admission to Year 3 VCA IP in 2023
 permalink: /admissions/admission-to-year3-vca-ip/
 description: ""
 ---
-### Admission to Year 3 VCA IP in 2023
+### Admission to Year 3 VCA IP in 2024
 
 Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls currently in the O-Level programme to apply for admission to Year 3 VCA IP in 2023. The Victoria-Cedar Alliance Integrated Programme (VCA IP) consists of 2 years in CGSS and 2 years in Victoria Junior College (VJC), leading to the GCE ‘A’ level examination.
 
@@ -21,4 +21,4 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
 
 #### Clarification
 
-If you have any queries, please email [cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg) or call us at 6288 4909, between 9.00am to 4.30pm, Monday to Friday, except for public holidays.
+If you have any queries, please email&nbsp;[cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)&nbsp;or call us at 6288 4909, between 9.00am to 4.30pm, Monday to Friday, except for public holidays.
