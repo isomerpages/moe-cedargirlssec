@@ -47,7 +47,7 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
   line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none">
           <span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online Application. Please click 
+  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online Application. Please [click here](https://go.gov.sg/cgssyear3vcaip)
           <u>
 						</u>
             </span>
