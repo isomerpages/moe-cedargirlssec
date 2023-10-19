@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
+  - infopic:
+      title: e-Open House November 2023
+      id: infopic
+      description: >
+        We would like to invite interested parents and students to join us for
+        our e-Open House on 11 November 2023 (Saturday), 0900 - 1100 via Zoom
+        webinar.
+      button: Click here for our microsite
+      url: https://go.gov.sg/cgssoh23
+      image: /images/nov e-open house programme.png
   - infobar:
       title: Admission to Year 3 VCA IP in 2024
       id: infobar
