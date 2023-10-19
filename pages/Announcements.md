@@ -5,6 +5,11 @@ description: ""
 ---
 ### Announcements
 
+### November E-Open House 2023[](/images/nov%20e-open%20house%20programme.png)
+Cedar Girls’ Secondary School invites interested parents and students to join us for our e-Open House on 11 November 2023 (Saturday), 0900 - 1100. We would like to take the opportunity to share more about the Cedar school experience through our online webinars. [https://go.gov.sg/cgssoh23](https://go.gov.sg/cgssoh23)
+
+We look forward to seeing you on 20 May!
+
 ### [Admission to Year 3 VCA IP in 2024](/admissions/admission-to-year3-vca-ip/)
 
 ### [Direct School Admission to Year 1 in 2024](/admissions/dsa-year-1-2024/)
