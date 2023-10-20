@@ -9,7 +9,7 @@ third_nav_title: Departments
 | Title | Name |
 |---|---|
 | HOD / PE & CCA | Mr Cleve Chia Tse Tsing |
-| SH /CCA | Mr Chai Ying Chung |
+| Teacher | Mr Chai Ying Chung |
 | Teacher | Ms Poon Pui Fun |
 | Teacher | Mr Bernard Khoo |
 | Teacher | Mr Chris Chan |
