@@ -29,7 +29,7 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
   line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online Application. Please <a href="https://go.gov.sg/cgssyear3vcaip">click here</a>.</span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
+  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online Application is closed. </span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
   line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
@@ -74,7 +74,7 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
   none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-bidi-font-weight:bold">25 Oct – 1 Nov</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
+  mso-bidi-font-weight:bold">25 Oct – 1 Nov (closed)</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
