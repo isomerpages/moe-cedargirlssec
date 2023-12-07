@@ -26,3 +26,5 @@ variant: markdown
 | Teacher | Ms Low Xin Yu |
 | Teacher  | Ms Guan Xing Hua |
 | Teacher  | Ms Glenda Chia Shaoqian |
+| Teacher  | Ms Chen Lingzhi (Wendy) |
+| Teacher  | Ms Ding Ying Jye |
