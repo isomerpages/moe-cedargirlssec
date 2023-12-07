@@ -18,7 +18,6 @@ variant: markdown
 | Teacher | Mr Ong Wei De |
 | Teacher | Ms Faith He |
 | Teacher | Mr Kenneth Lui Cherng Ginn |
-| Teacher | Mr Lee Kwok Keong |
 | Teacher  | Mr Ng Jian Zhang |
 | Teacher  | Ms Siti Aisyah |
 | Teacher  | Mr Tay Yong Hwee |
