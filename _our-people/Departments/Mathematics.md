@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-people/departments/mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Mathematics
 
@@ -11,6 +12,7 @@ third_nav_title: Departments
 | HOD/ Student Management | Ms Goh Aun Lii Audrie |
 | SH/ Mathematics | Ms Ang Shu Shan |
 | SH/Student Leadership | Mr Kathiravan Bhupathy |
+| SH/ICT | Mr Lee En Wei Jonathan​ |
 | Senior Teacher | Mr Tan Gin Peng Eric |
 | Teacher | Mr Ang Kai Jie |
 | Teacher | Mr Ong Wei De |
