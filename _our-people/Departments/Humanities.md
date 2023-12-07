@@ -19,3 +19,4 @@ variant: markdown
 | Teacher | Ms Jaclyn Cheng |
 | Teacher  | Ms Lee Yu Shan Shirleen |
 | Teacher  | Ms Yow Hui Feng |
+| Teacher  | Ms Yeo Su Yan |
