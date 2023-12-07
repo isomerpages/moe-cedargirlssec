@@ -17,6 +17,5 @@ variant: markdown
 | Teacher | Mdm Faridah Baharawi |
 | Teacher | Ms Geetha Muthuramalingam |
 | Teacher | Ms Jaclyn Cheng |
-| Teacher  | Ms Lee Xin Er |
 | Teacher  | Ms Lee Yu Shan Shirleen |
 | Teacher  | Ms Yow Hui Feng |
