@@ -23,11 +23,16 @@ Please complete all the fields.
 
 **(B) Appeal for Admission to Cedar Girls’ Secondary School**  
 
-Please note that only students whose PSLE score meets the school’s cut-off point will be considered. Admission to Cedar is subject to our assessment of the student’s suitability and availability of vacancies. All appeals are to be submitted by&nbsp;**23 Dec 10.00am.**
+Please note that only students **whose PSLE score meets the school’s cut-off point** will be considered. 
+
+Admission to Cedar is subject to our assessment of the student’s suitability and availability of vacancies. All appeals are to be submitted **by 22 Dec, 10.00am**.
+
+All appeal requests will be processed by 5 Jan 2024. Only successful applicants will be notified.
+
 
 | Link to Appeal Form | QR code for Appeal Form |
 |:---:|:---:|
-|[https://go.gov.sg/appeal2023](https://go.gov.sg/appeal2023) | <img src="/images/qrcode2.png" style="width:30%"> |
+|[https://go.gov.sg/cedar-appeal2024](https://go.gov.sg/cedar-appeal2024) | <img src="/images/qrcode2.png" style="width:30%"> |
 |  |  |
 
 **(C) Administrative and Programme Briefings**
