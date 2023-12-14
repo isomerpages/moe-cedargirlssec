@@ -1,7 +1,8 @@
 ---
-title: CCA Achivements
+title: CCA Achievements
 permalink: /cca/ccaachivements/
 description: ""
+variant: tiptap
 ---
 <table style="border: none;width:467.2pt;border-collapse:collapse;">
   <tbody>

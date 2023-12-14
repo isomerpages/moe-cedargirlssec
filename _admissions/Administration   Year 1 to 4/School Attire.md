@@ -3,6 +3,7 @@ title: School Attire
 permalink: /admissions/administration-year-1-to-4/school-attire/
 description: ""
 third_nav_title: Administration   Year 1 to 4
+variant: markdown
 ---
 ### School Attire
 
@@ -38,4 +39,4 @@ Sunday/Public Holidays - Closed
 
 **Note:**&nbsp;DSA students are encouraged to buy their uniform earlier, before the year end&nbsp;(by appointment ONLY, via&nbsp;[www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/).
 
-Please&nbsp;[click here](/files/Letter%20for%20Parents%202022.pdf)&nbsp;for more information.
+Please [Click here](/files/2023_Uniform_Cover_Letter_for_Parents.pdf) for more information.

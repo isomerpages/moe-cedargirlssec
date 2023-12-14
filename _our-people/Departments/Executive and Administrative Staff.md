@@ -3,6 +3,7 @@ title: Executive and Administrative Staff
 permalink: /our-people/departments/executive-and-administrative-staff/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Executive and Administrative Staff
 
@@ -18,7 +19,6 @@ third_nav_title: Departments
 | Technical Support Officer (D & T) | Mr Abdul Harris Bin Zainudin |
 | Technical Support Officer (Science) | Ms Vijaysree |
 | Technical Support Officer (Science) | Ms Shamini |
-| Technical Support Officer (Science) | Ms Lynn Yeo Yuen Luan |
 | Operations Support Officer | Mr Jamal Bin Juma'at |
 | Operations Support Officer | Mdm Lei Yow Foon |
 | Operations Support Officer | Mr Mohd Nizam Bin Mahad |
