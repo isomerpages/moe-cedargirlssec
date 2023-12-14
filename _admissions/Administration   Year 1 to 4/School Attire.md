@@ -39,4 +39,4 @@ Sunday/Public Holidays - Closed
 
 **Note:**&nbsp;DSA students are encouraged to buy their uniform earlier, before the year end&nbsp;(by appointment ONLY, via&nbsp;[www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/).
 
-Please [click here](/files/2023_Uniform_Cover_Letter_for_Parents__web_ref_.pdf) for more information.
+Please [Click here](/files/2023_Uniform_Cover_Letter_for_Parents.pdf) for more information.
