@@ -18,7 +18,7 @@ Please complete all the fields.
 
 | Link for e-registration | QR code for e-registration |
 |:---:|:---:|
-| [https://go.gov.sg/cedar-ereg2024](https://go.gov.sg/cedar-ereg2024) | <img src="/images/qrcode1.png" style="width:30%"> |
+| [https://go.gov.sg/cedar-ereg2024](https://go.gov.sg/cedar-ereg2024) | <img src="/EReg2024/eReg2024QR.png" style="width:30%"> |
 |  |  |
 
 **(B) Appeal for Admission to Cedar Girls’ Secondary School**  
