@@ -150,7 +150,7 @@ All appeal requests will be processed by 5 Jan 2024. Only successful applicants 
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;line-height:normal;"><span style="font-family:&quot;Arial&quot;,sans-serif;">5</span></p>
             </td>
             <td style="width: 175.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 26pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;"><span style="font-family:&quot;Arial&quot;,sans-serif;">Financial Assistance Schemes&nbsp;</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;"><span style="font-family:&quot;Arial&quot;,sans-serif;">Financial Assistance Schemes&nbsp;<br>[2024 CGSS FAS Schemes](/files/EReg2024/2024_CGSS_FAS_Schemes.pdf)</span></p>
             </td>
             <td style="width: 184.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 26pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;"><u><span style="font-family:&quot;Arial&quot;,sans-serif;"><span style="text-decoration:none;">&nbsp;</span></span></u></p>
