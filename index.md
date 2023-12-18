@@ -21,6 +21,11 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
+  - infobar:
+      title: Year 1 Registration 2024
+      id: infobar
+      button: Click here for more info
+      url: https://www.cedargirlssec.moe.edu.sg/admissions/year-1-registration-exercise-2024/
   - infopic:
       title: e-Open House November 2023
       id: infopic
