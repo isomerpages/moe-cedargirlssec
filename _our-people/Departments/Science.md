@@ -28,3 +28,4 @@ variant: markdown
 | Teacher  | Ms Glenda Chia Shaoqian |
 | Teacher  | Ms Chen Lingzhi (Wendy) |
 | Teacher  | Ms Ding Ying Jye |
+| Teacher  | Ms Pearl Wong |
