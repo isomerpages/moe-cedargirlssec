@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Announcements
 
-####  Information for o level results release
+####  Information for O level results release
 Dear Les Etoiles Cohort of 2023,
 
 Please note the following information with regards to release of O Level Results this Thursday, 11 January 2024: 
