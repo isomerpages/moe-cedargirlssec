@@ -22,6 +22,11 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
+      title: Information for O level results release
+      id: infobar
+      button: Click here for more info
+      url: /admissions/o-level-results-release/
+  - infobar:
       title: Year 1 Registration 2024
       id: infobar
       button: Click here for more info
@@ -49,9 +54,4 @@ sections:
       title: Open House microsite
       button: Click here for more info
       url: https://sites.google.com/moe.edu.sg/open-house-2023/home
-  - infobar:
-      title: Information for O level results release
-      id: infobar
-      button: Click here for more info
-      url: /admissions/o-level-results-release/
 ---
