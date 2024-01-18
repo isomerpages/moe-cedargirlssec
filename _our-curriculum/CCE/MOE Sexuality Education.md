@@ -5,10 +5,10 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:0in;font-size:18px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <strong><span style="font-family: Arial, Helvetica, sans-serif;">CEDAR GIRLS’ SECONDARY SCHOOL</span></strong>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:0in;font-size:18px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Moe Sexuality Education in Schools</strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
@@ -71,16 +71,16 @@ variant: markdown
   </li>
 </ol>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">You may <span style="color: black;">click&nbsp;</span><a href="https://go.gov.sg/moe-sexuality-education">here</a> for more
+  <span style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">You may <span style="color: black;">click&nbsp;</span><a href="https://go.gov.sg/moe-sexuality-education">here</a> for more
     information on MOE Sexuality Education.</span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong>&nbsp;</strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Overview of Cedar Girls’ Secondary School’s Sexuality
+  <span style="font-family: Arial, Helvetica, sans-serif;font-size:18px;"><strong>Overview of Cedar Girls’ Secondary School’s Sexuality
       Education Programme for 2024</strong></span>
-</p>
+</p><br>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">4.Sexuality Education is delivered in a holistic manner through the school
     curriculum. The content for Sexuality Education is grouped into five main
@@ -94,10 +94,10 @@ variant: markdown
   <span style="font-family: Arial, Helvetica, sans-serif;">5.The subjects that incorporate topics on sexuality include:</span>
 </p>
 <ol style="list-style-type: lower-alpha;">
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     <span style="color: black;">Science</span>
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     <span style="color: black;">Character and Citizenship Education (CCE)</span>
   </li>
 </ol>
@@ -105,7 +105,7 @@ variant: markdown
   <span style="color: black;"><br></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><u><span style="color: black;">Sexuality Education Lessons</span></u></strong></span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
+  <span style="font-family: Arial, Helvetica, sans-serif;font-size:18px;"><strong><u><span style="color: black;">Sexuality Education Lessons</span></u></strong></span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">6.The values and attitudes of our youth towards sexuality are increasingly
