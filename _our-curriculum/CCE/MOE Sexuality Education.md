@@ -6,10 +6,10 @@ third_nav_title: CCE
 variant: markdown
 ---
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <strong><span style="font-family: Arial, Helvetica, sans-serif;">CEDAR GIRLS’ SECONDARY SCHOOL</span></strong>
+  <strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">CEDAR GIRLS’ SECONDARY SCHOOL</span></strong>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Moe Sexuality Education in Schools</strong></span>
+  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 18px;">Moe Sexuality Education in Schools</span></strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
@@ -102,7 +102,7 @@ variant: markdown
   </li>
 </ol>
 <p>
-  <span style="color: black;"><br></span>
+  <span style="color: black; font-family: Arial, Helvetica, sans-serif;"><br></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><u><span style="color: black;">Sexuality Education Lessons</span></u></strong></span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
@@ -139,72 +139,70 @@ variant: markdown
 <p style="margin-right:0in;margin-left:-49.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 21px;">Secondary 1</span></strong></span>
 </p>
-<div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;" align="center">
-  <table style="width: 5.4e+2pt;border-collapse:collapse;border:none;">
+<div style="font-size:16px;" align="center">
+  <table style="border:none;border-collapse:collapse;">
     <thead>
       <tr>
-        <td style="width: 80.75pt;border: 1pt solid black;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Unit</span></strong></span>
+        <td style="border: 1pt solid black;">
+          <p style="text-align: left;font-size: 16px;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;font-size: 15px;">Unit</span></strong></span>
           </p>
         </td>
-        <td style="width: 15.3988%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Title / Duration</span></strong></span>
+        <td style="border-left: none; border-right: 1pt solid black; border-top: 1pt solid black; border-bottom: 1pt solid black; width: 9.1477%;">
+          <p style="font-size:16px;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;font-size: 15px;">Lesson Title / Duration</span></strong></span>
           </p>
         </td>
-        <td style="width: 25.2319%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Overview</span></strong></span>
+        <td style="border-left: none; border-right: 1pt solid black; border-top: 1pt solid black; border-bottom: 1pt solid black; width: 28.861%;">
+          <p style="font-size:16px;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;font-size: 15px;">Lesson Overview</span></strong></span>
           </p>
         </td>
-        <td style="width: 23.1911%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Objectives</span></strong></span>
+        <td style="border-left: none; border-right: 1pt solid black; border-top: 1pt solid black; border-bottom: 1pt solid black; width: 31.3456%;">
+          <p style="font-size:16px;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;font-size: 15px;">Lesson Objectives</span></strong></span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">At the end of the lesson, students will be able to:</span>
+          <p style="font-size:16px;">
+            <span style="color: black; font-size: 15px; font-family: Arial, Helvetica, sans-serif;">At the end of the lesson, students will be able to:</span>
           </p>
         </td>
-        <td style="width: 1in;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;text-indent:-5.65pt;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Time Period</span></strong></span>
+        <td style="border-left: none; border-right: 1pt solid black; border-top: 1pt solid black; border-bottom: 1pt solid black; width: 21.1219%;">
+          <p style="font-size:16px;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;font-size: 15px;">Time Period</span></strong></span>
           </p>
-          <p style="margin-right:0in;margin-left:-5.45pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">(e.g.Term 1 Week 2)</span></strong></span>
+          <p style="font-size:16px;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;font-size: 15px;">(e.g.Term 1 Week 2)</span></strong></span>
           </p>
         </td>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:192.05pt;" rowspan="3">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border:solid windowtext 1.0pt;border-top:none;" rowspan="3">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Respectful Relationships &amp; Safety</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="width: 15.3988%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 192.05pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 9.1477%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Steady or Not</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson 1</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
           </p>
         </td>
-        <td style="width: 25.2319%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 192.05pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 28.861%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">This lesson helps students understand more about relationship
               building and the different types of love (e.g. familial, platonic,
               romantic). They will have the opportunity to better understand the
@@ -213,119 +211,113 @@ variant: markdown
               healthy and supportive relationships, both online and
               offline.</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="width: 23.1911%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 192.05pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 31.3456%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise the importance of monitoring and managing our emotional
               reactions, in helpful ways that are reflective of our values and
               principles</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise that there are different forms of love (e.g. familial,
               platonic, romantic love)</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise the importance and understand what builds healthy and
               supportive relationships, both online and offline</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand what dating is, and recognise that the readiness and
               interest in dating vary among individuals</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          <p style="font-size:16px;">
             <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="width: 1in;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 192.05pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 21.1219%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 4</span>
           </p>
         </td>
       </tr>
       <tr>
-        <td style="width: 15.3988%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 9.1477%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Being Aware, Being Safe</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson 2</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
           </p>
         </td>
-        <td style="width: 25.2319%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson focuses on helping students to be safe from the
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 28.861%;">
+          <p style="font-size:16px;">
+            <span style="color: black; font-size: 15px; font-family: Arial, Helvetica, sans-serif;">This lesson focuses on helping students to be safe from the
               dangers of sexual grooming and on respecting one’s right to
               safety. Students will also learn about the legal provisions
               against sexual abuse, and the impact of sexual abuse on victims,
               including the psychological impact on the sense of self.</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 15px; color: black;">This lesson is conducted separately for boys and girls in
-                different classrooms, so that the students will feel more
-                comfortable during the discussions.</span></span>
+          <p style="font-size:16px;">
+            <span style="color: black; font-size: 15px; font-family: Arial, Helvetica, sans-serif;">This lesson is conducted separately for boys and girls in
+              different classrooms, so that the students will feel more
+              comfortable during the discussions.</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="width: 23.1911%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 31.3456%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand that physical and psychological abuse from others,
               especially those we know and trust, can have strong negative
               effects on a person’s self-concept</span>
           </p>
         </td>
-        <td style="width: 1in;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;text-indent:1.65pt;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 21.1219%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 6</span>
           </p>
         </td>
       </tr>
       <tr>
-        <td style="width: 15.3988%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 245.25pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 9.1477%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">More than Meets the Eye</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson 3</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
           </p>
         </td>
-        <td style="width: 25.2319%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 245.25pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson touches on two areas relevant to an
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 28.861%;">
+          <p style="font-size:16px;">
+            <span style="color: black; font-size: 15px; font-family: Arial, Helvetica, sans-serif;">This lesson touches on two areas relevant to an
               adolescent’s curiosity on matters related to sexuality
               – masturbation and pornography. Students will gain awareness
               of the health, legal and moral issues related to viewing,
@@ -334,34 +326,34 @@ variant: markdown
               consequences to bear, they will learn that it could lead to
               addiction and/or other risky sexual behaviours.</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 15px; color: black;">This lesson is conducted separately for boys and girls in
-                different classrooms, so that the students will feel more
-                comfortable during the discussions.</span></span>
+          <p style="font-size:16px;">
+            <span style="color: black; font-size: 15px; font-family: Arial, Helvetica, sans-serif;">This lesson is conducted separately for boys and girls in
+              different classrooms, so that the students will feel more
+              comfortable during the discussions.</span>
           </p>
         </td>
-        <td style="width: 23.1911%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 245.25pt; vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 31.3456%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand and accept that as we work towards becoming our best
               self, there will be times when we make mistakes, and recognise the
               importance of exercising moral courage in facing up to
               consequences</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise that there are moral and legal consequences of risky
               sexual behaviours, pornography access and acting irresponsibly or
               maliciously when online (e.g. spreading of online falsehoods,
               flouting copyright laws, etc.)</span>
           </p>
         </td>
-        <td style="width: 1in;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 245.25pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-left: none; border-right: 1pt solid windowtext; border-top: none; border-bottom: 1pt solid black; width: 21.1219%;">
+          <p style="font-size:16px;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 7</span>
           </p>
         </td>
@@ -369,43 +361,46 @@ variant: markdown
     </tbody>
   </table>
 </div>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="font-size:16px;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 19px;">&nbsp;</span></strong></span>
 </p>
+<div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;" align="center">
+  <span style="font-family: Arial, Helvetica, sans-serif;"><br></span>
+</div>
 <p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 21px;">Secondary 2</span></strong></span>
 </p>
-<table style="float: left;width:562.25pt;border-collapse:collapse;border:none;margin-left:6.75pt;margin-right:6.75pt;">
+<table style="border: none; width: 99%; margin-left: 6.75pt; border-collapse: collapse; margin-right: calc(0%);">
   <thead>
     <tr>
-      <td style="border: 1pt solid black;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="border: 1pt solid black; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top; width: 9.3787%;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Unit</span></strong></span>
         </p>
       </td>
-      <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="width: 10.4424%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Title/ Duration</span></strong></span>
         </p>
       </td>
-      <td style="width: 202.85pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:-15.6pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;text-indent:15.6pt;">
+      <td style="width: 37.0841%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;text-indent:15.6pt;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Overview</span></strong></span>
         </p>
       </td>
-      <td style="width: 130.5pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="width: 26.7263%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Objectives</span></strong></span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">At the end of the lesson, students will be able to:</span>
         </p>
       </td>
-      <td style="width: 85.5pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;text-indent:-5.65pt;">
+      <td style="width: 15.6765%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;text-indent:-5.65pt;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Time Period</span></strong></span>
         </p>
-        <p style="margin-right:0in;margin-left:-5.25pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">(e.g.Term 1 Week 2)</span></strong></span>
         </p>
       </td>
@@ -413,97 +408,90 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td style="border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.9pt;" rowspan="3">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Respectful Relationships &amp; Safety</span>
+      <td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0in 5.4pt; height: 14.9pt; width: 9.3787%;" rowspan="3">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Respectful Relationships &amp; Safety</span>
         </p>
       </td>
-      <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">A Role for Everyone</span>
+      <td style="width: 10.4424%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">A Role for Everyone</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;1</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson 1 (60mins)</span>
         </p>
-        <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-          <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:9.7px;">
-            <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
-              <span style="font-size: 15px;">mins)</span>
-            </li>
-          </ol>
-        </div>
       </td>
-      <td style="width: 202.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 37.0841%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson focus on how the family, culture and society can
             influence one’s perception of their gender roles. Students
             will learn what gender stereotypes are (e.g. males traditionally as
             breadwinners and females traditionally as doing household chores)
-            and how gender stereotypes are formed.&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Students will discuss how one’s understanding of gender roles
+            and how gender stereotypes are formed.&nbsp;</span><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Students will discuss how one’s understanding of gender roles
             should not be limited by gender stereotypes, for example women can
             be pilots, while men can be nurses.</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Students learn to focus on their personal strengths to pursue their
             interests and build their self- confidence.</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Students will also learn about the definitions of biological sex,
             gender identity, gender expression and sexual orientation. They will
             learn to treat everyone with respect and empathy.</span>
         </p>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:16.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 130.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that one’s understanding of gender roles should not be
+      <td style="width: 26.7263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">know that one’s understanding of gender roles should not be
             limited by gender stereotypes</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">develop an appreciation of one’s own unique qualities and
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">develop an appreciation of one’s own unique qualities and
             characteristics as a male or female</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand&nbsp;what sexual orientation entails</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">understand&nbsp;what sexual orientation entails</span>
         </p>
       </td>
-      <td style="width: 85.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 6</span>
+      <td style="width: 15.6765%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 6</span>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Online Safety Challenge</span>
+      <td style="width: 10.4424%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Online Safety Challenge</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;2A</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson&nbsp;2A</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">(60 mins)</span>
         </p>
       </td>
-      <td style="width: 202.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 37.0841%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson focuses on the issue of online grooming and
             cyber-flashing. It emphasises the need for help-seeking, peer
             support and positive peer influence. The lesson encourages the safe
@@ -512,48 +500,45 @@ variant: markdown
             to taking appropriate decisions to safeguard their well-being and
             safety.</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><em><span style="font-size: 15px; color: black;">This lesson is conducted separately for boys and girls in
                 different classrooms, so that the students will feel more
                 comfortable during the discussions.</span></em></span>
         </p>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 130.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:5.85pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise one’s vulnerability to risky situations and the
+      <td style="width: 26.7263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">recognise one’s vulnerability to risky situations and the
             importance of exercising discretion to reduce risks and avoid
             negative consequences, both online and offline</span>
         </p>
       </td>
-      <td style="width: 85.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 7</span>
+      <td style="width: 15.6765%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 7</span>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Do I or Don’t I</span>
+      <td style="width: 10.4424%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Do I or Don’t I</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;2B</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson&nbsp;2B</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">(60 mins)</span>
         </p>
       </td>
-      <td style="width: 202.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 37.0841%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson focuses on respect for personal boundaries; and how to
             be safe from risky sexual behaviour, teenage pregnancy and abortion.
             Students will learn the importance of respecting one another’s
@@ -563,76 +548,73 @@ variant: markdown
             protecting minors, such as the legal consequences of having sex with
             a minor, abortion and the abandonment of babies.</span>
         </p>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:16.5pt;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
         </p>
       </td>
-      <td style="width: 130.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:6.1pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise the importance of self-respect and respect for others in
+      <td style="width: 26.7263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">recognise the importance of self-respect and respect for others in
             relating to members of the opposite sex</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:6.1pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise one’s vulnerability to risky situations and the
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">recognise one’s vulnerability to risky situations and the
             importance of exercising discretion to reduce risks and avoid
             negative consequences, both offline and online</span>
         </p>
       </td>
-      <td style="width: 85.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:1.85pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 8</span>
+      <td style="width: 15.6765%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 8</span>
         </p>
       </td>
     </tr>
   </tbody>
 </table>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 37px;">&nbsp;</span></strong></span>
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+  <span style="font-family: Arial, Helvetica, sans-serif;"><br></span>
 </p>
-<p style="margin-right:0in;margin-left:-22.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 21px;">Secondary 3</span></strong></span>
 </p>
-<div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;" align="center">
-  <table style="width:499.25pt;border-collapse:collapse;border:none;">
+<div style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+  <table style="border: none; width: 99%; border-collapse: collapse; margin-left: calc(1%);">
     <thead>
       <tr>
-        <td style="border: 1pt solid black;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 19px; color: black;"><br>&nbsp;</span></strong>&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <td style="border: 1pt solid black; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top; width: 9.4506%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 19px; color: black;"><br>&nbsp;&nbsp;</span></strong></span><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
+          </p>
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Unit</span></strong></span>
           </p>
         </td>
-        <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <td style="border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top; width: 10.8993%;">
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Title/ Duration</span></strong></span>
           </p>
         </td>
-        <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <td style="border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top; width: 36.0604%;">
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Overview</span></strong></span>
           </p>
         </td>
-        <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <td style="border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top; width: 26.4487%;">
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Objectives</span></strong></span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">At the end of the lesson, students will be able to:</span>
           </p>
         </td>
-        <td style="width: 93.95pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;text-indent:-5.65pt;">
+        <td style="width: 16.8205%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;text-indent:-5.65pt;line-height:normal;">
             <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Time Period</span></strong></span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+          <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">(e.g.Term 1 Week 2)</span></strong></span>
           </p>
         </td>
@@ -640,24 +622,24 @@ variant: markdown
     </thead>
     <tbody>
       <tr>
-        <td style="border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.9pt;" rowspan="3">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0in 5.4pt; height: 14.9pt; width: 9.4506%;" rowspan="3">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Respectful Relationships &amp; Safety</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top; width: 10.8993%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Love Yourself, Love Others</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;1A</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top; width: 36.0604%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson focuses on dating respectfully in healthy
               relationships. Students will learn about self-esteem, their
               sources of influence (e.g. friends’ perception) on
@@ -668,61 +650,61 @@ variant: markdown
               and readiness are important when entering into a dating
               relationship.</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          </p>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
+            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:3.1pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top; width: 26.4487%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that self-perception and identity have an impact on our
               self-esteem and how we interact with others and the choices we
               make, both online and offline</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:3.1pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand that expectations of oneself and others may differ and
               can affect one’s emotions, thoughts and behaviours</span>
           </p>
-          <p style="margin-right:0in;margin-left:.5in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:3.1pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise what healthy dating relationships involve and know that
               readiness is important when entering into a dating
               relationship</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:24.35pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          </p>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="width: 93.95pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:3.1pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="width: 16.8205%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 3 Week 2</span>
           </p>
         </td>
       </tr>
       <tr>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Mending a</span><span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Broken Heart</span><span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;1B</span>
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top; width: 10.8993%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Mending a</span><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Broken Heart</span><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;1B</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top; width: 36.0604%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Students will learn how to manage their emotions if they were to
               face a breakup and know that relationship building involves person
               emotions and vulnerabilities, and changes and challenges. Students
@@ -733,67 +715,58 @@ variant: markdown
               healthy ways of coping with breakdowns in relationships and that
               family and friends are important pillars of support.</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
+          </p>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top; width: 26.4487%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that relationship-building involves personal emotions and
               vulnerabilities, and changes and challenges</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that a decision to end a relationship will have consequences
               on oneself and others</span>
           </p>
-          <p style="margin-right:0in;margin-left:.5in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
-          </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
-          </p>
-          <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that grief and loss due to rejections and broken
               relationships is normal and one can recover from the
               experience</span>
           </p>
-          <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know there are healthy ways of coping with broken relationships,
               and family and friends are important pillars of support</span>
           </p>
-          <div class="fr-temp-div">
-            <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-          </div>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
         </td>
-        <td style="width: 93.95pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:3.05pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="width: 16.8205%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 3 Week 3</span>
           </p>
         </td>
       </tr>
       <tr>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 79.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 79.4pt; vertical-align: top; width: 10.8993%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">When Respect Takes Centre Stage</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;2</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 79.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 79.4pt; vertical-align: top; width: 36.0604%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">This lesson aims to help students think critically and make
               informed decisions in the contexts of sexting and voyeurism, and
               encourages students to exert a positive influence as a respectful
@@ -807,24 +780,24 @@ variant: markdown
               help in times of need.</span>
           </p>
         </td>
-        <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 79.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 79.4pt; vertical-align: top; width: 26.4487%;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise the importance of being informed of social and moral
               issues of the day and the need to reflect on these issues, and
               weigh them against our own moral standpoints as we form our
               perspectives about them</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
           </p>
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand that we strengthen our character when we commit to
               sound values-based viewpoints (e.g. respect for life) and
               decisions, and speak and act in alignment with our beliefs</span>
           </p>
         </td>
-        <td style="width: 93.95pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 79.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+        <td style="width: 16.8205%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 79.4pt; vertical-align: top;">
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 3 Week 5</span>
           </p>
         </td>
@@ -832,46 +805,43 @@ variant: markdown
     </tbody>
   </table>
 </div>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 19px;">&nbsp;</span></strong></span>
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+  <span style="font-family: Arial, Helvetica, sans-serif;"><br></span>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <br>
-</p>
-<p style="margin-right:0in;margin-left:-13.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 21px;">Secondary 4</span></strong></span>
 </p>
-<table style="float: left;width:495.1pt;border-collapse:collapse;border:none;margin-left:6.75pt;margin-right:6.75pt;">
+<table style="border: none; width: 99%; margin-left: 6.75pt; border-collapse: collapse; margin-right: calc(0%);">
   <thead>
     <tr>
-      <td style="width: 81pt;border: 1pt solid windowtext;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="width: 10.271%; border: 1pt solid windowtext; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Unit</span></strong></span>
         </p>
       </td>
-      <td style="width: 76.5pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="width: 11.1187%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Title</span></strong></span>
         </p>
       </td>
-      <td style="width: 139.25pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="width: 34.9987%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Overview</span></strong></span>
         </p>
       </td>
-      <td style="width:112.5pt;border:solid windowtext 1.0pt;border-left:   none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+      <td style="width: 26.802%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Lesson Objectives</span></strong></span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">At the end of the lesson, students will be able to:</span>
         </p>
       </td>
-      <td style="width: 85.85pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;text-indent:-5.65pt;">
+      <td style="width: 16.4263%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0in 5.4pt; vertical-align: top;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;text-indent:-5.65pt;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">Time Period</span></strong></span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-top:3.0pt;margin-bottom:   3.0pt;">
+        <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:   3.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
           <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">(e.g.Term 1 Week 2)</span></strong></span>
         </p>
       </td>
@@ -879,21 +849,21 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td style="width: 81pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;" rowspan="3">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Respectful Relationships &amp; Safety</span>
+      <td style="width: 10.271%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;" rowspan="3">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Respectful Relationships &amp; Safety</span>
         </p>
       </td>
-      <td style="width: 76.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Levelling the Ground</span><span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;1</span>
+      <td style="width: 11.1187%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Levelling the Ground</span><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson&nbsp;1</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">(60 mins)</span>
         </p>
       </td>
-      <td style="width: 139.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 34.9987%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson aims to help students think critically about gender
             stereotypes that exist in our society in the contexts of career and
             family (e.g. males typically perceived as main breadwinners and
@@ -905,54 +875,51 @@ variant: markdown
             or others’ values and principles, with regard to gender
             stereotypes.</span>
         </p>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:.25in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
         </p>
       </td>
-      <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand what gender stereotypes comprise, e.g. notions of
+      <td style="width: 26.802%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">understand what gender stereotypes comprise, e.g. notions of
             masculinity and femininity vary over time and space, and are shaped
             by societal expectations</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that imposing gender stereotypes on oneself and others can
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">know that imposing gender stereotypes on oneself and others can
             limit one’s experiences, cause harm to the self-esteem of
             oneself and others and should be avoided</span>
         </p>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-family: Arial, Helvetica, sans-serif; color: rgb(193, 0, 0);">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: rgb(193, 0, 0);">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 85.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.9pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 1</span>
+      <td style="width: 16.4263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 14.9pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 1</span>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="width: 76.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">When Love Hurts</span>
+      <td style="width: 11.1187%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">When Love Hurts</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;2</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson&nbsp;2</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">(60 mins)</span>
         </p>
       </td>
-      <td style="width: 139.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:1.25pt;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 34.9987%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson aims to help students recognise unhealthy relationships
             and build their help-seeking skills. Students will learn to identify
             potential signs of an unhealthy relationship and recognise the
@@ -964,71 +931,69 @@ variant: markdown
             in the supportive environment that they have if they or their
             friends are involved in an unhealthy relationship.</span>
         </p>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:.25in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know there are healthy ways of coping with broken relationships,
+      <td style="width: 26.802%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">know there are healthy ways of coping with broken relationships,
             and family and friends are important pillars of support</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">recognise emotions caused by traumatic situations, e.g. bullying,
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">recognise emotions caused by traumatic situations, e.g. bullying,
             abuse and dating violence, and understand the physiological and
             psychological, social impact on victims</span>
         </p>
-        <p style="margin-right:0in;margin-left:.5in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand that we need moral courage and wisdom to recognise and
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">understand that we need moral courage and wisdom to recognise and
             end relationships that are unhealthy and cause harm to our mental
             and emotional well-being</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-          <p>
-            <span class="fr-close-ol"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand the importance of ensuring that non-verbal messages
-                match with verbal ones, when communicating personal and
-                emotional boundaries in a relationship</span></span>
-          </p>
-        </div>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">understand the importance of ensuring that non-verbal messages
+            match with verbal ones, when communicating personal and emotional
+            boundaries in a relationship</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 85.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 41.45pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 6</span>
+      <td style="width: 16.4263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 41.45pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 6</span>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="width: 76.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">For Better or For Worse</span>
+      <td style="width: 11.1187%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">For Better or For Worse</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson 3</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson 3</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">(60 mins)</span>
         </p>
       </td>
-      <td style="width: 139.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 34.9987%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">This lesson focuses on building a positive relationship with
             one’s partner in a marriage. Students will understand that
             while a marriage, defined in Singapore as a union between a man and
@@ -1040,68 +1005,62 @@ variant: markdown
             effectively communicating with each other.</span>
         </p>
       </td>
-      <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-          <p>
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that long-term romantic relationships leading to marriage
-              involve understanding oneself and others in the intellectual,
-              emotional, social and moral dimensions</span>
-          </p>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+      <td style="width: 26.802%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">know that long-term romantic relationships leading to marriage
+            involve understanding oneself and others in the intellectual,
+            emotional, social and moral dimensions</span>
         </p>
-        <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-          <p>
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">know that marriage entails a union between a man and a woman
-              based on love, trust, commitment, and requires mutual effort</span>
-          </p>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
-        <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-          <p>
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand that conflicts are normal in any relationship,
-              including marriage, and the way in which a couple handles conflict
-              is critical to the success of their marriage</span>
-          </p>
-        </div>
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">know that marriage entails a union between a man and a woman based
+            on love, trust, commitment, and requires mutual effort</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">understand that conflicts are normal in any relationship, including
+            marriage, and the way in which a couple handles conflict is critical
+            to the success of their marriage</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 85.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 58.2pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 8</span>
+      <td style="width: 16.4263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 58.2pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 8</span>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="width:81.0pt;border:solid windowtext 1.0pt;border-top:  none;padding:0in 5.4pt 0in 5.4pt;height:136.6pt;">
-        <div class="fr-temp-div">
-          <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
-        </div>
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+      <td style="width: 10.271%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0in 5.4pt; height: 136.6pt;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
+        </p>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">&nbsp;</span>
         </p>
       </td>
-      <td style="width: 76.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 136.6pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">There’s Always More to a Story</span>
+      <td style="width: 11.1187%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 136.6pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">There’s Always More to a Story</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Lesson&nbsp;4</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Lesson&nbsp;4</span>
         </p>
-        <p style="margin-right:0in;margin-left:0in;font-size:13px;font-family:&quot;Arial&quot;,sans-serif;margin-top:0in;margin-bottom:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">(60 mins)</span>
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">(60 mins)</span>
         </p>
       </td>
-      <td style="width: 139.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 136.6pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;background:white;">
+      <td style="width: 34.9987%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 136.6pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;background:  white;">
           <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">In this lesson, students will revisit the impact of pornography and
             deepen their understanding on its impact on relationships. Students
             will also learn about revenge pornography, including its definition
@@ -1111,76 +1070,74 @@ variant: markdown
             encountering danger.</span>
         </p>
       </td>
-      <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 136.6pt;vertical-align: top;">
-        <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-          <p>
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">understand that we strengthen our character when we commit to
-              sound values-based viewpoints (e.g. respect for life) and
-              decisions, and speak and act in alignment with our beliefs</span>
-          </p>
-        </div>
+      <td style="width: 26.802%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 136.6pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">understand that we strengthen our character when we commit to sound
+            values-based viewpoints (e.g. respect for life) and decisions, and
+            speak and act in alignment with our beliefs</span>
+        </p>
       </td>
-      <td style="width: 85.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 136.6pt;vertical-align: top;">
-        <p style="margin-right:0in;margin-left:-1.95pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 2 Week 9</span>
+      <td style="width: 16.4263%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 136.6pt; vertical-align: top;">
+        <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+          <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: black;">Term 2 Week 9</span>
         </p>
       </td>
     </tr>
   </tbody>
 </table>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;margin-bottom:8.0pt;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 19px; line-height: 107%;">&nbsp;</span></strong></span>
-</p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <br>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><em><u><span style="color: black;">eTeens</span></u></em></strong><strong><u><span style="color: black;">&nbsp;Programme</span></u></strong></span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+  <br>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">8. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
-    in collaboration with the Ministry of Education, to provide Secondary 3
+<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+  <strong><em><u><span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">eTeens</span></u></em></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong><span style="color: black;">&nbsp;Programme</span></strong></span><span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
+</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+  <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
+    collaboration with the Ministry of Education, to provide Secondary 3
     students with accurate information on STIs, HIV and protection from a health
     perspective. <em>eTeens</em> is conducted in two segments – a mass
-    talk segment and a classroom-based programme.
-    <span style="color: black;">The desired outcome of the <em>eTeens</em> programme is that students are
-      empowered to make wise, informed and sensible decisions.</span></span>
+    talk segment and a classroom-based programme. The desired outcome of the
+    <em>eTeens</em> programme is that students are empowered to make wise,
+    informed and sensible decisions.</span>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">9. Students are taught skills such as decision-making, assertiveness and
+<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+  <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">9. Students are taught skills such as decision-making, assertiveness and
     negotiation to say “no” to sex and negative peer pressure. They
     also learn that the impact of STIs/HIV extends beyond themselves and
     involves their family, and the importance of responsible decision-making and
     seeking help. Abstinence and upholding family values are the key
     messages.</span>
 </p>
-<p style="margin-right:.4in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong>At Cedar Girls’ Secondary School, the <em>eTeens</em> programme
-      will be implemented as follows in 2024:</strong></span>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+  <br>
 </p>
-<p style="margin-right:.4in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="background: yellow;">&nbsp;</span></strong></span>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 16px; color: black;">At Cedar Girls’ Secondary School, the <em>eTeens</em> programme
+        will be implemented as follows in 2024:</span></strong></span>
 </p>
-<div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;" align="center">
-  <table style="border-collapse:collapse;border:none;">
+<div style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+  <table style="border: none;border-collapse:collapse;">
     <thead>
       <tr>
         <td style="border:solid windowtext 1.0pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:30.8pt;">
-          <p style="margin-right:0in;margin-left:4.95pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;">Topics/Lessons</span></strong></span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <strong><span style="font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;">Topics/Lessons</span></strong>
           </p>
         </td>
         <td style="border:solid windowtext 1.0pt;border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:30.8pt;">
-          <p style="margin-right:0in;margin-left:4.95pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;">Programme Learning Objectives</span></strong></span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <strong><span style="font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;">Programme Learning Objectives</span></strong>
           </p>
         </td>
         <td style="border:solid windowtext 1.0pt;border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:30.8pt;">
-          <p style="margin-right:-1.95pt;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: black;">Time Period</span></strong></span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <strong><span style="font-size:16px;font-family:&quot;Arial&quot;,sans-serif;color:black;">Time Period</span></strong>
           </p>
-          <p style="margin-right:-1.95pt;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 15px; color: black;">(e.g. Term 3 Week 9)</span></strong></span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <strong><span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;color:black;">(e.g. Term 3 Week 9)</span></strong>
           </p>
         </td>
       </tr>
@@ -1188,98 +1145,66 @@ variant: markdown
     <tbody>
       <tr>
         <td style="border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Mass Talk by HPB appointed vendor</span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Mass Talk by HPB appointed vendor</span>
           </p>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
-          <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-            <ul style="margin-bottom:0in;list-style-type: disc;margin-left:-0.25in;">
-              <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
-                <span style="font-size: 15px;">Raise awareness and provide knowledge on:</span>
-              </li>
-            </ul>
-            <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-              <ol style="margin-bottom:0in;list-style-type: lower-alpha;margin-left:0in;" start="1">
-                <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
-                  <span style="font-size: 15px;">Infectious diseases (STIs and HIV): what it is, how it
-                    spreads, how to prevent infection mainly through ABC
-                    (abstinence, being faithful, correct, and consistent condom
-                    use).</span>
-                </li>
-                <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
-                  <span style="font-size: 15px;">Managing relationships and risky situations in a healthy
-                    way.</span>
-                </li>
-              </ol>
-            </div>
+          <div style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">
+            <p>
+              <span style="font-size: 11.5pt; font-family: Arial, Helvetica, sans-serif;">Raise awareness and provide knowledge on:</span>
+            </p>
           </div>
+          <p>
+            <span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">a) Infectious diseases (STIs and HIV): what it is, how it
+              spreads, how to prevent infection mainly through ABC (abstinence,
+              being faithful, correct, and consistent condom use).</span>
+          </p>
+          <p>
+            <span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">b) Managing relationships and risky situations in a healthy
+              way.</span>
+          </p>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:-5.4pt;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 3 Week 6</span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Term 3 Week 6</span>
           </p>
         </td>
       </tr>
       <tr>
         <td style="border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Classroom-based Lesson</span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Classroom-based Lesson</span>
           </p>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
-          <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
-            <ul style="margin-bottom:0in;list-style-type: disc;margin-left:-0.25in;">
-              <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
-                <span style="font-size: 15px;">Learn to negotiate their way out of a risky situation by
-                  applying skills of assertiveness and responsible
-                  decision-making</span>
-              </li>
-            </ul>
+          <div style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">
+            <p>
+              <span style="font-size: 11.5pt; font-family: Arial, Helvetica, sans-serif;">Learn to negotiate their way out of a risky situation by
+                applying skills of assertiveness and responsible
+                decision-making</span>
+            </p>
           </div>
-          <p style="margin-right:0in;margin-left:.25in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
-          </p>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
-          <p style="margin-right:-5.4pt;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-            <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Term 3 Week 6</span>
+          <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
+            <span style="font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Term 3 Week 6</span>
           </p>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-<p>
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 16px;"><br>&nbsp;</span></strong></span>
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+  <br>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Information for Parents</strong></span>
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+  <span style="font-family: Arial, Helvetica, sans-serif;"><br></span>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">10. Parents may opt their children out of the Sexuality Education lessons,
-    <em>eTeens</em> and/or supplementary sexuality education programmes by
-    MOE-approved external providers.</span>
-</p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">11. Parents who wish to opt their children out of the
-    <strong>Sexuality Education lessons</strong> need to complete an opt-out
-    form. This form will be communicated to parents at the start of the year and
-    is also downloadable <u><span style="color:blue;">here</span></u>
-    <span style="color: red;">(</span>The completed form is to be submitted by
-    30/01/2024.</span>
-</p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">12. Parents who wish to opt their children out of the
-    <strong><em>eTeens</em></strong><strong>&nbsp;programme</strong> need to complete an opt-out form. This
-    form will be communicated to parents at the start of the year and is also
-    downloadable <u><span style="color:blue;">here</span></u> The completed form
-    is to be submitted by 30/01/2024.</span>
-</p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">13. Parents can contact the school at&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: black; background: white;">6288 4909 (attn: Ms Begam)</span><span style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; color: black; background: white;">&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">for&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif;">discussion or to seek clarification about the school’s Sexuality
-    Education programme.</span>
-</p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
+<p style="margin-right:0in;margin-left:-40.5pt;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+**INFORMATION FOR PARENTS**<br>
+10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
+11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/2024_MOE_SEXUALITY_EDUCATION_PARENT_OPT_OUT_FORM.pdf) (The completed form is to be submitted by 30/01/2024).<br><br>
+12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/2024_eTeens_Opt_out_Form.pdf) The completed form is to be submitted by 30/01/2024.<br><br>
+13.	Parents can contact the school at 6288 4909 (attn: Ms Begam) for discussion or to seek clarification about the school’s Sexuality Education programme.
 </p>
