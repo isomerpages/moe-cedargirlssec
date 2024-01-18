@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /our-people/school-executive-committee/
 description: ""
+variant: markdown
 ---
 ### School Executive Committee
 
@@ -55,26 +56,18 @@ description: ""
         </tr>
         <tr>
             <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Agnes Yam Wei Ling&nbsp;</span></p>
-            </td>
-            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Character &amp; Citizenship Education</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Mr Cleve Chia Tse Tsing&nbsp;</span></p>
-            </td>
-            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Physical Education &amp; Co-Curricular Activities</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Goh Aun Lii Audrie&nbsp;</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Student Management</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD/CCE &amp; SM</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Mr Jonathan Jong Ju Siang&nbsp;</span></p>
+            </td>
+            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Physical Education &amp; Co-Curricular Activities</span></p>
             </td>
         </tr>
         <tr>
@@ -103,7 +96,7 @@ description: ""
         </tr>
         <tr>
             <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Margaret Wong</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Agnes Yam Wei Ling</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Science</span></p>
@@ -135,7 +128,7 @@ description: ""
         </tr>
         <tr>
             <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Mdm Pang Ee Wei</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Margaret Wong Pek Funn</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">School Staff Developer</span></p>
@@ -214,20 +207,28 @@ description: ""
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">SH/Mathematics</span></p>
             </td>
         </tr>
+				<tr>
+            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Jina Foo Yu Ting</span></p>
+            </td>
+            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">SH/Lit</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Koh Yu Lin Rachel</span></p>
+            </td>
+            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">AYH (Y2)</span></p>
+            </td>
+        </tr>
         <tr>
             <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Veronica Chua Chong Lin</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">AYH (Y1 &amp; Y2)</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Siti Sarah Mohammed</span></p>
-            </td>
-            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Acting AYH (Y3 &amp; Y4)</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">AYH (Y4)</span></p>
             </td>
         </tr>
         <tr>
