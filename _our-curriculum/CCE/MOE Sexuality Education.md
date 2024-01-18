@@ -1237,10 +1237,9 @@ variant: markdown
     </tbody>
   </table>
 </div>
-<p>
-  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 16px;"><br>&nbsp;</span></strong></span>
-</p>
-<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<br>
+<br>
+<p style="margin-right:0in;margin-left:0in;font-size:18px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;font-size:18px"><strong>Information for Parents</strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
