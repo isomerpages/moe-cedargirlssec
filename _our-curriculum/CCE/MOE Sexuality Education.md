@@ -13,7 +13,7 @@ variant: markdown
 
   
 
-2\.&nbsp;The goals of Sexuality Education are to:
+2\.&nbsp;The **Goals** of Sexuality Education are to:
 
   
 
@@ -29,17 +29,18 @@ variant: markdown
 
   
 
-3\. The key messages of Sexuality Education are:
+3\. The **Key Messages** of Sexuality Education are:
 
-(i)&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;
+(a)	Love and respect yourself as you love and respect others;
 
-(ii)&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
+(b)	Build positive relationships based on love and respect (which are the foundation for strong families);
 
-(iii)&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and
+(c)	Make responsible decisions for yourself, your family and society; and
 
-(iv)&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+
+You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
 #### Overview of Cedar Girls’ Secondary School’s Sexuality Education Programme for 2023
 
