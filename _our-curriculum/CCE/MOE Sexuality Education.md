@@ -5,10 +5,10 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-<p style="margin-right:0in;margin-left:0in;font-size:18px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <strong><span style="font-family: Arial, Helvetica, sans-serif;">CEDAR GIRLS’ SECONDARY SCHOOL</span></strong>
 </p>
-<p style="margin-right:0in;margin-left:0in;font-size:18px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Moe Sexuality Education in Schools</strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
@@ -71,16 +71,16 @@ variant: markdown
   </li>
 </ol>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">You may <span style="color: black;">click&nbsp;</span><a href="https://go.gov.sg/moe-sexuality-education">here</a> for more
+  <span style="font-family: Arial, Helvetica, sans-serif;">You may <span style="color: black;">click&nbsp;</span><a href="https://go.gov.sg/moe-sexuality-education">here</a> for more
     information on MOE Sexuality Education.</span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong>&nbsp;</strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;font-size:18px;"><strong>Overview of Cedar Girls’ Secondary School’s Sexuality
+  <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Overview of Cedar Girls’ Secondary School’s Sexuality
       Education Programme for 2024</strong></span>
-</p><br>
+</p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">4.Sexuality Education is delivered in a holistic manner through the school
     curriculum. The content for Sexuality Education is grouped into five main
@@ -94,10 +94,10 @@ variant: markdown
   <span style="font-family: Arial, Helvetica, sans-serif;">5.The subjects that incorporate topics on sexuality include:</span>
 </p>
 <ol style="list-style-type: lower-alpha;">
-  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
+  <li style="font-family: Arial, Helvetica, sans-serif;">
     <span style="color: black;">Science</span>
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
+  <li style="font-family: Arial, Helvetica, sans-serif;">
     <span style="color: black;">Character and Citizenship Education (CCE)</span>
   </li>
 </ol>
@@ -105,7 +105,7 @@ variant: markdown
   <span style="color: black;"><br></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;font-size:18px;"><strong><u><span style="color: black;">Sexuality Education Lessons</span></u></strong></span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
+  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><u><span style="color: black;">Sexuality Education Lessons</span></u></strong></span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">6.The values and attitudes of our youth towards sexuality are increasingly
@@ -1193,18 +1193,27 @@ variant: markdown
           </p>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
-          <div style="margin:0in;font-size:16px;font-family: Arial, Helvetica, sans-serif;">
-							Raise awareness and provide knowledge on:<br><br>
-              a) Infectious diseases (STIs and HIV): what it is, how it
+          <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
+            <ul style="margin-bottom:0in;list-style-type: disc;margin-left:-0.25in;">
+              <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+                <span style="font-size: 15px;">Raise awareness and provide knowledge on:</span>
+              </li>
+            </ul>
+            <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
+              <ol style="margin-bottom:0in;list-style-type: lower-alpha;margin-left:0in;" start="1">
+                <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+                  <span style="font-size: 15px;">Infectious diseases (STIs and HIV): what it is, how it
                     spreads, how to prevent infection mainly through ABC
                     (abstinence, being faithful, correct, and consistent condom
-                    use).<br><br>
-                   b) Managing relationships and risky situations in a healthy
-                    way.<br><br>
-                
-              
+                    use).</span>
+                </li>
+                <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+                  <span style="font-size: 15px;">Managing relationships and risky situations in a healthy
+                    way.</span>
+                </li>
+              </ol>
             </div>
-          
+          </div>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
           <p style="margin-right:-5.4pt;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
@@ -1219,10 +1228,14 @@ variant: markdown
           </p>
         </td>
         <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
-          <div style="margin:0in;font-size:16px;font-family: Arial, Helvetica, sans-serif;">
-             Learn to negotiate their way out of a risky situation by
+          <div style="margin:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;">
+            <ul style="margin-bottom:0in;list-style-type: disc;margin-left:-0.25in;">
+              <li style="margin: 0in; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+                <span style="font-size: 15px;">Learn to negotiate their way out of a risky situation by
                   applying skills of assertiveness and responsible
-                  decision-making
+                  decision-making</span>
+              </li>
+            </ul>
           </div>
           <p style="margin-right:0in;margin-left:.25in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
             <span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">&nbsp;</span>
@@ -1237,16 +1250,17 @@ variant: markdown
     </tbody>
   </table>
 </div>
-<br>
-<br>
-<p style="margin-right:0in;margin-left:0in;font-size:18px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
-  <span style="font-family: Arial, Helvetica, sans-serif;font-size:18px"><strong>Information for Parents</strong></span>
+<p>
+  <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 16px;"><br>&nbsp;</span></strong></span>
+</p>
+<p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
+  <span style="font-family: Arial, Helvetica, sans-serif;"><strong>Information for Parents</strong></span>
 </p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">10. Parents may opt their children out of the Sexuality Education lessons,
     <em>eTeens</em> and/or supplementary sexuality education programmes by
     MOE-approved external providers.</span>
-</p><br>
+</p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">11. Parents who wish to opt their children out of the
     <strong>Sexuality Education lessons</strong> need to complete an opt-out
@@ -1254,14 +1268,14 @@ variant: markdown
     is also downloadable <u><span style="color:blue;">here</span></u>
     <span style="color: red;">(</span>The completed form is to be submitted by
     30/01/2024.</span>
-</p><br>
+</p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">12. Parents who wish to opt their children out of the
     <strong><em>eTeens</em></strong><strong>&nbsp;programme</strong> need to complete an opt-out form. This
     form will be communicated to parents at the start of the year and is also
     downloadable <u><span style="color:blue;">here</span></u> The completed form
     is to be submitted by 30/01/2024.</span>
-</p><br>
+</p>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;">
   <span style="font-family: Arial, Helvetica, sans-serif;">13. Parents can contact the school at&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: black; background: white;">6288 4909 (attn: Ms Begam)</span><span style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; color: black; background: white;">&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: black;">for&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif;">discussion or to seek clarification about the school’s Sexuality
     Education programme.</span>
