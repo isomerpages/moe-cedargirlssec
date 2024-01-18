@@ -94,10 +94,10 @@ variant: markdown
   <span style="font-family: Arial, Helvetica, sans-serif;">5.The subjects that incorporate topics on sexuality include:</span>
 </p>
 <ol style="list-style-type: lower-alpha;">
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     <span style="color: black;">Science</span>
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     <span style="color: black;">Character and Citizenship Education (CCE)</span>
   </li>
 </ol>
