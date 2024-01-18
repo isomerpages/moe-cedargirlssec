@@ -33,15 +33,15 @@ variant: markdown
   <span style="font-family: Arial, Helvetica, sans-serif;">2.The <strong>Goals</strong> of Sexuality Education are to:</span>
 </p>
 <ol style="list-style-type: undefined;margin-left:0.5in;">
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Support students in managing their physiological, social and emotional
     changes as they grow up and develop safe and healthy relationships.
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Guide students to make wise, informed and responsible decisions on sexuality
     matters.
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Help students develop a moral compass and respect for themselves and others
     by having positive mainstream values and attitudes about sexuality that are
     premised on the family as the basic unit of society.
@@ -54,17 +54,17 @@ variant: markdown
   <span style="font-family: Arial, Helvetica, sans-serif;">3.The <strong>Key Messages</strong> of Sexuality Education are:</span>
 </p>
 <ol style="list-style-type: undefined;margin-left:0.5in;">
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Love and respect yourself as you love and respect others;
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Build positive relationships based on love and respect (which are the
     foundation for strong families);
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Make responsible decisions for yourself, your family and society; and
   </li>
-  <li style="font-family: Arial, Helvetica, sans-serif;">
+  <li style="font-family: Arial, Helvetica, sans-serif;font-size:16px;">
     Abstinence before marriage is the best protection against STIs/HIV and
     unintended pregnancies. Casual sex can harm and hurt you and your loved
     ones.
