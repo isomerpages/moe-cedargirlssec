@@ -1093,7 +1093,7 @@ variant: markdown
 </p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
   <strong><em><u><span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">eTeens</span></u></em></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong><span style="color: black;">&nbsp;Programme</span></strong></span><span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: black;">:</span>
-</p>
+</p><br>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
   <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
     collaboration with the Ministry of Education, to provide Secondary 3
@@ -1102,7 +1102,7 @@ variant: markdown
     talk segment and a classroom-based programme. The desired outcome of the
     <em>eTeens</em> programme is that students are empowered to make wise,
     informed and sensible decisions.</span>
-</p>
+</p><br>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
   <span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: black;">9. Students are taught skills such as decision-making, assertiveness and
     negotiation to say “no” to sex and negative peer pressure. They
@@ -1117,7 +1117,7 @@ variant: markdown
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;line-height:normal;">
   <span style="font-family: Arial, Helvetica, sans-serif;"><strong><span style="font-size: 16px; color: black;">At Cedar Girls’ Secondary School, the <em>eTeens</em> programme
         will be implemented as follows in 2024:</span></strong></span>
-</p>
+</p><br>
 <div style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
   <table style="border: none;border-collapse:collapse;">
     <thead>
