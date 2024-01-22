@@ -1207,13 +1207,13 @@ variant: markdown
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;text-align:justify;">
   <span style="font-family:&quot;Arial&quot;,sans-serif;">11. Parents who wish to opt their children out of the&nbsp;</span><strong><span style="font-family:&quot;Arial&quot;,sans-serif;">Sexuality Education lessons</span></strong><span style="font-family:&quot;Arial&quot;,sans-serif;">&nbsp;need to complete an opt-out form. This form will be communicated to
     parents at the start of the year and is also downloadable
-    <a rel="noopener noreferrer" target="_blank" href="/files/2024_MOE_SEXUALITY_EDUCATION_PARENT_OPT_OUT_FORM.pdf">here</a>. The completed form is to be submitted by 30/01/2024.&nbsp;</span>
+    <a href="/files/2024_MOE_SEXUALITY_EDUCATION_PARENT_OPT_OUT_FORM.pdf">here</a>. The completed form is to be submitted by 30/01/2024.&nbsp;</span>
 </p><br>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;text-align:justify;">
   <span style="font-family:&quot;Arial&quot;,sans-serif;">12. Parents who wish to opt their children out of the
     <strong><em>eTeens</em></strong></span><strong><span style="font-family:&quot;Arial&quot;,sans-serif;">&nbsp;programme</span></strong><span style="font-family:&quot;Arial&quot;,sans-serif;">&nbsp;need to complete an opt-out form. This form will be communicated to
     parents at the start of the year and is also downloadable
-    <a rel="noopener noreferrer" target="_blank" href="/files/2024_eTeens_Opt_out_Form.pdf">here</a>. The completed form is to be submitted by 30/01/2024.</span>
+    <a href="/files/2024_eTeens_Opt_out_Form.pdf">here</a>. The completed form is to be submitted by 30/01/2024.</span>
 </p><br>
 <p style="margin-right:0in;margin-left:0in;font-size:16px;font-family:&quot;Times New Roman&quot;,serif;margin:0in;text-align:justify;">
   <span style="font-family:&quot;Arial&quot;,sans-serif;">13. Parents can contact the school at&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;background:white;">6288 4909 (attn: Ms Begam)</span><span style="font-size:20px;font-family:&quot;Lato&quot;,sans-serif;color:black;background:white;">&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;">for&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif;">discussion or to seek clarification about the school’s Sexuality
