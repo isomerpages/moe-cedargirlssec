@@ -6,12 +6,12 @@ third_nav_title: CCE
 variant: markdown
 ---
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+margin-left:.0in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">CEDAR GIRLS’ SECONDARY
 SCHOOL</span></b></p>
 
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+margin-left:.0in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Moe Sexuality
 Education in Schools</span></b></p>
 
@@ -140,7 +140,7 @@ normal"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b></p>
 
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+margin-left:.0in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Overview of Cedar
 Girls’ Secondary School’s Sexuality Education Programme for 2024</span></b></p>
 
