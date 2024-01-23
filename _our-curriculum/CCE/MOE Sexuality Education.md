@@ -239,10 +239,9 @@ EDUCATION LESSONS IN CCE 2021 </span></b></a></p>
 <p style="margin-bottom:0in" class="MsoNormal"><span style="mso-bookmark:\_Hlk156908161"><b><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">SECONDARY 1</span></b></span></p>
 
-<span style="mso-bookmark:\_Hlk156908161"></span>
 
-<p style="margin-bottom:0in" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
-mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b></p>
+
+
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid">
@@ -1207,13 +1206,7 @@ mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">SECONDARY 
  </tr>
 </tbody></table>
 
-<p style="margin-bottom:0in" class="MsoNormal"><span style="font-size:
-12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></p>
 
-<p style="margin-bottom:0in" class="MsoNormal"><span style="font-size:
-12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></p>
 
 <p style="margin-bottom:0in" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">eTeens Programme: </span></b></p>
@@ -1246,11 +1239,9 @@ involves their family, and the importance of responsible decision-making and
 seeking help. Abstinence and upholding family values are the key messages. </span></p>
 
 
-
 <p style="margin-bottom:0in" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">At Cedar Girls’
 Secondary School, the eTeens programme will be implemented as follows in 2024:</span></b></p>
-
 
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -1343,9 +1334,7 @@ Secondary School, the eTeens programme will be implemented as follows in 2024:</
  </tr>
 </tbody></table>
 
-<p style="margin-bottom:0in" class="MsoNormal"><span style="font-size:
-12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></p>
+
 
 <p style="margin-bottom:0in" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">INFORMATION FOR
@@ -1358,7 +1347,6 @@ mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB"><span styl
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Parents may opt their
 children out of the Sexuality Education lessons, eTeens and/or supplementary
 sexuality education programmes by MOE-approved external providers. </span></p>
-
 
 
 <p style="margin-bottom:0in;mso-add-space:
