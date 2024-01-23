@@ -1368,8 +1368,15 @@ mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB"><span styl
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Parents who wish to
 opt their children out of the <b>Sexuality Education lessons</b> need to
 complete an opt-out form. This form will be communicated to parents at the
-start of the year and is also downloadable here The completed form is to be
+start of the year and is also downloadable below. The completed form is to be
 submitted by 30/01/2024. </span></p>
+
+<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.0in" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+EN-GB" lang="EN-GB">Click here for: </span><a href="/files/2024%20sexuality%20edu/2024_eTeens_Opt_out_Form.pdf"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">2024 Sexuality Education lessons opt-out form</span></a><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB"><span style="mso-bidi-font-weight:bold"></span></span></p>
 
 
 <p style="margin-bottom:0in;mso-add-space:auto;
@@ -1383,7 +1390,7 @@ year and is also downloadable below. The completed form is to be submitted by
 30/01/2024.</span></p>
 
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;
+margin-left:.0in" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
 EN-GB" lang="EN-GB">Click here for: </span><a href="/files/2024%20sexuality%20edu/2024_eTeens_Opt_out_Form.pdf"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">2024 eTeens programme opt-out form</span></a><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
