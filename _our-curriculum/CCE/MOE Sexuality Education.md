@@ -1374,7 +1374,7 @@ submitted by 30/01/2024. </span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.0in" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-EN-GB" lang="EN-GB">Click here for: </span><a href="/files/2024%20sexuality%20edu/2024_eTeens_Opt_out_Form.pdf"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+EN-GB" lang="EN-GB">Click here for: </span><a href="https://drive.google.com/file/d/1oaqBsvE-Fa9XhHh-32uRt1Q-mMu-rD4y/view?usp=drive_link"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">2024 Sexuality Education lessons opt-out form</span></a><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB"><span style="mso-bidi-font-weight:bold"></span></span></p>
 
@@ -1392,7 +1392,7 @@ year and is also downloadable below. The completed form is to be submitted by
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.0in" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-EN-GB" lang="EN-GB">Click here for: </span><a href="/files/2024%20sexuality%20edu/2024_eTeens_Opt_out_Form.pdf"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
+EN-GB" lang="EN-GB">Click here for: </span><a href="https://drive.google.com/file/d/1nKZci81YmYWc0jy0MXu3B4Ar20TZ447f/view?usp=drive_link"><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">2024 eTeens programme opt-out form</span></a><span style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB"><span style="mso-bidi-font-weight:bold"></span></span></p>
 
