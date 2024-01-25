@@ -11,6 +11,7 @@ variant: markdown
 |---|---|
 | HOD/ Science | Ms Margaret Wong |
 | HOD/ CCE | Ms Yam Wei Ling Agnes |
+| AYH (Y2) | Mrs Rachel Teo Yu Lin |
 | SH/Student Well-being and ECG | Ms Saran Dhillon |
 | SH/ Physics | Mr Jeremy Ng |
 | SH/ Chemistry | Ms See Hui Hui |
