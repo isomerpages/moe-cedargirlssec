@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /our-people/departments/aesthetics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Aesthetics
 
@@ -10,7 +11,7 @@ third_nav_title: Departments
 |---|---|
 | HOD Aesthetics and Innovation | Ms Lu Shijia |
 | HOD/ICT  | Mr Wilfred Loh  |
-| AYH (Y1 & Y2)  | Ms Veronica Chua Chong Lin |
+| AYH (Y3)  | Ms Veronica Chua Chong Lin |
 | Teacher (D&T)   | Mr Muhammad Akmal Bin Hussain   |
 | Teacher (Music) | Ms Naomi Chye |
 | Teacher (Art) | Ms Yeo Bi Xia |
