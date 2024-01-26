@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /our-people/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Mother Tongue
 

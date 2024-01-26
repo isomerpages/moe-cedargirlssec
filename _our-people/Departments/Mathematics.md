@@ -9,9 +9,8 @@ variant: markdown
 
 | Title | Name |
 |---|---|
-| HOD/ Student Management | Ms Goh Aun Lii Audrie |
-| SH/ Mathematics | Ms Ang Shu Shan |
-| SH/Student Leadership | Mr Kathiravan Bhupathy |
+| Ag HOD/Maths | Ms Ang Shu Shan |
+| HOD/CCE & SM | Ms Goh Aun Lii Audrie |
 | SH/ICT | Mr Lee En Wei Jonathan​ |
 | Senior Teacher | Mr Tan Gin Peng Eric |
 | Teacher | Mr Ang Kai Jie |
@@ -21,5 +20,4 @@ variant: markdown
 | Teacher  | Mr Ng Jian Zhang |
 | Teacher  | Ms Siti Aisyah |
 | Teacher  | Mr Tay Yong Hwee |
-| Teacher  | Mdm Wee Meng Hwee  |
 |  Teacher  | Mrs Chew Foo Kim |

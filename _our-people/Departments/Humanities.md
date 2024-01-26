@@ -18,5 +18,5 @@ variant: markdown
 | Teacher | Ms Geetha Muthuramalingam |
 | Teacher | Ms Jaclyn Cheng |
 | Teacher  | Ms Lee Yu Shan Shirleen |
-| Teacher  | Ms Yow Hui Feng |
+| Teacher  | Mr Tan Yong Wei |
 | Teacher  | Ms Yeo Su Yan |
