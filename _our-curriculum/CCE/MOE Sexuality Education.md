@@ -1305,7 +1305,7 @@ Secondary School, the eTeens programme will be implemented as follows in 2024:</
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="206">
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 6</span></p>
+  minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
@@ -1329,7 +1329,7 @@ Secondary School, the eTeens programme will be implemented as follows in 2024:</
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="206">
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 6</span></p>
+  minor-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p>
   </td>
  </tr>
 </tbody></table>
