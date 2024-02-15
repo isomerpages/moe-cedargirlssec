@@ -3,6 +3,7 @@ title: Symphonic Band
 permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Symphonic Band
 
@@ -21,16 +22,17 @@ Every Cedar Symphonic Band member strives to be a leader of character with a lif
 
   
 **TEACHERS-IN-CHARGE**  
-Mr Ng Jian Zhang  
-Ms Goh Cui Ying  
-Mr Lee Lian Siong  
-Ms Guan Xing Hua  
+Mr Ng Jian Zhang<br>
+Ms Esther Low<br>
+Mr Tan Yong Wei<br>
+Ms Guan Xing Hua <br>
   
 **CCA SCHEDULE**  <br>
-Monday, Tuesday and alternate Thursdays<br>
-3:30pm - 6:00pm
+Monday, Tuesday and Friday<br>
+3:45pm - 6:30pm
 
   
 **ACHIEVEMENTS**<br>
+2023 Singapore Youth Festival (SYF) - Certificate of Accomplishment <br>
 2021 Singapore Youth Festival (SYF) - Certificate of Accomplishment  <br>
 2019 Singapore Youth Festival (SYF) - Certificate of Distinction
