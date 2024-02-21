@@ -40,6 +40,6 @@ Cedar Girls’ Secondary School invites interested parents and students to join 
 ##### [Cedar Prospectus 2023](/files/Cedar%20Prospectus%202022_update%2028Apr.pdf)
 * * *
 
-##### [SLS Support for Home-Based Learning](https://moe-cedargirlssec-staging.netlify.app/contact-us/sls-support-hbl/)
+##### [SLS Support for Home-Based Learning](/contact-us/sls-support-hbl/)
 
 * * *
