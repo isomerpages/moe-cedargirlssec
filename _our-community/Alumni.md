@@ -20,7 +20,7 @@ The Cedarian Alumni is dedicated to fostering ties between fellow Cedarians. It 
 <div>
 
 <p>
-To sign up as an Alumni Member, click <a href="https://moe-cedargirlssec-staging.netlify.app/files/alumni_membership_form.pdf">here</a>. <br><br>  
+To sign up as an Alumni Member, click <a href="/files/alumni_membership_form.pdf">here</a>. <br><br>  
   
 To sign up as Cedar Connect member, scroll below  <br><br>  
   
