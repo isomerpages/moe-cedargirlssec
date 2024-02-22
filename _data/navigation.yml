@@ -1,0 +1,25 @@
+logo: /images/school logo_updated.png
+links:
+  - title: Our Cedar
+    url: /our-cedar/overview/
+    sublinks:
+      - title: Our Identity
+        url: /our-cedar/our-identity/vision-mission-values/
+      - title: Our History
+        url: /our-cedar/our-history/
+      - title: Prospectus
+        url: /our-cedar/prospectus/
+      - title: Cedar65
+        url: https://sites.google.com/moe.edu.sg/cedar65
+      - title: Contact Us
+        url: /our-cedar/contact-us/
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Community
+    collection: our-community
+  - title: Admissions
+    collection: admissions
+  - title: Centre For Social Innovation
+    collection: centre-for-social-innovation
