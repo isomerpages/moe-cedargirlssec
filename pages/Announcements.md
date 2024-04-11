@@ -44,7 +44,7 @@ Cedar Girls’ Secondary School invites interested parents and students to join 
 ##### [Cedar65](https://sites.google.com/moe.edu.sg/cedar65)
 
 * * *
-##### [Cedar Prospectus 2023](/files/Cedar%20Prospectus%202022_update%2028Apr.pdf)
+##### [Cedar Prospectus](/files/Prospectus/cgssprospectus2023.pdf)
 * * *
 
 ##### [SLS Support for Home-Based Learning](/contact-us/sls-support-hbl/)
