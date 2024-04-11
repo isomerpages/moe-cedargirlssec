@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Announcements
 
-#### E-Open House November 2024
+#### Open House 2024
 
 Our Open House will be held on 18 May (Sat) 2024 from 0830h to 1230h.
 Watch this space for more information from 1 May onwards.
