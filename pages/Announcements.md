@@ -6,6 +6,13 @@ variant: markdown
 ---
 ### Announcements
 
+#### Open House 2024
+
+Our Open House will be held on 18 May (Sat) 2024 from 0830h to 1230h.
+Watch this space for more information from 1 May onwards.
+
+
+* * *
 ####  Information for O level results release
 Dear Les Etoiles Cohort of 2023,
 
@@ -34,10 +41,11 @@ Cedar Girls’ Secondary School invites interested parents and students to join 
 #### [Direct School Admission to Year 1 in 2024](/admissions/dsa-year-1-2024/)
 
 * * *
-##### [Cedar65](https://sites.google.com/moe.edu.sg/cedar65)
+#### [Cedar65](https://sites.google.com/moe.edu.sg/cedar65)
 
 * * *
-##### [Cedar Prospectus 2023](/files/Cedar%20Prospectus%202022_update%2028Apr.pdf)
+
+##### [CGSS Prospectus](/files/cgssprospectus2023.pdf)
 * * *
 
 ##### [SLS Support for Home-Based Learning](/contact-us/sls-support-hbl/)

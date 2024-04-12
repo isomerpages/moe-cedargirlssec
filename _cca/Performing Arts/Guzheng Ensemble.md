@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /cca/performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Guzheng Ensemble
 
@@ -28,7 +29,7 @@ Mr Raymond Tan<br>
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  
-3.30pm - 6.00pm  
+3.45pm - 6.15pm  
   
 **ACHIEVEMENTS**
 <br>2023 Singapoe Youth Festival (SYF) - Certificate of Accomplishment

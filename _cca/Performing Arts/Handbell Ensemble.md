@@ -3,6 +3,7 @@ title: Handbell Ensemble
 permalink: /cca/performing-arts/handbell-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Handbell Ensemble
 
@@ -25,7 +26,7 @@ team’s confidence for public performance.
 **TEACHERS-IN-CHARGE**<br>
 Ms Jocelyn Yeow<br>
 Ms Poon Pui Fun&nbsp;<br>
-Ms Olivia Ng
+Mr Jonathan Lee En Wei
 
   
 
