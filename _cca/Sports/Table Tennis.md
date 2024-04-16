@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca/sports/table-tennis/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Table Tennis 
 
@@ -14,9 +15,9 @@ The Cedar Table Tennis team aims to instill discipline, resilience and sportsman
   
 **TEACHERS-IN-CHARGE**  <br>
 Mr Muhammad Akmal BIn Hussain<br>
-Mr Eric Tan<br>
-Mr Chan Chee Khiang<br>
-Ms Rachel Poh
+Ms Pearl Wong<br>
+Mr Ang Kai Jie<br>
+Ms Yeo Su Yan
 
   
 
