@@ -45,7 +45,7 @@ people that make the Victoria-Cedar experience one to remember for a lifetime.
 </li>
 <li>
 <p>Philosophy of Education</p>
-<p><strong><em>Social Innovators, Passionate Learners</em></strong>
+<p><strong><em>Social Innovators, Passionate Learners</em></strong> 
 <br>
 <br>
 </p>
@@ -89,7 +89,7 @@ the lives of others.
 <br>
 <br>
 </p>
-<p><em>Years 1 &amp; 2</em>
+<p><em>Years 1 &amp; 2</em> 
 <br>
 </p>
 <p>Students develop basic skills and attributes in Design Thinking and apply
@@ -97,7 +97,7 @@ them to classroom-based and school-based issues.
 <br>
 <br>
 </p>
-<p><em>Years 3 &amp; 4</em>
+<p><em>Years 3 &amp; 4</em> 
 <br>
 </p>
 <p>Working in partnership with Singapore University of Technology and Design
@@ -108,7 +108,7 @@ own Social Innovation project.
 <br>
 <br>
 </p>
-<p><em>Years 5 &amp; 6</em>
+<p><em>Years 5 &amp; 6</em> 
 <br>
 </p>
 <p>Students further hone their Design Thinking skills and knowledge by serving
