@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### Girl Guides
 
@@ -34,7 +35,8 @@ Standing by their motto – “Be Prepared”, Cedar Girl Guides will always str
 **TEACHERS-IN-CHARGE**<br>
 Ms Lim Xinjie<br>
 Mdm Faridah Baharawi<br>
-Ms Siti Sarah
+Ms Nur Farahin Binte Salleh<br>
+Ms Goh Sok Hui
 
   
 **CCA SCHEDULE**  
