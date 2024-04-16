@@ -9,7 +9,7 @@ variant: markdown
 **Overseas Trips 2024**<br>
 Students from our Regional Studies Programme (RSP) and our Talent Development Programme in Social Innovation (TDSI) embarked on an overseas learning journey to Indonesia in early March, 2024. The RSP students started in Yogyakarta, before joining the TDSI students in Surabaya. Read more about their trip at the google sites below! 
 
-RSP: https://rspincedar.com
+RSP: https://rspincedar.com<br>
 TDSI: https://sites.google.com/students.edu.sg/socialinnovationinsurabaya2024 <br>
 
 |  |  |
