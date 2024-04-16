@@ -15,9 +15,9 @@ The Cedar Table Tennis team aims to instill discipline, resilience and sportsman
   
 **TEACHERS-IN-CHARGE**  <br>
 Mr Muhammad Akmal BIn Hussain<br>
-Ms Pearl Wong<br>
-Mr Ang Kai Jie<br>
-Ms Yeo Su Yan
+Mr Chai Ying Chung<br>
+Ms Rachel Koh<br>
+
 
   
 
