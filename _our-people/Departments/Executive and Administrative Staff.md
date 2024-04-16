@@ -10,7 +10,6 @@ variant: markdown
 | Title | Name |
 |---|---|
 | Administration Manager | Ms Evelyn Ho |
-| Operations Manager  | Mr Ang Kok Heng |
 | Operations Manager  | Mr Felix Suresh |
 | Administrative Executive | Ms Linda Chew |
 | Administrative Executive  | Ms Diyana Marina Bte Jasmi  |
@@ -27,7 +26,6 @@ variant: markdown
 | Operations Support Officer  | Mr Ho Tuck Seng  |
 | Library Officer | Ms Siti Radzian Binte Boyani |
 | ICT Associate | Mr Darren Chua  |
-| Desktop Engineer | Ms A R Nifnul Safana |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
 | AVA Executive | Mr Muhammad Haikal Riduan |
 | Multi-Media Executive | Mr Muhammad Nor Syahiran Bin Ahmad |
