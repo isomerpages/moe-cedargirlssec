@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Basketball
 <img src="/images/sports2.png" style="width:60%">
@@ -13,18 +14,18 @@ With valour, comradeship, discipline and pride, the Cedar Basketball Team strive
 **TEACHERS-IN-CHARGE**  
 Mr Ong Wei De  
 Mr Neo Kai Hong Kelvin  
-Ms Asvathaman Tharini Devi  
+Ms Lei Hong 
   
 **CCA SCHEDULE**  
 Monday, Tuesday and Thursday  
 3.45pm - 6.00pm  
   
 **ACHIEVEMENTS**<br>
-**2022** <br>
+**2022**&nbsp;<br>
 B Division East Zone - 3rd  <br>
 C Division East Zone - 1st  
   
-**2019** <br>
+**2019**&nbsp;<br>
 B Division East Zone - 2nd  <br>
  B Division National - Top 16  
   
