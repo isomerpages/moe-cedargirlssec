@@ -39,5 +39,6 @@ Monday and Tuesday, 3.45-6.15pm<br>
   
 
 **ACHIEVEMENTS**<br>
+2023 Singapore Youth Festival \[SYF-AP\] Certificate of Distinction<br>
 2021 Singapore Youth Festival \[SYF-AP\] Certificate of Distinction&nbsp;<br>
 2019 Singapore Youth Festival (SYF) - Certificate of Accomplishment
