@@ -37,11 +37,8 @@ people that make the Victoria-Cedar experience one to remember for a lifetime.
 <br>
 <br>
 </p>
-<p>Re-upload the PDF</p>
 <p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>Philosophy of Education</p>
