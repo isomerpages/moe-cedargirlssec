@@ -4,5 +4,5 @@ permalink: /our-cedar/prospectus/
 description: ""
 variant: markdown
 ---
-### Cedar Prospectus 2023
+### Cedar Prospectus 
 ##### [CGSS Prospectus](/files/Prospectus/cgssprospectus.pdf)
