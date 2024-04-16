@@ -34,7 +34,7 @@ Ms Sri Laxshemy
 
 **CCA SCHEDULE**<br>
 Monday and Tuesday<br>
-3.45-6.15pm<br>
+3.50PM to 6.20PM <br>
 
 
   
