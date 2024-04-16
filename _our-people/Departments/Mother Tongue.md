@@ -23,4 +23,4 @@ variant: markdown
 | Teacher  | Ms Nur Farahin |
 | Teacher  | Mr Xing Han |
 |  Teacher  | Ms Zheng Kejie |
-| Teacher  | Usha Natarajan  |
+| Teacher  | Ms Usha Natarajan  |
