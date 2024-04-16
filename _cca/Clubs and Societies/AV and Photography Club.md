@@ -26,8 +26,8 @@ Ms Sri Laxshemy
   
 
 **CCA SCHEDULE**<br>
-Photography: Monday, 3.45pm - 5.45pm<br>
-Audio-Visual: Wednesday, 3.45pm - 5.45pm
+Photography: Monday, 3.50pm to 6.00pm<br>
+Audio-Visual: Wednesday, 3.50pm to 6.00pm
 
   
 
