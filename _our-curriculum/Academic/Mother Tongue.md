@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /our-curriculum/academic/mother-tongue/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 ### Mother Tongue
 
@@ -13,8 +14,8 @@ third_nav_title: Academic
 <li>
 
 <input type="checkbox" id="accordion1">
- 
-<label for="accordion1">Philosphy</label>
+&nbsp;
+<label for="accordion1">Philosophy</label>
 
 <div>
 
@@ -30,7 +31,7 @@ The Mother Tongue Programme is a four-year curriculum which aims to develop prof
 
 </div>
 
-</li>  
+</li>&nbsp;&nbsp;
 
 <li>
 
@@ -140,5 +141,5 @@ School immersion programmes are also organised for students as immersion experie
 
 </li>
 
- 
+&nbsp;
 </ul>
