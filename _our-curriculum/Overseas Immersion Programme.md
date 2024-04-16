@@ -14,11 +14,11 @@ TDSI: https://sites.google.com/students.edu.sg/socialinnovationinsurabaya2024 <b
 
 |  |  |
 |---|---|
-| <a href="e"><img style="width:95%" src="/images/oip1.png"></a> | <img style="width:95%" src="/images/oip2.png"> |
-| <a href="e"><img style="width:95%" src="/images/oip3.png"></a> | <img style="width:95%" src="/images/oip4.png"> |
+| <img style="width:95%" src="/images/oip1.png"> | <img style="width:95%" src="/images/oip2.png"> |
+| <img style="width:95%" src="/images/oip3.png"> | <img style="width:95%" src="/images/oip4.png"> |
 
 |  |  |
 |---|---|
-| <a href="e"><img style="width:95%" src="/images/oip5.png"></a> | <img style="width:95%" src="/images/oip6.png"> |
-| <a href="e"><img style="width:95%" src="/images/oip7.png"></a> | <img style="width:95%" src="/images/oip8.png"> |
-| <a href="e"><img style="width:95%" src="/images/oip9.png"></a> |  |
+| <img style="width:95%" src="/images/oip5.png"> | <img style="width:95%" src="/images/oip6.png"> |
+| <img style="width:95%" src="/images/oip7.png"> | <img style="width:95%" src="/images/oip8.png"> |
+| <img style="width:95%" src="/images/oip9.png"> |  |
