@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Choir
 
@@ -25,7 +26,7 @@ For more information, you may go to&nbsp;&nbsp;[http://cedargirlsschoir.wixsite.
 
 **TEACHERS-IN-CHARGE**<br>
 Ms Naomi Chye<br>
-Mdm Tan Yah Hui<br>
+Ms Rachel Poh<br>
 Mdm Goh Chiw Moy
 
   
