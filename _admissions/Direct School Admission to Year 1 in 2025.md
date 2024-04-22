@@ -22,12 +22,24 @@ Innovation categories.</p>
 <p>We offer DSA (Sports) in Badminton, Basketball, Netball, Table Tennis,
 Track and Field, or Volleyball. The programme aims to develop students’
 talents and potentials in the various sports categories.</p>
-<p>Our sports programme comprises:</p>
-<p>a. Quality and rigorous trainings by experienced coaches
+<p></p>
+<p>Our sports programme comprises:
+<br>a. Quality and rigorous trainings by experienced coaches
 <br>b. Joint training with VCA schools
 <br>c. Extensive range of competitions</p>
 <p>Please click&nbsp;<a href="https://cedargirlssec.moe.edu.sg/our-curriculum/cca/sports" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on our Sports CCAs.</p>
+<p></p>
+<h5><strong>DSA (Performing Arts- Symphonic Band)</strong></h5>
+<p>The Cedar Symphonic Band is dedicated to nurturing the passion, talent,
+and potential of every student in the realm of music.</p>
+<p>Our band programme comprises:
+<br>a. Quality guidance and rigorous combined/sectional practices by experienced
+instructors
+<br>b. Joint performance opportunities with schools in the VCA
+<br>c. Extensive range of competitions and performance opportunities.</p>
+<p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/cca/performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more information on Cedar Symphonic Band.</p>
 <p></p>
 <h5><strong>DSA (Social Innovation)</strong><br></h5>
 <p>Our DSA (Social Innovation) programme aims to develop students to be advocates
@@ -44,16 +56,7 @@ for the community that they serve.</p>
 </p>
 <p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on our Social Innovation Programme.</p>
-<h5><strong>DSA (Performing Arts- Symphonic Band)</strong><br></h5>
-<p>The Cedar Symphonic Band is dedicated to nurturing the passion, talent,
-and potential of every student in the realm of music.</p>
-<p>Our band programme comprises:
-<br>a. Quality guidance and rigorous combined/sectional practices by experienced
-instructors
-<br>b. Joint performance opportunities with schools in the VCA
-<br>c. Extensive range of competitions and performance opportunities.</p>
-<p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/cca/performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on Cedar Symphonic Band.</p>
+<h5></h5>
 <p></p>
 <p><strong><u>Clarification</u></strong>
 </p>
