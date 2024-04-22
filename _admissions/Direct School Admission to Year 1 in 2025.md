@@ -4,7 +4,7 @@ permalink: /admissions/dsa-year-1-2025/
 description: ""
 variant: markdown
 ---
-### Direct School Admission to Year 1 in 2025
+### **Direct School Admission to Year 1 in 2025**
 
 Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls to apply for admission to Year 1 in 2025 under the Direct School Admission into secondary schools (DSA-Sec) scheme. Students could apply for the 4-year O-Level Programme in CGSS or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP), which consists of 4 years in CGSS and 2 years in Victoria Junior College (VJC). 
  
@@ -43,7 +43,7 @@ a. Quality guidance and rigorous combined/sectional practices by experienced ins
 b. Joint performance opportunities with schools in the VCA
 c. Extensive range of competitions and performance opportunities.
 
-Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/)&nbsp;for more information on Cedar Symphonic Band.
+Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/cca/performing-arts/symphonic-band/)&nbsp;for more information on Cedar Symphonic Band.
 <br><br>
 
 
