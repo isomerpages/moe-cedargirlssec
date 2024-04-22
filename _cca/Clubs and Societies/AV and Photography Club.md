@@ -3,6 +3,7 @@ title: AV and Photography Club
 permalink: /cca/clubs-and-societies/av-and-photography-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### AV and Photography Club
 
@@ -19,14 +20,14 @@ The Audio-Visual &amp; Photography (AVP) Club aims to inculcate passion, teamwor
 
 **TEACHERS-IN-CHARGE**<br>
 Ms Veronica Chua<br>
-Mdm Esther Low<br>
+Ms Lyana K Bte Masod<br>
 Ms Sri Laxshemy
 
   
 
 **CCA SCHEDULE**<br>
-Photography: Monday, 3.45pm - 5.45pm<br>
-Audio-Visual: Wednesday, 3.45pm - 5.45pm
+Photography: Monday, 3.50pm to 6.00pm<br>
+Audio-Visual: Wednesday, 3.50pm to 6.00pm
 
   
 

@@ -21,6 +21,5 @@ variant: markdown
 | Teacher  | Ms Toh Hui Choo |
 | Teacher  | Ms Nor Zahra Bte Ahmad |
 | Teacher  | Mdm Shareena Mohamed Saniff  |
-| Teacher  | Ms Nurashikin Abdul Aziz  |
 | Teacher  | Ms Marianne Elizabeth John |
 | Teacher  | Ms Lyana Khairunnisa Binte Masodi |

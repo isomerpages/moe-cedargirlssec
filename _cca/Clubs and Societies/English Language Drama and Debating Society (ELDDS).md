@@ -3,13 +3,14 @@ title: English Language Drama and Debating Society (ELDDS)
 permalink: /cca/clubs-and-societies/eldds/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### English Language Drama and Debating Society (ELDDS)
 
 <img src="/images/cs2.png" style="width:60%">
 
 **ABOUT**<br>
-ELDDS consists of two major wings: Drama and Debate. 
+ELDDS consists of two major wings: Drama and Debate.&nbsp;
 
   
 
@@ -26,17 +27,19 @@ ELDDS (Debate) provides a platform for students who want to speak confidently an
 **TEACHERS-IN-CHARGE**<br>
 Ms Zahra<br>
 Mrs Gemma Daniel<br>
-Ms Low Xin Yu<br>
+Mrs Peh Lai Wah<br>
 Ms Sri Laxshemy
 
   
 
 **CCA SCHEDULE**<br>
 Monday and Tuesday<br>
-3:30-6pm
+3.50PM to 6.20PM <br>
+
 
   
 
 **ACHIEVEMENTS**<br>
-2021 Singapore Youth Festival \[SYF-AP\] Certificate of Distinction <br>
+2023 Singapore Youth Festival \[SYF-AP\] Certificate of Distinction<br>
+2021 Singapore Youth Festival \[SYF-AP\] Certificate of Distinction&nbsp;<br>
 2019 Singapore Youth Festival (SYF) - Certificate of Accomplishment

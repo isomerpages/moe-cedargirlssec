@@ -3,6 +3,7 @@ title: Netball
 permalink: /cca/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Netball
 
@@ -14,7 +15,7 @@ The Cedar Netball Team strives to nurture in members a passion for the sport and
 **TEACHERS-IN-CHARGE**  
 Ms Tan Yee Ting  
 Ms Siti Aisyah Binte Muhammad Ali  
-Ms Yow Hui Feng  
+Mr Eric Tan 
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  

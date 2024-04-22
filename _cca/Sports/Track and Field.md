@@ -3,6 +3,7 @@ title: Track and Field
 permalink: /cca/sports/track-and-field/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Track and Field
 
@@ -13,11 +14,11 @@ Track and Field is a niche CCA of Cedar Girls’ Secondary School. Since 1968, w
   
 **TEACHERS-IN-CHARGE**  
 Mr Chris Chan  
-Mr Kathiravan Bhupathy  
-Mr Tay Yong Hwee  
-Ms Tan Li Si  
 Ms Marianne John  
-Mr Xing Han  
+Mr Xing Han <br> 
+Ms Pearl Wong <br> 
+Mr Ang Kai Jie <br> 
+Ms Yeo Su Yan
   
 **CCA SCHEDULE**<br> 
 Monday, Wednesday and Friday&nbsp;(For Track events and Throws)<br>

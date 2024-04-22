@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Volleyball
 
@@ -14,7 +15,7 @@ The Cedar Volleyball Team aims to develop perseverance, commitment and a strong 
 **TEACHERS-IN-CHARGE**<br>
 Mr Jeremy Ng Kiat Soon<br>
 Mr Chan Chee Khiang  <br>
-Ms Lee Xin Er
+Ms Geetha D/O Muthuramalingam
 
   
 

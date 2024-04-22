@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Modern Dance
 
@@ -12,7 +13,9 @@ third_nav_title: Performing Arts
 Cedar Modern Dance is an avenue for aspiring dancers who demonstrate a passion for dancing and a love for modern dance. Guided by Ms Leia Ang, opportunities are provided for each dancer to showcase their talent on various platforms in school to other opportunities on a national level with the aim of honing them to become elegant and articulate performers.  
   
 **TEACHERS-IN-CHARGE**  
-Ms Laura Siew, Ms Nurashikin, and Mdm Sia Lay Choon   
+Ms Laura Siew<br>
+Ms Irdawati Binte Iskandar<br>
+Mdm Sia Lay Choon
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  

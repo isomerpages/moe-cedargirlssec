@@ -3,6 +3,7 @@ title: Red Cross Youth
 permalink: /cca/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### Red Cross Youth
 
@@ -37,7 +38,7 @@ With the principles of the Red Cross Movement rooted in our hearts and minds, RC
 **TEACHERS-IN-CHARGE**  
 Ms Christine So  <br>
 Ms Faith He<br>
-Mr Lee Kwok Keong
+Ms Wendy Chen
 
   
 

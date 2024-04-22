@@ -3,6 +3,7 @@ title: Infocomm Club (IC²)
 permalink: /cca/clubs-and-societies/ic/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Infocomm Club (IC²)
 
@@ -17,9 +18,13 @@ As part of the nation's effort to build a digital hub that is globally competiti
 
   
 
-##### **Teachers:**<br>
+##### **Teachers:**
 Ms Yeo Bi Xia<br>
 Ms Mumtas Begam Haja Muhudin&nbsp;
+
+**CCA SCHEDULE**<br>
+Tuesday and Wednesday<br>
+3.50PM  to 6.00PM
 
 ##### **CCA Achievements:**
 **Year 2023**<br><br>

@@ -3,6 +3,7 @@ title: National Cadet Corps
 permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### National Cadet Corps (NCC)
 
@@ -21,7 +22,8 @@ The NCC cadets also learn the importance of teamwork, through the Freestyle Dril
 
 **TEACHERS-IN-CHARGE**<br>
 Mr Henry Lau<br>
-Ms Shirleen Lee
+Ms Shirleen Lee<br>
+Mdm Koh Poh Leng
 
   
 **CCA SCHEDULE**<br>

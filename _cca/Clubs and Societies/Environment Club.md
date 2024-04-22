@@ -3,6 +3,7 @@ title: Environment Club
 permalink: /cca/clubs-and-societies/environment-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Environment Club
 
@@ -18,7 +19,7 @@ Mr Ang Ter Shien
   
 **CCA SCHEDULE**  
 Tuesday and Friday  
-3:30pm - 5:30pm  
+3.50PM to 6.00PM
   
 **ACHIEVEMENTS**  
 2019 Southeast CDC Green Schools Award - Excellence Award  <br>
