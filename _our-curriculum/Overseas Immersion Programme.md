@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Past Trips</h3>
-<p><strong>Overseas Trips 2024</strong>
+<p><strong>Overseas Trips 2024</strong> 
 <br>Students from our Regional Studies Programme (RSP) and our Talent Development
 Programme in Social Innovation (TDSI) embarked on an overseas learning
 journey to Indonesia in early March, 2024. The RSP students started in
