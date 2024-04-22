@@ -4,7 +4,7 @@ permalink: /admissions/dsa-year-1-2025/
 description: ""
 variant: markdown
 ---
-### Direct School Admission to Year 1 in 2025
+### **Direct School Admission to Year 1 in 2025**
 
 Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls to apply for admission to Year 1 in 2025 under the Direct School Admission into secondary schools (DSA-Sec) scheme. Students could apply for the 4-year O-Level Programme in CGSS or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP), which consists of 4 years in CGSS and 2 years in Victoria Junior College (VJC). 
  
@@ -12,7 +12,7 @@ At Cedar Girls’ Secondary School, you will join a family of young ladies who a
 
 CGSS offers DSA in Sports, Performing Arts (Symphonic Band) and Social Innovation categories. 
 
-DSA (Sports)
+##### **DSA (Sports)**<br>
 We offer DSA (Sports) in Badminton, Basketball, Netball, Table Tennis, Track and Field, or Volleyball. The programme aims to develop students’ talents and potentials in the various sports categories. 
 
 Our sports programme comprises:
@@ -22,7 +22,7 @@ c.	Extensive range of competitions
 
 Please click&nbsp;[here](https://cedargirlssec.moe.edu.sg/our-curriculum/cca/sports)&nbsp;for more information on our Sports CCAs.
 
-DSA (Social Innovation) 
+##### **DSA (Social Innovation)**<br>
 Our DSA (Social Innovation) programme aims to develop students to be advocates for social change and nurture their talents in creating user-centric solutions for the community that they serve. 
 
 The programme comprises:<br>
@@ -35,7 +35,7 @@ f.	Learning Journeys and Interactions with Industry Experts<br>
 
 Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/)&nbsp;for more information on our Social Innovation Programme.
 
-DSA (Performing Arts- Symphonic Band)
+##### **DSA (Performing Arts- Symphonic Band)**<br>
 The Cedar Symphonic Band is dedicated to nurturing the passion, talent, and potential of every student in the realm of music.
 
 Our band programme comprises:<br>
@@ -43,9 +43,8 @@ a. Quality guidance and rigorous combined/sectional practices by experienced ins
 b. Joint performance opportunities with schools in the VCA
 c. Extensive range of competitions and performance opportunities.
 
-Please click here for more information on Cedar Symphonic Band.
-
-
+Please click&nbsp;[here](https://www.cedargirlssec.moe.edu.sg/cca/performing-arts/symphonic-band/)&nbsp;for more information on Cedar Symphonic Band.
+<br><br>
 
 
 <p><strong>Criteria and Selection Process for <u>both O-Level and IP Programme</u></strong></p>
