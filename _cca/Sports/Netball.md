@@ -20,13 +20,16 @@ Ms Siti Aisyah Binte Muhammad Ali
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  
-3.45pm - 6.00pm  
+4.00pm - 6.00pm  
   
 **ACHIEVEMENTS**<br>
 
 **2023**&nbsp; <br>
 B Division East Zone – 3rd<br>
-B Division National – Top 16
+B Division National – Top 16<br>
+C Division East Zone – 1st<br>
+C Division National – 3rd<br>
+
 
 **2022**&nbsp; <br>
 B Division East Zone - 2nd<br>
