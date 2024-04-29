@@ -25,7 +25,6 @@ that will last for a lifetime.</p>
 <br>Monday, Tuesday and Thursday
 <br>3.45pm - 6.00pm</p>
 <p><strong>ACHIEVEMENTS</strong> 
-<br>
 </p>
 <p><strong>2023</strong>&nbsp;
 <br>B Division East Zone - 3rd
