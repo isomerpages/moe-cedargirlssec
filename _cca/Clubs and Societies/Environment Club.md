@@ -27,4 +27,3 @@ Tuesday and Friday
 **2021** <br>Singapore Environment Council School Green Awards – Yellow Flame Award<br><br>
 **2021** <br>Sembcorp Marine’s Green Wave Environmental Care Project – Commendation Award<br><br>
 **2019** <br>Southeast CDC Green Schools Award - Excellence Award  <br>
-
