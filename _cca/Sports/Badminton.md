@@ -3,6 +3,7 @@ title: Badminton
 permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Badminton
 
@@ -28,9 +29,16 @@ Friday&nbsp;<br>
   
 **ACHIEVEMENTS**  
 
+**2024**&nbsp;<br>
+B Division East Zone - 2nd<br>
+B Division National - Top 8<br>
+
 **2023**&nbsp;<br>
 B Division East Zone - 3rd<br>
 B Division National - Top 8<br>
+C Division East Zone - 2nd<br>
+C Division National - Top 8<br>
+
   
 
 **2022**&nbsp;<br>
