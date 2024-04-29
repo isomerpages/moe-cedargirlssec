@@ -19,7 +19,7 @@ Mr Ang Ter Shien
   
 **CCA SCHEDULE**  
 Tuesday and Friday  
-3.50PM to 6.00PM
+4.00PM to 6.00PM
   
 **ACHIEVEMENTS**<br>
 **2023** <br>Bowseat Ocean Awareness Competition - Notable Award<br><br>
