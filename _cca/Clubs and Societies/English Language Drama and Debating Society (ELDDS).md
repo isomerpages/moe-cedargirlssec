@@ -9,16 +9,8 @@ variant: markdown
 
 <img src="/images/cs2.png" style="width:60%">
 
-**ABOUT**<br>
-ELDDS consists of two major wings: Drama and Debate.&nbsp;
-
-  
-
-ELDDS (Drama) seeks to develop students as performers, playwrights, directors and theatre practitioners. Students are exposed to rigorous training sessions that prepare them for various youth performances, such as the SYF Arts Presentation. This year, they achieved the Certificate of Distinction. Members are also given the opportunity to explore enrichment courses conducted by professional theatre companies and arts practitioners, such as Playback Theatre. The training programmes nurture a love for the performing arts and develop our members in the areas of performance, speech, improvisation and stage management.
-
-  
-
-ELDDS (Debate) provides a platform for students who want to speak confidently and think critically. With directed coaching by qualified trainers and a wide variety of national competitions and public speaking events to hone their skills, members grow to become polished and eloquent speakers who can confidently examine a wide range of global affairs critically, forming and developing their own opinions and effective speaking styles.
+##### **ABOUT**<br>
+ELDDS (Drama) seeks to develop students as performers, playwrights, directors and theatre practitioners. The programmes nurture a love for the performing arts and develop our members in the areas of performance, speech, improvisation and stage management. Through rigorous training sessions, students are prepared for various youth performances, such as the SYF Arts Presentation. They achieved the Certificate of Distinction in both 2021 and 2023. Members are also given the opportunity to explore enrichment courses conducted by professional trainers from How Drama. They have explored playback theatre, mask-work, shadow puppetry and most recently, commedia dell'arte. They have performed at public platforms such as the Concourse at the Esplanade this year for #tellstory. Their passion for the arts has also been shared with the wider community. They performed at St John's Home in 2023 and the Society of Sheng Hong Welfare services in 2022. 
 
   
 
