@@ -23,17 +23,17 @@ have performed at public platforms such as the Concourse at the Esplanade
 this year for #tellstory. Their passion for the arts has also been shared
 with the wider community. They performed at St John's Home in 2023 and
 the Society of Sheng Hong Welfare services in 2022.</p>
-<p><strong>TEACHERS-IN-CHARGE</strong>
+<p><strong>TEACHERS-IN-CHARGE</strong> 
 <br>Ms Zahra
 <br>Mrs Gemma Daniel
 <br>Mrs Peh Lai Wah
 <br>Ms Sri Laxshemy</p>
-<p><strong>CCA SCHEDULE</strong>
+<p><strong>CCA SCHEDULE</strong> 
 <br>Monday and Tuesday
 <br>3.50PM to 6.20PM
 <br>
 </p>
-<p><strong>ACHIEVEMENTS</strong>
+<p><strong>ACHIEVEMENTS</strong> 
 <br>2023 Singapore Youth Festival [SYF-AP] Certificate of Distinction
 <br>2021 Singapore Youth Festival [SYF-AP] Certificate of Distinction&nbsp;
 <br>2019 Singapore Youth Festival (SYF) - Certificate of Accomplishment</p>
