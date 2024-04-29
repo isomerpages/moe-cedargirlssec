@@ -65,6 +65,7 @@ Venice.</p>
 </blockquote>
 <p>Students keen on pursuing their interest in Literature and the English
 language at a more advanced level can apply for research and creative writing
-opportunities through the school’s Talent Development (TD) programme.</p>
+opportunities through the school’s <a href="https://www.cedargirlssec.moe.edu.sg/our-curriculum/talent-development/overview/" rel="noopener noreferrer nofollow" target="_blank">Talent Development (TD) programme</a>
+</p>
 <p></p>
 <p></p>
