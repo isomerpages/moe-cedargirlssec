@@ -303,8 +303,8 @@ Seo Yelin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td><u>External Award</u> MOE Innovation Programme (IvP) - Distinction&nbsp;<br><br>
-	<u>School Award&nbsp;</u>Social Innovation Award&nbsp;</td>
+<td><b><u>External Award &nbsp;</u></b> MOE Innovation Programme (IvP) - Distinction&nbsp;<br><br>
+	<b><u>School Award &nbsp;</u></b>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -339,7 +339,7 @@ Claire-Marie<br>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td>School Award&nbsp;Social Innovation Award&nbsp;</td>
+	<td><b><u>School Award</u></b>&nbsp;Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
