@@ -27,7 +27,17 @@ Tuesday and Wednesday<br>
 3.50PM  to 6.00PM
 
 ##### **CCA Achievements:**
-**Year 2023**<br><br>
+**Year 2024**<br>
+**Robocup 2024, Autonomous Driving Category**<br>
+U19 Individual teams<br>
+2nd placing - Cedar (Scarlett &amp; En Yu) <br>
+3rd placing - Cedar (Xinjie &amp; Emma) <br>
+Judge award - Cedar (Leena &amp; Lena) <br>
+
+**Super teams (mixed schools)**<br> 
+1st placing - Cedar (Scarlett &amp; EnYu) + Physics (PeiHwa Sec) + The Kings (China’s international team- 天津生态城第一中学)<br>
+
+**Year 2023**<br>
 **Robocup 2023 competition results**<br>
 **First Steps Category:**  
 2nd- Ang Shang Yan  

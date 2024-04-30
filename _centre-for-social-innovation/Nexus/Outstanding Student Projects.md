@@ -3,7 +3,216 @@ title: Outstanding Student Projects
 permalink: /centre-for-social-innovation/nexus/osp/
 description: ""
 third_nav_title: Nexus
+variant: markdown
 ---
+<br><table>
+<tbody>
+<tr>
+<td>2023</td>
+<td>Name of Project</td>
+<td>Sheet Mask Duster.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Members&nbsp;</td>
+<td>
+Loi Zi Wei Ariel<br>
+Loo Xin Ni Bernice<br>
+Rivika Chandra <br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Awards&nbsp;</td>
+<td><strong><u>External Award&nbsp;</u></strong>Singapore Science and Engineering Fair finalist, Merit Award for project, Distinction for project video &nbsp;</td>
+</tr>
+<tr><td>&nbsp;</td>
+<td></td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Description of Project</td>
+<td>In this project, used sheet masks were repurposed into reusable whiteboard dusters that were more effective than the commercial Artline magnetic duster, used in our school, in terms of dust retention and cleaning efficiency. This initiative gives a second life to single used sheet masks, which contribute to environmental pollution due to their non-biodegradable nature, and also addresses the frequent replacement of non-environmentally friendly foam and felt whiteboard dusters. The duster was made for teachers and students in the classroom, who find it troublesome to clean the whiteboard well due to the duster being old and worn out.&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Name of Project</td>
+<td>Pocketz</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Members&nbsp;</td>
+<td>
+Georgine Nessa Lim<br>
+Yap Wan Yun Grace<br>
+Sng Min Ning<br>
+Shaarvi Gupta<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Awards&nbsp;</td>
+<td><strong><u>External Award&nbsp;</u></strong>National Design Competition – High Distinction, Top 20
+&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Description of Project</td>
+<td>In order to reduce harm caused to our environment, we are encouraged to pick up the habit to replace single-use plastic bags with reusable ones. However, many tend to forget to bring our reusable bags out with us. This leads to paying for single-use ones at the shops or even buying additional reusable bags. These purchases further add to the harmful impact on the environment as more materials are being used to meet our demands for bags. Thus, we designed Pocketz in hopes to resolve this issue. Pocketz is a reusable bag that acts as a pocket that you can attach to your clothes or bags, making the reusable bags more convenient to use and bring about.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Name of Project</td>
+<td>TD23G2</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Members&nbsp;</td>
+<td>
+Chan Jia En<br>
+Chong Yi Ting<br>
+Jaime Pek Wen Xuan<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Awards&nbsp;</td>
+<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Description of Project</td>
+<td>In this project, a spray was made from flavonoids extracted from pineapple biowaste, which can be used on clothing to effectively protect human skin against harmful UV rays. It was observed that many suffer from sunburns after exposure to UV rays for an extensive period of time. However, not everyone is able to apply UV protective creams such as sunscreen directly on their skin due to sensitivity or allergies. This drove our team to innovate a UV resistant liquid spray which can be applied onto clothing, effectively resolving adverse health impacts of UV rays on human skin. Moreover, burning, discarding, or landfilling pineapple biowaste could increase the risk of global warming. As such, pineapple biowaste, such as its unwanted skin and leaves, were recycled in the creation of this UV-resistant spray, inducing an innovation towards a circular economy.
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Name of Project</td>
+<td>The Scrub-It!</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Members&nbsp;</td>
+<td>
+Hoh Hue Wen<br>
+Chin Xin Yu Cayla<br>
+Tan Yi Xin Vera<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Awards&nbsp;</td>
+<td><strong><u>External Award</u></strong>Innovation Programme (IvP) – Distinction&nbsp; <strong><br><br>
+	<u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Description of Project</td>
+<td>The Scrub-it! is a water wheel with a sponge attached to the centre. The flow of water from the water source will be directed to cleaning the plate as well as turning the wheel. This allows for those with function in only 1 hand to wash plates and save water and electricity. Our solution does not require much water or electricity to work, thus it is a sustainable method of washing plates effectively. It is built such that users with function in only 1 hand can still wash their plates with ease and still clean off tough stains.
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Name of Project</td>
+<td>MOLU</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Members&nbsp;</td>
+<td>
+Tan Xin Ru, Ella <br>
+Pham Hoang Anh<br>
+Megan Wong Jia Yu<br>
+Thilaga Palaniappan<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Awards&nbsp;</td>
+<td><strong><u>External Award &nbsp;</u></strong>National Design Competition – High Distinction, Top 20&nbsp; <strong><br><br>
+	<u>School Award  &nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Description of Project</td>
+<td>Annually, e-commerce contributes to a total of 17.7 million kilograms of packaging waste and Singapore’s only landfill, Semaukau is set to be fully filled by 2035. Therefore, our solution, MOLU, aims to replace simple and ineffective plastic packaging with a more functional and more environmentally sustainable alternative made entirely from natural materials! MOLU has an interlocking feature between each layer forming a protective barrier to protect e-commerce goods when shipped and can be returned back to Singpost for recycling, reusing the materials to make more MOLUs and reducing the amount of waste produced from packaging. Additionally, MOLU is water-soluble and also has fertiliser properties to better aid plants’ growth. MOLU also has enhanced protective features to protect the goods and is more environmentally healthy. With this product, even one small MOLU-cule can have a big impact on our environment and contribute to a better earth!</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Name of Project</td>
+<td>HappyFeet</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Members&nbsp;</td>
+<td>
+Rae Nadya Binte Muhammad Nazri<br>
+Pasari Niyoshi Manoj<br>
+Sharifah Atia Binte Syed Abu Bakar Alsagoff<br>
+Sarah Yeow<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Awards&nbsp;</td>
+<td><strong><u>School Award &nbsp;</u></strong> Social Innovation Award</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Description of Project</td>
+<td>HappyFeet is our innovative sock design targeting foot pain relief, particularly among the elderly, to enhance sleep quality and overall well-being. Research revealed that foot pains are prevalent among elderly, and are commonly  caused by arthritis, gout, and neuropathy. They are highly discomforting and disrupt sleep, often leading to insomnia. Thus, HappyFeet is here to provide soothing massages and alleviate pain. It is a dual-layered sock containing embedded acupuncture stones infused with medicated oil, and battery-powered massage rollers. It is also lined with thick cotton for extra comfort. Inspired by UN SDG 3, our mission is to enhance the health and well-being of elderly by reducing foot pain for more quality sleep, resulting in higher health and energy levels. With the global foot care products market on the rise, HappyFeet offers a unique 3-in-1 solution that stands out for its non-invasive and convenient approach to foot pain management.
+.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
 <table>
 <tbody>
 <tr>
@@ -63,7 +272,7 @@ Seo Yelin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td>Participation in Youth STEM Empowerment Programme<u>School Award&nbsp;</u>Social Innovation Award&nbsp;&nbsp;</td>
+<td><b><u>External Award &nbsp;</u></b> Participation in Youth STEM Empowerment Programme<br><b><u>School Award &nbsp;</u></b>Social Innovation Award&nbsp;&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -94,8 +303,8 @@ Seo Yelin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td><u>External Award</u> MOE Innovation Programme (IvP) - Distinction&nbsp;<br><br>
-	<u>School Award&nbsp;</u>Social Innovation Award&nbsp;</td>
+<td><b><u>External Award &nbsp;</u></b> MOE Innovation Programme (IvP) - Distinction&nbsp;<br><br>
+	<b><u>School Award &nbsp;</u></b>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -130,7 +339,7 @@ Claire-Marie<br>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td>School Award&nbsp;Social Innovation Award&nbsp;</td>
+	<td><b><u>School Award</u></b>&nbsp;Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -146,204 +355,6 @@ Claire-Marie<br>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<td>2021</td>
-<td>Name of Project</td>
-<td>AI(R)CREW – Be in the Role, Feel the Heritage.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Members&nbsp;</td>
-<td>
-Alexandra Ng<br>
-Jerlene Sim<br>
-Aishwarya Goyal<br>
-Miina Hayashi<br>
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Awards&nbsp;</td>
-<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Description of Project</td>
-<td>Students designed a gamified virtual reality simulation that provides users with an immersive, realistic and sensory experience of preserving various historical sites in the perspective of the workers. Through the us of AI technology and gamification, the project aims to incalcuate appreciation for workers who have maintained and preserved historical sites.&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Name of Project</td>
-<td>Bob Tackling Technology</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Members&nbsp;</td>
-<td>
-Vona Tanisha<br>
-Kasthuri Ganeshkumar<br>
-See Tow Jo Lynn<br>
-Tey Xin Yu, Charis<br>
-Verlin Veriandra Fortuna<br>
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Awards&nbsp;</td>
-<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Description of Project</td>
-<td>A cyber-wellness programme created for Edgefield Primary School’s Pri 4 students through a interactive digital storybook that the school had adopted and implemented. In this storybook, students view the story in the main character’s (Bob) point of view and make conscious choices through the story.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Name of Project</td>
-<td>Caps Off</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Members&nbsp;</td>
-<td>
-Cadence Chua<br>
-Caitlyn Lim<br>
-Tiffany Tan<br>
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Awards&nbsp;</td>
-<td><strong><u>External Award</u></strong> MOE Innovation Programme (IvP) - Distinction&nbsp; <strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Description of Project</td>
-<td>An innovative product that assist users with dexterity problems when opening bottle caps.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Name of Project</td>
-<td>Rotating Poster Holder</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Members&nbsp;</td>
-<td>
-Faith Tan<br>
-Keryn Lim<br>
-Natalie Ng<br>
-Pay Xinyi<br>
-Serene Neo<br>
-Alyssa Tan<br>
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Awards&nbsp;</td>
-<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Description of Project</td>
-<td>An NEA project on the ‘Clean the Table’ Campaign with SECDC as well as a product to be used in the school’s canteen to advocate on the need for establishing good habits and hygiene in shared spaces</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Name of Project</td>
-<td>Brahm Centre Design Project</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Members&nbsp;</td>
-<td>
-Sayli Omkar Bapat<br>
-Lashirah Ebansha Aaisha<br>
-Low Yuxian Florence<br>
-Pavitra Kona<br>
-Prabhakaran Shamiksh<br>
-Lakshmanan Kumar Dakshata<br>
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Awards&nbsp;</td>
-<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Description of Project</td>
-<td>Project aims to design a study and wellness corner for youth who do not have a proper study environment at home at the Brahm Centre. The project has been adopted and implemented.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Name of Project</td>
-<td>E-companions</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Members&nbsp;</td>
-<td>
-Briel Chua Le Wen<br>
-Cherise Chow Qi Rui<br>
-Tan Si Ying<br>
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Awards&nbsp;</td>
-<td><strong><u>External Award</u></strong>MOE Innovation Programme (IvP) - Distinction&nbsp;Featured in the Virutal Young Innovators’ Fair 2021</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Description of Project</td>
-<td>The project aims to help teachers to engage and educate children about the environment through child-friendly educational game called ‘Reforestation Mission’.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

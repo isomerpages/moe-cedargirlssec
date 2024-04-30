@@ -19,10 +19,11 @@ Mr Ang Ter Shien
   
 **CCA SCHEDULE**  
 Tuesday and Friday  
-3.50PM to 6.00PM
+4.00PM to 6.00PM
   
-**ACHIEVEMENTS**  
-2019 Southeast CDC Green Schools Award - Excellence Award  <br>
-2021 Sembcorp Marine’s Green Wave Environmental Care Project – Commendation Award<br>
-2021 Singapore Environment Council School Green Awards – Yellow Flame Award<br>
-2022 Crea8 Sustainability Competition – 1st Runner Up
+**ACHIEVEMENTS**<br>
+**2023** <br>Bowseat Ocean Awareness Competition - Notable Award<br><br>
+**2022** <br>Crea8 Sustainability Competition – 1st Runner Up<br><br>
+**2021** <br>Singapore Environment Council School Green Awards – Yellow Flame Award<br><br>
+**2021** <br>Sembcorp Marine’s Green Wave Environmental Care Project – Commendation Award<br><br>
+**2019** <br>Southeast CDC Green Schools Award - Excellence Award  <br>
