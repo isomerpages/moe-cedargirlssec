@@ -11,7 +11,8 @@ variant: tiptap
 <p><a href="https://www.tp.edu.sg/ndproject2023/all-entries.html" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/ndproject2023/all-entries.html</a> (scroll
 to secondary entries)</p>
 <p></p>
-<h4>2023 - 1 Year 2 team was shortlisted as the finalist for Ageing Pitch Startup Stadium 2023 </h4>
+<h4>2023 - 1 Year 2 team was shortlisted as the finalist for Ageing Pitch Startup Stadium 2023</h4>
+<p></p>
 <p></p>
 <h5>2021 NEA’S DESIGN-A-TABLE INITIATIVE</h5>
 <p>As part of the National Environment Agency (NEA)’s Design-a-Table initiative,
