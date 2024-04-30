@@ -13,6 +13,9 @@ to secondary entries)</p>
 <p></p>
 <h4>2023 - 1 Year 2 team was shortlisted as the finalist for Ageing Pitch Startup Stadium 2023</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/A_19_2.jpg">
+</div>
 <p></p>
 <h5>2021 NEA’S DESIGN-A-TABLE INITIATIVE</h5>
 <p>As part of the National Environment Agency (NEA)’s Design-a-Table initiative,
