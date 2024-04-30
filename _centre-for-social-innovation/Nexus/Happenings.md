@@ -6,15 +6,26 @@ third_nav_title: Nexus
 variant: tiptap
 ---
 <h3>Happenings</h3>
-<p></p>
 <h4>2023 - 2 Teams emerged as National Design Challenge as Top 20 finalists</h4>
 <p><a href="https://www.tp.edu.sg/ndproject2023/all-entries.html" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/ndproject2023/all-entries.html</a> (scroll
 to secondary entries)</p>
-<p></p>
 <h4>2023 - 1 Year 2 team was shortlisted as the finalist for Ageing Pitch Startup Stadium 2023</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/A_19_2.jpg">
+</div>
+<p></p>
+<h4>2023 - Involvement in JP Morgan Hackathon</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/Involvement_in_JP_Morgan_Hackathon_.jpg">
+</div>
+<p></p>
+<h4>2022 - Redesigning Cedar Library</h4>
+<p><a href="https://www.readingbydesignsg.org/cedarlibrary" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.readingbydesignsg.org/cedarlibrary</u></a>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/Redesigning_Cedar_Library.jpg">
 </div>
 <p></p>
 <h5>2021 NEA’S DESIGN-A-TABLE INITIATIVE</h5>
