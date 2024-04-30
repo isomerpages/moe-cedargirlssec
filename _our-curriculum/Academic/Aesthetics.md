@@ -12,7 +12,6 @@ variant: tiptap
 <p></p>
 <p><strong>Mission:</strong>&nbsp;To provide a holistic 4-year Arts Programme
 and to teach the Art of Arts Appreciation and Critique to all Cedarians</p>
-<p></p>
 <h4>Objectives of Arts Education</h4>
 <p>a) Instil in Cedarians a love and appreciation for the visual and performing
 arts.</p>
@@ -21,7 +20,7 @@ integrated Arts programme whereby Cedarians will be exposed to different
 art forms including music, visual art, dance and drama.</p>
 <p>c) Empower Cedarians to become confident and creative individuals, a concerned
 citizen and an active contributor.</p>
-<h4>Overview of Aesthetics Curriculum </h4>
+<h4>Overview of Aesthetics Curriculum</h4>
 <p>1) Create a vibrant arts and design environment to develop balanced Cedarians.</p>
 <p>2) Develop creative, innovative and discerning thinkers with an appreciation
 for aesthetics, technology &amp; life.</p>
@@ -57,7 +56,7 @@ design and technology.</p>
 <td rowspan="1" colspan="1">
 <p>MUSIC UPLIFTS LIFE
 <br>
-<br><a href="http://cedargirlsmusicdept.wix.com/cedargirls" rel="noopener noreferrer nofollow" target="_blank"><u>http://cedargirlsmusicdept.wix.com/cedargirls</u></a>
+<br><a href="http://cedargirlsmusicdept.wix.com/cedargirls" rel="noopener noreferrer nofollow" target="_blank"><u>http://cedargirlsmusicdept.wix.com/cedargirls</u></a> 
 <br>
 <br>Musical Understanding is developed through Listening &amp; Responding,
 Creating and Performing. The Lower Secondary Music Curriculum includes
@@ -194,7 +193,7 @@ learning experiences, strengthening communication skills and confidence.
 <br>
 <br>Year 1 Song Cover
 <br>
-<br><a href="https://youtu.be/WYiPNVRdeqY" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/WYiPNVRdeqY</u></a>
+<br><a href="https://youtu.be/WYiPNVRdeqY" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/WYiPNVRdeqY</u></a> 
 <br>
 <br>Year 2 Original Song writing
 <br>Informal Learning &amp; Collaborative Instructional Approach
@@ -209,7 +208,7 @@ learning experiences, strengthening communication skills and confidence.
 <p>
 <br>Finalist, Singapore Kindness Movement
 <br>Song writing contest 2014
-<br><a href="https://youtu.be/xN9DS0x44tw" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/xN9DS0x44tw</u></a>
+<br><a href="https://youtu.be/xN9DS0x44tw" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/xN9DS0x44tw</u></a> 
 <br>
 <br>
 </p>
@@ -241,7 +240,7 @@ and also engages the students in online discussions and reflections.
 </div>
 <p>
 <br>Keyboard Playing
-<br><a href="https://youtu.be/MCvA8d1OZE4" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/MCvA8d1OZE4</u></a>
+<br><a href="https://youtu.be/MCvA8d1OZE4" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/MCvA8d1OZE4</u></a> 
 <br>
 <br>
 </p>
@@ -250,7 +249,7 @@ and also engages the students in online discussions and reflections.
 </div>
 <p>
 <br>Guitar Strum Sing
-<br><a href="https://youtu.be/MCvA8d1OZE4" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/MCvA8d1OZE4</u></a>
+<br><a href="https://youtu.be/MCvA8d1OZE4" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/MCvA8d1OZE4</u></a> 
 <br>
 <br>
 </p>
@@ -270,7 +269,7 @@ and also engages the students in online discussions and reflections.
 <p>
 <br>Singapore Book of Records
 <br>Cup Song Rhythmic Percussion 2013
-<br><a href="https://youtu.be/B4wTWFQlHrc" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/B4wTWFQlHrc</u></a>
+<br><a href="https://youtu.be/B4wTWFQlHrc" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/B4wTWFQlHrc</u></a> 
 <br>
 <br>
 </p>
@@ -280,7 +279,7 @@ and also engages the students in online discussions and reflections.
 <p>
 <br>Champion, The Originals Music Fiesta
 <br>Song Writing Contest 2012
-<br><a href="https://youtu.be/q2lYU1s_tbg" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/q2lYU1s_tbg</u></a>
+<br><a href="https://youtu.be/q2lYU1s_tbg" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/q2lYU1s_tbg</u></a> 
 <br>
 <br>
 </p>
@@ -338,7 +337,7 @@ in a fun and engaging way, promoting local songs as well as class bonding.
 </div>
 <p>
 <br>National Day Singathon
-<br><a href="https://youtu.be/xkh5Jx2pyVk" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/xkh5Jx2pyVk</u></a>
+<br><a href="https://youtu.be/xkh5Jx2pyVk" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/xkh5Jx2pyVk</u></a> 
 <br>
 <br>
 </p>
