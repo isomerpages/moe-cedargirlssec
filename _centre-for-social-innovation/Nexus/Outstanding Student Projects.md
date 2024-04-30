@@ -272,7 +272,7 @@ Seo Yelin<br>
 <tr>
 <td>&nbsp;</td>
 <td>Awards</td>
-<td>Participation in Youth STEM Empowerment Programme<u>School Award&nbsp;</u>Social Innovation Award&nbsp;&nbsp;</td>
+<td><b><u>External Award &nbsp;</u></b> Participation in Youth STEM Empowerment Programme<br><b><u>School Award &nbsp;</u></b>Social Innovation Award&nbsp;&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
