@@ -148,29 +148,28 @@ Tan Yi Xin Vera<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project</td>
-<td>Brahm Centre Design Project</td>
+<td>MOLU</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-Sayli Omkar Bapat<br>
-Lashirah Ebansha Aaisha<br>
-Low Yuxian Florence<br>
-Pavitra Kona<br>
-Prabhakaran Shamiksh<br>
-Lakshmanan Kumar Dakshata<br>
+Tan Xin Ru, Ella <br>
+Pham Hoang Anh<br>
+Megan Wong Jia Yu<br>
+Thilaga Palaniappan<br>
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><strong><u>School Award&nbsp;</u></strong>Social Innovation Award&nbsp;</td>
+<td><strong><u>External Award &nbsp;</u></strong>National Design Competition – High Distinction, Top 20&nbsp; <strong><br><br>
+	<u>School Award  &nbsp;</u></strong>Social Innovation Award&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Description of Project</td>
-<td>Project aims to design a study and wellness corner for youth who do not have a proper study environment at home at the Brahm Centre. The project has been adopted and implemented.</td>
+<td>Annually, e-commerce contributes to a total of 17.7 million kilograms of packaging waste and Singapore’s only landfill, Semaukau is set to be fully filled by 2035. Therefore, our solution, MOLU, aims to replace simple and ineffective plastic packaging with a more functional and more environmentally sustainable alternative made entirely from natural materials! MOLU has an interlocking feature between each layer forming a protective barrier to protect e-commerce goods when shipped and can be returned back to Singpost for recycling, reusing the materials to make more MOLUs and reducing the amount of waste produced from packaging. Additionally, MOLU is water-soluble and also has fertiliser properties to better aid plants’ growth. MOLU also has enhanced protective features to protect the goods and is more environmentally healthy. With this product, even one small MOLU-cule can have a big impact on our environment and contribute to a better earth!</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -182,26 +181,28 @@ Lakshmanan Kumar Dakshata<br>
 <tr>
 <td>&nbsp;</td>
 <td>Name of Project</td>
-<td>E-companions</td>
+<td>HappyFeet</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Members&nbsp;</td>
 <td>
-Briel Chua Le Wen<br>
-Cherise Chow Qi Rui<br>
-Tan Si Ying<br>
+Rae Nadya Binte Muhammad Nazri<br>
+Pasari Niyoshi Manoj<br>
+Sharifah Atia Binte Syed Abu Bakar Alsagoff<br>
+Sarah Yeow<br>
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Awards&nbsp;</td>
-<td><strong><u>External Award</u></strong>MOE Innovation Programme (IvP) - Distinction&nbsp;Featured in the Virutal Young Innovators’ Fair 2021</td>
+<td><strong><u>School Award &nbsp;</u></strong> Social Innovation Award</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Description of Project</td>
-<td>The project aims to help teachers to engage and educate children about the environment through child-friendly educational game called ‘Reforestation Mission’.</td>
+<td>HappyFeet is our innovative sock design targeting foot pain relief, particularly among the elderly, to enhance sleep quality and overall well-being. Research revealed that foot pains are prevalent among elderly, and are commonly  caused by arthritis, gout, and neuropathy. They are highly discomforting and disrupt sleep, often leading to insomnia. Thus, HappyFeet is here to provide soothing massages and alleviate pain. It is a dual-layered sock containing embedded acupuncture stones infused with medicated oil, and battery-powered massage rollers. It is also lined with thick cotton for extra comfort. Inspired by UN SDG 3, our mission is to enhance the health and well-being of elderly by reducing foot pain for more quality sleep, resulting in higher health and energy levels. With the global foot care products market on the rise, HappyFeet offers a unique 3-in-1 solution that stands out for its non-invasive and convenient approach to foot pain management.
+.</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -357,4 +358,3 @@ Claire-Marie<br>
 </tr>
 </tbody>
 </table>
-
