@@ -19,6 +19,10 @@ to secondary entries)</p>
 <p></p>
 <h4>2023 - Involvement in JP Morgan Hackathon</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/Involvement_in_JP_Morgan_Hackathon_.jpg">
+</div>
+<p></p>
 <h5>2021 NEA’S DESIGN-A-TABLE INITIATIVE</h5>
 <p>As part of the National Environment Agency (NEA)’s Design-a-Table initiative,
 a group of Cedarians helped to design the artworks to support the Clean
