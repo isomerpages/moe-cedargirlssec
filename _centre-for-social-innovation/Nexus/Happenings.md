@@ -10,6 +10,9 @@ variant: tiptap
 <h4>2023 - 2 Teams emerged as National Design Challenge as Top 20 finalists</h4>
 <p><a href="https://www.tp.edu.sg/ndproject2023/all-entries.html" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/ndproject2023/all-entries.html</a> (scroll
 to secondary entries)</p>
+<p></p>
+<h4>2023 - 1 Year 2 team was shortlisted as the finalist for Ageing Pitch Startup Stadium 2023 </h4>
+<p></p>
 <h5>2021 NEA’S DESIGN-A-TABLE INITIATIVE</h5>
 <p>As part of the National Environment Agency (NEA)’s Design-a-Table initiative,
 a group of Cedarians helped to design the artworks to support the Clean
@@ -45,4 +48,6 @@ be used as a book to promote bilingualism.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/news7.png">
 </div>
+<p></p>
+<p></p>
 <p></p>
