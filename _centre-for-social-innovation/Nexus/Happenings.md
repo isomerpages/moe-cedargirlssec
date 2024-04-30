@@ -23,6 +23,13 @@ to secondary entries)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/Involvement_in_JP_Morgan_Hackathon_.jpg">
 </div>
 <p></p>
+<h4>2022 - Redesigning Cedar Library</h4>
+<p><a href="https://www.readingbydesignsg.org/cedarlibrary" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.readingbydesignsg.org/cedarlibrary</u></a>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/Redesigning_Cedar_Library.jpg">
+</div>
+<p></p>
 <h5>2021 NEA’S DESIGN-A-TABLE INITIATIVE</h5>
 <p>As part of the National Environment Agency (NEA)’s Design-a-Table initiative,
 a group of Cedarians helped to design the artworks to support the Clean
