@@ -19,12 +19,13 @@ Mdm Sia Lay Choon
   
 **CCA SCHEDULE**  
 Monday, Wednesday and Friday  
-3.30pm - 6.00pm  
+3.45pm - 6.00pm  
   
 **ACHIEVEMENTS**<br>
+2023 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Accomplishment<br>
+2021 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Accomplishment<br>
 2017 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction<br>
 2019 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Distinction
 
   
 
-2021 Arts Presentation - Singapore Youth Festival (SYF) - Certificate of Accomplishment
