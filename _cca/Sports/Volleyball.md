@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Volleyball
 
-<img src="/images/sports7.png" style="width:60%">
+<img src="/images/sports7.png" style="width:100%">
 
 **ABOUT**  <br>
 The Cedar Volleyball Team aims to develop perseverance, commitment and a strong desire to succeed. The CCA has sustained excellent achievements in the recent National Schools’ Volleyball competitions. Our team always strives for excellence and demonstrates passion, perseverance and team-work through our regular training sessions. On the whole, the CCA strives to&nbsp;give its members many opportunities to learn to be committed young ladies, with the drive to pursue the best in themselves.
