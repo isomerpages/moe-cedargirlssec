@@ -27,18 +27,18 @@ at the Esplanade Concourse concert series, ‘In Youthful Company’. Overall,
 the increased live performances and the opportunity for the choir to engage
 in planning the repertoire and music arrangement, has nurtured confidence
 and self expression.</p>
-<p>For more information, you may go to&nbsp;&nbsp;<a href="http://cedargirlsschoir.wixsite.com/cedarchoir" rel="noopener noreferrer nofollow" target="_blank">http://cedargirlsschoir.wixsite.com/cedarchoir</a>
-</p>
-<p><strong>TEACHERS-IN-CHARGE</strong>
+<p></p>
+<p><strong>TEACHERS-IN-CHARGE</strong> 
 <br>Ms Naomi Chye (Conductor)
 <br>Ms Rachel Poh
 <br>Mdm Goh Chiw Moy</p>
-<p><strong>CCA SCHEDULE</strong>
+<p><strong>CCA SCHEDULE</strong> 
 <br>Monday, Wednesday and Friday&nbsp;
 <br>4pm – 6pm&nbsp;</p>
-<p><strong>ACHIEVEMENTS</strong>
+<p><strong>ACHIEVEMENTS</strong> 
 <br>2023 SYF Certificate of Distinction
 <br>2021 Singapore Youth Festival (SYF) - Certification of Participation
 <br>(Covid:Nationwide Non Benchmarking)
 <br>2019 Singapore Youth Festival (SYF) - Certificate of Distinction</p>
-<p></p>
+<p>For additional information: <a href="https://www.instagram.com/cedargirlschoir/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/cedargirlschoir/</u></a>
+</p>
