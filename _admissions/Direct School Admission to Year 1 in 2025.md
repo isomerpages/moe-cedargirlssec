@@ -2,7 +2,7 @@
 title: Direct School Admission to Year 1 in 2025
 permalink: /admissions/dsa-year-1-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Direct School Admission to Year 1 in 2025</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls
@@ -157,7 +157,7 @@ or instrumental related competitions</p>
 <p>Perform instrumental scales – Concert Bb, Eb, Ab and F major scales.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Part 2: Unprepared Individual Item</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -165,9 +165,8 @@ or instrumental related competitions</p>
 <p>Sight-reading</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Interview</p>
-<p>(where necessary)</p>
+<p></p>
+<p>Interview (where necessary)</p>
 </td>
 </tr>
 <tr>
@@ -197,11 +196,11 @@ Robotics Competition, Tan Kah Kee Young Inventors Awards, Innovation Awards
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted or given an offer. Applicants who do not have prior
 experience may also apply, and will be assessed on the basis of their potential.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
@@ -242,8 +241,7 @@ Exercise for International Students test to be successful in DSA.</p>
 Please scan and email the documents to <a rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>.
 Please indicate in your subject title: <strong>DSA 2024_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -427,8 +425,7 @@ roles in school</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Important Points to Note<br></u></strong>Parents and students
 are encouraged to choose schools wisely based on the student’s aptitudes
 and strengths, bearing in mind the schools’ academic and non-academic requirements,
