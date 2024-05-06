@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### National Police Cadet Corps (NPCC)
 
-<img src="/images/ug3.png" style="width:60%">
+<img src="/images/ug3.png" style="width:100%">
 
 **ABOUT**  <br>
 Cedar Girls’ NPCC Unit has a tradition of excellence and we have been awarded the Unit Overall Proficiency Award – Gold for many years. Through the high standards of weekly trainings, we have inculcated a strong sense of discipline and confidence in our cadets. Cadets will receive varied and systematic training for many activities such as drills, campcraft, singing, PT &amp; Sports, revolver handling, marksmanship, first aid, survival skills, outdoor adventure skills, planning of activities, rafting etc.
