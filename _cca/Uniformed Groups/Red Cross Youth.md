@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Red Cross Youth
 
-<img src="/images/ug4.png" style="width:60%">
+<img src="/images/ug4.png" style="width:100%">
 
 **ABOUT**  <br>
 Cedar Red Cross Youth (RCY) aims to develop a strong sense of social responsibility and discipline in its cadets through enriching activities which promote teamwork, emergency responsiveness, community involvement and leadership skills. Cadets are exposed to a diverse range of useful skills and knowledge through the Red Cross Youth subjects:
@@ -26,7 +26,7 @@ Cedar Red Cross Youth (RCY) aims to develop a strong sense of social responsibil
 
 Cadets develop a sense of purpose and responsibility when they provide invaluable assistance during first aid duties for school and public events. They participate in a variety of school and HQ activities, such as the March Leadership Camp, the Unit Specialist’s Programme, the Warrant Officer’s Programme, Red Cross Youth Challenge and more.
 
-  
+![](/images/CCA/Red%20Cross/FirstAidCompetition2023.jpg)  
 
 To build on their skills and confidence, cadets also participate in a variety of competitions such as the First Aid Competition, Ambassadors of Blood Donation Competition, Disaster Risk Reduction Championship, and the Trailblazers Championship. They also get the opportunity to participate in the National Day Parade and as part of the Cedar National Day contingent, which cultivate a sense of pride to their school and nation.
 
@@ -34,6 +34,7 @@ To build on their skills and confidence, cadets also participate in a variety of
 
 With the principles of the Red Cross Movement rooted in our hearts and minds, RCY cadets stand by the belief that Humanity is in Our Hands, as that every cadet has a part to play as a part of a larger international humanitarian network. Cedar Red Cross Youth will continue to serve with compassion.
 
+![](/images/CCA/Red%20Cross/WorldRedCrossDay2023.jpg)
   
 **TEACHERS-IN-CHARGE**  
 Ms Christine So  <br>
