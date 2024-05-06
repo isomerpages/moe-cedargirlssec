@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Symphonic Band
 
-<img src="/images/pa4.png" style="width:60%">
+<img src="/images/pa4.png" style="width:100%">
 
 **ABOUT**  <br>
 Cedar Girls' Secondary School's Symphonic Band embodies the essence of our guiding vision, "Ordinary People, Extraordinary Music," as kindred individuals converge to craft exquisite melodies as a harmonious whole. 
