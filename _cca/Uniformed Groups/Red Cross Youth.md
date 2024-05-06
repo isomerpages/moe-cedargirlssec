@@ -68,5 +68,3 @@ Wednesday and Friday
 2021 First Aid Championships (Junior Category) – Silver Award<br>
 2021 Ambassadors of Blood Donation Competition – Gold with Honours Award, Silver Award<br>
 2021 Disaster Risk Reduction Championships – Gold Award
-
-  
