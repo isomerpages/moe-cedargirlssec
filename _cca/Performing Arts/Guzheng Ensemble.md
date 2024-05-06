@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Guzheng Ensemble
 
-<img src="/images/pa2.png" style="width:60%">
+<img src="/images/pa2.png" style="width:100%">
 
 **ABOUT**  <br>
 The Cedar Guzheng Ensemble strives to inculcate a deep artistic appreciation for the 2500-year-old traditional Chinese instrument as well as its History since ancient China. We value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime. As we continue to create music as a team, we hope to move hearts and inspire many others to learn more about this ancestral instrument.
