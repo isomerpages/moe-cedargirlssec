@@ -28,6 +28,6 @@ for aesthetics, technology &amp; life.</p>
 design and technology.</p>
 <p></p>
 <h4>Arts Education and Aesthetic Experiences</h4>
-<p><a href="/files/The_Arts_Education___Aesthetic_Experiences_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+<p><a href="/files/Aesthetics/the_arts_education_aesthetic_experiences.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
 </p>
 <p></p>
