@@ -2,7 +2,7 @@
 title: Direct School Admission to Year 1 in 2025
 permalink: /admissions/dsa-year-1-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Direct School Admission to Year 1 in 2025</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls
@@ -209,7 +209,8 @@ experience may also apply, and will be assessed on the basis of their potential.
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2024, 11am – 3 Jun 2024, 3pm</strong>.
-&nbsp;For more details, please refer to MOE website <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+&nbsp;For more details, please refer to MOE website <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
 </li>
 <li>
 <p><strong>Applicants from MOE mainstream primary schools</strong>: Parent
@@ -220,7 +221,7 @@ primary school for assistance.</p>
 <li>
 <p><strong>Applicants not studying in MOE mainstream primary schools:</strong> They
 need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
-Portal. They may refer to the MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+Portal. They may refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </li>
 <li>
