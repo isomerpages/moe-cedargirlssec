@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Girl Guides
 
-<img src="/images/ug1.png" style="width:60%">
+<img src="/images/ug1.png" style="width:100%">
 
 **ABOUT**  
 

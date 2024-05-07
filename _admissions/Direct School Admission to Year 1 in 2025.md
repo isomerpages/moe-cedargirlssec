@@ -2,7 +2,7 @@
 title: Direct School Admission to Year 1 in 2025
 permalink: /admissions/dsa-year-1-2025/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Direct School Admission to Year 1 in 2025</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls
@@ -138,8 +138,7 @@ competition.</p>
 or instrumental related competitions</p>
 <p>b.Participated in school and /or public performances</p>
 <p>c.&nbsp;Participated in the Singapore National Youth Sinfonia or equivalent</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any other relevant instrumental
--related experience
+<p>d.&nbsp;Any other relevant instrumental -related experience
 <br>
 <br>
 <br>

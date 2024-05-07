@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### National Cadet Corps (NCC)
 
-<img src="/images/ug2.png" style="width:60%">
+<img src="/images/ug2.png" style="width:100%">
 
 **ABOUT**  <br>
 The Cedar National Cadet Corps (NCC) aims to develop a strong sense of responsibility, resilience and resourcefulness in the cadets, so as to nurture successful young citizens. Through weekly parades and NCC activities, the cadets are groomed into leaders of character who strive to do their best. The cadets are exposed to numerous military-related activities like stimulated firing, live range shooting and obstacle courses. This enables them to appreciate the importance of our nation’s military defence.
