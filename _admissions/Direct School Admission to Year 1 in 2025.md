@@ -138,8 +138,7 @@ competition.</p>
 or instrumental related competitions</p>
 <p>b.Participated in school and /or public performances</p>
 <p>c.&nbsp;Participated in the Singapore National Youth Sinfonia or equivalent</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any other relevant instrumental
--related experience
+<p>d.&nbsp;Any other relevant instrumental -related experience
 <br>
 <br>
 <br>
