@@ -238,8 +238,8 @@ Exercise for International Students test to be successful in DSA.</p>
 <p></p>
 <h4><strong><u>Submission of Documents</u></strong></h4>
 <p>Shortlisted applicants will be required to submit the following documents.
-Please scan and email the documents to <a rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>.
-Please indicate in your subject title: <strong>DSA 2024_DSA Category_ Name of Primary School_Name of student.</strong>
+Please scan and email the documents to <a href="cedargirlss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a> Please indicate
+in your subject title: <strong>DSA 2024_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
