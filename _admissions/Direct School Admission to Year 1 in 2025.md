@@ -434,8 +434,8 @@ and the programmes available to develop the area of talent.</p>
 <p>Once your child has been given a confirmed offer, a place has been reserved
 for your child in the school. However, your child must achieve a PSLE score
 that qualifies them for Posting Group 3 in order for them to be allocated
-to Cedar Girls’. You may wish to visit <a href="go.gov.sg/posting-groups" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/posting-groups</a> for more information
-on Posting Groups.</p>
+to Cedar Girls’. You may wish to <a href="https://www.moe.gov.sg/secondary/s1-posting/how-to-choose/considerations" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+more information on Posting Groups.</p>
 <p></p>
 <p>Please take note that once your child is successfully allocated to our
 school through the DSA-Sec, they will not be allowed to participate in
