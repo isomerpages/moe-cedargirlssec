@@ -201,7 +201,7 @@ will be shortlisted or given an offer. Applicants who do not have prior
 experience may also apply, and will be assessed on the basis of their potential.</p>
 <p></p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
 <h4><strong><u>Application Process</u></strong></h4>
@@ -238,8 +238,8 @@ Exercise for International Students test to be successful in DSA.</p>
 <p></p>
 <h4><strong><u>Submission of Documents</u></strong></h4>
 <p>Shortlisted applicants will be required to submit the following documents.
-Please scan and email the documents to <a rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>.
-Please indicate in your subject title: <strong>DSA 2024_DSA Category_ Name of Primary School_Name of student.</strong>
+Please scan and email the documents to <a href="cedargirlss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a> Please indicate
+in your subject title: <strong>DSA 2024_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -434,7 +434,7 @@ and the programmes available to develop the area of talent.</p>
 <p>Once your child has been given a confirmed offer, a place has been reserved
 for your child in the school. However, your child must achieve a PSLE score
 that qualifies them for Posting Group 3 in order for them to be allocated
-to Cedar Girls’. You may wish to visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/posting-groups</a> for
+to Cedar Girls’. You may wish to <a href="https://www.moe.gov.sg/secondary/s1-posting/how-to-choose/considerations" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 more information on Posting Groups.</p>
 <p></p>
 <p>Please take note that once your child is successfully allocated to our
