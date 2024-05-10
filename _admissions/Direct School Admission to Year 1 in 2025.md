@@ -338,7 +338,7 @@ roles in school</p>
 <p>Sports Trials and interviews at Cedar Girls’ Sec School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jul 2024 – 9 Sep 2024</p>
+<p>24 Jun 2024 – 9 Sep 2024</p>
 </td>
 </tr>
 <tr>
