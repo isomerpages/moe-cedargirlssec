@@ -2,111 +2,108 @@
 title: Alumni
 permalink: /our-community/alumni/
 description: ""
+variant: tiptap
 ---
-### Alumni
-
-The Cedarian Alumni is dedicated to fostering ties between fellow Cedarians. It is driven by enthusiasm and good spirit and will constantly uphold the tradition of Honesty, Perseverance and Courtesy. Once a Cedarian, Always a Cedarian.
-
-<img src="/images/alumni1.png" style="width:60%">
-
-<ul class="jekyllcodex_accordion">
-
-<li>
-
-<input type="checkbox" id="accordion1">
-
-<label for="accordion1">Objectives</label>
-
-<div>
-
-<p>
-To sign up as an Alumni Member, click <a href="/files/alumni_membership_form.pdf">here</a>. <br><br>  
-  
-To sign up as Cedar Connect member, scroll below  <br><br>  
-  
-1. To encourage a life-long relationship between the Cedarian Alumni and Cedar Girls' Secondary School by:  <br><br>  
-  
-
-•  Offering whatever assistance that may be required in the School's pursuit of excellence  <br><br>  
-    
-•  Acting as a liaison centre between alumni members and present students and teachers of the School in order that the latter may benefit from the advice, experience, guidance and assistance of the members.  <br><br>  
-    
-•  Preserving a historical account of the School and recording the achievements of its former students, teachers and principals.  <br><br>  
-    
-
-  
-
-2. To promote the common interests of and reunite ex-Cedarians by:  <br><br>  
-
-  
-
-•  Promoting friendship, cooperation, goodwill and solidarity among alumni members through social, cultural, educational and recreational activities.  <br><br>  
-    
-•  Extending the influence of the old students, teachers and others formerly associated with the School for the benefit of all.  <br><br>  
-    
-•  Providing a platform for bonding and networking among members.  <br><br>  
-    
-•  Fostering among members a spirit of pride, loyalty and love for the Alma Mater. <br><br>   
-    
-
-  
-
-3. To encourage and instill in members and students an awareness of their role in the community by engaging in activities that will promote the interests and welfare of the School, the Alumni and the Community.
-</p>
-
+<h3>Alumni</h3>
+<p>The Cedarian Alumni is dedicated to fostering ties between fellow Cedarians.
+It is driven by enthusiasm and good spirit and will constantly uphold the
+tradition of Honesty, Perseverance and Courtesy. Once a Cedarian, Always
+a Cedarian.</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/alumni1.png">
 </div>
-
-</li>  
-
+<ul>
 <li>
-
-<input type="checkbox" id="accordion2">
-
-<label for="accordion2">Alumni Exco</label>
-
-<div>
-
-<p>
-
-To contact the exco, please write to alumnicedar@yahoo.com.sg <br><br>
-
-  
-
-Facebook site links<br>
-www.facebook.com/cedarconnect.cedar<br>
-www.facebook.com/cedargirls<br><br>
-
-  
-
-Membership is free<br><br>
-
-To register yourself as a cedar connect member click here	
+<p>Objectives</p>
+<p>To sign up as an Alumni Member, click&nbsp;<a href="/files/alumni_membership_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
 </p>
-
-</div>
-
+<p>To sign up as Cedar Connect member, scroll below
+<br>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To encourage a life-long relationship between the Cedarian Alumni and
+Cedar Girls' Secondary School by:
+<br>
+</p>
 </li>
-
-<li>
-
-<input type="checkbox" id="accordion3">
-
-<label for="accordion3">Advisors</label>
-
-<div>
-
-<p>
-Mrs Har Ying Ying- Vice Principal - (lim_ying_ying@moe.edu.sg)  
-  
-
-•  <a href="http://cedarianalumni.blogspot.com/">Alumni website</a><br>
-•  <a href="http://cedarconnect.blogspot.com/">Cedar Connect </a><br>
-•   Our Success Stories
+</ol>
+<p>• Offering whatever assistance that may be required in the School's pursuit
+of excellence
+<br>
 </p>
-
-</div>
-
+<p>• Acting as a liaison centre between alumni members and present students
+and teachers of the School in order that the latter may benefit from the
+advice, experience, guidance and assistance of the members.
+<br>
+</p>
+<p>• Preserving a historical account of the School and recording the achievements
+of its former students, teachers and principals.
+<br>
+<br>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>To promote the common interests of and reunite ex-Cedarians by:
+<br>
+</p>
 </li>
-
- 
+</ol>
+<p>• Promoting friendship, cooperation, goodwill and solidarity among alumni
+members through social, cultural, educational and recreational activities.
+<br>
+<br>
+</p>
+<p>• Extending the influence of the old students, teachers and others formerly
+associated with the School for the benefit of all.
+<br>
+<br>
+</p>
+<p>• Providing a platform for bonding and networking among members.
+<br>
+<br>
+</p>
+<p>• Fostering among members a spirit of pride, loyalty and love for the
+Alma Mater.
+<br>
+<br>
+</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>To encourage and instill in members and students an awareness of their
+role in the community by engaging in activities that will promote the interests
+and welfare of the School, the Alumni and the Community.</p>
+</li>
+</ol>
+<p></p>
+</li>
+<li>
+<p>Alumni Exco</p>
+<p></p>
+<p>To contact the exco, please write to&nbsp;alumnicedar@yahoo.com.sg
+<br>
+<br>
+</p>
+<p>Facebook site links
+<br><a href="www.facebook.com/cedarconnect.cedar" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/cedarconnect.cedar</a>
+<br><a href="www.facebook.com/cedargirls" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/cedargirls</a>
+<br>
+</p>
+<p>Membership is free
+<br>
+</p>
+<p>To register yourself as a cedar connect member click here</p>
+<p></p>
+</li>
+<li>
+<p>Advisors</p>
+<p>Mdm Komathi Kesavan</p>
+<p>• <a href="http://cedarianalumni.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank">Alumni website</a>
+<br>• <a href="http://cedarconnect.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank">Cedar Connect </a>
+<br>• Our Success Stories</p>
+<p></p>
+</li>
 </ul>
+<p></p>
