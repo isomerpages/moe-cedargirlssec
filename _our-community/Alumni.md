@@ -12,16 +12,14 @@ a Cedarian.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/alumni1.png">
 </div>
-<ul>
-<li>
-<p>Objectives</p>
 <p>To sign up as an Alumni Member, click&nbsp;<a href="/files/alumni_membership_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br>
 </p>
-<p>To sign up as Cedar Connect member, scroll below
-<br>
-</p>
+<p>To sign up as Cedar Connect member, scroll below</p>
+<ul>
+<li>
+<p></p>
+<h4><strong>Objectives</strong><br></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To encourage a life-long relationship between the Cedarian Alumni and
@@ -79,16 +77,18 @@ and welfare of the School, the Alumni and the Community.</p>
 </ol>
 <p></p>
 </li>
+</ul>
+<h4>Alumni Exco</h4>
+<ul>
 <li>
-<p>Alumni Exco</p>
 <p></p>
 <p>To contact the exco, please write to&nbsp;alumnicedar@yahoo.com.sg
 <br>
 <br>
 </p>
 <p>Facebook site links
-<br><a href="www.facebook.com/cedarconnect.cedar" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/cedarconnect.cedar</a>
-<br><a href="www.facebook.com/cedargirls" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/cedargirls</a>
+<br><a href="www.facebook.com/cedarconnect.cedar" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/cedarconnect.cedar</a> 
+<br><a href="www.facebook.com/cedargirls" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/cedargirls</a> 
 <br>
 </p>
 <p>Membership is free
@@ -100,7 +100,7 @@ and welfare of the School, the Alumni and the Community.</p>
 <li>
 <p>Advisors</p>
 <p>Mdm Komathi Kesavan</p>
-<p>• <a href="http://cedarianalumni.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank">Alumni website</a>
+<p>• <a href="http://cedarianalumni.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank">Alumni website</a> 
 <br>• <a href="http://cedarconnect.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank">Cedar Connect </a>
 <br>• Our Success Stories</p>
 <p></p>
