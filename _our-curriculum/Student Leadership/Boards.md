@@ -6,8 +6,11 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>Prefectorial Board</h3>
-<p><strong>Cedar Prefectorial Board</strong>
-</p>
+<h4><strong>Cedar Prefectorial Board</strong></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/CPB.jpg">
+</div>
 <p>The Cedar Prefectorial Board (CPB) comprises of Prefect Councillors who
 are passionate and driven individuals who strive to make a positive impact
 in the Cedar community. Only pupils who are exemplary in conduct and adopt
@@ -22,8 +25,11 @@ events include our Blue, Yellow and Grey Day, where we aim to foster a
 greater school spirit and Our Cedar Conversation, an opportunity for the
 voices of the student body to be heard via our leaders. In Cedar, CPB is
 a unique family that inspires all!</p>
-<p><strong>Sports and Health Leaders</strong>
-</p>
+<h4><strong>Sports and Health Leaders</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/SHLB.jpg">
+</div>
 <p>Our Sports and Health Leaders (SHL) aim to motivate and inspire the student
 body to keep fit and active through a well-balanced diet and various exercise
 programmes. They plan and organise various initiatives such mass dances,
@@ -38,8 +44,11 @@ Through events and trainings, they make use of opportunities to grow and
 serve the school. They help to foster greater school spirit, inspiring
 their peers to lead healthier lives while building lasting bonds with each
 other.</p>
-<p><strong>Peer Support Board</strong>
-</p>
+<h4><strong>Peer Support Board</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/PSB.jpg">
+</div>
 <p>The Cedar Peer Support Board strives to develop student leaders with skills
 that enable them to lead, champion and advocate Peer Support Relationship
 (PSR) efforts among Cedarians. The Peer Support Leaders (PSLs) aspire to
@@ -55,8 +64,11 @@ to exhibit positive behaviours, embodying the values of leadership and
 care for their peers. They actively contribute to the well-being of the
 student body by synergising efforts with their fellow student leaders to
 support school-wide programmes.</p>
-<p><strong>Monitress Council</strong>
-</p>
+<h4><strong>Monitress Council</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/MC.jpg">
+</div>
 <p>The Cedar Monitress Council aims to work as a community to build class
 unity and a sense of belonging among Cedarians and their teachers. The
 Monitress Council comprises elected class monitresses, chosen by their
