@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-curriculum/academic/mathematics/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 ### Mathematics
 
@@ -64,10 +65,11 @@ The Cedar Mathematics education provides learning opportunities and platforms fo
 <img src="/images/math4.png" style="width:60%">	<br><br>	
 
 <b>2.  Maths Talent Development Programme</b><br><br>
-Central to the Maths Talent Development Programme is the Maths Olympiad Programme which seeks to develop the problem solving skills of those students who are passionate in Mathematics. These students undergo a structured training programme and take part in various competitions, e.g. the Singapore Maths Olympiad and the Australian Mathematics Competition etc to hone their problem solving skills.<br><br>
+Central to the Mathematics Talent Development Programme is the Mathematics Olympiad Programme which seeks to develop the problem-solving skills of those students who are passionate in Mathematics. These students undergo a structured training programme and take part in the Singapore Mathematics Olympiad (SMO) to hone their problem-solving skills.
 
-  
+Students also gets a chance to take part in the International Mathematical Modelling Challenge (IMMC), which aims to promote the learning of mathematical modeling and applications for the students. It is based on the firm belief that students need to experience the power of Mathematics to help better understand, analyse and solve real world problems outside of Mathematics itself, in realistic contexts. This is a true team competition, held over a number of days with students able to use any inanimate resources and a mix of different kinds of Mathematics for their analysis and solution to real problems.<br>
 
+ 
 The Research Programme aims to develop students’ intellectual capabilities, subject-related interests, knowledge and skills necessary for the workplace of the future. Students who are involved in the Maths Research projects are also mentored for the Singapore Maths Project Festival.<br><br>	
 <img src="/images/math5.png" style="width:60%">	<br>
 <b>Cedarians in action in the Singapore Mathematics Project Festival, 2018</b><br><br>
@@ -88,12 +90,12 @@ The Research Programme aims to develop students’ intellectual capabilities, su
 <div>
 
 <p>
-In Cedar, the assessment principles are based on the belief that assessment is used as a feedback mechanism to address learning gaps in pupils so that pupils can adjust their learning tactics, and for teachers to consider their intervention strategies. The Mathematics Department uses both pen and paper and alternative modes of assessment. Pen and paper assessments include class tests and examinations. Alternative modes of assessments include formative assessments such as Performance Tasks, Graded Assignments and Project Work.
+In Cedar, the assessment principles are based on the belief that assessment is used as a feedback mechanism to address learning gaps in pupils so that pupils can adjust their learning tactics, and for teachers to consider their intervention strategies. The Mathematics Department uses both pen and paper and alternative modes of assessment. Pen and paper assessments include class tests and examinations. Alternative modes of assessments include formative assessments such as performance tasks and graded assignments.
 </p>
 
 </div>
 
 </li>	
 
- 
+&nbsp;
 </ul>
