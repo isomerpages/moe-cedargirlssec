@@ -75,15 +75,11 @@ The Research Programme aims to develop students’ intellectual capabilities, su
 <b>Cedarians in action in the Singapore Mathematics Project Festival, 2018</b><br><br>
 <img src="/images/math6.png" style="width:60%">	<br>
 <b>	Singapore Mathematical Olympiad Awards</b>
-	
 </p>
-
 </div>
+	<br>
 
-</li>
-<li>
 
-<input type="checkbox" id="accordion4">
 
 <label for="accordion4">Assessment</label>
 
