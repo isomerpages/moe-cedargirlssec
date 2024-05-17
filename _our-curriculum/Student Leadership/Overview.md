@@ -47,7 +47,7 @@ to students through the various platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Leadership Boards</strong>
+<p><strong>Student Leadership Boards</strong> 
 <br>
 <br>• Prefect Councillors
 <br>• Peer Support Leaders
@@ -55,7 +55,7 @@ to students through the various platforms.</p>
 <br>• Sports and Health Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Curriculum Activities (CCA)</strong>
+<p><strong>Co-Curriculum Activities (CCA)</strong> 
 <br>
 <br>• Chairperson and Vice-Chairperson
 <br>• President and Vice-President
