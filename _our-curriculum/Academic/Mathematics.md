@@ -54,7 +54,7 @@ the inter-connectedness of various subject disciplines.
 <br>
 <br>
 </p>
-<p><strong>Students using the Clinometer at the Esplanade</strong>
+<p><strong>Students using the Clinometer at the Esplanade</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -62,7 +62,7 @@ the inter-connectedness of various subject disciplines.
 </div>
 <p>
 <br>
-<br><strong>Teacher explanation at the Esplanade</strong>
+<br><strong>Teacher explanation at the Esplanade</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -70,7 +70,7 @@ the inter-connectedness of various subject disciplines.
 </div>
 <p>
 <br>
-<br><strong>Students working collaboratively at the Sports Hub</strong>
+<br><strong>Students working collaboratively at the Sports Hub</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -78,7 +78,7 @@ the inter-connectedness of various subject disciplines.
 </div>
 <p></p>
 <p></p>
-<p><strong>2. Maths Talent Development Programme</strong>
+<p><strong>2. Maths Talent Development Programme</strong> 
 <br>
 <br>Central to the Mathematics Talent Development Programme is the Mathematics
 Olympiad Programme which seeks to develop the problem-solving skills of
@@ -106,7 +106,7 @@ are also mentored for the Singapore Maths Project Festival.
 <img style="width:60%" height="auto" width="100%" src="/images/math5.png">
 </div>
 <p>
-<br><strong>Cedarians in action in the Singapore Mathematics Project Festival, 2018</strong>
+<br><strong>Cedarians in action in the Singapore Mathematics Project Festival, 2018</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
