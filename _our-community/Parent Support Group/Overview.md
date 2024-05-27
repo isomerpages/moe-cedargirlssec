@@ -35,24 +35,12 @@ their time to organise and support school events</p>
 </ul>
 <h4><strong>Welcome video by PSG</strong></h4>
 <p>Coming soon</p>
+<h4></h4>
 <p></p>
-<h4><strong>2024 PSG EXCO</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/PSG_EXCO2024.png">
-</div>
+<h4></h4>
 <p></p>
-<h4><strong>2024 PSG EXCO CORE TEAM</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/PSG_EXCO_CORE_TEAM.png">
-</div>
-<p>(from left): Canimorly Nair (Chairperson), Chua Teng Seah, Ken (Vice Chairperson),
-Evelyn Chua (Vice Chairperson) and Amy Low (Treasurer)</p>
-<p></p>
-<h4>Stay Connected with PSG</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/STAY_CONNECTED.png">
-</div>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
