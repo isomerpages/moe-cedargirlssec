@@ -6,10 +6,12 @@ third_nav_title: Parent Support Group
 variant: tiptap
 ---
 <h3>Parent Support Group (PSG)</h3>
+<h4><strong>Who We Are</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/psg1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/WhoWeAre.png">
 </div>
-<h4>About PSG</h4>
+<p></p>
+<h4><strong>ABOUT PSG</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/psg2.png">
 </div>
@@ -31,5 +33,13 @@ their time to organise and support school events</p>
 <p>be a platform for parents to bond over shared experiences</p>
 </li>
 </ul>
-<h4>Welcome video by PSG</h4>
-<p>Upload video here.</p>
+<h4><strong>Welcome video by PSG</strong></h4>
+<p>Coming soon</p>
+<p></p>
+<h4><strong>2024 PSG EXCO</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/PSG_EXCO2024.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
