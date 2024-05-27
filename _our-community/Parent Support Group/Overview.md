@@ -49,4 +49,13 @@ their time to organise and support school events</p>
 <p>(from left): Canimorly Nair (Chairperson), Chua Teng Seah, Ken (Vice Chairperson),
 Evelyn Chua (Vice Chairperson) and Amy Low (Treasurer)</p>
 <p></p>
+<h4>Stay Connected with PSG</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/STAY_CONNECTED.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
