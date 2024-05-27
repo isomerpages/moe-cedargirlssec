@@ -47,3 +47,16 @@ Mother’s Day Activity (Herb Planting)</p>
 Outing #2</p>
 <p>End Oct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – PSG AGM</p>
 <p></p>
+<p></p>
+<h4><strong>Father-Daughter Bonding Event 2023</strong></h4>
+<p>To provide a platform for family bonding over shared experiences</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Father_Daughter_Bonding_Event_2023.png">
+</div>
+<p></p>
+<h4><strong>Mother-Daughter Bonding Event 2023</strong></h4>
+<p>To provide a platform for family bonding over shared experiences</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Mother_Daughter_Bonding_Event_2023.png">
+</div>
+<p></p>
