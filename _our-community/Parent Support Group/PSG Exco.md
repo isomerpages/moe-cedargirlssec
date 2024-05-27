@@ -3,15 +3,18 @@ title: PSG Exco
 permalink: /our-community/parent-support-group/psg-exco/
 description: ""
 third_nav_title: Parent Support Group
+variant: tiptap
 ---
-### PSG Exco
-
-<img src="/images/psgexco.png" style="width:60%">
-
-#### PSG EXCO 2020
-  
-
-*   Standing (from left): Atul Kaslikar (Vice-Chairperson 1); Amy Lai (Parents Engagement); Shirleen Chia (Family Bonding); Sumathi Subramaniam (Secretary); Goh Yar Lan (Treasurer)
-
-*   Seated (from left): Vivi Jong (Vice-Chairperson 2); Jocelyn Koh (Chairperson);  Mrs Chan (Principal); Koh Boon Hai (Befriender Programme); Adrienne Chin (School Events)
-*   Not in photo: Abhijit Roy (IT Support); Rebecca Loke (Assistant Secretary)
+<h3>PSG Exco</h3>
+<h4><strong>PSG EXCO 2024</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20PSG/PSG_EXCO2024.png">
+</div>
+<p></p>
+<h4><strong>PSG EXCO CORE TEAM 2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/PSG_EXCO_CORE_TEAM.png">
+</div>
+<p>(from left): Canimorly Nair (Chairperson), Chua Teng Seah, Ken (Vice Chairperson),
+Evelyn Chua (Vice Chairperson) and Amy Low (Treasurer)</p>
