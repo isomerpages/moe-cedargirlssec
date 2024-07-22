@@ -66,8 +66,9 @@ student body by synergising efforts with their fellow student leaders to
 support school-wide programmes.</p>
 <h4><strong>Monitress Council</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/MC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Latest_Monitress_Council_Logo.png">
 </div>
 <p>The Cedar Monitress Council aims to work as a community to build class
 unity and a sense of belonging among Cedarians and their teachers. The
