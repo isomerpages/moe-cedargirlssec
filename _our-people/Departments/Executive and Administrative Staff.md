@@ -27,5 +27,6 @@ variant: markdown
 | Library Officer | Ms Siti Radzian Binte Boyani |
 | ICT Associate | Mr Darren Chua  |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
+| Desktop Engineer | Ms Fakhira Zolkafli |
 | AVA Executive | Mr Muhammad Haikal Riduan |
 | Multi-Media Executive | Mr Muhammad Nor Syahiran Bin Ahmad |
