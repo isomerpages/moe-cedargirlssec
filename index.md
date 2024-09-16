@@ -31,4 +31,9 @@ sections:
       id: infobar
       button: click here for more info
       url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2025/
+  - infobar:
+      title: Admission to Year 3 VCA IP in 2025
+      id: infobar
+      button: Click here for more info
+      url: https://go.gov.sg/vcaip
 ---
