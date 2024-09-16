@@ -14,10 +14,11 @@ variant: markdown
 | SH/ICT | Mr Lee En Wei Jonathan​ |
 | Senior Teacher | Mr Tan Gin Peng Eric |
 | Teacher | Mr Ang Kai Jie |
-| Teacher | Mr Ong Wei De |
+|  Teacher  | Mrs Chew Foo Kim |
 | Teacher | Ms Faith He |
 | Teacher | Mr Kenneth Lui Cherng Ginn |
 | Teacher  | Mr Ng Jian Zhang |
+| Teacher | Mr Ong Wei De |
 | Teacher  | Ms Siti Aisyah |
 | Teacher  | Mr Tay Yong Hwee |
-|  Teacher  | Mrs Chew Foo Kim |
+| Teacher  | Ms Glenda Chia Shaoqian |
