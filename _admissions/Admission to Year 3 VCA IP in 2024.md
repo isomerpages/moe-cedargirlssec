@@ -2,104 +2,103 @@
 title: Admission to Year 3 VCA IP in 2024
 permalink: /admissions/admission-to-year3-vca-ip/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Admission to Year 3 VCA IP in 2025
-
-Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls currently in the O-Level programme to apply for admission to Year 3 VCA IP in 2025. The Victoria-Cedar Alliance Integrated Programme (VCA IP) consists of 2 years in CGSS and 2 years in Victoria Junior College (VJC), leading to the GCE ‘A’ level examination.
-
-| Criteria | Selection Process |
-|---|---|
-| a.    Strong academic results in Secondary 1 and 2<br>b.    Achievements in academic and non-academic competitions or programmes<br>c.     Exemplary Conduct<br>d.    Strong leadership qualities<br>e.    Active participation in CCAs<br>  |  <br>In-person Interview   |
-
-#### Application and Timeline
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="654" style="width:490.25pt;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" align="center" style="margin-top:2.0pt;margin-right:0in;
-  margin-bottom:2.0pt;margin-left:0in;text-align:center;line-height:normal;
-  layout-grid-mode:char;mso-layout-grid-align:none"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Process</span></b></p></td><td width="118" style="width:88.3pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" align="center" style="margin-top:2.0pt;margin-right:0in;
-  margin-bottom:2.0pt;margin-left:0in;text-align:center;line-height:normal;
-  layout-grid-mode:char;mso-layout-grid-align:none"><b><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Period</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online application please click here. </span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
-  none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Email the supporting </span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:SimSun;color:black;mso-themecolor:text1;mso-ansi-language:
-  EN-US">documents (a) to (d) to </span><span lang="EN-SG"><a href="mailto:cedargirlss@moe.edu.sg"><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:bold">cedargirlss@moe.edu.sg</span></a></span><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:21.85pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-21.85pt;mso-text-indent-alt:-9.0pt;
-  line-height:normal;mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>a.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  SimSun;color:black;mso-themecolor:text1;mso-ansi-language:EN-US">PSLE Certificate</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:21.85pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-21.85pt;mso-text-indent-alt:-9.0pt;
-  line-height:normal;mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>b.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  SimSun;color:black;mso-themecolor:text1;mso-ansi-language:EN-US">Secondary 1 and 2 Combined Examination Results</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:21.85pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-21.85pt;mso-text-indent-alt:-9.0pt;
-  line-height:normal;mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>c.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  SimSun;color:black;mso-themecolor:text1;mso-ansi-language:EN-US">Records of CCA participation and leadership roles in school</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:21.85pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-21.85pt;mso-text-indent-alt:-9.0pt;
-  line-height:normal;mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-US"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>d.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;</span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  SimSun;color:black;mso-themecolor:text1;mso-ansi-language:EN-US">Achievement(s) in academic and non-academic areas (e.g. Olympiad, CCAs)</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:SimSun;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-US;mso-bidi-font-weight:bold">Indicate your email subject title as Application for VCA IP3 2025_Name of Applicant_Current Sec School.</span><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
-  bold"></span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:bold">Late or incomplete submissions will not be considered.</span></p></td><td width="118" style="width:88.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
-  none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-bidi-font-weight:bold">24 Oct – 1 Nov</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-bidi-font-style:italic">In-person interview </span></p></td><td width="118" style="width:88.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
-  none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">4 Nov – 15 Nov<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Notification of application outcome</span></p></td><td width="118" style="width:88.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
-  2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
-  none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">18 Nov<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr></tbody></table>
-
-
-#### Clarification
-
-If you have any queries, please email&nbsp;[cedargirlss@moe.edu.sg](mailto:cedargirlss@moe.edu.sg)&nbsp;or call us at 6288 4909, between 9.00am to 4.30pm, Monday to Friday, except for public holidays.
+<h3>Admission to Year 3 VCA IP in 2025</h3>
+<p>Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2
+girls currently in the O-Level programme to apply for admission to Year
+3 VCA IP in 2025. The Victoria-Cedar Alliance Integrated Programme (VCA
+IP) consists of 2 years in CGSS and 2 years in Victoria Junior College
+(VJC), leading to the GCE ‘A’ level examination.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Criteria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection Process</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>a. Strong academic results in Secondary 1 and 2
+<br>b. Achievements in academic and non-academic competitions or programmes
+<br>c. Exemplary Conduct
+<br>d. Strong leadership qualities
+<br>e. Active participation in CCAs
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In-person Interview</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Application and Timeline</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Process</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online application please click <strong><a href="https://go.gov.sg/vcaip" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
+<p>&nbsp;</p>
+<p>Email the supporting documents (a) to (d) to <strong><a href="mailto:cedargirlss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a></strong>
+</p>
+<p>&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp; PSLE Certificate</p>
+<p>&nbsp; b.&nbsp;&nbsp;&nbsp;&nbsp; Secondary 1 and 2 Combined Examination
+Results</p>
+<p>&nbsp; c.&nbsp;&nbsp;&nbsp;&nbsp; Records of CCA participation and leadership
+roles in school</p>
+<p>&nbsp; d.&nbsp;&nbsp;&nbsp;Achievement(s) in academic and non-academic
+areas (e.g. Olympiad, CCAs)</p>
+<p></p>
+<p>Indicate your email subject title as Application for VCA IP3 2025_Name
+of Applicant_Current Sec School.</p>
+<p></p>
+<p>Late or incomplete submissions will not be considered.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Oct – 1 Nov</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-person interview</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Nov – 15 Nov</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Notification of application outcome</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Nov</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Clarification</h4>
+<p>If you have any queries, please email&nbsp;<a href="mailto:cedargirlss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>&nbsp;or
+call us at 6288 4909, between 9.00am to 4.30pm, Monday to Friday, except
+for public holidays.</p>
