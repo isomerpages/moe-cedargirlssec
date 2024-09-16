@@ -10,23 +10,21 @@ variant: markdown
 | Title | Name |
 |---|---|
 | HOD/ Science | Ms Yam Wei Ling Agnes |
-| School Staff Developer | MS Margaret Wong Pek Funn  |
+| School Staff Developer | Ms Margaret Wong Pek Funn  |
 | AYH (Y2) | Mrs Rachel Teo Yu Lin |
 | SH/Student Well-being and ECG | Ms Saran Dhillon |
-| SH/ Physics | Mr Jeremy Ng |
 | SH/ Chemistry | Ms See Hui Hui |
+| SH/ Physics | Mr Jeremy Ng |
+| Ag SH/TD | Ms Lim Xinjie |
 | Senior Teacher (Chemistry) | Mrs Neo Li Kheang |
-| Senior Teacher (CCE) | Ms Mumtas Begam |
 | Senior Teacher (Physics) | Ms Goh Cui Ying |
-| Teacher | Ms Christine So  |
-| Teacher | Mr Henry Lau Chin Hang |
-| Teacher  | Ms Lim Xinjie |
-| Teacher  | Mr Gui Eng Hong |
-| Teacher | Mr Raymond Tan |
 | Teacher | Mr Ang Ter Shien |
-| Teacher | Ms Low Xin Yu |
-| Teacher  | Ms Guan Xing Hua |
-| Teacher  | Ms Glenda Chia Shaoqian |
-| Teacher  | Ms Chen Lingzhi (Wendy) |
+| Teacher | Ms Christine So  |
 | Teacher  | Ms Ding Ying Jye |
+| Teacher  | Ms Guan Xing Hua |
+| Teacher  | Mr Gui Eng Hong |
+| Teacher | Mr Henry Lau Chin Hang |
+| Teacher | Ms Mumtas Begam |
 | Teacher  | Ms Pearl Wong |
+| Teacher | Mr Raymond Tan |
+| Teacher  | Ms Chen Lingzhi (Wendy) |
