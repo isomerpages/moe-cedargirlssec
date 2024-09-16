@@ -16,7 +16,7 @@ variant: markdown
 | Corporate Support Officer | Ms Patricia Nai |
 | Corporate Support Officer | Ms Samantha Tan |
 | Technical Support Officer (D & T) | Mr Abdul Harris Bin Zainudin |
-| Technical Support Officer (Science) | Ms Vijaysree |
+| Technical Support Officer (Science) | Ms Khadijah Binte Taha |
 | Technical Support Officer (Science) | Ms Shamini |
 | Operations Support Officer | Mr Jamal Bin Juma'at |
 | Operations Support Officer | Mdm Lei Yow Foon |
@@ -24,7 +24,7 @@ variant: markdown
 | Operations Support Officer | Mdm Mazrina Binte Abdul Majid |
 | Operations Support Officer | Mdm Norain Binte Mohammed |
 | Operations Support Officer  | Mr Ho Tuck Seng  |
-| Library Officer | Ms Siti Radzian Binte Boyani |
+| Library Officer | Ms Al-Mehraaj Binte Mohamed Rahim |
 | ICT Associate | Mr Darren Chua  |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
 | Desktop Engineer | Ms Fakhira Zolkafli |
