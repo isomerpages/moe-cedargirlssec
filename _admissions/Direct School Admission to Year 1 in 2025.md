@@ -2,7 +2,7 @@
 title: Direct School Admission to Year 1 in 2025
 permalink: /admissions/dsa-year-1-2025/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Direct School Admission to Year 1 in 2025</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls

@@ -20,3 +20,4 @@ variant: markdown
 | Teacher  | Ms Lee Yu Shan Shirleen |
 | Teacher  | Mr Tan Yong Wei |
 | Teacher  | Ms Yeo Su Yan |
+| Teacher  | Ms Low Siew Peng |
