@@ -2,14 +2,15 @@
 title: Admission to Year 3 VCA IP in 2024
 permalink: /admissions/admission-to-year3-vca-ip/
 description: ""
+variant: markdown
 ---
-### Admission to Year 3 VCA IP in 2024
+### Admission to Year 3 VCA IP in 2025
 
-Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls currently in the O-Level programme to apply for admission to Year 3 VCA IP in 2024. The Victoria-Cedar Alliance Integrated Programme (VCA IP) consists of 2 years in CGSS and 2 years in Victoria Junior College (VJC), leading to the GCE ‘A’ level examination.
+Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls currently in the O-Level programme to apply for admission to Year 3 VCA IP in 2025. The Victoria-Cedar Alliance Integrated Programme (VCA IP) consists of 2 years in CGSS and 2 years in Victoria Junior College (VJC), leading to the GCE ‘A’ level examination.
 
 | Criteria | Selection Process |
 |---|---|
-| a.    Strong academic results in Secondary 1 and 2<br>b.    Achievements in academic and non-academic competitions or programmes<br>c.     Exemplary Conduct<br>d.    Strong leadership qualities<br>e.    Active participation in CCAs<br>  |  <br>e-Interview   |
+| a.    Strong academic results in Secondary 1 and 2<br>b.    Achievements in academic and non-academic competitions or programmes<br>c.     Exemplary Conduct<br>d.    Strong leadership qualities<br>e.    Active participation in CCAs<br>  |  <br>In-person Interview   |
 
 #### Application and Timeline
 
@@ -29,7 +30,7 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
   line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online Application is closed. </span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
+  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Online application please click here. </span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
   line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
@@ -63,7 +64,7 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   inter-ideograph;line-height:normal"></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:SimSun;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-US;mso-bidi-font-weight:bold">Indicate your email subject title as Application for VCA IP3 2024_Name of Applicant_Current Sec School.</span><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  text1;mso-ansi-language:EN-US;mso-bidi-font-weight:bold">Indicate your email subject title as Application for VCA IP3 2025_Name of Applicant_Current Sec School.</span><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
   bold"></span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-size:12.0pt;
@@ -74,18 +75,18 @@ Cedar Girls’ Secondary School (CGSS) would like to invite Secondary 2 girls cu
   2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
   none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-bidi-font-weight:bold">25 Oct – 1 Nov (closed)</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
+  mso-bidi-font-weight:bold">24 Oct – 1 Nov</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
   line-height:normal;layout-grid-mode:char;mso-layout-grid-align:none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-bidi-font-style:italic">e-interview via Zoom</span></p></td><td width="118" style="width:88.3pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-bidi-font-style:italic">In-person interview </span></p></td><td width="118" style="width:88.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;line-height:normal;layout-grid-mode:char;mso-layout-grid-align:
   none"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">3 Nov – 10 Nov<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">4 Nov – 15 Nov<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.75pt"><td width="536" style="width:401.95pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:12.75pt"><p class="MsoNormal" style="margin-top:2.0pt;margin-right:0in;margin-bottom:
   2.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph;
