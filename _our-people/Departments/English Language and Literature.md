@@ -23,5 +23,3 @@ variant: markdown
 | Teacher  | Mdm Shareena Mohamed Saniff  |
 | Teacher | Ms Sri Laxshemy V Thevan |
 | Teacher  | Ms Toh Hui Choo |
-
-
