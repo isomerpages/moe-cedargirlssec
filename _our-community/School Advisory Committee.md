@@ -9,8 +9,8 @@ variant: markdown
 |  | Name |
 |---|---|
 | Chairman | Ms Anthea Ong Lay Theng |
-| Hon Treasurer | Mdm Irene Lim |
-| Hon Secretary  | Mrs Chan Kah Hwee  |
+| Honorary Secretary  | Mrs Chan Kah Hwee  |
+| Honorary Treasurer | Mdm Irene Lim |
 | Member | Ms Valerie Lau May Fen |
 | Member | Ms Achala Krishna Menon |
 | Member | A/Prof Noor Aisha A Rahman  |
