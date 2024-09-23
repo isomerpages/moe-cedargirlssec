@@ -22,6 +22,11 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
+      title: Admission to Year 3 VCA IP in 2025
+      id: infobar
+      button: Click here for more info
+      url: https://go.gov.sg/vcaip
+  - infobar:
       title: Open House 2024
       url: https://sites.google.com/moe.edu.sg/openhouse2024
       description: Our Open House will be held on 18 May (Sat) 2024 from 0830h to 1230h.
@@ -31,9 +36,4 @@ sections:
       id: infobar
       button: click here for more info
       url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2025/
-  - infobar:
-      title: Admission to Year 3 VCA IP in 2025
-      id: infobar
-      button: Click here for more info
-      url: https://go.gov.sg/vcaip
 ---
