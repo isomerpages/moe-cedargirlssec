@@ -3,40 +3,52 @@ title: School Attire
 permalink: /admissions/administration-year-1-to-4/school-attire/
 description: ""
 third_nav_title: Administration   Year 1 to 4
-variant: markdown
+variant: tiptap
 ---
-### School Attire
-
-**School Attire Vendor**  <br>
-**Company: Shanghai School Uniforms Pte Ltd**
-
-Tel No.: 6747 8037
-
-[www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/)
-
-  
-
-**Operating Hours:-**<br>
-Monday – Saturday: 10.00am - 1.00pm &amp; 2.00pm – 6.00pm (lunch timing: 1.00pm - 2.00pm)<br>
-Sunday/Public Holidays - Closed
-
-  
-
-**Location:-**<br>
-63 Ubi Avenue 1, #04-09, 63@Ubi (formerly Boustead House), Singapore 408937&nbsp;
-
-  
-
-**Sales Items:**<br>
-1\) Blouse<br>
-2\) Skirt<br>
-3\) PE T-Shirt (round neck)<br>
-4\) PE Shorts<br>
-5\) Collar Polo T-Shirt <br>
-6\) VCA T-Shirt (round neck)
-
-  
-
-**Note:**&nbsp;DSA students are encouraged to buy their uniform earlier, before the year end&nbsp;(by appointment ONLY, via&nbsp;[www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/).
-
-Please [Click here](/files/2023_Uniform_Cover_Letter_for_Parents.pdf) for more information.
+<h3>School Attire</h3>
+<p><strong>School Attire Vendor</strong> 
+<br><strong>Company: Shanghai School Uniforms Pte Ltd</strong>
+</p>
+<p>Tel No.: 6747 8037</p>
+<p><a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>
+</p>
+<p><strong>Operating Hours:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday: 10:00am to 6:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lunch Time: 1:00pm to 2:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sunday &amp; Public Holidays: closed</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Retail Location:</strong>
+<br>63 Ubi Avenue 1, #04-09, 63@Ubi (formerly Boustead House), Singapore 408937&nbsp;</p>
+<p><strong>Sales Items:</strong>
+<br>1) Blouse1) Blouse
+<br>2) Skirt
+<br>3) PE T-Shirt (round neck)
+<br>4) PE Shorts
+<br>5) Collar Polo T-Shirt
+<br>6) VCA T-Shirt (round neck)</p>
+<p>5) Collar Polo T-Shirt
+<br>6) VCA T-Shirt (round neck)</p>
+<p><strong>Note:</strong>&nbsp;DSA students are encouraged to buy their uniform
+earlier, before the year end&nbsp;(by appointment ONLY, via&nbsp;<a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>.</p>
+<p>Please <a href="/files/2023_Uniform_Cover_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
+more information.</p>
