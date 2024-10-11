@@ -3,14 +3,15 @@ title: School Attire
 permalink: /admissions/administration-year-1-to-4/school-attire/
 description: ""
 third_nav_title: Administration   Year 1 to 4
-variant: markdown
+variant: tiptap
 ---
 <h3>School Attire</h3>
 <p><strong>Name of Supplier</strong> 
-<br><strong> Shanghai School Uniforms Pte Ltd</strong><br>
+<br><strong> Shanghai School Uniforms Pte Ltd</strong>
+<br>
 </p>
-<p>Tel No.: 6747 8037<br>
-<a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>
+<p>Tel No.: 6747 8037
+<br><a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>
 </p>
 <p><strong>Operating Hours:</strong>
 </p>
@@ -47,9 +48,9 @@ variant: markdown
 <br>5) PE Shorts
 <br>6) Collar Polo T-Shirt
 <br>7) VCA T-Shirt (round neck)
-<br>8) Collar Polo T-Shirt
-
-</p><p><strong>Note:</strong>&nbsp;DSA students are encouraged to buy their uniform
-earlier/beginning December, before the year end&nbsp;(STRICTLY by appointment ONLY).</p>
+<br>8) Collar Polo T-Shirt</p>
+<p><strong>Note:</strong>&nbsp;DSA students are encouraged to buy their uniform
+earlier/beginning December, before the year end&nbsp;(STRICTLY by appointment
+ONLY).</p>
 <p>Please <a href="/files/2023_Uniform_Cover_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
 more information.</p>
