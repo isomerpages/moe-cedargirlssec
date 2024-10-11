@@ -52,5 +52,5 @@ variant: tiptap
 <p><strong>Note:</strong>&nbsp;DSA students are encouraged to buy their uniform
 earlier/beginning December, before the year end&nbsp;(STRICTLY by appointment
 ONLY).</p>
-<p>Please <a href="/files/2024_Attire_Letter_CGSS_10Oct24.pdf" rel="noopener nofollow" target="_blank">click here</a>
-<a href="/files/2023_Uniform_Cover_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for more information.</p>
+<p>Please <a href="/files/2024_Attire_Letter_CGSS_10Oct24.pdf" rel="noopener nofollow" target="_blank">click here </a>for
+more information.</p>
