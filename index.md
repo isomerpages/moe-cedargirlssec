@@ -36,4 +36,13 @@ sections:
       id: infobar
       button: click here for more info
       url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2025/
+  - infopic:
+      title: e-Open House 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Come join us at our e-Open House webinar this Saturday from 9:00-11:00am
+      button: Click here for more info
+      url: https://sites.google.com/moe.edu.sg/e-openhouse2024/home
+      image: /images/CGSS_students.png
+      alt: Image alt text
 ---
