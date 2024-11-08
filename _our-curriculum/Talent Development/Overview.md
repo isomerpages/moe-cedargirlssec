@@ -15,6 +15,11 @@ and talent development, our students better understand where to apply their
 gifts, craft their portfolios and build themselves up into women of character
 and wisdom. We are proud of our girls who positively contribute to the
 community with their various talents and passions.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cedar_TDP_framework.png">
+</div>
 <p>Cedar’s talent development programme follows the three Es – Exposure,
 Experience and Extension. These refer to the different tiers of engagement
 and complexity, upon which our programmes and activities are designed and
@@ -100,17 +105,6 @@ are:</p>
 </ul>
 <p>·&nbsp;&nbsp; <strong>Sciences, Technology, Engineering &amp; Mathematics (STEM)</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Design Technology</p>
-</li>
-<li>
-<p>Mathematics</p>
-</li>
-<li>
-<p>Sciences</p>
-</li>
-</ul>
 <p>·&nbsp;&nbsp;<strong>Social Innovation (SI)</strong>
 </p>
 <p>·&nbsp;&nbsp;<strong>Sports and Aesthetics (S&amp;A)</strong>
