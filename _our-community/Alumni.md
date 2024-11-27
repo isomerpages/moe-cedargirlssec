@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Alumni</h3>
-<h3>Alumni Membership</h3>
+<h4>Alumni Membership</h4>
 <p><strong>Once a Cedarian, Always a Cedarian</strong>
 </p>
 <p><strong>Deepen Your Connection, Be Part of the Cedar Alumni.</strong>
