@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Alumni</h3>
-<p></p>
-<h4>Alumni Membership</h4>
+<h3>Alumni Membership</h3>
 <p><strong>Once a Cedarian, Always a Cedarian</strong>
 </p>
 <p><strong>Deepen Your Connection, Be Part of the Cedar Alumni.</strong>
@@ -55,8 +54,10 @@ and welfare of the School, the Alumni and the Community.</p>
 <p></p>
 <h4>Alumni Exco</h4>
 <p>To contact the exco, please write to <a rel="noopener noreferrer nofollow" target="_blank"><u>cedargirlsalumni@gmail.com</u></a>
-<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cedar_Alumni_Exco_2024.jpg">
+</div>
 <p>Connect with us via social media to see our latest activities and events</p>
 <p><a href="https://www.facebook.com/groups/CedarGirlsAlumni" rel="noopener noreferrer nofollow" target="_blank">Cedar Girls' Alumni (The Official Site) | Facebook</a>
 </p>
