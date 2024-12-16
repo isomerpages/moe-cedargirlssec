@@ -37,6 +37,9 @@ report to school physically for registration.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2025.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -72,6 +75,9 @@ applicants will be notified.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/appeal2025.png">
+</div>
 <p></p>
 </td>
 </tr>
