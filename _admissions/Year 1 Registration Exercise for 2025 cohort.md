@@ -213,8 +213,7 @@ Jan. We will provide details on the Parents' Talk via PG when school reopens.</p
 <p>2025 School Health Services for Year 1 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_School_Health_Programmes.pdf" rel="noopener nofollow" target="_blank">School Health Programmes 2025</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For information</p>
