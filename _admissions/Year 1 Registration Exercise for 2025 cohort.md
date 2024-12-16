@@ -172,10 +172,13 @@ for collection of online order)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEC Booklist</p>
-<p>IP Booklist</p>
+<p><a href="/files/2025 year 1 registration/1a__Booklist_S1_O_Level_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">SEC 1 Booklist 2025.pdf</a>
+</p>
 <p></p>
-<p>For purchase in school, please book an appointment, via <strong>www.pacificbookstores.com</strong> from</p>
+<p><a href="/files/2025 year 1 registration/1b__Booklist_IP1_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">IP Booklist 2025.pdf</a>
+</p>
+<p></p>
+<p>For purchase in school, please book an appointment, via <a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a> from</p>
 <p>18 Dec, 8.00am to 19 Dec, 5.00pm.</p>
 <p></p>
 <p>Note: Bookshop opening hours from 2 Jan onwards:</p>
