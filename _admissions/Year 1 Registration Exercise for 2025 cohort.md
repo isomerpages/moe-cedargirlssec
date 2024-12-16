@@ -303,7 +303,8 @@ Singpass</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 School Fees Structure</p>
+<p><a href="/files/2025 year 1 registration/2025_CGSS_School_Fees_Structure.pdf" rel="noopener nofollow" target="_blank">2025 School Fees Structure.pdf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Information</p>
