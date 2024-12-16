@@ -247,8 +247,7 @@ Singpass</p>
 <p>Appeal to offer MSP/CSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 year 1 registration/Late_Application_and_Appeal_Form_for_M_SP__C_SP__2025.pdf" rel="noopener nofollow" target="_blank">Late application and appeal form for MSP CSP 2025.pdf</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For students who wish to offer MSP/CSP</p>
