@@ -334,7 +334,8 @@ Singpass</p>
 <p>CCA Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Y1 CCA Infokit</p>
+<p><a href="/files/2025 year 1 registration/2025_Y1_CCA_Infokit.pdf" rel="noopener nofollow" target="_blank">2025 Year 1 CCA Infokit</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
