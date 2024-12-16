@@ -23,7 +23,6 @@ sections:
       background: /images/Home Banner/zest_v3.gif
   - infobar:
       title: Year 1 Registration Exercise  for 2025 Cohort
-      subtitle: Add informational text
       id: infobar
       button: click here for more info
       url: /admissions/year-1-registration-exercise-2025/
