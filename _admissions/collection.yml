@@ -2,10 +2,10 @@ collections:
   admissions:
     output: true
     order:
+      - Year 1 Registration Exercise for 2025 cohort.md
       - Admission to Year 3 VCA IP in 2025.md
       - Direct School Admission to Year 1 in 2025.md
       - Information for o level results release.md
-      - Year 1 Registration Exercise for 2025 cohort.md
       - Administration   Year 1 to 4/.keep
       - Administration   Year 1 to 4/Group Personal Accident (GPA) Insurance
         Plan for Students.md
