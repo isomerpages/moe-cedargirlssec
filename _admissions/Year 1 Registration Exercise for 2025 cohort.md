@@ -2,7 +2,7 @@
 title: Year 1 Registration Exercise for 2025 cohort
 permalink: /admissions/year-1-registration-exercise-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Registration Exercise for 2025 Year 1 Students</strong></h4>
 <p><strong>WELCOME 2025 YEAR 1 STUDENTS</strong>
