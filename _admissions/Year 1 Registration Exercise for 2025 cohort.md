@@ -339,7 +339,8 @@ Singpass</p>
 </table>
 <p></p>
 <p></p>
-<p>(E) Connect Week - Orientation Programme (2 - 7 Jan 2025)</p>
+<p><strong>(E) Connect Week - Orientation Programme (2 - 7 Jan 2025)</strong>
+</p>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -570,13 +571,11 @@ primary school attire.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Formal lessons will commence from 8 Jan onwards.</strong>
+</p>
 <p></p>
-<p>Formal lessons will commence from 8 Jan onwards.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Entering School and Pick-up /Drop-Off</p>
-</li>
-</ol>
+<p><strong>(F) Entering School and Pick-up /Drop-Off</strong>
+</p>
 <p>Students may enter school through the turnstiles near Cedar Primary, Bidadari
 estate and the Guardhouse which will be unlocked on 2 Jan from 7.00am onwards.</p>
 <p>Parents may drive into the school between 6.45am and 6.30pm to drop-off
@@ -592,11 +591,8 @@ and waiting in school is not allowed.</p>
 <p></p>
 <p>Parents may apply for a car decal from 3 - 12 Jan (refer to Section D).
 We will inform you when you can collect the car decal from us.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Summary of Deadlines and Important Dates to Note</p>
-</li>
-</ol>
+<p><strong>(G) Summary of Deadlines and Important Dates to Note</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -688,7 +684,8 @@ can work with school to support your child. The invite for the event will
 be sent via Parent Gateway when school reopens. All parents are strongly
 encouraged to attend.</p>
 <p></p>
-<p>(H) Frequently Asked Questions</p>
+<p><strong>(H) Frequently Asked Questions</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -700,16 +697,8 @@ encouraged to attend.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I am posted to the Integrated Programme. Is it compulsory to take Higher
-Mother Tongue Language?</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>I am posted to the Integrated Programme. Is it compulsory to take Higher Mother Tongue Language?</strong>
+</p>
 <p>All IP students have to offer HMTL, unless you are doing NTIL or exempted
 from offering MTL.</p>
 <p></p>
@@ -720,16 +709,8 @@ from offering MTL.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I am posted to the SEC programme and am not eligible to offer HMTL. Can
-I appeal to offer HMTL?</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>I am posted to the SEC programme and am not eligible to offer HMTL. Can I appeal to offer HMTL?</strong>
+</p>
 <p>SEC students who are not eligible to offer HMTL will offer MTL instead.
 However, if they do well at the end of Sec 1, HMTL may be offered.</p>
 <p></p>
@@ -740,18 +721,10 @@ However, if they do well at the end of Sec 1, HMTL may be offered.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Does the school still provide daily bus service to students in the morning?</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Does the school still provide daily bus service to students in the morning?</strong>
+</p>
 <p>The school has ceased the provision of daily bus service to students from
 2024 onwards due to low demand.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -759,23 +732,16 @@ However, if they do well at the end of Sec 1, HMTL may be offered.</p>
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>What are the guidelines for school shoes and socks at Cedar?</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>What are the guidelines for school shoes and socks at Cedar?</strong>
+</p>
 <p>Only white shoes are allowed. If there is any design/logo/minor trimming,
 they should be small and inconspicuous, and either in black or school colours
 (blue/grey/gold). Only white ankle length socks worn at or above the ankles
 are allowed. Shoe laces must be white and tied in the standard way.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For any queries, please call us at 62884909 or send an e-mail to <a href="mailto:cedargirlss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>
+<p>For any queries, please call us at <strong>62884909</strong> or send an
+e-mail to <strong><a href="mailto:cedargirlss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a></strong>
 </p>
