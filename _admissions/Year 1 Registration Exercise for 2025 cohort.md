@@ -281,7 +281,8 @@ Singpass</p>
 <p>Financial Assistance Schemes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 FAS Information</p>
+<p><a href="/files/2025 year 1 registration/2025_CGSS_FAS_Info.pdf" rel="noopener nofollow" target="_blank">2025 CGSS FAS Information</a>
+</p>
 <p></p>
 <p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6666a548f71e023bcbe7c9b7</a>
 </p>
