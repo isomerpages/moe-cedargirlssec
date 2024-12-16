@@ -115,7 +115,7 @@ Matters PDF Slides</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>(D) School Purchases and Administrative Matters </u></strong>
+<p><strong><u>(D) School Purchases and Administrative Matters</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
