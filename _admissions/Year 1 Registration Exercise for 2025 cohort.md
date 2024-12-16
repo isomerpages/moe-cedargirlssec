@@ -178,8 +178,8 @@ for collection of online order)</p>
 <p><a href="/files/2025 year 1 registration/1b__Booklist_IP1_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">IP Booklist 2025.pdf</a>
 </p>
 <p></p>
-<p>For purchase in school, please book an appointment, via <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">pacificbookstores </a>from</p>
-<p>18 Dec, 8.00am to 19 Dec, 5.00pm.</p>
+<p>For purchase in school, please book an appointment, via <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">pacificbookstores </a>from
+18 Dec, 8.00am to 19 Dec, 5.00pm.</p>
 <p></p>
 <p>Note: Bookshop opening hours from 2 Jan onwards:</p>
 <p>Mon - Fri: 9.00am - 3.00pm</p>
