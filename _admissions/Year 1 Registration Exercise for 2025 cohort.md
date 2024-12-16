@@ -11,7 +11,7 @@ variant: tiptap
 <p>Congratulations on your posting to Cedar Girls' Secondary School. This
 is a new phase of your education journey, and we warmly welcome you to
 the Cedar family.</p>
-<p>(A) e-Registration <strong>- Compulsory for all posted students (including students posted via DSA)</strong>
+<p><strong>(A) e-Registration</strong>  <strong>- Compulsory for all posted students (including students posted via DSA)</strong>
 </p>
 <p>All Year 1 students are to complete the e-registration from <strong>18 Dec, 6.00am to 20 Dec, 4.00pm.</strong> Students <strong>DO NOT need</strong> to
 report to school physically for registration.</p>
@@ -43,7 +43,8 @@ report to school physically for registration.</p>
 </tbody>
 </table>
 <p></p>
-<p>(B) Appeal for Admission to Cedar Girls' Secondary School</p>
+<p><strong>(B) Appeal for Admission to Cedar Girls' Secondary School</strong>
+</p>
 <p>Please note that only students <strong>whose PSLE score meets the school's cut-off point</strong> will
 be considered.</p>
 <p>Admission to Cedar is subject to our assessment of the student's suitability
@@ -79,7 +80,8 @@ applicants will be notified.</p>
 </table>
 <p></p>
 <p></p>
-<p>C) Administrative and Programme Briefings</p>
+<p><strong>C) Administrative and Programme Briefings</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -126,7 +128,8 @@ applicants will be notified.</p>
 </tbody>
 </table>
 <p></p>
-<p>(D) School Purchases and Administrative Matters</p>
+<p><strong>(D) School Purchases and Administrative Matters</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
