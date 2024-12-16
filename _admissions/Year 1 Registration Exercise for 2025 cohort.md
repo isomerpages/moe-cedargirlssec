@@ -4,8 +4,7 @@ permalink: /admissions/year-1-registration-exercise-2025/
 description: ""
 variant: tiptap
 ---
-<p><strong>Registration Exercise for 2025 Year 1 Students</strong>
-</p>
+<h4><strong>Registration Exercise for 2025 Year 1 Students</strong></h4>
 <p><strong>WELCOME 2025 YEAR 1 STUDENTS</strong>
 </p>
 <p>Congratulations on your posting to Cedar Girls' Secondary School. This
