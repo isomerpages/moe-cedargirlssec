@@ -110,7 +110,8 @@ applicants will be notified.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Registration and Administration Matters PDF Slides</p>
+<p><a href="/files/2025 year 1 registration/Secondary_One_Registration_Slides_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides 2025.pdf</a>
+</p>
 </li>
 </ul>
 </td>
@@ -122,10 +123,9 @@ applicants will be notified.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>HMT and 3rd Language Briefing</p>
-</li>
-<li>
-<p>PDF Slides</p>
+<p><a href="/files/2025 year 1 registration/Sec1_Registration_Slides_HMT_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides HMT Briefing 2025.pdf</a>
+</p>
+<p></p>
 </li>
 </ul>
 </td>
