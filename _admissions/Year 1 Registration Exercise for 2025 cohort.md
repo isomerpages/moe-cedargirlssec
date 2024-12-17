@@ -62,9 +62,7 @@ applicants will be notified.</p>
 <p><a href="https://go.gov.sg/cedar-appeal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cedar-appeal2025</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" align="left" src="/images/appeal2025.png">
-</div>
+<img style="width: 30%;" alt="" align="left" src="/images/appeal2025.png">
 </td>
 </tr>
 </tbody>
