@@ -32,7 +32,7 @@ report to school physically for registration.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2025.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" align="left" src="/images/ereg2025.png">
 </div>
 </td>
 </tr>
