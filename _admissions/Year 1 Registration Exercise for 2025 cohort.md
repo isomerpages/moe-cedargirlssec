@@ -640,19 +640,19 @@ We will inform you when you can collect the car decal from us.</p>
 <td style="border:1px solid" rowspan="1" colspan="1">
 <p>20 Dec, 4.00 pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Registration of 3rd Language (except MSP/CSP)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>19 Dec to 2 Jan</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Register via the link below:</p>
 <p><a href="http://moelc.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://moelc.moe.edu.sg</a>
 </p>
@@ -662,38 +662,38 @@ We will inform you when you can collect the car decal from us.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Registration of MSP/CSP at General Office</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>2 Jan from 9.00am to 5.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For students who are eligible to offer MSP/CSP</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Appeal to offer MSP/CSP</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>13 Jan</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For students who are keen to offer MSP/CSP</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Regional Studies Programme Briefing (via Zoom)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>9 Jan, 5.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Optional and for parents of students offering MSP only. More details will
 be given nearer to the date.</p>
 </td>
