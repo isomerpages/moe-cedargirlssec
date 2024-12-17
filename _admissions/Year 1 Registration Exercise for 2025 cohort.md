@@ -125,6 +125,10 @@ applicants will be notified.</p>
 <li>
 <p><a href="/files/2025 year 1 registration/Sec1_Registration_Slides_HMT_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides HMT Briefing 2025.pdf</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=8MymaJCrFJQ" rel="noopener nofollow" target="_blank">Secondary One Registration HMT Briefing Video</a>
+</p>
 <p></p>
 </li>
 </ul>
@@ -350,7 +354,7 @@ Singpass</p>
 <p>Application to join Cedar PSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">PSG Registration </a>
+<p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">PSG Registration</a>
 </p>
 <p></p>
 <p><a href="/files/Poster_for_PSG_sign_up_compressed.pdf" rel="noopener nofollow" target="_blank">Poster for PSG sign up</a>
