@@ -16,8 +16,6 @@ the Cedar family.</p>
 report to school physically for registration.</p>
 <p>Please complete all the fields in the e-form.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e registration 2025" src="/images/ereg2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">https://go.gov.sg/cedar-ereg2025</div><div class="isomer-card-link">Link for e-registration</div></div></a>
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
