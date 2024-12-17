@@ -78,20 +78,20 @@ applicants will be notified.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Item</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Video</strong>  <strong>and Slides</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Registration and Administration Matters</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025 year 1 registration/Secondary_One_Registration_Slides_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides 2025.pdf</a>
@@ -101,10 +101,10 @@ applicants will be notified.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Higher MT/ MT/ 3rd Languages</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025 year 1 registration/Sec1_Registration_Slides_HMT_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides HMT Briefing 2025.pdf</a>
@@ -132,34 +132,34 @@ applicants will be notified.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>S/N</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Item</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Link / Documents</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Action by</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Purchase of Textbooks and/ Uniform (appointment booking is also required
 for collection of online order)</p>
 <p></p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="/files/2025 year 1 registration/1a__Booklist_S1_O_Level_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">SEC 1 Booklist 2025.pdf</a>
 </p>
 <p></p>
@@ -174,102 +174,102 @@ for collection of online order)</p>
 <p>(lunch time: 12.00pm - 1.00pm)</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>All Parents</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Purchase of Personal Learning Devices (PLD)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>More information will be provided during the Year 1 Parents' Talk on 8
 Jan. We will provide details on the Parents' Talk via PG when school reopens.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For information</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>3.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>2025 School Health Services for Year 1 students</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="/files/2025 year 1 registration/2025_School_Health_Programmes.pdf" rel="noopener nofollow" target="_blank">2025 School Health Programmes</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For information</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>4.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Parental Consent for Health Services</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal</a> via
 Singpass</p>
 <p></p>
 <p>Deadline: 10 Jan 2025</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>All Parents</p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>5.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Appeal to offer MSP/CSP</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="/files/2025 year 1 registration/Late_Application_and_Appeal_Form_for_M_SP__C_SP__2025.pdf" rel="noopener nofollow" target="_blank">Late application form for MSP CSP 2025.pdf</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For students who wish to offer MSP/CSP</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>6.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Application for Car-Decal</p>
 <p></p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/cardecal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cardecal2025</a>
 </p>
 <p></p>
 <p>Apply from 3 Jan - 12 Jan 2025</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For parents who drive children to school</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>7.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Financial Assistance Schemes</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="/files/2025 year 1 registration/2025_CGSS_FAS_Info.pdf" rel="noopener nofollow" target="_blank">2025 CGSS FAS Information</a>
 </p>
 <p></p>
@@ -278,73 +278,73 @@ Singpass</p>
 <p></p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For students who need financial assistance</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>8.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>School Fees Structure</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="/files/2025 year 1 registration/2025_CGSS_School_Fees_Structure.pdf" rel="noopener nofollow" target="_blank">2025 School Fees Structure.pdf</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For Information</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>9.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Group Personal Accident Insurance Plan for Students</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For Information</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>10.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>CCA Information</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="/files/2025 year 1 registration/2025_Y1_CCA_Infokit.pdf" rel="noopener nofollow" target="_blank">2025 Year 1 CCA Infokit</a>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>For Information</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>11.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Application to join Cedar PSG</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">PSG Registration</a>
 </p>
 <p></p>
 <p><a href="/files/Poster_for_PSG_sign_up_compressed.pdf" rel="noopener nofollow" target="_blank">Poster for PSG sign up</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -366,36 +366,36 @@ Singpass</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>2 Jan Thu</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>3 Jan Fri</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>6 Jan Mon</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td style="border:1px solid" rowspan="1" colspan="2">
 <p><strong>7 Jan Tues</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>10 Jan Fri*</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Reporting Time/Venue</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>7.40AM</p>
@@ -405,7 +405,7 @@ Singpass</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>7.40AM</p>
@@ -415,7 +415,7 @@ Singpass</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>7.40AM</p>
@@ -425,7 +425,7 @@ Singpass</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="2">
+<td style="border:1px solid" rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
 <p>7.40AM</p>
@@ -435,7 +435,7 @@ Singpass</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>7.40AM</p>
@@ -447,11 +447,11 @@ Singpass</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Highlights</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Class Bonding Games</p>
@@ -461,7 +461,7 @@ Singpass</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>House Bonding Activities</p>
@@ -472,7 +472,7 @@ Singpass</p>
 </ul>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Class Bonding Games</p>
@@ -488,7 +488,7 @@ Singpass</p>
 </ul>
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td style="border:1px solid" rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
 <p>School Culture Talk</p>
@@ -501,7 +501,7 @@ Singpass</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Year One Campfire Experience (5.00pm)</p>
@@ -511,42 +511,42 @@ Singpass</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Dismissal</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>1.30PM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>1.30PM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>1.00PM</p>
 </td>
-<td rowspan="1" colspan="2">
+<td style="border:1px solid" rowspan="1" colspan="2">
 <p>12.45PM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>7.00PM</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Attire</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
+<td style="border:1px solid" rowspan="1" colspan="3">
 <p>Cedar yellow PE T-shirt (with school crest) and</p>
 <p>school skirt.</p>
 <p>Students who did not manage to purchase Cedar school attire may wear their
 primary school attire.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>Students to report in full uniform with the tie.</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td style="border:1px solid" rowspan="1" colspan="2">
 <p>Lessons as Per Normal</p>
 <p></p>
 <p>*To bring PE attire for campfire activities on Fri, 10 Jan.</p>
@@ -554,11 +554,11 @@ primary school attire.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Items to bring</strong>
 </p>
 </td>
-<td rowspan="1" colspan="6">
+<td style="border:1px solid" rowspan="1" colspan="6">
 <p>Student's Ez-Link Card (For registration to access turnstiles)</p>
 <p>Stationery, Water Bottle, One Storybook, Snack (if required)</p>
 <p></p>
@@ -619,25 +619,25 @@ We will inform you when you can collect the car decal from us.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Item</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Deadline</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>Remark</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p><strong>e-Registration</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="border:1px solid" rowspan="1" colspan="1">
 <p>20 Dec, 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
