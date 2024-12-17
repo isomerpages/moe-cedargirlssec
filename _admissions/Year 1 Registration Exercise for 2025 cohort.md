@@ -15,6 +15,9 @@ the Cedar family.</p>
 <p>All Year 1 students are to complete the e-registration from <strong>18 Dec, 6.00am to 20 Dec, 4.00pm.</strong> Students <strong>DO NOT need</strong> to
 report to school physically for registration.</p>
 <p>Please complete all the fields in the e-form.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e registration 2025" src="/images/ereg2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">https://go.gov.sg/cedar-ereg2025</div><div class="isomer-card-link">Link for e-registration</div></div></a>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,6 +43,7 @@ report to school physically for registration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2025.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
