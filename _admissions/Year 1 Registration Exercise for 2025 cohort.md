@@ -23,7 +23,7 @@ report to school physically for registration.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Link and QR code for e-registration</p>
+<p>Link and QR Code for e-registration</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ applicants will be notified.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Link and QR code for Appeal Form</p>
+<p>Link and QR Code for Appeal Form</p>
 </td>
 </tr>
 <tr>
