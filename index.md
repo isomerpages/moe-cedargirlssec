@@ -21,6 +21,11 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
+  - infobar:
+      title: Year 1 Registration Exercise  for 2025 Cohort
+      id: infobar
+      button: click here for more info
+      url: /admissions/year-1-registration-exercise-2025/
   - infopic:
       title: e-Open House 2024
       id: infopic
