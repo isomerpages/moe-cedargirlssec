@@ -16,18 +16,14 @@ the Cedar family.</p>
 report to school physically for registration.</p>
 <p>Please complete all the fields in the e-form.</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Link for e-registration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>QR code for e-registration</p>
+<p>Link and QR code for e-registration</p>
 </td>
 </tr>
 <tr>
@@ -35,13 +31,9 @@ report to school physically for registration.</p>
 <p><a href="https://go.gov.sg/cedar-ereg2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cedar-ereg2025</a>
 </p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2025.png">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -55,18 +47,14 @@ be considered.</p>
 and availability of vacancies. All appeals are to be submitted by <strong>24 Dec, 12.00pm</strong>.</p>
 <p>All appeal requests will be processed by <strong>6 Jan</strong>. Only successful
 applicants will be notified.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Link to Appeal Form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>QR code for Appeal Form</p>
+<p>Link and QR code for Appeal Form</p>
 </td>
 </tr>
 <tr>
@@ -74,13 +62,9 @@ applicants will be notified.</p>
 <p><a href="https://go.gov.sg/cedar-appeal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cedar-appeal2025</a>
 </p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/appeal2025.png">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
