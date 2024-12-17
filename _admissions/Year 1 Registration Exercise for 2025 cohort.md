@@ -350,7 +350,10 @@ Singpass</p>
 <p>Application to join Cedar PSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">https://tinyurl.com/cedargirlspsg</a>
+<p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">PSG microsite</a>
+</p>
+<p></p>
+<p><a href="/files/Poster_for_PSG_sign_up_compressed.pdf" rel="noopener nofollow" target="_blank">Poster for PSG sign up</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
