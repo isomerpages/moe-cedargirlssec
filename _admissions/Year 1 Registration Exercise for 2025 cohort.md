@@ -408,7 +408,8 @@ Singpass</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reporting Time/Venue</p>
+<p><strong>Reporting Time/Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -463,7 +464,8 @@ Singpass</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Highlights</p>
+<p><strong>Highlights</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -526,7 +528,8 @@ Singpass</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dismissal</p>
+<p><strong>Dismissal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.30PM</p>
@@ -546,7 +549,8 @@ Singpass</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire</p>
+<p><strong>Attire</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Cedar yellow PE T-shirt (with school crest) and</p>
@@ -567,7 +571,8 @@ primary school attire.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Items to bring</p>
+<p><strong>Items to bring</strong>
+</p>
 </td>
 <td rowspan="1" colspan="6">
 <p>Student's Ez-Link Card (For registration to access turnstiles)</p>
@@ -645,7 +650,8 @@ We will inform you when you can collect the car decal from us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>e-Registration</p>
+<p><strong>e-Registration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20 Dec, 4.00 pm</p>
@@ -656,7 +662,8 @@ We will inform you when you can collect the car decal from us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Registration of 3rd Language (except MSP/CSP)</p>
+<p><strong>Registration of 3rd Language (except MSP/CSP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19 Dec to 2 Jan</p>
@@ -672,7 +679,8 @@ We will inform you when you can collect the car decal from us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Registration of MSP/CSP at General Office</p>
+<p><strong>Registration of MSP/CSP at General Office</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Jan from 9.00am to 5.00pm</p>
@@ -683,7 +691,8 @@ We will inform you when you can collect the car decal from us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appeal to offer MSP/CSP</p>
+<p><strong>Appeal to offer MSP/CSP</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>13 Jan</p>
@@ -694,7 +703,8 @@ We will inform you when you can collect the car decal from us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Regional Studies Programme Briefing (via Zoom)</p>
+<p><strong>Regional Studies Programme Briefing (via Zoom)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 Jan, 5.00pm</p>
