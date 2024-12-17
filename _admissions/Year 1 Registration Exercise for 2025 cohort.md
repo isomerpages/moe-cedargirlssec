@@ -63,7 +63,7 @@ applicants will be notified.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/appeal2025.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" align="left" src="/images/appeal2025.png">
 </div>
 </td>
 </tr>
