@@ -342,6 +342,21 @@ Singpass</p>
 <p>For Information</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application to join Cedar PSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">https://tinyurl.com/cedargirlspsg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
