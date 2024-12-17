@@ -166,6 +166,8 @@ for collection of online order)</p>
 <p><a href="/files/2025 year 1 registration/1b__Booklist_IP1_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">IP Booklist 2025.pdf</a>
 </p>
 <p></p>
+	<p><a href="/files/2025 year 1 registration/2025_S1_Uniform_Instructions-Final.pdf" rel="noopener nofollow" target="_blank">S1 Uniform Instructions.pdf</a>
+</p>
 <p>For purchase in school, please book an appointment, via <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">pacificbookstores </a>from
 18 Dec, 8.00am to 19 Dec, 5.00pm.</p>
 <p></p>
