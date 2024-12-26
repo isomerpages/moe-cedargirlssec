@@ -219,8 +219,7 @@ Jan. We will provide details on the Parents' Talk via PG when school reopens.</p
 <p></p>
 </td>
 <td style="border:1px solid" rowspan="1" colspan="1">
-<p><a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal</a> via
-Singpass</p>
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg</a></p>
 <p></p>
 <p>Deadline: 10 Jan 2025</p>
 </td>
