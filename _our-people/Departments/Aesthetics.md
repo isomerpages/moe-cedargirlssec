@@ -16,4 +16,4 @@ variant: markdown
 | Teacher (Music) | Ms Naomi Chye |
 | Teacher (Art) | Ms Yeo Bi Xia |
 | Teacher (Art) | Ms Jocelyn Yeow Chee Wai |
-| Teacher (FCE) | Ms Irdawativ Iskandar |
+| Teacher (FCE) | Ms Irdawati Iskandar |
