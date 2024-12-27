@@ -23,7 +23,6 @@ variant: markdown
 | Teacher  | Ms Ding Ying Jye |
 | Teacher  | Ms Guan Xing Hua |
 | Teacher  | Mr Gui Eng Hong |
-| Teacher | Mr Henry Lau Chin Hang |
 | Teacher | Ms Mumtas Begam |
 | Teacher  | Ms Pearl Wong |
 | Teacher | Mr Raymond Tan |
