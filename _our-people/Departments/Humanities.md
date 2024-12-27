@@ -11,7 +11,7 @@ variant: markdown
 |---|---|
 | HOD Humanities | Ms Ong Sze Ying |
 | LT/History | Ms Krishnan Mullaiselvi  |
-| ST/Geography | Mdm Tan Yah Hui |
+| ST/Geography | Mdm Chen Wenwen |
 | Teacher | Mr Andrew Chai |
 | Teacher | Mdm Faridah Baharawi |
 | Teacher | Ms Geetha Muthuramalingam |
