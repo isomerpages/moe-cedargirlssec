@@ -19,5 +19,4 @@ Our social innovation programme is a signature programme that our girls will go 
 Grateful for the support that we have been receiving from our parents, Cedarians, past and present, as well as from the community, we will deepen these partnerships further towards creating a holistic future-oriented learning environment to develop our students. We are committed to inspire and nurture our girls to continue contributing to the community within and beyond the school, becoming&nbsp;_Women of Character and Wisdom._
 
 **Mrs Chan-Tey Kah Hwee**  
-
-**Principal, Cedar Girls’ Secondary School**
+**Former Principal, Cedar Girls’ Secondary School**
