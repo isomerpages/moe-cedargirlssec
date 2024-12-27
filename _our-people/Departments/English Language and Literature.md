@@ -13,7 +13,6 @@ variant: markdown
 | Year Head (Y3 & Y4) | Mdm Pang Ee Wei |
 | SH/LIT | Ms Jina Foo Yu Ting |
 | Teacher | Ms Esther Low Mui Sum |
-| Teacher | Mrs Gemma Daniel |
 | Teacher | Ms Goh Sok Hui |
 | Teacher  | Ms Laura Siew |
 | Teacher  | Ms Lyana Khairunnisa Binte Masodi |
