@@ -14,7 +14,7 @@ variant: markdown
 | AYH (Y2) | Mrs Rachel Teo Yu Lin |
 | SH/Student Well-being and ECG | Ms Saran Dhillon |
 | SH/ Chemistry | Ms See Hui Hui |
-| SH/ Physics | Mr Jeremy Ng |
+| SH/ Physics | Ms Shirley Tay |
 | Ag SH/TD | Ms Lim Xinjie |
 | Senior Teacher (Chemistry) | Mrs Neo Li Kheang |
 | Senior Teacher (Physics) | Ms Goh Cui Ying |
@@ -23,7 +23,6 @@ variant: markdown
 | Teacher  | Ms Ding Ying Jye |
 | Teacher  | Ms Guan Xing Hua |
 | Teacher  | Mr Gui Eng Hong |
-| Teacher | Mr Henry Lau Chin Hang |
 | Teacher | Ms Mumtas Begam |
 | Teacher  | Ms Pearl Wong |
 | Teacher | Mr Raymond Tan |
