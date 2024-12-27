@@ -10,7 +10,6 @@ variant: markdown
 | Title | Name |
 |---|---|
 | HOD Humanities | Ms Ong Sze Ying |
-| HOD Integrated Programme | Mr Lee Seng Lee |
 | LT/History | Ms Krishnan Mullaiselvi  |
 | ST/Geography | Mdm Tan Yah Hui |
 | Teacher | Mr Andrew Chai |
