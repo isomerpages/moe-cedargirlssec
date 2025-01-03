@@ -253,7 +253,7 @@ Jan. We will provide details on the Parents' Talk via PG when school reopens.</p
 <p></p>
 </td>
 <td style="border:1px solid" rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cardecal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cardecal2025</a>
+<p><a href="https://form.gov.sg/6745f44e4ab78923c10ba44d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cardecal2025</a>
 </p>
 <p></p>
 <p>Apply from 3 Jan - 12 Jan 2025</p>
