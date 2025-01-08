@@ -44,4 +44,13 @@ sections:
       id: infobar
       button: click here for more info
       url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2025/
+  - infopic:
+      title: O-Level Results Release
+      subtitle: ww
+      id: infopic
+      description: Dear Luminary Cohort of 2024, Do take note of the release of O
+        Level Results details in the photo beside. We look forward to seeing you
+        and best wishes!
+      image: /images/2024cohortphoto.jpg
+      alt: Image alt text
 ---
