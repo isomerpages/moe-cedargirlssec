@@ -46,12 +46,12 @@ variant: markdown
             </td>
         </tr>
         <tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-left: none;border-image: initial;border-bottom: 1pt solid windowtext;padding: 0in 5.4pt;height: 7pt;vertical-align: bottom;"><br></td>
+            <td style="width: 172.75pt;border-top: none;border-right: none;border-left: none;border-image: initial;border-bottom: 1pt solid windowtext;padding: 0in 5.4pt;height: 7pt;vertical-align: bottom;"><br></td>
             <td style="width: 3.75in;border-top: none;border-right: none;border-left: none;border-image: initial;border-bottom: 1pt solid windowtext;padding: 0in 5.4pt;height: 7pt;vertical-align: bottom;"><br></td>
         </tr>
         <tr>
             <td style="width: 422.75pt;border-top: none;border-left: 1pt solid windowtext;border-bottom: none;border-right: 1pt solid windowtext;background: rgb(91, 155, 213);padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;" colspan="2">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="color:white;">HEADS OF DEPARTMENTS</span></strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="color:white;">HEADS OF DEPARTMENT</span></strong></p>
             </td>
         </tr>
         <tr>
@@ -59,7 +59,7 @@ variant: markdown
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Goh Aun Lii Audrie&nbsp;</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD/CCE &amp; Student Management</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD CCE &amp; Student Management</span></p>
             </td>
         </tr>
         <tr>
@@ -76,14 +76,6 @@ variant: markdown
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Infocomm &amp; Technology</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Lu Shijia&nbsp;</span></p>
-            </td>
-            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD Aesthetics and Innovation</span></p>
             </td>
         </tr>
         <tr>
