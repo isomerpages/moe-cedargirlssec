@@ -23,7 +23,6 @@ sections:
       background: /images/Home Banner/zest_v3.gif
   - infopic:
       title: O-Level Results Release
-      subtitle: ww
       id: infopic
       description: Dear Luminary Cohort of 2024, Do take note of the release of O
         Level Results details in the photo beside. We look forward to seeing you
