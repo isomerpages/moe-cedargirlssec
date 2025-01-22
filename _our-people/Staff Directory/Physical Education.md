@@ -1,0 +1,19 @@
+---
+title: Physical Education
+permalink: /our-people/departments/physical-education/
+description: ""
+third_nav_title: Staff Directory
+variant: markdown
+---
+#### Physical Education
+
+| Title | Name |
+|---|---|
+| HOD / PE & CCA | Mr Jonathan Jong Ju Siang |
+| Ag SH/CCA | Ms Tan Li Si |
+| Teacher | Mr Bernard Khoo Ghee Hock |
+| Teacher | Mr Chai Ying Chung |
+| Teacher | Mr Chris Chan Boon Yeow |
+| Teacher | Mr Kelvin Neo Kai Hong |
+| Teacher | Mr Jimmy Kheng Chu Yian  |
+| Teacher | Ms Poon Pui Fun |
