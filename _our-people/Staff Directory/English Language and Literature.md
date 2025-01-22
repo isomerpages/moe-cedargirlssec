@@ -9,10 +9,11 @@ variant: markdown
 
 | Title | Name |
 |---|---|
-| HOD/ English | Mr Ong Chin Meng |
-| Year Head (Y3 & Y4) | Mdm Pang Ee Wei |
-| SH/LIT | Ms Jina Foo Yu Ting |
-| Teacher | Ms Esther Low Mui Sum |
+| HOD/ English | [Mr Ong Chin Meng](ong_chin_meng@moe.edu.sg) |
+| HOD/Partnership | [Ms Nur Azzah Bte Amir Gany](nur_azzah_amir_gany@moe.edu.sg) |
+| Year Head (Y1 & Y3) | [Ms Pang Ee Wei](pang_ee_wei@moe.edu.sg) |
+| SH/LIT | [Ms Jina Foo Yu Ting](jina_foo@moe.edu.sg) |
+| Teacher | [Ms Esther Low Mui Sum](low_mui_sum_esther@moe.edu.sg) |
 | Teacher | Ms Goh Sok Hui |
 | Teacher  | Ms Laura Siew |
 | Teacher  | Ms Lyana Khairunnisa Binte Masodi |
