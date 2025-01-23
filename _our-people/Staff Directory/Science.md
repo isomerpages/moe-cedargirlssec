@@ -27,3 +27,8 @@ variant: markdown
 | Teacher  | [Ms Pearl Wong Chin Chin](pearl_wong_chin_chin@moe.edu.sg) |
 | Teacher  | [Ms Wendy Chen Lingzhi](chen_lingzhi@moe.edu.sg) |
 | Teacher  | [Ms Cynthia Chong Chen Chen](chong_chen_chen_cynthia_a@moe.edu.sg) |
+| Teacher  | [Ms Grace See Ee-Ching](grace_see@moe.edu.sg) |
+| Teacher  | [Ms Latha Devakumar](latha_devakumar_a@moe.edu.sg) |
+| Teacher  | [Mr Ronnie Goh Hsien Ching](goh_hsien_ching_ronnie_a@moe.edu.sg) |
+| Teacher  | [Mr Teoh Chin Chye](Teoh_Chin_Chye_B@moe.edu.sg) |
+| Teacher  | [Ms Wong Wei Leen](wong_wei_leen@moe.edu.sg)|
