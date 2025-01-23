@@ -9,10 +9,10 @@ variant: markdown
 
 | Title | Name |
 |---|---|
-| HOD/ Science | Ms Yam Wei Ling Agnes |
-| School Staff Developer | Ms Margaret Wong Pek Funn  |
-| AYH (Y2) | Mrs Rachel Teo Yu Lin |
-| SH/Student Well-being and ECG | Ms Saran Dhillon |
+| HOD/ Science | [Ms Agnes Yam Wei Ling](yam_wei_ling@moe.edu.sg) |
+| School Staff Developer | [Ms Margaret Wong Pek Funn](margaret_wong@moe.edu.sg)  |
+| AYH (Y1 & Y3) | [Ms Koh Yu Lin Rachel](yu_lin_rachel_koh@moe.edu.sg) |
+| SH CCE | Ms Saran Dhillon |
 | SH/ Chemistry | Ms See Hui Hui |
 | SH/ Physics | Ms Shirley Tay |
 | Ag SH/TD | Ms Lim Xinjie |
