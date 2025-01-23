@@ -2,7 +2,7 @@
 title: Executive and Administrative Staff
 permalink: /our-people/departments/executive-and-administrative-staff/
 description: ""
-third_nav_title: Departments
+third_nav_title: Staff Directory
 variant: markdown
 ---
 #### Executive and Administrative Staff
