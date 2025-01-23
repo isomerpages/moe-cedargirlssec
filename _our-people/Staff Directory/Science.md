@@ -20,10 +20,10 @@ variant: markdown
 | Ag SH/ICT | [Ms Christine So Xue Ting](so_xue_ting_christine@moe.edu.sg) |
 | ST/Chemistry | [Mdm Koo Li Kheang](koo_li_kheang@moe.edu.sg) |
 | ST/Physics | [Ms Goh Cui Ying](goh_cui_ying@moe.edu.sg) |
-| Teacher  | Ms Ding Ying Jye |
-| Teacher  | Ms Guan Xing Hua |
-| Teacher  | Mr Gui Eng Hong |
-| Teacher | Ms Mumtas Begam |
-| Teacher  | Ms Pearl Wong |
-| Teacher | Mr Raymond Tan |
-| Teacher  | Ms Chen Lingzhi (Wendy) |
+| Teacher  |[Ms Ding Ying Jye](ding_ying_jye@moe.edu.sg)  |
+| Teacher  | [Ms Guan Xing Hua](xing_hua_guan@moe.edu.sg) |
+| Teacher  | [Mr Gui Eng Hong](gui_eng_hong@moe.edu.sg) |
+| Teacher | [Ms Mumtas Begam](mumtas_begam_haja_muhudin@moe.edu.sg) |
+| Teacher  | [Ms Pearl Wong Chin Chin](pearl_wong_chin_chin@moe.edu.sg) |
+| Teacher  | [Ms Wendy Chen Lingzhi](chen_lingzhi@moe.edu.sg) |
+| Teacher  | [Ms Cynthia Chong Chen Chen](chong_chen_chen_cynthia_a@moe.edu.sg) |
