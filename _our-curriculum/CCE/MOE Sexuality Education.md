@@ -43,8 +43,7 @@ harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Overview of Cedar Girls’ Secondary School’s Sexuality Education Programme for 2025</strong>
-</p>
+<h4>Overview of Cedar Girls’ Secondary School’s Sexuality Education Programme for 2025</h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a
 holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -77,12 +76,13 @@ secondary students will have the opportunity to develop a positive self-esteem,
 develop their character, and expand their understanding and repertoire
 of skills to deal with various issues related to sexuality, which are of
 prime concern at this age.</p>
-<p><strong>At Cedar Girls’ Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<h4><strong>At Cedar Girls’ Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h4>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">2025 SEXUALITY EDUCATION LESSONS IN CCE</a></strong>
-</p>
+<blockquote>
 <p><strong>SECONDARY 1</strong>
 </p>
+</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -215,8 +215,10 @@ etc.)</p>
 </p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
+<blockquote>
 <p><strong>SECONDARY 2</strong>
 </p>
+</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -347,8 +349,10 @@ both offline and online</p>
 </table>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
+<blockquote>
 <p><strong>SECONDARY 3</strong>
 </p>
+</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -484,8 +488,10 @@ and act in alignment with our beliefs</p>
 <p>&nbsp;</p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
+<blockquote>
 <p><strong>SECONDARY 4</strong>
 </p>
+</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -737,4 +743,5 @@ form is to be submitted by 21/02/2025.</p>
 </p>
 <p>13.&nbsp; Parents can contact the school at 6288 4909 for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
-<p>14.&nbsp; More information on eTeens can be found on</p>
+<p>14.&nbsp; More information on eTeens can be found on <a href="/files/ANNEX_B_2025.pdf" rel="noopener nofollow" target="_blank">Annex B 2025.pdf</a>
+</p>
