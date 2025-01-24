@@ -45,7 +45,7 @@ harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Overview of Cedar Girls’ Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Cedar Girls’ Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a
 holistic manner through the school curriculum. The content for Sexuality
@@ -62,14 +62,14 @@ on sexuality include:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our youth
 towards sexuality are increasingly shaped by their peers, exposure to the
 media, popular culture and the internet. Adolescence is a complex stage
-in life as the adolescent attempts to find his/her own identity and often
-struggles with new social relationships. The period of middle adolescence
+in life as the adolescent attempts to find his or her own identity and
+often struggles with new social relationships. The period of middle adolescence
 (generally from 15 – 17 years old) can be a turbulent period for adolescents.
 The gap between physical and emotional/cognitive maturity may result in
 a tendency to act on impulse, experiment with various activities (including
 sexual activities), sometimes without understanding the unpleasant consequences
 that may arise from such experimentation. The need for peer acceptance
-can be overwhelmingly strong and hinder one’s ability to act responsibly.&nbsp;
+can be overwhelmingly strong and hinder one’s ability to act responsibly.
 Given the pressures faced by the middle adolescent from within themselves
 and from peers, it is important to build a strong sense of self-worth,
 personal conviction and an understanding of the possible consequences of
@@ -79,9 +79,9 @@ secondary students will have the opportunity to develop a positive self-esteem,
 develop their character, and expand their understanding and repertoire
 of skills to deal with various issues related to sexuality, which are of
 prime concern at this age.</p>
-<p><strong>At Cedar Girls’ Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Cedar Girls’ Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</a></strong>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">2025 SEXUALITY EDUCATION LESSONS IN CCE</a></strong>
 </p>
 <p><strong>SECONDARY 1</strong>
 </p>
@@ -152,7 +152,7 @@ that the readiness and interest in dating vary among individuals</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ etc.)</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>SECONDARY 2</strong>
 </p>
@@ -347,7 +347,7 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>SECONDARY 3</strong>
 </p>
