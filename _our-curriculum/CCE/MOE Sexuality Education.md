@@ -415,7 +415,7 @@ is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +448,7 @@ is normal and one can recover from the experience</p>
 family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -478,13 +478,13 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>SECONDARY 4</strong>
 </p>
