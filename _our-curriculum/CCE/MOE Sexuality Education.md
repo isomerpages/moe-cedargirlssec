@@ -589,7 +589,7 @@ in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -622,7 +622,7 @@ the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -645,7 +645,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
