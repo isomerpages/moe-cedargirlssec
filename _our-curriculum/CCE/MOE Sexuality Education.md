@@ -3,12 +3,10 @@ title: MOE Sexuality Education
 permalink: /our-curriculum/cce/moe-sexuality-education/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
-<p><strong>CEDAR GIRLS’ SECONDARY SCHOOL</strong>
-</p>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
+<h4><strong>CEDAR GIRLS’ SECONDARY SCHOOL</strong></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
@@ -739,4 +737,4 @@ form is to be submitted by 21/02/2025.</p>
 </p>
 <p>13.&nbsp; Parents can contact the school at 6288 4909 for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
-<p>14.&nbsp; More information on eTeens can be found on </p>
+<p>14.&nbsp; More information on eTeens can be found on</p>
