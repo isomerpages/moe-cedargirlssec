@@ -79,10 +79,8 @@ prime concern at this age.</p>
 <h4><strong>At Cedar Girls’ Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h4>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
-<blockquote>
 <p><strong>SECONDARY 1</strong>
 </p>
-</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -215,10 +213,8 @@ etc.)</p>
 </p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
-<blockquote>
 <p><strong>SECONDARY 2</strong>
 </p>
-</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -349,10 +345,8 @@ both offline and online</p>
 </table>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
-<blockquote>
 <p><strong>SECONDARY 3</strong>
 </p>
-</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -488,10 +482,8 @@ and act in alignment with our beliefs</p>
 <p>&nbsp;</p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
-<blockquote>
 <p><strong>SECONDARY 4</strong>
 </p>
-</blockquote>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
