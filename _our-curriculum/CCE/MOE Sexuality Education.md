@@ -729,13 +729,13 @@ MOE-approved external providers.</p>
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable below. The completed
 form is to be submitted by 21/02/2025.</p>
-<p>Click here for: <a href="https://drive.google.com/file/d/1oaqBsvE-Fa9XhHh-32uRt1Q-mMu-rD4y/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sexuality Education lessons opt-out form</a>
+<p>Click here for: <a href="/files/Sexuality_Education_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Opt out Form 2025.pdf</a>
 </p>
 <p>12.&nbsp; Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable below. The completed
 form is to be submitted by 21/02/2025.</p>
-<p>Click here for: <a href="https://drive.google.com/file/d/1nKZci81YmYWc0jy0MXu3B4Ar20TZ447f/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 eTeens programme opt-out form</a>
+<p>Click here for: <a href="/files/eTeens_Parents_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">eTeens Parents Opt out Form 2025.pdf</a>
 </p>
 <p>13.&nbsp; Parents can contact the school at 6288 4909 for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
