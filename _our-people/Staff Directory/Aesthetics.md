@@ -21,7 +21,7 @@ variant: tiptap
 <p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Email</p>
 </th>
 </tr>
 <tr>
