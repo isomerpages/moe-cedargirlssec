@@ -212,7 +212,7 @@ variant: tiptap
 <p>Ms Usharani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natarajan_usha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_usha@moe.edu.sg</a>
+<p><a href="mailto:b_s_t_s@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">b_s_t_s@moe.edu.sg</a>
 </p>
 </td>
 </tr>
