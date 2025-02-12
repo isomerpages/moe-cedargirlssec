@@ -65,7 +65,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Bxxxaharawi</p>
+<p>Mdm Faridah Baharawi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:faridah_baharawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faridah_baharawi@moe.edu.sg</a>
