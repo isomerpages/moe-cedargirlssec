@@ -21,6 +21,11 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
+  - infobar:
+      title: 2024 School Graduation Certificate (SGC) Collection
+      id: infobar
+      button: Click here for more info
+      url: /2024-school-graduation-certificate-sgc-collection/
   - infopic:
       title: O-Level Results Release
       id: infopic
@@ -52,9 +57,4 @@ sections:
       id: infobar
       button: click here for more info
       url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2025/
-  - infobar:
-      title: 2024 School Graduation Certificate (SGC) Collection
-      id: infobar
-      button: Click here for more info
-      url: /admissions/o-level-results-release/
 ---
