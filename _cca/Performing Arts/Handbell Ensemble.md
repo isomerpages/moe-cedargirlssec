@@ -18,7 +18,7 @@ works. Under the tutelage of Mr Damien Lim, a very prominent figure in Singapore
 Over the years, CHE had the honour to collaborate and learn from many professionals in the music scene, including RingTouch from Hong Kong, Ministry of Bellz from Singapore, and famous conductors such as Miss Emily Li from Hong Kong, Mr Malcolm Wilson from Scotland and Mr Toshikazu Yoshida, a world-renowned conductor, from Japan. These professionals have benefitted our ringers with their invaluable insights and advice.
 
 In 2014, CHE was given the opportunity to showcase our skills through the Community Chest Care &amp; Share SG50 Light up Ceremony (Christmas light up by H.E President Tony Tan). In 2015, we had the privilege and honour to perform for both the 16th ASEAN Culture and Information (COCI) Sub-Committee for Culture (SCC) meetings and the
-Peranakan Arts Festival. CHE was honoured to be chosen to perform for the MTV of the SYF 2017 Virtual Music Clip. In 2018, CHE had performed in the MOB concert and Nexilius concert in support of the Singapore’s Association for the deaf. Our continued partnership with MOB for the&nbsp;Extra•Ordinary&nbsp;People concert in 2019 provided another
+Peranakan Arts Festival. CHE was honoured to be chosen to perform for the MTV of the SYF 2017 Virtual Music Clip. In 2018, CHE had performed in the MOB concert and Nexilius concert in support of the Singapore’s Association for the deaf. Our continued partnership with MOB for the&nbsp;Extra•Ordinary&nbsp;People concert in 2019 and 2023 provided another
 platform for us to perform with students from Special Education (SPED) schools. Through this process, we seek to build on the foundation for a more inclusive society. These valuable experiences not only help us develop critical skills and broaden our horizons, but also boost our
 team’s confidence for public performance.
 
@@ -26,13 +26,13 @@ team’s confidence for public performance.
 **TEACHERS-IN-CHARGE**<br>
 Ms Jocelyn Yeow<br>
 Ms Poon Pui Fun&nbsp;<br>
-Mr Jonathan Lee En Wei
+
 
   
 
 **CCA SCHEDULE**<br>
 Monday and Tuesday&nbsp;<br>
-3.30pm - 6.00pm
+3.45pm - 6.15pm
 
   
 
