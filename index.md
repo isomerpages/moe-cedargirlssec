@@ -21,27 +21,16 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
-  - infopic:
-      title: O-Level Results Release
-      id: infopic
-      description: Dear Luminary Cohort of 2024, Do take note of the release of O
-        Level Results details in the photo beside. We look forward to seeing you
-        and best wishes!
-      image: /images/2024cohortphotoText.jpg
-      alt: Image alt text
+  - infobar:
+      title: 2024 School Graduation Certificate (SGC) Collection
+      id: infobar
+      button: Click here for more info
+      url: /2024-school-graduation-certificate-sgc-collection/
   - infobar:
       title: Year 1 Registration Exercise  for 2025 Cohort
       id: infobar
       button: click here for more info
       url: /admissions/year-1-registration-exercise-2025/
-  - infopic:
-      title: e-Open House 2024
-      id: infopic
-      description: Come join us at our e-Open House webinar this Saturday from 9:00-11:00am
-      button: Click here for more info
-      url: https://sites.google.com/moe.edu.sg/e-openhouse2024/home
-      image: /images/CGSS_students.png
-      alt: Image alt text
   - infobar:
       title: Admission to Year 3 VCA IP in 2025
       id: infobar
