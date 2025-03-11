@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Integrated Programme.md
+      - Integrated Programme (IP).md
       - Academic/.keep
       - Academic/Instructional Programme.md
       - Academic/Aesthetics.md
