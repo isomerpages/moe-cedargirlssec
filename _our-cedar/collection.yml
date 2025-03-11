@@ -2,7 +2,6 @@ collections:
   our-cedar:
     output: true
     order:
-      - Victoria Cedar Alliance.md
       - Overview.md
       - Our Identity/.keep
       - Our Identity/School Vision, Mission and Values.md
