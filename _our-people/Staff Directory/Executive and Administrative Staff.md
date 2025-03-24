@@ -22,7 +22,6 @@ variant: markdown
 | Operations Support Officer | Mr Jamal Bin Juma'at |
 | Operations Support Officer | Mdm Lei Yow Foon |
 | Operations Support Officer | Mr Mohd Nizam Bin Mahad |
-| Operations Support Officer | Mdm Mazrina Binte Abdul Majid |
 | Operations Support Officer | Mdm Norain Binte Mohammed |
 | Operations Support Officer  | Mr Ho Tuck Seng  |
 | Library Officer | Ms Al-Mehraaj Binte Mohamed Rahim |
