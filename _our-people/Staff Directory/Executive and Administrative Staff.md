@@ -17,6 +17,7 @@ variant: markdown
 | Corporate Support Officer | Ms Samantha Tan |
 | Technical Support Officer (D & T) | Mr Abdul Harris Bin Zainudin |
 | Technical Support Officer (Science) | Ms Khadijah Binte Taha |
+| Technical Support Officer (Science) | Ms Ma May Kyi Thet Mon |
 | Technical Support Officer (Science) | Ms Shamini |
 | Operations Support Officer | Mr Jamal Bin Juma'at |
 | Operations Support Officer | Mdm Lei Yow Foon |
@@ -28,4 +29,4 @@ variant: markdown
 | ICT Associate | Mr Darren Chua  |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
 | Desktop Engineer | Ms Fakhira Zolkafli |
-| Multi-Media Executive | Mr Muhammad Nor Syahiran Bin Ahmad |
+| AVA Executive | Ms Khalisah Taha |
