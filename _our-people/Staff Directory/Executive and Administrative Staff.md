@@ -24,7 +24,6 @@ variant: markdown
 | Operations Support Officer | Mr Mohd Nizam Bin Mahad |
 | Operations Support Officer | Mdm Norain Binte Mohammed |
 | Operations Support Officer  | Mr Ho Tuck Seng  |
-| Library Officer | Ms Al-Mehraaj Binte Mohamed Rahim |
 | ICT Associate | Mr Darren Chua  |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
 | Desktop Engineer | Ms Fakhira Zolkafli |
