@@ -135,6 +135,26 @@ ensuring they stay connected to their roots in an ever-evolving global
 landscape.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/MTF___CL_Chinese_Traditional_Door_Lock_DIY.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/MTF___CL_Clay_Sculpture_of_Chinese_Idiom_1.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/MTF___ML.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/MTF___TL_Y1_Students_Proudly_Display_Their_Kolam_Creations__2.jpg">
+</div>
+<p></p>
 <p><strong>2. Author-in-Residence Programme&nbsp;</strong>
 </p>
 <p>The Author-in-Residence programme provides students with a unique opportunity
@@ -147,6 +167,11 @@ different writing styles, express their thoughts more effectively, and
 cultivate a love for reading and writing. This programme nurtures young
 writers and enhances their confidence in using their Mother Tongue in meaningful
 and creative ways.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/AIR.jpg">
+</div>
 <p></p>
 <p><strong>3. Cultural Performance Exposure Scheme (CPES)</strong>
 </p>
@@ -161,6 +186,16 @@ of cultural expressions and artistic traditions. CPES enriches their learning
 beyond the classroom, fostering a lifelong appreciation for the arts and
 their cultural roots.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/CPES.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/Malay_Theatre.jpg">
+</div>
+<p></p>
 <p><strong>4. Competitions</strong>
 </p>
 <p>Our girls have actively participated in various Mother Tongue Language
@@ -169,6 +204,18 @@ for their cultural heritage. From storytelling and essay writing to debate
 and oratorical contests, they have demonstrated creativity, critical thinking,
 and eloquence.&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/Malay_Podcast_competition.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/Tamil_Competition_winners__2024.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 </tbody>
