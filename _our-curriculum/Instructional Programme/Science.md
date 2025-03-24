@@ -3,124 +3,148 @@ title: Science
 permalink: /our-curriculum/academic/science/
 description: ""
 third_nav_title: Instructional Programme
+variant: tiptap
 ---
-### Science
-
-<ul class="jekyllcodex_accordion">
-
-<li>
-
-<input type="checkbox" id="accordion1">
-
-<label for="accordion1">Philosophy</label>
-
-<div>
-
-<p>
-We believe that the Science Programme at Cedar should consist of an enriched, current and appropriately challenging curriculum facilitated by knowledgeable and skilful teachers. <br><br>
-
-  
-
-The curriculum focuses on acquiring deep understanding of a substantive body of science conceptual knowledge, developing skills in scientific inquiry through investigations and through scientific thinking, creative problem-solving and developing 21st Century Skills. The science curriculum has major thrusts of science literacy as well as science talent development.<br><br>
-
-  
-
-To cater to the high-ability learners in science, opportunities for talent development is an integral aspect of their science education. Our Science education comprises deep understanding of science conceptual knowledge, practice in science process skills and acquiring the dispositions of a good scientist.<br><br>
-
-  
-
-Science has relevance beyond the classroom. Students should appreciate the role of science in everyday life and in solving technological, environmental and social problems, and the importance of the ethical implications of scientific advances.
-</p>
-
+<h3>Science</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SCI DEPT/SCI_DEPT_2025.jpg">
 </div>
-
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Department Vision:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our vision is to inspire an innovative learning environment where students
+are empowered to explore, create, and seek solutions to real-world problems.
+Moving beyond content knowledge, we foster a culture of curiosity and critical
+thinking.&nbsp;</p>
+<p></p>
+<p>Our teachers, as a collaborative team across the disciplines of Biology,
+Chemistry, and Physics, guide students in applying scientific concepts
+to address local and global challenges. We strive to cultivate scientifically
+literate individuals who are equipped to make informed decisions and contribute
+responsibly to the future of Singapore and the world.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching and Learning Approaches:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our teaching and learning approach foster critical, adaptive and inventive
+thinking skills through a multi-modality framework. This is achieved by:</p>
+<p></p>
+<p><strong>Inquiry-Based Learning:<br></strong>Students engage actively in
+their learning by posing questions, forming hypotheses, and refining their
+ideas through experiments and observations. This approach not only nurtures
+curiosity but also deepens their conceptual understanding, cultivating
+an appreciation for the scientific method.</p>
+<p></p>
+<p><strong>Context-Based Problem Solving:<br></strong>Science becomes relevant
+when students apply their knowledge to discuss and address real-world challenges.
+Our curriculum is designed to challenge students to think critically and
+apply scientific concepts to novel situations. This enhances their problem-solving
+abilities and prepares them for learning beyond the classroom.</p>
+<p></p>
+<p><strong>Collaborative Learning:<br></strong>Learning is a shared journey
+of building knowledge. Students work closely with their peers, exchanging
+ideas and building on each other’s insights. Through discussions with peers,
+facilitated by teachers, they co-construct knowledge, strengthening their
+scientific reasoning and communication skills.</p>
+<p></p>
+<p><strong>Discussion of Socio-scientific Issues:<br></strong>Science shapes
+our world. By exploring current global issues such as climate change, renewable
+energy, and medical advancements, students critically assess the benefits
+and consequences of scientific progress. The group-based discussions and
+class presentations will heighten the awareness for responsible and ethical
+thinking about science’s impact in Singapore and in the world.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Key Programmes:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol>
+<li>
+<p><strong>Science Cohort Learning Journey</strong>
+</p>
 </li>
-<li>
-
-<input type="checkbox" id="accordion2">
-
-<label for="accordion2">Teaching and Learning Approach</label>
-
-<div>
-
-<p>
-<b>INSTRUCTIONAL STRATEGIES:</b>&nbsp;To use a variety of strategies to enable pupils to be self-directed and passionate learners<br><br>
-
-  
-
-<b>PROCESS:</b>&nbsp;To use scientific inquiry skills and procedures to develop scientific thinking and reasoning skills, and stretch student abilities and develop interest in science through independent experimental design<br><br>
-
-  
-
-<b>CONTENT:</b>&nbsp;To teach concepts, principles, laws, theories and models for understanding, application, analysis, and evaluation of scientific facts and creating new knowledge<br><br>
-
-  
-
-<b>PRODUCT:</b>&nbsp;To use knowledge and skills to innovate and to resolve real-world problems<br><br>
-
-  
-
-<b>LEARNING ENVIRONMENT:</b>To provide a student-centred, stimulating and a dare to take risk environment, through exploration of challenging tasks and ideas through a diversity of experiences, ideas, and collaborative learning	
+</ol>
+<p>Every year, the department organises learning journeys for specific cohorts
+of students. This allows students to further build their curiosity in the
+subject and appreciate the application of scientific concepts in our daily
+life.&nbsp;
+<br>
 </p>
-
-</div>
-
+<ol start="2">
+<li>
+<p><strong>Singapore Junior Science Olympiads (Biology, Chemistry, Physics)</strong>
+</p>
 </li>
-
-<li>
-
-<input type="checkbox" id="accordion3">
-
-<label for="accordion3">Programmes</label>
-
-<div>
-
+</ol>
+<p>To stretch the potential of our high ability science students, we provide
+them with the opportunity to participate in the Singapore Junior Chemistry,
+Biology, and Physics Olympiads. Through these competitions, students will
+explore concepts beyond the school syllabus, sharpen their problem-solving
+skills, and apply their knowledge to tackle challenging scientific problems.</p>
 <p>
-<b>Science Talent Development Programme</b><br>
-National Science Challenge<br>
-
-Singapore Science &amp; Engineering Fair<br>
-
-East Zone Science Fair<br>
-
-Science Mentorship Programmes<br>
-
-Junior Science Olympiads<br>
-
-International Biomedical Olympiad<br><br>
-
-  
-
-<b>Lower Secondary Science Enrichment</b><br>
-
-Field Trips to Sungei Buloh Wetland Reserve<br>
-
-Virtual Science Field Trips<br>
-	
+<br>
 </p>
-
-</div>
-
+<ol start="3">
+<li>
+<p><strong>Singapore Youth STEM Fair (SYSF)</strong>
+</p>
 </li>
-<li>
-
-<input type="checkbox" id="accordion4">
-
-<label for="accordion4">Assessment</label>
-
-<div>
-
+</ol>
+<p>For our lower secondary students who are passionate about science, they
+have the exciting opportunity to participate in the Singapore Youth STEM
+Fair (SYSF), a national competition promoting inquiry, innovation, and
+problem-solving in STEM. Evolving from the Singapore Youth Science Fair,
+it encourages students to explore real-world challenges through investigative
+research and prototyping.&nbsp;</p>
 <p>
-Purpose of assessment: To improve learning and teaching<br><br>
-
-  
-
-Types of assessment: Performance Assessment (including Science Practical Skills Assessment), Assessment for Learning, Assessment of Learning, Self and Peer Assessment
+<br>
 </p>
-
-</div>
-
-</li>	
-
-&nbsp;
-</ul>
+<ol start="4">
+<li>
+<p><strong>National STEM Championship (NSC)</strong>
+</p>
+</li>
+</ol>
+<p>The National STEM Championship (NSC) challenges Year 3 students to apply
+scientific knowledge and problem-solving skills in real-world contexts.
+Through interdisciplinary STEM challenges, they develop innovation, critical
+thinking, and teamwork while tackling complex global issues. Participation
+nurtures resilience and prepares them for future STEM pursuits.</p>
+<p>
+<br>
+</p>
+<ol start="5">
+<li>
+<p><strong>Alternative Assessment (AA)&nbsp;</strong>
+</p>
+</li>
+</ol>
+<p>Science AA at Year 2 and Year 3 are intentionally designed to develop
+and assess Emerging 21st Century Competencies.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
