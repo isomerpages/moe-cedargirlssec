@@ -205,8 +205,6 @@ and oratorical contests, they have demonstrated creativity, critical thinking,
 and eloquence.&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MTL DEPT/Malay_Podcast_competition.jpg">
 </div>
