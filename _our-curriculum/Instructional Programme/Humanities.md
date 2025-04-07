@@ -82,6 +82,9 @@ to authentic tasks, such as whether Pulau Ubin can be made into a tourism
 site.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HUM DEPT/Hum1.jpg">
+</div>
 <p></p>
 <ul>
 <li>
@@ -103,9 +106,17 @@ associated with the art forms of the region to overseas learning journey
 to Malacca where they are given the chance to engage with on-site learning
 overseas and engage with their peers from the region.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HUM DEPT/Hum2.jpg">
+</div>
 <p><u>Exploring Southeast Asia through Dance</u>
 </p>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HUM DEPT/Hum3.jpg">
+</div>
 <p><u>School Visit in Malacca</u>
 </p>
 <p></p>
