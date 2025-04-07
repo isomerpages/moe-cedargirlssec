@@ -67,17 +67,15 @@ tools to enhance their learning.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1. Literature Fest (“Lit Up!”)</strong>
-</p>
-<p>Literature Fest is a week-long school-wide event that aims to nurture
+<p><strong>1. Literature Fest (“Lit Up!”)</strong><br>
+Literature Fest is a week-long school-wide event that aims to nurture
 a love for Literature in every Cedarian. Students develop an appreciation
 for literary texts and characters through varied platforms such as creative
 student representations of texts, meet-the-author sessions, roundtable
 discussions, film screenings and interactive displays.</p>
 <p></p>
-<p><strong>2. Literature Enrichment</strong>
-</p>
-<p>Enrichment programmes are organised to broaden our students’ appreciation
+<p><strong>2. Literature Enrichment</strong><br>
+Enrichment programmes are organised to broaden our students’ appreciation
 of Literature through making connections from literary texts to self, other
 texts, other readers and the world around them. These programmes include
 learning journeys to theatre performances and creative writing workshops.</p>
@@ -86,9 +84,8 @@ of the school’s Beyond Classroom Learning Week. In addition, Year 3 and
 4 students attended a performance-lecture on Shakespeare’s Merchant of
 Venice.</p>
 <p></p>
-<p><strong>3. Talent Development Opportunities</strong>
-</p>
-<p>Students keen on pursuing their interest in Literature and the English
+<p><strong>3. Talent Development Opportunities</strong><br>
+Students keen on pursuing their interest in Literature and the English
 language at a more advanced level can apply for research and creative writing
 opportunities through the school’s Talent Development Programme.</p>
 <p></p>
