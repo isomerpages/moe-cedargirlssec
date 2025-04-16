@@ -122,8 +122,8 @@ beyond the classroom curriculum.</p>
 <p><strong>Beyond Classroom Learning Aesthetics </strong>experiences includes
 the Year 1 Performing Arts-Based Learning, Year 2 Arts experiences e.g.
 Rhythm Rocks, Mosiac Art, Year 1 Culinary experience and Year 1 Lego Robotics.</p>
-<p><a href="/files/Aesthetics_2025.pdf" rel="noopener nofollow" target="_blank">Click here </a>for
-more information on CGSS Aesthetic Experiences.</p>
+<p><strong><a href="/files/Aesthetics_2025.pdf" rel="noopener nofollow" target="_blank">Click here</a></strong>
+<a href="/files/Aesthetics_2025.pdf" rel="noopener nofollow" target="_blank"></a>for more information on CGSS Aesthetic Experiences.</p>
 <p></p>
 </td>
 </tr>
