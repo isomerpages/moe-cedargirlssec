@@ -2,16 +2,16 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Academic/.keep
-      - Academic/Integrated Programme.md
-      - Academic/Instructional Programme.md
-      - Academic/Aesthetics.md
-      - Academic/English Language and Literature.md
-      - Academic/Humanities.md
-      - Academic/Mathematics.md
-      - Academic/Mother Tongue.md
-      - Academic/Physical Education.md
-      - Academic/Science.md
+      - Integrated Programme (IP).md
+      - Instructional Programme/.keep
+      - Instructional Programme/Instructional Programme.md
+      - Instructional Programme/Aesthetics.md
+      - Instructional Programme/English Language and Literature.md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Mother Tongue.md
+      - Instructional Programme/Physical Education.md
+      - Instructional Programme/Science.md
       - CCA/.keep
       - CCA/Overview.md
       - CCA/Sports.md
