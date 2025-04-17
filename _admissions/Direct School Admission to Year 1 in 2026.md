@@ -21,8 +21,8 @@ us on this exciting journey.</p>
 <p>CGSS offers DSA in Sports, Performing Arts (Symphonic Band) and Social
 Innovation categories.</p>
 <h5><strong>DSA (Sports)</strong><br></h5>
-<p>We offer DSA (Sports) in Badminton, Basketball, Netball, Table Tennis,
-Track and Field, or Volleyball. The programme aims to develop students’
+<p>We offer DSA (<u>Sports</u>) in Badminton, Basketball, Netball, Table
+Tennis, Track and Field, or Volleyball. The programme aims to develop students’
 talents and potentials in the various sports categories.</p>
 <p></p>
 <p>Our sports programme comprises:
@@ -44,9 +44,9 @@ instructors
 more information on Cedar Symphonic Band.</p>
 <p></p>
 <h5><strong>DSA (Social Innovation)</strong><br></h5>
-<p>Our DSA (Social Innovation) programme aims to develop students to be advocates
-for social change and nurture their talents in creating user-centric solutions
-for the community that they serve.</p>
+<p>Our DSA (<u>Social Innovation</u>) programme aims to develop students
+to be advocates for social change and nurture their talents in creating
+user-centric solutions for the community that they serve.</p>
 <p>The programme comprises:
 <br>a. Training in Design Thinking and Innovation
 <br>b. Training in Persuasive Communication Skills
