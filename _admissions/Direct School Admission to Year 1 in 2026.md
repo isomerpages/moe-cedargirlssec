@@ -485,10 +485,10 @@ and achievements</p>
 </table>
 <p></p>
 <h4><strong><u>Important Points to Note</u></strong></h4>
-<p><strong><u><br></u></strong>Parents and students are encouraged to choose
+Parents and students are encouraged to choose
 schools wisely based on the student’s aptitudes and strengths, bearing
 in mind the schools’ academic and non-academic requirements, and the programmes
-available to develop the area of talent.</p>
+available to develop the area of talent.<p></p>
 <p>Once your child has been given a confirmed offer, a place has been reserved
 for your child in the school. However, your child must achieve a PSLE score
 that qualifies them for Posting Group 3 in order for them to be allocated
