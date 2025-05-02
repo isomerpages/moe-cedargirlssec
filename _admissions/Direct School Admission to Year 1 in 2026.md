@@ -59,8 +59,7 @@ user-centric solutions for the community that they serve.</p>
 <p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on our Social Innovation Programme.</p>
 <h4></h4>
-<p><strong>Criteria and Selection Process for <u>both SEC and IP Programme</u></strong>
-</p>
+<h4><strong>Criteria and Selection Process for <u>both SEC and IP Programme</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -257,8 +256,7 @@ assessing the potential of the applicants.</p>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
-<p><strong><u>Application Process</u></strong>
-</p>
+<h4><strong><u>Application Process</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
@@ -490,10 +488,11 @@ and achievements</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Important Points to Note<br></u></strong>Parents and students
-are encouraged to choose schools wisely based on the student’s aptitudes
-and strengths, bearing in mind the schools’ academic and non-academic requirements,
-and the programmes available to develop the area of talent.</p>
+<h4><strong><u>Important Points to Note</u></strong></h4>
+<p><strong><u><br></u></strong>Parents and students are encouraged to choose
+schools wisely based on the student’s aptitudes and strengths, bearing
+in mind the schools’ academic and non-academic requirements, and the programmes
+available to develop the area of talent.</p>
 <p>Once your child has been given a confirmed offer, a place has been reserved
 for your child in the school. However, your child must achieve a PSLE score
 that qualifies them for Posting Group 3 in order for them to be allocated
