@@ -345,8 +345,7 @@ and achievements</p>
 <p><strong>Note: Certified True Copy refers to copy stamped with primary school’s endorsement.</strong>
 </p>
 <p></p>
-<p><strong><u>Timeline</u></strong>
-</p>
+<h4><strong><u>Timeline</u></strong></h4>
 <p></p>
 <p><strong>Sports and Symphonic Band Category</strong>
 </p>
