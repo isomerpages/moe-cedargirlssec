@@ -60,7 +60,7 @@ user-centric solutions for the community that they serve.</p>
 more information on our Social Innovation Programme.</p>
 <h4></h4>
 <h4><strong>Criteria and Selection Process for <u>both SEC and IP Programme</u></strong></h4>
-<table style="minWidth: 75px">
+<table style="border:1px solid black;">
 <colgroup>
 <col>
 <col>
@@ -298,7 +298,7 @@ Please scan and email the documents to <a rel="noopener noreferrer nofollow" tar
 <p>Please indicate in your subject title: <strong>DSA 2025_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="border:1px solid black;">
 <colgroup>
 <col>
 <col>
@@ -346,7 +346,7 @@ and achievements</p>
 <p></p>
 <p><strong>Sports and Symphonic Band Category</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="border:1px solid black;">
 <colgroup>
 <col>
 <col>
@@ -416,7 +416,7 @@ and achievements</p>
 <p>&nbsp;</p>
 <p><strong>Social Innovation Category</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="border:1px solid black;">
 <colgroup>
 <col>
 <col>
