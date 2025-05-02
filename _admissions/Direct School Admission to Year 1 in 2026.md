@@ -335,8 +335,6 @@ projects or activities</p>
 and achievements</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A photocopy of the <strong>Registration Number Form</strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 </td>
 </tr>
 </tbody>
