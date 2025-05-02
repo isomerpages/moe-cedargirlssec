@@ -59,6 +59,437 @@ user-centric solutions for the community that they serve.</p>
 <p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on our Social Innovation Programme.</p>
 <h4></h4>
+<p><strong>Criteria and Selection Process for <u>both SEC and IP Programme</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA (Sports)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Netball</p>
+</li>
+<li>
+<p>Table Tennis</p>
+</li>
+<li>
+<p>Track &amp; Field</p>
+</li>
+<li>
+<p>Volleyball</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sports Experience&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relevant representation or achievement in the related sports at zonal
+or national-level competitions in the Singapore Primary Schools Sports
+Council (SPSSC) National School Games (NSG).</p>
+</li>
+<li>
+<p>Represented National Sports Association / Club for local / overseas competition.</p>
+</li>
+<li>
+<p>Participated in MOE Junior Sports Academy (JSA) Programme.</p>
+</li>
+<li>
+<p>Any other relevant sports experience.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sports Trial</p>
+</li>
+<li>
+<p>nterview</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA (Symphonic Band)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Experience</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>&nbsp;</strong>Relevant representation or achievement in Singapore
+Youth Festival or instrumental related competitions</p>
+</li>
+<li>
+<p>Participated in school and /or public performances</p>
+</li>
+<li>
+<p>Participated in the Singapore National Youth Sinfonia or equivalent</p>
+</li>
+<li>
+<p>Any other relevant instrumental -related experience
+<br>
+<br>
+<br>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition as follows:</p>
+<p><u>Part 1: Prepared Individual Item</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perform two contrasting pieces^ up to a maximum of 10 minutes.</p>
+</li>
+<li>
+<p>Perform instrumental scales – Concert Bb, Eb, Ab and F major scales.</p>
+</li>
+</ul>
+<p></p>
+<p>^ Audition<strong> pieces must be composed specifically for the instrument that will be used during the audition.</strong> For
+example, a piece written for the vibraphone must be performed on the vibraphone
+and not on any other instrument.</p>
+<p></p>
+<p><u>Part 2: Unprepared Individual Item</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sight-reading</p>
+</li>
+<li>
+<p>Interview</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA (Social Innovation)</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Service to the Community</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Values-In-Action Projects (school initiated) and/or volunteer experience
+at organisation of choice</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Innovation-related competitions (If any):</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Representation or achievement in National, Zonal or school based or non-school
+based innovation competitions.</p>
+</li>
+<li>
+<p>Examples of relevant competitions are Sony Creative Awards, Junior Lego
+Robotics Competition, Tan Kah Kee Young Inventors Awards, Innovation Awards
+(MOE- IVP).</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Performance Task and</p>
+</li>
+</ul>
+<p>Interview conducted in a single session</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted or given an offer.</p>
+<p></p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p></p>
+<p>For more information on DSA-Sec, please refer to the MOE website at
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+<p></p>
+<p><strong><u>Application Process</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2025, 11am – 3 Jun 2025, 3pm</strong>.
+&nbsp;For more details, please refer to MOE website <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+</li>
+<li>
+<p><strong>Applicants from MOE mainstream primary schools</strong>: Parent
+may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required.
+Parents/guardians who are unable to apply online can approach their child’s
+primary school for assistance.</p>
+</li>
+<li>
+<p><strong>Applicants not studying in MOE mainstream primary schools:</strong> They
+need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
+Portal. They may refer to the MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+</li>
+<li>
+<p>A placement test may be conducted for Returning Singaporeans and non-mainstream
+students in foreign system schools and private education institutions to
+assess their course suitability.</p>
+</li>
+<li>
+<p>All shortlisted International Students who are <strong>not </strong>taking
+PSLE are required to take and fulfil the requirements of the Admissions
+Exercise for International Students test to be successful in DSA.</p>
+</li>
+<li>
+<p>Students can indicate up to three choices (maximum of two choices for
+the same school under two different talent areas).</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Submission of Documents</u></strong>
+</p>
+<p>Shortlisted applicants will be required to submit the following documents.
+Please scan and email the documents to <a rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>.</p>
+<p></p>
+<p>Please indicate in your subject title: <strong>DSA 2025_DSA Category_ Name of Primary School_Name of student.</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants studying in MOE mainstream primary schools</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants who are NOT studying in MOE mainstream primary schools</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Not required</u> to submit any hard
+copies of any school-based results activities and achievements.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificates of non-school based activities
+and achievements relevant to the selected talent area(s) if any.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Certified True Copy</strong> of</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Primary 5 Overall and Primary 6 Mid-Year
+Examination/Weighted Assessment Results</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificate of CCA participation, achievements
+and leadership roles in school</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificate of participation in community-based
+projects or activities</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificates of non-school based activities
+and achievements</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A photocopy of the <strong>Registration Number Form</strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note: Certified True Copy refers to copy stamped with primary school’s endorsement.</strong>
+</p>
+<p></p>
+<p><strong><u>Timeline</u></strong>
+</p>
+<p></p>
+<p><strong>Sports and Symphonic Band Category</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online Application @ MOE DSA-Sec Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email notification to inform applicants who are not shortlisted</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Jul 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports Trials and interviews at Cedar Girls’ Sec School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Jul 2025 – 22 Aug 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Notification of outcome via email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By 4 Sep 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Social Innovation Category</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online Application @ MOE DSA-Sec Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email notification to inform applicants who are not shortlisted</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 Jul 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conduct of performance tasks and interview at Cedar Girls’ Sec School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Jul 2025 – 22 Aug 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Notification of outcome via email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By 4 Sep 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><u>Important Points to Note<br></u></strong>Parents and students
 are encouraged to choose schools wisely based on the student’s aptitudes
 and strengths, bearing in mind the schools’ academic and non-academic requirements,
