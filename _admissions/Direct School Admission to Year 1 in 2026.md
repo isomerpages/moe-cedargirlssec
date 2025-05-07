@@ -134,7 +134,7 @@ Council (SPSSC) National School Games (NSG).</p>
 <p>Sports Trial</p>
 </li>
 <li>
-<p>nterview</p>
+<p>Interview</p>
 </li>
 </ul>
 <p>&nbsp;</p>
