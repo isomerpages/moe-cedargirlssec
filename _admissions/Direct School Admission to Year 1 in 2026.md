@@ -2,7 +2,7 @@
 title: Direct School Admission to Year 1 in 2026
 permalink: /admissions/dsa-year-1-2026/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Direct School Admission to Year 1 in 2026</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls
@@ -60,7 +60,7 @@ user-centric solutions for the community that they serve.</p>
 more information on our Social Innovation Programme.</p>
 <h4></h4>
 <h4><strong>Criteria and Selection Process for <u>both SEC and IP Programme</u></strong></h4>
-<table style="border:1px solid black;">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -134,7 +134,7 @@ Council (SPSSC) National School Games (NSG).</p>
 <p>Sports Trial</p>
 </li>
 <li>
-<p>nterview</p>
+<p>Interview</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -199,7 +199,6 @@ and not on any other instrument.</p>
 <p>Interview</p>
 </li>
 </ul>
-
 </td>
 </tr>
 <tr>
@@ -252,7 +251,7 @@ will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <p></p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
 <h4><strong><u>Application Process</u></strong></h4>
@@ -260,7 +259,8 @@ assessing the potential of the applicants.</p>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2025, 11am – 3 Jun 2025, 3pm</strong>.
-&nbsp;For more details, please refer to MOE website <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+&nbsp;For more details, please refer to MOE website <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
 </li>
 <li>
 <p><strong>Applicants from MOE mainstream primary schools</strong>: Parent
@@ -271,7 +271,7 @@ primary school for assistance.</p>
 <li>
 <p><strong>Applicants not studying in MOE mainstream primary schools:</strong> They
 need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
-Portal. They may refer to the MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+Portal. They may refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </li>
 <li>
@@ -293,12 +293,13 @@ the same school under two different talent areas).</p>
 <p><strong><u>Submission of Documents</u></strong>
 </p>
 <p>Shortlisted applicants will be required to submit the following documents.
-Please scan and email the documents to <a rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>.</p>
+Please scan and email the documents to <a href="cedargirlss@moe.edu.sg" rel="noopener nofollow" target="_blank">cedargirlss@moe.edu.sg</a>
+</p>
 <p></p>
 <p>Please indicate in your subject title: <strong>DSA 2025_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
 <p></p>
-<table style="border:1px solid black;">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -346,7 +347,7 @@ and achievements</p>
 <p></p>
 <p><strong>Sports and Symphonic Band Category</strong>
 </p>
-<table style="border:1px solid black;">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -416,7 +417,7 @@ and achievements</p>
 <p>&nbsp;</p>
 <p><strong>Social Innovation Category</strong>
 </p>
-<table style="border:1px solid black;">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -485,14 +486,15 @@ and achievements</p>
 </table>
 <p></p>
 <h4><strong><u>Important Points to Note</u></strong></h4>
-Parents and students are encouraged to choose
-schools wisely based on the student’s aptitudes and strengths, bearing
-in mind the schools’ academic and non-academic requirements, and the programmes
-available to develop the area of talent.<p></p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p></p>
 <p>Once your child has been given a confirmed offer, a place has been reserved
 for your child in the school. However, your child must achieve a PSLE score
 that qualifies them for Posting Group 3 in order for them to be allocated
-to Cedar Girls’. You may wish to visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/posting-groups</a> for
+to Cedar Girls’. You may wish to visit <a href="https://go.gov.sg/posting-groups" rel="noopener nofollow" target="_blank">https://go.gov.sg/posting-groups</a> for
 more information on Posting Groups.</p>
 <p></p>
 <p>Please take note that once your child is successfully allocated to our
