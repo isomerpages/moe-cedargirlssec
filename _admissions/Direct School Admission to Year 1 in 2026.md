@@ -293,7 +293,8 @@ the same school under two different talent areas).</p>
 <p><strong><u>Submission of Documents</u></strong>
 </p>
 <p>Shortlisted applicants will be required to submit the following documents.
-Please scan and email the documents to <a rel="noopener noreferrer nofollow" target="_blank">cedargirlss@moe.edu.sg</a>.</p>
+Please scan and email the documents to <a href="cedargirlss@moe.edu.sg" rel="noopener nofollow" target="_blank">cedargirlss@moe.edu.sg</a>
+</p>
 <p></p>
 <p>Please indicate in your subject title: <strong>DSA 2025_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
