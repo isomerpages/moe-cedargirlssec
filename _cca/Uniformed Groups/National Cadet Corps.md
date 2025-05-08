@@ -24,10 +24,7 @@ hones their map skills and problem-solving skills, as they face numerous
 adversaries in a foreign environment. The strong camaraderie forged with
 their platoon mates during the NCC Journey will truly enrich the lives
 of the cadets in the Cedar NCC.</p>
-<p><strong>Our Instagram:</strong>  <a href="https://www.instagram.com/cedargirlsncc/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
