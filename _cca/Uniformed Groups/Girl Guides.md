@@ -45,7 +45,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>Ms Nur Farahin Binte Salleh<br>Mdm Faridah Baharawi <br>Ms Lim Xinjie <br>Ms Goh Sok Hui&nbsp;</em>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -56,7 +55,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>Wednesday and Friday, 3.45 pm – 5.45 pm</em>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
