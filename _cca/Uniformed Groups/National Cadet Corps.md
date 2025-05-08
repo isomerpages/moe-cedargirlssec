@@ -37,8 +37,7 @@ of the cadets in the Cedar NCC.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>National Cadet Crops (NCC)</em>
-</p>
+<p>National Cadet Crops (NCC)</p>
 </td>
 </tr>
 <tr>
@@ -47,14 +46,10 @@ of the cadets in the Cedar NCC.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Mr Ang Kai Jie</em>
-</p>
-<p><em>Mdm Koh Poh Leng</em>
-</p>
-<p><em>Mr Gui Eng Hong</em>
-</p>
-<p><em>Ms Shirleen Lee Yu Shan (Sem 2)</em>
-</p>
+<p>Mr Ang Kai Jie</p>
+<p>Mdm Koh Poh Leng</p>
+<p>Mr Gui Eng Hong</p>
+<p>Ms Shirleen Lee Yu Shan (Sem 2)</p>
 <p></p>
 </td>
 </tr>
@@ -64,10 +59,8 @@ of the cadets in the Cedar NCC.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Monday 3.45 – 6pm</em>
-</p>
-<p><em>Wednesday 3.45 – 6pm</em>
-</p>
+<p>Monday 3.45 – 6pm</p>
+<p>Wednesday 3.45 – 6pm</p>
 </td>
 </tr>
 <tr>
