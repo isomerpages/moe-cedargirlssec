@@ -409,7 +409,7 @@ and achievements</p>
 <p>Notification of outcome via email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 4 Sep 2025</p>
+<p>Between 25 Aug and 4 Sep 2025</p>
 </td>
 </tr>
 </tbody>
@@ -479,7 +479,7 @@ and achievements</p>
 <p>Notification of outcome via email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 4 Sep 2025</p>
+<p>Between 25 Aug and 4 Sep 2025</p>
 </td>
 </tr>
 </tbody>
