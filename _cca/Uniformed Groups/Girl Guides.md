@@ -35,7 +35,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>Girl Guides</em>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
