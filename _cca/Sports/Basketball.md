@@ -30,9 +30,7 @@ that will last for a lifetime.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball</p>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -44,9 +42,7 @@ that will last for a lifetime.</p>
 <p>Mr Neo Kai Hong Kelvin,&nbsp;</p>
 <p>Ms Lei Hong,&nbsp;</p>
 <p>Ms Marianne Elizabeth John</p>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -67,9 +63,6 @@ that will last for a lifetime.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <ul>
 <li>
 <p><strong>2024</strong>&nbsp;
