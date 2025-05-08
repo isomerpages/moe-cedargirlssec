@@ -6,9 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Modern Dance</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/pa3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025 Modern Dance/Modern_Dance_2025.jpg">
 </div>
+<p></p>
 <p><strong>ABOUT</strong>
 <br>Cedar Modern Dance is an avenue for aspiring dancers who demonstrate a
 passion for dancing and a love for modern dance. Guided by Ms Leia Ang,
