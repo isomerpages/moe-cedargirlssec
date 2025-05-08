@@ -11,7 +11,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025 Band/Symphonic_Band_2025.jpg">
 </div>
 <p></p>
-<p><strong>ABOUT</strong> 
+<p><strong>ABOUT </strong>
 <br>Cedar Girls' Secondary School's Symphonic Band embodies the essence of
 our guiding vision, "Ordinary People, Extraordinary Music," as kindred
 individuals converge to craft exquisite melodies as a harmonious whole.</p>
