@@ -6,9 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Symphonic Band</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/pa4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025 Band/Symphonic_Band_2025.jpg">
 </div>
+<p></p>
 <p><strong>ABOUT</strong> 
 <br>Cedar Girls' Secondary School's Symphonic Band embodies the essence of
 our guiding vision, "Ordinary People, Extraordinary Music," as kindred
