@@ -17,30 +17,90 @@ playing by the rules, respecting our opponents and the game officials,
 and representing the school and CCA with confidence and pride. At Cedar,
 we aspire to instil discipline in oneself and foster team bonding and friendships
 that will last for a lifetime.</p>
-<p><strong>TEACHERS-IN-CHARGE</strong> 
-<br>Mr Ong Wei De
-<br>Mr Neo Kai Hong Kelvin
-<br>Ms Lei Hong</p>
-<p><strong>CCA SCHEDULE</strong> 
-<br>Monday, Tuesday and Thursday
-<br>3.45pm - 6.00pm</p>
-<p><strong>ACHIEVEMENTS</strong> 
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of CCA:</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in Charge:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Kai Hong Kelvin,&nbsp;</p>
+<p>Ms Lei Hong,&nbsp;</p>
+<p>Ms Marianne Elizabeth John</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Schedule 2025:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, 3.45pm – 6.00pm</p>
+<p>Tuesday, 3.45pm – 6.00pm</p>
+<p>Thursday, 3.00pm – 6.00pm</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements and Highlights:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<ul>
+<li>
+<p><strong>2024</strong>&nbsp;
+<br>B Division East Zone - 4th
+<br>B Division National - Top 8
+<br>C Division League 1 - Top 8</p>
+</li>
+<li>
 <p><strong>2023</strong>&nbsp;
 <br>B Division East Zone - 3rd
 <br>B Division National - 4th
-<br>C Division East Zone - 1st
-<br>C Division National - Top 8
-<br>
-</p>
+<br>C Division East Zone - 4th
+<br>C Division National - Top 16</p>
+</li>
+<li>
 <p><strong>2022</strong>&nbsp;
 <br>B Division East Zone - 3rd
 <br>C Division East Zone - 1st</p>
+</li>
+<li>
 <p><strong>2019</strong>&nbsp;
 <br>B Division East Zone - 2nd
 <br>B Division National - Top 16
 <br>C Division East Zone - 4th
 <br>C Division National - Top 8</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p></p>
 <p><strong>B Division East Zone 4th in 2024</strong>
