@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Choir</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:1000%" height="auto" width="100%" src="/images/pa1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Choir.png">
 </div>
 <p><strong>ABOUT</strong> 
 <br>With the aim to develop confident, committed and values-driven singers,
