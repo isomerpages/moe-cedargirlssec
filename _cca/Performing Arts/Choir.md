@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Choir</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:1000%" height="auto" width="100%" src="/images/pa1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Choir.png">
 </div>
 <p><strong>ABOUT</strong> 
 <br>With the aim to develop confident, committed and values-driven singers,
@@ -28,17 +29,57 @@ the increased live performances and the opportunity for the choir to engage
 in planning the repertoire and music arrangement, has nurtured confidence
 and self expression.</p>
 <p></p>
-<p><strong>TEACHERS-IN-CHARGE</strong> 
-<br>Ms Naomi Chye (Conductor)
-<br>Ms Rachel Poh
-<br>Mdm Goh Chiw Moy</p>
-<p><strong>CCA SCHEDULE</strong> 
-<br>Monday, Wednesday and Friday&nbsp;
-<br>4pm – 6pm&nbsp;</p>
-<p><strong>ACHIEVEMENTS</strong> 
-<br>2023 SYF Certificate of Distinction
-<br>2021 Singapore Youth Festival (SYF) - Certification of Participation
-<br>(Covid:Nationwide Non Benchmarking)
-<br>2019 Singapore Youth Festival (SYF) - Certificate of Distinction</p>
-<p>For additional information: <a href="https://www.instagram.com/cedargirlschoir/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/cedargirlschoir/</u></a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of CCA:</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in Charge:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Naomi Chye (Conductor)</p>
+<p>Mdm Goh Chiw Moy</p>
+<p>Ms Rachel Poh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Schedule 2025:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday and Friday&nbsp;</p>
+<p>4.00pm - 6.00pm</p>
+<p>Practice to be reduced to twice a week after April</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements and Highlights:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 SYF Certificate of Distinction</p>
+<p>2021 SYF Certification of Participation (Covid: Non Benchmarking)</p>
+<p>2019 SYF Certificate of Distinction</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

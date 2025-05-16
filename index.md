@@ -22,6 +22,14 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
+      title: e-Open House 2025
+      id: infobar
+      description: Join us & discover how you can thrive as part of the Cedarian
+        community. Webinar details & more information on our school can be found
+        below.
+      button: click here for more info
+      url: https://go.gov.sg/2025cedar-e-open-house
+  - infobar:
       title: Direct School Admission to Year 1 in 2026
       id: infobar
       button: click here for more info

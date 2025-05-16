@@ -6,11 +6,11 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3><em>Girl Guides</em></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ug1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Girl_Guides.jpg">
 </div>
-<p><strong><em>ABOUT</em></strong>
-</p>
+<p></p>
 <p><strong><em>MISSION</em></strong><em><br>To enable girls and young women to develop their fullest potential as responsible citizens of the world.</em>
 </p>
 <p><strong><em>VISION</em></strong><em><br>All girls are valued and take action to change the world.</em>
@@ -29,7 +29,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Name of CCA:</em></strong>
+<p><strong>Name of CCA:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,47 +39,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Teachers in Charge:</em></strong>
+<p><strong>Teachers in Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Ms Nur Farahin Binte Salleh<br>Mdm Faridah Baharawi <br>Ms Lim Xinjie <br>Ms Goh Sok Hui&nbsp;</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>CCA Schedule 2025:</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Wednesday and Friday, 3.45 pm – 5.45 pm</em>
-</p>
+<p>Ms Nur Farahin Binte Salleh
+<br>Mdm Faridah Baharawi
+<br>Ms Lim Xinjie
+<br>Ms Goh Sok Hui&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Achievements and Highlights:</em></strong>
+<p><strong>CCA Schedule 2025:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>2015-2023 Puan Noor Aishah Award – Gold</em>
+<p>Wednesday and Friday, 3.45 pm – 5.45 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements and Highlights:</strong>
 </p>
-<p><em>2024 World Thinking Day - Build your Dream House (Silver Award)</em>
-</p>
-<p><em>2024 World Thinking Day - Tiktok Video Challenge (Gold Award)</em>
-</p>
-<p><em>2024 East Division Day Competition - Dance (2nd)</em>
-</p>
-<p><em>2024 East Division Day Competition - Mini Gadget Making (3rd)</em>
-</p>
-<p><em>2024 East Division Day Competition - Snack-making (2nd)</em>
-</p>
-<p><em>2023 East Division Day Toymaking Competition (3<sup>rd</sup>)</em>
-</p>
-<p><em>2023 East Division Day Dance Competition (3<sup>rd</sup>)</em>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>2015-2023 Puan Noor Aishah Award – Gold</p>
+</li>
+<li>
+<p>2024 World Thinking Day - Build your Dream House (Silver Award)</p>
+</li>
+<li>
+<p>2024 World Thinking Day - Tiktok Video Challenge (Gold Award)</p>
+</li>
+<li>
+<p>2024 East Division Day Competition - Dance (2nd)</p>
+</li>
+<li>
+<p>2024 East Division Day Competition - Mini Gadget Making (3rd)</p>
+</li>
+<li>
+<p>2024 East Division Day Competition - Snack-making (2nd)</p>
+</li>
+<li>
+<p>2023 East Division Day Toymaking Competition (3<sup>rd</sup>)</p>
+</li>
+<li>
+<p>2023 East Division Day Dance Competition (3<sup>rd</sup>)</p>
 <p></p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

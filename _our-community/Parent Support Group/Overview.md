@@ -11,30 +11,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/WhoWeAre.png">
 </div>
 <p></p>
-<h4><strong>ABOUT PSG</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/psg2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PSG/PSG_aims.jpg">
 </div>
-<p><strong>Cedar Girls’ PSG aims to:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>provide parents with an avenue for better awareness and understanding
-of Cedar's learning environment</p>
-</li>
-<li>
-<p>connect parents with our daughters' school experience</p>
-</li>
-<li>
-<p>support the school with tangible assistance in the form of parents volunteering
-their time to organise and support school events</p>
-</li>
-<li>
-<p>be a platform for parents to bond over shared experiences</p>
-</li>
-</ul>
 <h4><strong>Welcome video by PSG</strong></h4>
-<p>Coming soon</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FiN2slgsTGY?si=wQNJRCTXxZO2SmI7"></iframe>
+</div>
 <h4></h4>
 <p></p>
 <h4></h4>
