@@ -27,4 +27,4 @@ variant: markdown
 | ICT Associate | Mr Darren Chua  |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
 | Desktop Engineer | Ms Fakhira Zolkafli |
-| AVA Executive | Ms Khalisah Binte Taha |
+| AVA and Multimedia Executive | Mr Kelvin John Francis |
