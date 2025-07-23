@@ -26,7 +26,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag HOD/Maths</p>
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Er Heow Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="er_heow_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">er_heow_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ag HOD/Social Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Shushan</p>
