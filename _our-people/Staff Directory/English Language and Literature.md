@@ -29,10 +29,10 @@ variant: tiptap
 <p>HOD/ English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Chin Meng</p>
+<p>Ms Ang Hui Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chin_meng@moe.edu.sg</a>
+<p><a href="ang_hui_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_hui_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
