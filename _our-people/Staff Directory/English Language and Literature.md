@@ -240,6 +240,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Hui Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="toh_hui_choo@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_hui_choo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
