@@ -120,18 +120,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lam Wai Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wan_wai_lin_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_wai_lin_mrs@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
