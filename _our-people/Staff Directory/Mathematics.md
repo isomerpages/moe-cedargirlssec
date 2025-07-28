@@ -26,7 +26,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag HOD/Maths</p>
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Er Heow Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="er_heow_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">er_heow_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ag HOD/Social Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Shushan</p>
@@ -93,6 +105,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lui_cherng_ginn_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lui_cherng_ginn_kenneth@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Poh Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lee_poh_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_poh_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -185,10 +209,10 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jarelyn Chew Junxuan</p>
+<p>Ms Chew Swee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_junxuan_jarelyn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_junxuan_jarelyn_b@moe.edu.sg</a>
+<p><a href="chew_swee_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_swee_yee_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -197,22 +221,10 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Soon Hua</p>
+<p>Mdm Wee Meng Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_soon_hua_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_soon_hua_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Shiow Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:toh_shiow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_shiow_ling@moe.edu.sg</a>
+<p><a href="wee_meng_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">wee_meng_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>

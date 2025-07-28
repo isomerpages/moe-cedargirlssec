@@ -38,18 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head(Y1 &amp; Y2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nuraini Bte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nuraini_ismail_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraini_ismail_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ag SH/Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,10 +197,10 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Usharani</p>
+<p>Mdm Zainah Binte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:b_s_t_s@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">b_s_t_s@moe.edu.sg</a>
+<p><a href="zainah_mohamed_a@moe.edu.sg" rel="noopener nofollow" target="_blank">zainah_mohamed_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
