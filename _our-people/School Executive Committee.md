@@ -150,20 +150,12 @@ variant: markdown
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">School Staff Developer</span></p>
             </td>
         </tr>
-        <tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Nuraini Bte Ismail&nbsp;</span></p>
-            </td>
-            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Year Head (Year 2 and 4)</span></p>
-            </td>
-        </tr>
 						  <tr>
             <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Mdm Pang Ee Wei</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Year Head (Year 1 and 3)</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Year Head </span></p>
             </td>
         </tr>
         <tr>
@@ -261,14 +253,6 @@ variant: markdown
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Acting SH Humanities</span></p>
-            </td>
-        </tr>
-			<tr>
-            <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Nur Farahin</span></p>
-            </td>
-            <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Acting SH Student Well-being</span></p>
             </td>
         </tr>
         <tr>
