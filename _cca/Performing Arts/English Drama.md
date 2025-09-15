@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
-<h3>English Language Drama and Debating Society (ELDDS)</h3>
+<h3>English Drama </h3>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 481.594px;" height="auto" width="100%" src="https://www.cedargirlssec.moe.edu.sg/images/cs2.png">
 </div>
 <h5><strong>ABOUT</strong></h5>
-<p>ELDDS (Drama) seeks to develop students as performers, playwrights, directors
+<p>English Drama seeks to develop students as performers, playwrights, directors
 and theatre practitioners. The programmes nurture a love for the performing
 arts and develop our members in the areas of performance, speech, improvisation
 and stage management. Through rigorous training sessions, students are
