@@ -44,9 +44,4 @@ sections:
       id: infobar
       button: click here for more info
       url: /admissions/year-1-registration-exercise-2025/
-  - infobar:
-      title: Admission to Year 3 VCA IP in 2025
-      id: infobar
-      button: Click here for more info
-      url: https://go.gov.sg/vcaip
 ---
