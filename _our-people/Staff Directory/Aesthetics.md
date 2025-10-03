@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD/AES &amp; ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wilfred Loh Tze Chong</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (Y3)</p>
+<p>AYH (Y4 &amp; Y2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Veronica Chua Chong Lin</p>
