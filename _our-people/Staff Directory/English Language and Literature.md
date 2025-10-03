@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Y1 &amp; Y3)</p>
+<p>Year Head (Y1 &amp; Y2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pang Ee Wei</p>
