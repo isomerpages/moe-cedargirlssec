@@ -216,18 +216,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wee Meng Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="wee_meng_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">wee_meng_hwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
