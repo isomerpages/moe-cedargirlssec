@@ -26,13 +26,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>SH/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Sze Ying</p>
+<p>Mr Tan Yong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_sze_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_sze_ying@moe.edu.sg</a>
+<p><a href="mailto:tan_yong_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,18 +93,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yu_shan_shirleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_shan_shirleen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yong Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yong_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
