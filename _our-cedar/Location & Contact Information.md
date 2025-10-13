@@ -2,7 +2,7 @@
 title: Location & Contact Information
 permalink: /our-cedar/contact-us/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGSS%20map.jpg">
@@ -70,8 +70,7 @@ Seng Road
 <h4><strong>Connect with Us</strong></h4>
 <p><strong>Facebook site links</strong>
 <br>www.facebook.com/cedarconnect.cedar
-<br>www.facebook.com/cedargirls
-</p>
+<br>www.facebook.com/cedargirls</p>
 </li>
 </ol>
 <p></p>
