@@ -29,11 +29,9 @@ Willow Avenue</p>
 <p>From Macpherson Road, turn into Jalan Wangi, turn right to Angsana Avenue
 and then turn right to Willow Avenue
 <br>
-<br>
 </p>
 <h4><strong>Nearest carpark</strong></h4>
 <p>Block 2A Joo Seng Road Multi-story Carpark
-<br>
 <br>
 </p>
 <h4><strong>Public Transport</strong></h4>
@@ -62,7 +60,6 @@ and then turn right to Willow Avenue
 <li>
 <p>From Woodleigh MRT Station, take bus 100,135 &amp; 155 and stop at Joo
 Seng Road
-<br>
 <br>
 </p>
 </li>
