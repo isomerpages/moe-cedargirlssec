@@ -71,7 +71,6 @@ Seng Road
 <p><strong>Facebook site links</strong>
 <br>www.facebook.com/cedarconnect.cedar
 <br>www.facebook.com/cedargirls
-<br>
 </p>
 </li>
 </ol>
