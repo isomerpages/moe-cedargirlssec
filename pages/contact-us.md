@@ -15,6 +15,7 @@ contacts:
   - content:
       - phone: +65 6288 4909
       - email: cedargirlss@moe.edu.sg
-      - other: "Fax: 62820244"
+      - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
