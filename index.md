@@ -22,11 +22,10 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
-      title: e-Open House 2025
+      title: Physical House 2025
       id: infobar
       description: Join us & discover how you can thrive as part of the Cedarian
-        community. Webinar details & more information on our school can be found
-        below.
+        community. More details and information can be found at our microsite.
       button: click here for more info
       url: https://go.gov.sg/2025cedar-e-open-house
   - infobar:
