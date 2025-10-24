@@ -108,8 +108,7 @@ Innovation in 2018.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" align="left" src="/images/Mrs_Chan_KH.jpg">
 </div>
-<p><strong>Mrs Chan-Tey Kah Hwee</strong></p>
-<p><strong>2020 – 2024</strong></p>
+<p><strong>Mrs Chan-Tey Kah Hwee (2020 – 2024)</strong></p>
 <p></p>
 <p>Mrs Chan took over Cedar Girls’ during the global pandemic, guiding the
 school with calm assurance and prioritizing staff and student well-being.
