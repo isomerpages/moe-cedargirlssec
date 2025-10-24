@@ -9,7 +9,7 @@ variant: markdown
 <p>Former principals of Cedar Girls' who have led the school from one era
 to the next.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp1.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp1.png">
 </div>
 <p><strong>Mrs. M. N. Oehlers (1957-1958)</strong>
 </p>
@@ -18,7 +18,7 @@ She also gave the school its enduring motto “Honesty, Perseverance, Courtesy�
 and designed the distinctive uniform that is the pride of Cedarians today.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp2.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp2.png">
 </div>
 <p><strong>Mrs. P. C. Tan (1958-1976)</strong>
 </p>
@@ -28,7 +28,7 @@ identity of self-discipline and unwavering fortitude. Under Mrs Tan’s leadersh
 the school become known for her academic excellence and sporting prowess.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp3.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp3.png">
 </div>
 <p><strong>Mrs. Niva Dutt (1977-1983)</strong>
 </p>
@@ -38,7 +38,7 @@ top 20 schools, a testimony of the school’s success in providing an excellent
 educational experience.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp4.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp4.png">
 </div>
 <p><strong>Mdm Tan Chen Choo (1984-1996)</strong>
 </p>
@@ -50,7 +50,7 @@ with the flexibility and opportunities to infuse more rigour into its programmes
 to nurture and challenge the capabilities of every Cedarian.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp5.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp5.png">
 </div>
 <p><strong>Mrs Tay Sor Har (1996-2000)</strong>
 </p>
@@ -61,7 +61,7 @@ to nurture a strong partnership with parents in the joint effort to develop
 Cedarians.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp6.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp6.png">
 </div>
 <p><strong>Ms Susan Leong (2001-2005)</strong>
 </p>
@@ -70,7 +70,7 @@ of the school in the domains of academic value-added, character development
 and staff development which brought the school to greater heights.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/fp7.png">
+<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" align="left" src="/images/fp7.png">
 </div>
 <p><strong>Mrs Ou Yang Geok Cheng (2006-2012)</strong>
 </p>
@@ -86,7 +86,7 @@ and realise their fullest potential under an education programme that best
 suit their learning needs.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/fp8.png">
+<img style="width: 20%;" height="auto" width="100%" align="left" src="/images/fp8.png">
 </div>
 <p><strong>Ms Cheng Hwee Yeang (2012-2019)</strong>
 </p>
@@ -106,12 +106,10 @@ Innovation in 2018.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Mrs_Chan_KH.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" align="left" src="/images/Mrs_Chan_KH.jpg">
 </div>
-<p><strong>Mrs Chan-Tey Kah Hwee</strong>
-</p>
-<p><strong>2020 – 2024</strong>
-</p>
+<p><strong>Mrs Chan-Tey Kah Hwee</strong></p>
+<p><strong>2020 – 2024</strong></p>
 <p></p>
 <p>Mrs Chan took over Cedar Girls’ during the global pandemic, guiding the
 school with calm assurance and prioritizing staff and student well-being.
