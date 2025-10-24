@@ -106,7 +106,7 @@ Innovation in 2018.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" align="left" src="/images/Mrs_Chan_KH.jpg">
+<img style="width: 10%;" height="auto" width="100%" alt="" align="left" src="/images/Mrs_Chan_KH.jpg">
 </div>
 <p><strong>Mrs Chan-Tey Kah Hwee</strong></p>
 <p><strong>2020 – 2024</strong></p>
