@@ -8,7 +8,7 @@ variant: tiptap
 <h3>School Attire</h3>
 <p><strong>Name of Supplier</strong> : Shanghai School Uniforms Pte Ltd</p>
 <p><strong>Tel No.: </strong>6747 8037
-<br><strong>Website:</strong>  <a href="http://www.shanghai-uniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com.sg</a>
+<br><strong>Website:</strong>  <a href="http://www.shanghai-uniforms.sg" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
 </p>
 <p></p>
 <p><strong>Retail Location:</strong>
