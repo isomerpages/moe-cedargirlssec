@@ -8,7 +8,7 @@ variant: tiptap
 <h3>School Attire</h3>
 <p><strong>Name of Supplier</strong> : Shanghai School Uniforms Pte Ltd</p>
 <p><strong>Tel No.: </strong>6747 8037
-<br><strong>Website:</strong>  <a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>
+<br><strong>Website:</strong>  <a href="http://www.shanghai-uniforms.sg" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
 </p>
 <p></p>
 <p><strong>Retail Location:</strong>
@@ -51,5 +51,5 @@ variant: tiptap
 <p><strong>Note:</strong>&nbsp;DSA students are encouraged to buy their uniform
 earlier/beginning December, before the year end&nbsp;(STRICTLY by appointment
 ONLY).</p>
-<p>Please <a href="/files/2024_Attire_Letter_CGSS_10Oct24.pdf" rel="noopener nofollow" target="_blank">click here </a>for
+<p>Please <a href="/files/Letter_for_All_Parents_2025___CGSS.pdf" rel="noopener nofollow" target="_blank">click here </a>for
 more information for year-end sales.</p>
