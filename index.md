@@ -22,7 +22,7 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
-      title: Physical House 2025
+      title: Physical Open House 2025
       id: infobar
       description: Join us & discover how you can thrive as part of the Cedarian
         community. More details and information can be found at our microsite.
