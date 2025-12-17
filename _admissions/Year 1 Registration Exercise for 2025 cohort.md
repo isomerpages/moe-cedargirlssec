@@ -64,7 +64,7 @@ successful applicants will be notified.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/appeal2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/appeal2026.jpg">
 </div>
 </td>
 </tr>
@@ -93,11 +93,21 @@ successful applicants will be notified.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Registration and Administration Matters</p>
-<p>• 2026 Secondary One e-Registration</p>
-<p>• Administration Matters for Students and Parents</p>
-<p>• First Day of School and Orientation Programme</p>
-<p>• School Uniform and Attire</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2026 Secondary One e-Registration</p>
+</li>
+<li>
+<p>Administration Matters for Students and Parents</p>
+</li>
+<li>
+<p>First Day of School and Orientation Programme</p>
+</li>
+<li>
+<p>School Uniform and Attire</p>
 <p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
