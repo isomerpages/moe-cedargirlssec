@@ -215,6 +215,20 @@ Dec at 12.00pm.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>CCA Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2026 School Health Services for Year 1 and 2 students</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,7 +241,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for Health Services</p>
@@ -246,7 +260,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appeal to offer MSP/CSP</p>
@@ -261,7 +275,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Car-Decal</p>
@@ -281,7 +295,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Financial Assistance Schemes</p>
@@ -301,7 +315,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Fees Structure</p>
@@ -317,29 +331,13 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Personal Accident Insurance Plan for Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For Information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Information</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 year 1 registration/2025_Y1_CCA_Infokit.pdf" rel="noopener nofollow" target="_blank">2025 Year 1 CCA Infokit</a>
 </p>
 <p></p>
 </td>
