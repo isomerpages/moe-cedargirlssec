@@ -189,9 +189,8 @@ for collection of online order)</p>
 <p></p>
 <p>Booking opens on Year 1 Posting results day at 9.00am and closes on 22
 Dec at 12.00pm.</p>
-<p>Note:</p>
-<p>Bookshop opening hours from 2 Jan onwards.</p>
-<p>Mon - Fri: 9.00am - 3.00pm (lunch break: 12.00pm - 1.00pm)</p>
+<p>Note: Bookshop opening hours from 2 Jan onwards. Mon - Fri: 9.00am - 3.00pm
+(lunch break: 12.00pm - 1.00pm)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
