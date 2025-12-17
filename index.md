@@ -39,8 +39,8 @@ sections:
       button: Click here for more info
       url: /2024-school-graduation-certificate-sgc-collection/
   - infobar:
-      title: Year 1 Registration Exercise  for 2025 Cohort
+      title: Year 1 Registration Exercise  for 2026 Cohort
       id: infobar
       button: click here for more info
-      url: /admissions/year-1-registration-exercise-2025/
+      url: /admissions/year-1-registration-exercise-2026/
 ---
