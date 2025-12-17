@@ -481,10 +481,9 @@ However, if they do well at the end of Sec 1, HMTL may be offered.</p>
 <td rowspan="1" colspan="1">
 <p><strong>What are the guidelines for school shoes and socks at Cedar?</strong>
 </p>
-<p>Only white shoes are allowed. If there is any design/logo/minor trimming,
-they should be small and inconspicuous, and either in black or school colours
-(blue/grey/gold). Only white ankle length socks worn at or above the ankles
-are allowed. Shoe laces must be white and tied in the standard way.</p>
+<p>Only white-based track/canvas shoes properly laced with white laces are
+allowed. If there is any design/logo/minor trimming, they should be small
+and inconspicuous and must be in white/grey</p>
 </td>
 </tr>
 </tbody>
