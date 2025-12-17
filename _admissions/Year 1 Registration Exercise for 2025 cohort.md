@@ -175,16 +175,16 @@ for collection of online order)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 year 1 registration/1a__Booklist_S1_O_Level_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">SEC 1 Booklist 2025.pdf</a>
+<p><a href="/files/2026_SEC_1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 SEC 1 Booklist.pdf</a>
 </p>
 <p></p>
-<p><a href="/files/2025 year 1 registration/1b__Booklist_IP1_08_11_2024_Final.pdf" rel="noopener nofollow" target="_blank">IP Booklist 2025.pdf</a>
+<p><a href="/files/2006_IP1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 IP Booklist.pdf</a>
 </p>
 <p></p>
-<p><a href="/files/2025 year 1 registration/2025S1UniformInstructions.pdf" rel="noopener nofollow" target="_blank">S1 Uniform Instructions.pdf</a>
+<p><a href="/files/2026_CGSS_S1_Uniform_Instructions.pdf" rel="noopener nofollow" target="_blank">S1 Uniform Instructions.pdf</a>
 </p>
-<p>For purchase in school, please book a time slot via e-appointment link
-<a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">:</a><a href="https://for.edu.sg/cgss-e-appt-buy-textbooks-uniform2025" rel="noopener nofollow" target="_blank">Click here</a>
+<p>For purchase in school, please book a time slot via e-appointment link:
+<a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank"></a><a href="https://for.edu.sg/cgss-e-appt-buy-textbooks-uniform2025" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 <p></p>
 <p>Booking opens on Year 1 Posting results day at 9.00am and closes on 22
