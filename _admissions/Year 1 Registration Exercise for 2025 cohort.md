@@ -184,7 +184,7 @@ for collection of online order)</p>
 <p><a href="/files/2026_CGSS_S1_Uniform_Instructions.pdf" rel="noopener nofollow" target="_blank">S1 Uniform Instructions.pdf</a>
 </p>
 <p>For purchase in school, please book a time slot via e-appointment link:
-<a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank"></a><a href="https://for.edu.sg/cgss-e-appt-buy-textbooks-uniform2025" rel="noopener nofollow" target="_blank">Click here</a>
+<a href="https://for.edu.sg/cgss-e-appt-buy-textbooks-uniform2025" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 <p></p>
 <p>Booking opens on Year 1 Posting results day at 9.00am and closes on 22
@@ -205,8 +205,7 @@ Dec at 12.00pm.</p>
 <p>Purchase of Personal Learning Devices (PLD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information will be provided during the Year 1 Parents' Talk on 8
-Jan. We will provide details on the Parents' Talk via PG when school reopens.</p>
+<p>More information will be provided via PG when school reopens.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For information</p>
