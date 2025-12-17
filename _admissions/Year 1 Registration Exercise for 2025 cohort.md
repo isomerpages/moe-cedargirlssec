@@ -33,7 +33,7 @@ registration.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ereg2026QR.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ereg2026QR.jpg">
 </div>
 </td>
 </tr>
@@ -64,7 +64,7 @@ successful applicants will be notified.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/appeal2026.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/appeal2026.jpg">
 </div>
 </td>
 </tr>
