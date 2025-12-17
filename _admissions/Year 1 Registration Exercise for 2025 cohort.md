@@ -112,7 +112,7 @@ successful applicants will be notified.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025 year 1 registration/Secondary_One_Registration_Slides_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides 2025.pdf</a>
+<p><a href="/files/Secondary_One_Registration_Slides_2026.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides 2026.pdf</a>
 </p>
 </li>
 </ul>
