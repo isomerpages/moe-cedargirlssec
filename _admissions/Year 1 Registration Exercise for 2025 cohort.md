@@ -33,7 +33,7 @@ registration.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ereg2026QR.jpg">
 </div>
 </td>
 </tr>
