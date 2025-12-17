@@ -169,8 +169,7 @@ successful applicants will be notified.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Purchase of Textbooks and/ Uniform (appointment booking is also required
-for collection of online order)</p>
+<p>Purchase of Textbooks and/ Uniform</p>
 <p></p>
 <p></p>
 </td>
@@ -216,11 +215,10 @@ Dec at 12.00pm.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 School Health Services for Year 1 students</p>
+<p>2026 School Health Services for Year 1 and 2 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 year 1 registration/2025_School_Health_Programmes.pdf" rel="noopener nofollow" target="_blank">2025 School Health Programmes</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For information</p>
