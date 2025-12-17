@@ -64,10 +64,10 @@ variant: markdown
         </tr>
         <tr>
             <td style="width: 152.75pt;border-top: none;border-right: none;border-bottom: none;border-image: initial;border-left: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Goh Aun Lii Audrie&nbsp;</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">Ms Joshua Tan See Kuang&nbsp;</span></p>
             </td>
             <td style="width: 3.75in;border-top: none;border-bottom: none;border-left: none;border-image: initial;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.5pt;vertical-align: bottom;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD CCE &amp; Student Management</span></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="color:black;">HOD CCE</span></p>
             </td>
         </tr>
         <tr>
