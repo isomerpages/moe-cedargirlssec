@@ -218,7 +218,8 @@ Dec at 12.00pm.</p>
 <p>CCA Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026_Y1_CCA_Infokit.pdf" rel="noopener nofollow" target="_blank">2026 Year 1 CCA Infokit.pdf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For information</p>
