@@ -252,7 +252,7 @@ Dec at 12.00pm.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026_School_Health_Programmes_for_Y1_and_Y2_Students.pdf" rel="noopener nofollow" target="_blank">2026 School Health Programmes for Year 1 and Year 2 Students.pdf</a>
 </p>
-<p><strong>e-Submission for Parental Consent: </strong><a href="https://childconsent.hpb.gov.sg" rel="noopener nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>
+<p><strong>e-Submission for Parental Consent: </strong><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
 </p>
 <p>Submit consent between <strong>5 Jan 2026 - 16 Jan 2026</strong>
 </p>
