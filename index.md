@@ -22,6 +22,11 @@ sections:
           url: /information/
       background: /images/Home Banner/zest_v3.gif
   - infobar:
+      title: Year 1 Registration Exercise  for 2026 Cohort
+      id: infobar
+      button: click here for more info
+      url: /admissions/year-1-registration-exercise-2026/
+  - infobar:
       title: Physical Open House 2025
       id: infobar
       description: Join us & discover how you can thrive as part of the Cedarian
@@ -38,9 +43,4 @@ sections:
       id: infobar
       button: Click here for more info
       url: /2024-school-graduation-certificate-sgc-collection/
-  - infobar:
-      title: Year 1 Registration Exercise  for 2025 Cohort
-      id: infobar
-      button: click here for more info
-      url: /admissions/year-1-registration-exercise-2025/
 ---

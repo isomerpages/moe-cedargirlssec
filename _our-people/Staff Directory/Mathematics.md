@@ -74,6 +74,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head Y3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rockey Marsha Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="rockey_marsha_sachel@moe.edu.sg" rel="noopener nofollow" target="_blank">rockey_marsha_rachel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LT/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Jer Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="wee_jer_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">wee_jer_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
