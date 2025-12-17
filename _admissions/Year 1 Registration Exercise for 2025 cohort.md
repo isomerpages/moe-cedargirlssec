@@ -381,7 +381,7 @@ Dec at 12.00pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Dec, 4.00 pm</p>
+<p>By 22 Dec 2025 (Mon) 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -393,13 +393,12 @@ Dec at 12.00pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Dec to 2 Jan</p>
+<p>26 Dec 2025 (Fri) to 7 Jan 2026 (Wed)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Register via the link below:</p>
-<p><a href="http://moelc.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://moelc.moe.edu.sg</a>
+<p>Register via the link below: <a href="http://moelc.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://moelc.moe.edu.sg </a>
 </p>
-<p></p>
 <p>For students who are eligible to offer 3rd language (not MSP/CSP)</p>
 <p></p>
 </td>
@@ -410,7 +409,7 @@ Dec at 12.00pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jan from 9.00am to 5.00pm</p>
+<p>By 7 Jan 2026 (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For students who are eligible to offer MSP/CSP</p>
@@ -422,23 +421,10 @@ Dec at 12.00pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Jan</p>
+<p>By 7 Jan 2026 (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For students who are keen to offer MSP/CSP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Regional Studies Programme Briefing (via Zoom)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Jan, 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Optional and for parents of students offering MSP only. More details will
-be given nearer to the date.</p>
 </td>
 </tr>
 </tbody>
@@ -450,7 +436,7 @@ can work with school to support your child. The invite for the event will
 be sent via Parent Gateway when school reopens. All parents are strongly
 encouraged to attend.</p>
 <p></p>
-<p><strong>(H) Frequently Asked Questions</strong>
+<p><strong>Frequently Asked Questions</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
