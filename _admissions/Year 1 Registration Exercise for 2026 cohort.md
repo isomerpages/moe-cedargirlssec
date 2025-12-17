@@ -2,7 +2,7 @@
 title: Year 1 Registration Exercise for 2026 cohort
 permalink: /admissions/year-1-registration-exercise-2026/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Year 1 Registration Exercise for 2026 cohort</strong></h4>
 <p><strong>WELCOME 2026 YEAR 1 STUDENTS</strong>
@@ -33,7 +33,7 @@ registration.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" align="left" src="/images/ereg2026QR.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2026QR.jpg">
 </div>
 </td>
 </tr>
@@ -64,7 +64,7 @@ successful applicants will be notified.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" align="left" src="/images/appeal2026.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/appeal2026.jpg">
 </div>
 </td>
 </tr>
@@ -342,7 +342,7 @@ Dec at 12.00pm.</p>
 <p><a href="https://tinyurl.com/cedargirlspsg" rel="noopener nofollow" target="_blank">PSG Registration</a>
 </p>
 <p></p>
-<p><a href="/files/Poster_for_PSG_sign_up_compressed.pdf" rel="noopener nofollow" target="_blank">Poster for PSG sign up</a>
+<p><a href="/files/Poster_for_PSG_sign_up_compressed.pdf" rel="noopener nofollow" target="_blank">Poster for PSG sign up.pdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
