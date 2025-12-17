@@ -38,6 +38,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Tan See Kuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="joshua_tan_see_kuang@moe.edu.sg" rel="noopener nofollow" target="_blank">joshua_tan_see_kuang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
