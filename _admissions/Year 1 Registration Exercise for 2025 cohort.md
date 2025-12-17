@@ -218,7 +218,8 @@ Dec at 12.00pm.</p>
 <p>2026 School Health Services for Year 1 and 2 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026_School_Health_Programmes_for_Y1_and_Y2_Students.pdf" rel="noopener nofollow" target="_blank">2026 School Health Programmes for Year 1 and Year 2 Students.pdf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For information</p>
