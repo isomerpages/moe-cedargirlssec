@@ -230,10 +230,31 @@ Dec at 12.00pm.</p>
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Appeal to offer MSP/CSP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Late_Application_and_Appeal_Form_for_MSP_CSP_2026.pdf" rel="noopener nofollow" target="_blank">Late Application and Appeal Form for MSP CSP 2026.pdf</a>
+</p>
+<p><strong>Apply by 7 Jan 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For students who wish to offer MSP/CSP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2026 School Health Services for Year 1 and 2 students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026_School_Health_Programmes_for_Y1_and_Y2_Students.pdf" rel="noopener nofollow" target="_blank">2026 School Health Programmes for Year 1 and Year 2 Students.pdf</a>
+</p>
+<p><strong>e-Submission for Parental Consent: </strong><a href="https://childconsent.hpb.gov.sg" rel="noopener nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>
+</p>
+<p>Submit consent between <strong>5 Jan 2026 - 16 Jan 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,7 +263,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for Health Services</p>
@@ -257,21 +278,6 @@ Dec at 12.00pm.</p>
 <td rowspan="1" colspan="1">
 <p>All Parents</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Appeal to offer MSP/CSP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 year 1 registration/Late_Application_and_Appeal_Form_for_M_SP__C_SP__2025.pdf" rel="noopener nofollow" target="_blank">Late application form for MSP CSP 2025.pdf</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For students who wish to offer MSP/CSP</p>
 </td>
 </tr>
 <tr>
