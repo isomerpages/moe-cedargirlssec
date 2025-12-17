@@ -266,43 +266,19 @@ Dec at 12.00pm.</p>
 <p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parental Consent for Health Services</p>
-<p></p>
+<p>School Fees Structure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>
+<p><a href="/files/2026_CGSS_School_Fees_Structure.pdf" rel="noopener nofollow" target="_blank">2026 CGSS School Fees Structure.pdf</a>
 </p>
-<p></p>
-<p>Deadline: 10 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All Parents</p>
-<p></p>
+<p>For Information</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>7.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Application for Car-Decal</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6745f44e4ab78923c10ba44d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cardecal2025</a>
-</p>
-<p></p>
-<p>Apply from 3 Jan - 12 Jan 2025</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents who drive children to school</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Financial Assistance Schemes</p>
@@ -322,23 +298,7 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Fees Structure</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 year 1 registration/2025_CGSS_School_Fees_Structure.pdf" rel="noopener nofollow" target="_blank">2025 School Fees Structure.pdf</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For Information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Personal Accident Insurance Plan for Students</p>
@@ -354,7 +314,26 @@ Dec at 12.00pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>e-Application for Car-Decal</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://for.edu.sg/cgss-car-decal2026" rel="noopener nofollow" target="_blank">https://for.edu.sg/cgss-car-decal2026</a>
+</p>
+<p>Apply from <strong>3 Jan 2026 - 11 Jan 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents who drive their children to school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application to join Cedar PSG</p>
