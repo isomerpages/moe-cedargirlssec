@@ -125,12 +125,9 @@ successful applicants will be notified.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025 year 1 registration/Sec1_Registration_Slides_HMT_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Secondary One Registration Slides HMT Briefing 2025.pdf</a>
+<p><a href="/files/Sec1_Registration_Slides_HMT_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">Sec1_Registration_Slides_HMT Briefing_2026.pdf</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=8MymaJCrFJQ" rel="noopener nofollow" target="_blank">Secondary One Registration HMT Briefing Video</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
