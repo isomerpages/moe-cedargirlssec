@@ -74,6 +74,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amy Luisita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:AMY_LUISITA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">AMY_LUISITA@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
