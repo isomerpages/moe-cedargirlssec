@@ -33,7 +33,7 @@ registration.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ereg2026QR.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ereg2026QR.jpg">
 </div>
 </td>
 </tr>
@@ -64,7 +64,7 @@ successful applicants will be notified.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/appeal2026.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/appeal2026.jpg">
 </div>
 </td>
 </tr>
@@ -397,7 +397,7 @@ Dec at 12.00pm.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Register via the link below: <a href="http://moelc.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://moelc.moe.edu.sg </a>
+<p>Register via the link below: <a href="http://moelc.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://moelc.moe.edu.sg</a>
 </p>
 <p>For students who are eligible to offer 3rd language (not MSP/CSP)</p>
 <p></p>
@@ -430,11 +430,6 @@ Dec at 12.00pm.</p>
 </tbody>
 </table>
 <p></p>
-<p>The CCA exhibition and Year 1 Parents' Talk will be held in school on <strong>8 Jan, 2.00pm - 5.30pm (TBC)</strong>.
-We will share on curriculum, CCA and transition matters, and how parents
-can work with school to support your child. The invite for the event will
-be sent via Parent Gateway when school reopens. All parents are strongly
-encouraged to attend.</p>
 <p></p>
 <p><strong>Frequently Asked Questions</strong>
 </p>
