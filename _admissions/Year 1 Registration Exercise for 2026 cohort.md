@@ -233,7 +233,8 @@ Dec at 12.00pm.</p>
 <p>Appeal to offer MSP/CSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Late_Application_and_Appeal_Form_for_MSP_CSP_2026.pdf" rel="noopener nofollow" target="_blank">Late Application and Appeal Form for MSP CSP 2026.pdf</a>
+	<p>Late application form for MSP CSP 2026:</p>
+<p><a href="https://go.gov.sg/midstreamapplications" rel="noopener nofollow" target="_blank">https://go.gov.sg/midstreamapplications</a>
 </p>
 <p><strong>Apply by 7 Jan 2026</strong>
 </p>
