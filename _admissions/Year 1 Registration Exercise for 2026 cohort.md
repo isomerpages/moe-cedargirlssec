@@ -125,7 +125,8 @@ successful applicants will be notified.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec1_Registration_Slides_HMT_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">Sec1_Registration_Slides_HMT Briefing_2026.pdf</a>
+<p><a href="/files/Sec1_Registration_Slides_HMT_Briefing_2025_LATEST.pdf" rel="noopener nofollow" target="_blank">Sec1_Registration_Slides_HMT Briefing_2026_LATEST.pdf</a>
+
 </p>
 <p></p>
 <p></p>
