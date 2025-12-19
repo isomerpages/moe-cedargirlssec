@@ -38,30 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Li Si</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_si@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_si@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chai Ying Chung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chai_ying_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_ying_chung@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
