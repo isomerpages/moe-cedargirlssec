@@ -725,7 +725,7 @@ form is to be submitted by 10/02/2026.</p>
 <p>12.&nbsp; Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable below. The completed
-form is to be submitted by 21/02/2025.</p>
+form is to be submitted by 10/02/20256.</p>
 <p>Click here for: <a href="/files/eTeens_Parents_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">eTeens Parents Opt out Form 2025.pdf</a>
 </p>
 <p>13.&nbsp; Parents can contact the school at 6288 4909 for discussion or
