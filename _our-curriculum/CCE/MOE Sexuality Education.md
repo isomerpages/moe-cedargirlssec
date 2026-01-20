@@ -216,7 +216,7 @@ flouting copyright laws, etc.)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Title/Duration</strong>
+<p><strong>Lesson Title/ Duration</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,7 +231,8 @@ flouting copyright laws, etc.)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p>(e.g.Term 1 Week 2)</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -241,16 +242,16 @@ flouting copyright laws, etc.)</p>
 <td rowspan="1" colspan="1">
 <p>A Role for Everyone</p>
 <p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>(60&nbsp; mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
 stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed.&nbsp;
-Students will discuss how one’s understanding of gender roles should not
-be limited by gender stereotypes, for example women can be pilots, while
-men can be nurses.</p>
+as doing household chores) and how gender stereotypes are formed. &nbsp;Students
+will discuss how one’s understanding of gender roles should not be limited
+by gender stereotypes, for example women can be pilots, while men can be
+nurses.</p>
 <p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
@@ -261,16 +262,15 @@ treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• know that one’s understanding of gender roles should not be limited
-by gender stereotypes</p>
-<p>&nbsp;</p>
-<p>• develop an appreciation of one’s own unique qualities and characteristics
-as a male or female</p>
-<p>&nbsp;</p>
-<p>• understand what sexual orientation entails</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding of
+gender roles should not be limited by gender stereotypes</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation of one’s
+own unique qualities and characteristics as a male or female</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual orientation
+entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -287,16 +287,17 @@ media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
 <p>&nbsp;</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• recognise one’s vulnerability to risky situations and the importance
-of exercising discretion to reduce risks and avoid negative consequences,
-both online and offline</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
+and the importance of exercising discretion to reduce risks and avoid negative
+consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -316,19 +317,19 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• recognise the importance of self-respect and respect for others in relating
-to members of the opposite sex</p>
-<p>&nbsp;</p>
-<p>• recognise one’s vulnerability to risky situations and the importance
-of exercising discretion to reduce risks and avoid negative consequences,
-both offline and online</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and
+respect for others in relating to members of the opposite sex</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
+and the importance of exercising discretion to reduce risks and avoid negative
+consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>SECONDARY 3</strong>
