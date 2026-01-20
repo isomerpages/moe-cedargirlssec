@@ -581,8 +581,14 @@ and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters in &nbsp;sustaining and maintaining a long-term romantic relationship that leads to marriage, is understanding the other person’s perspective and effectively communicating with each other.&nbsp;</a>
-</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters in &nbsp;sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic relationships
@@ -730,5 +736,5 @@ form is to be submitted by 10/02/20256.</p>
 </p>
 <p>13.&nbsp; Parents can contact the school at 6288 4909 for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
-<p>14.&nbsp; More information on eTeens can be found on <a href="/files/2026_Annex_B_Eteens_Letter_by_HPB.pdf" rel="noopener nofollow" target="_blank">2026 Annex B ETeens Leter by HPB.pdf</a>
+<p>14.&nbsp; More information on eTeens can be found on <a href="/files/2026_Annex_B_Eteens_Letter_by_HPB.pdf" rel="noopener nofollow" target="_blank">2026 Annex B E2026 Annex B ETeens Letter by HPB.pdfTeens Leter by HPB.pdf</a>
 </p>
