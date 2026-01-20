@@ -105,8 +105,7 @@ assertiveness and negotiation to say “no” to sex and negative peer pressure.
 They also learn that the impact of STIs/HIV extends beyond themselves and
 involves their family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Cedar Girls’ Secondary School, the eTeens programme will be implemented as </strong>
-<a href="/files/2026_Eteens_at_Cedar_Girls.pdf" rel="noopener nofollow" target="_blank">shown here</a><strong> in 2026:</strong>
+<p><strong>At Cedar Girls’ Secondary School, the eTeens programme will be implemented as <a href="/files/2026_Eteens_at_Cedar_Girls.pdf" rel="noopener nofollow" target="_blank">shown here</a> in 2026:</strong>
 </p>
 <p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
