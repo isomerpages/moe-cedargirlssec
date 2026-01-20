@@ -39,7 +39,7 @@ yourself, your family and society; and</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best
 protection against STIs/HIV and unintended pregnancies. Casual sex can
 harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -720,15 +720,15 @@ MOE-approved external providers.</p>
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable below. The completed
 form is to be submitted by 10/02/2026.</p>
-<p>Click here for: <a href="/files/Sexuality_Education_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Opt out Form 2025.pdf</a>
+<p>Click here for: <a href="/files/2026_Annex_A_Sexuality_Education_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">2026 Annex A - Sexuality Education Opt out form.pdf</a>
 </p>
 <p>12.&nbsp; Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable below. The completed
 form is to be submitted by 10/02/20256.</p>
-<p>Click here for: <a href="/files/eTeens_Parents_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">eTeens Parents Opt out Form 2025.pdf</a>
+<p>Click here for: <a href="/files/2026_ETeens_Opt_out_form.pdf" rel="noopener nofollow" target="_blank">2026 ETeens Opt out form.pdf</a>
 </p>
 <p>13.&nbsp; Parents can contact the school at 6288 4909 for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
-<p>14.&nbsp; More information on eTeens can be found on <a href="/files/ANNEX_B_2025.pdf" rel="noopener nofollow" target="_blank">Annex B 2025.pdf</a>
+<p>14.&nbsp; More information on eTeens can be found on <a href="/files/2026_Annex_B_Eteens_Letter_by_HPB.pdf" rel="noopener nofollow" target="_blank">2026 Annex B ETeens Leter by HPB.pdf</a>
 </p>
