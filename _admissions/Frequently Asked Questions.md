@@ -61,7 +61,8 @@ to pursue their interest through the Talent Development Programme.</p>
 <p><strong>Does Cedar offer Music Elective Programme or Art Elective Programme?</strong>
 </p>
 <p>Cedar does not offer MEP or AEP in-house.</p>
-<h2><strong>Can I take a third language?</strong></h2>
+<p><strong>Can I take a third language?</strong>
+</p>
 <p>Yes, students who meet criteria may apply to study a third language, such
 as French, German, Japanese, or Arabic. They may also apply to study the
 Malay Special Programme or Chinese Special Programme.</p>
