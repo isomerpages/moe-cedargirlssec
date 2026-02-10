@@ -2,6 +2,7 @@
 title: Victoria–Cedar Alliance
 permalink: /our-community/victoria-cedar-alliance/
 description: ""
+variant: markdown
 ---
 ![](/images/VCA.jpg)
 
@@ -12,5 +13,3 @@ Bonded by a shared belief to prepare our students for the 21st century, we nurtu
 We warmly welcome you to embark on this exciting 6-year journey with us.
 
   
-
-[Click here](/files/2022%20VCA%20E-Handbook%20Public_compressed.pdf) to view the VCA IP Handbook and find out more about the programmes and the people that make the Victoria-Cedar experience one to remember for a lifetime.

@@ -2,7 +2,7 @@
 title: Aesthetics
 permalink: /our-curriculum/academic/aesthetics/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 variant: tiptap
 ---
 <h3>Aesthetics</h3>

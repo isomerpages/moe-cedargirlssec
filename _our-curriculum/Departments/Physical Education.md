@@ -2,7 +2,7 @@
 title: Physical Education
 permalink: /our-curriculum/academic/physical-education/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 ---
 ### Physical Education
 

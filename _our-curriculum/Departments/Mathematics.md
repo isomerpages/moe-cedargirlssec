@@ -2,7 +2,7 @@
 title: Mathematics
 permalink: /our-curriculum/academic/mathematics/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 variant: tiptap
 ---
 <h3>Mathematics</h3>

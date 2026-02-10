@@ -2,7 +2,7 @@
 title: Science
 permalink: /our-curriculum/academic/science/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 variant: tiptap
 ---
 <h3>Science</h3>

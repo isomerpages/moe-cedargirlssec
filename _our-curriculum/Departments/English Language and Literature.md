@@ -2,7 +2,7 @@
 title: English Language and Literature
 permalink: /our-curriculum/academic/english-language-and-literature/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 variant: markdown
 ---
 <h3>English Language and Literature</h3>

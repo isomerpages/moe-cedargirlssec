@@ -2,7 +2,7 @@
 title: Mother Tongue
 permalink: /our-curriculum/academic/mother-tongue/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 variant: tiptap
 ---
 <h3>Mother Tongue</h3>

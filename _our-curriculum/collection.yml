@@ -3,22 +3,21 @@ collections:
     output: true
     order:
       - Integrated Programme (IP).md
-      - Instructional Programme/.keep
-      - Instructional Programme/Instructional Programme.md
-      - Instructional Programme/Aesthetics.md
-      - Instructional Programme/English Language and Literature.md
-      - Instructional Programme/Humanities.md
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/Mother Tongue.md
-      - Instructional Programme/Physical Education.md
-      - Instructional Programme/Science.md
+      - Departments/.keep
+      - Departments/Departments.md
+      - Departments/Aesthetics.md
+      - Departments/English Language and Literature.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue.md
+      - Departments/Physical Education.md
+      - Departments/Science.md
       - CCA/.keep
       - CCA/Overview.md
       - CCA/Sports.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Clubs and Societies.md
-      - CCA Achievements.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education (NE).md
@@ -34,4 +33,3 @@ collections:
       - Talent Development/Overview.md
       - Talent Development/Regional Studies Programme (RSP).md
       - Talent Development/Social Innovation (SI).md
-      - Overseas Immersion Programme.md

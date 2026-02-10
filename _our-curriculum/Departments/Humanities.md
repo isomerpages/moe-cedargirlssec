@@ -2,7 +2,7 @@
 title: Humanities
 permalink: /our-curriculum/academic/humanities/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Departments
 variant: tiptap
 ---
 <h3>Humanities</h3>

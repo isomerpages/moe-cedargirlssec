@@ -7,8 +7,6 @@ links:
         url: /our-cedar/our-identity/vision-mission-values/
       - title: Our History
         url: /our-cedar/our-history/
-      - title: Prospectus
-        url: /our-cedar/prospectus/
       - title: Location & Contact Information
         url: /our-cedar/contact-us/
       - title: Communication Channels and PDP
@@ -21,5 +19,3 @@ links:
     collection: our-community
   - title: Admissions
     collection: admissions
-  - title: Centre For Social Innovation
-    collection: centre-for-social-innovation
