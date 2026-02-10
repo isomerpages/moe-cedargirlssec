@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h3>Instructional Programme</h3>
+<h3>Departments</h3>
 <p>At Cedar Girls', we provide meaningful and authentic learning experiences
 for our pupils to nurture their intellectual capacity through a spectrum
 of educational experiences in all disciplines.</p>
