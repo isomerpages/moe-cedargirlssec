@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (Y1 &amp; Y3)</p>
+<p>YH (Y2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Yu Lin Rachel</p>

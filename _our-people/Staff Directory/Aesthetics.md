@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (Y4 &amp; Y2)</p>
+<p>YH (Y1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Veronica Chua Chong Lin</p>
