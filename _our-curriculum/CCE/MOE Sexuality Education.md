@@ -6,7 +6,7 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h4><strong>CEDAR GIRLS’ SECONDARY SCHOOL</strong></h4>
-<h4><strong>Moe Sexuality Education in Schools</strong></h4>
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
