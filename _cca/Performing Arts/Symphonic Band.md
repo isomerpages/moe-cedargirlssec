@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h3>Symphonic Band</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025 Band/Symphonic_Band_2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Symphonic Band/Symphonic_Band_1.jpg">
+</div>
 <p><strong>ABOUT </strong>
 <br>Cedar Girls' Secondary School's Symphonic Band embodies the essence of
 our guiding vision, "Ordinary People, Extraordinary Music," as kindred
@@ -54,7 +54,7 @@ ensemble skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
