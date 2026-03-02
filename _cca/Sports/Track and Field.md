@@ -70,6 +70,10 @@ Western Australia).&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Track and Field National School Games 2025 Champion B’Div</p>
+<p>Track and Field National School Games 2025, 2nd C’Div.</p>
+<p>Cross Country National School Games 2025, Champion B’Div</p>
+<p>Cross Country National School Games 2025, Champion C’Div</p>
 <p>Track and Field National School Games 2024, Champion B’Div</p>
 <p>Track and Field National School Games 2024, 3<sup>rd</sup> C’Div.</p>
 <p>Cross Country National School Games 2024, Champion B’Div</p>
