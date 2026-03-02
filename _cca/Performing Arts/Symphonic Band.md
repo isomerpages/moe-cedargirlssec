@@ -47,8 +47,8 @@ ensemble skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Jian Zhang</p>
-<p>Ms Guan Xing Hua</p>
-<p>Mr Chai Ying Chung</p>
+<p>Ms Fong Su Fern Vivien</p>
+<p>Mr Yeo Bi Xia</p>
 <p></p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ ensemble skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Tuesday and Friday
-<br>3:45pm - 6:30pm</p>
+<br>3:50pm - 6pm</p>
 <p></p>
 </td>
 </tr>
@@ -70,6 +70,9 @@ ensemble skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
+<li>
+<p>2025 Singapore Youth Festival (SYF) - Certificate of Distinction</p>
+</li>
 <li>
 <p>2023 Singapore Youth Festival (SYF) - Certificate of Accomplishment</p>
 </li>
