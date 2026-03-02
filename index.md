@@ -21,6 +21,13 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
+  - infopic:
+      title: "Cedar Arts Festival 2026: Rhythm & Radiance"
+      id: infopic
+      button: click here for more info
+      url: /cedar-arts-festival-2026/
+      image: /images/Cedar_Arts_Fest_Poster.jpg
+      alt: Image alt text
   - infobar:
       title: Year 1 Registration Exercise  for 2026 Cohort
       id: infobar
@@ -43,11 +50,4 @@ sections:
       id: infobar
       button: Click here for more info
       url: /2024-school-graduation-certificate-sgc-collection/
-  - infopic:
-      title: "Cedar Arts Festival 2026: Rhythm & Radiance"
-      id: infopic
-      button: click here for more info
-      url: /cedar-arts-festival-2026/
-      image: /images/Cedar_Arts_Fest_Poster.jpg
-      alt: Image alt text
 ---
