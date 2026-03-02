@@ -44,24 +44,23 @@ Western Australia).&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chris Chan</p>
-<p>Mr Xing Han</p>
-<p>Ms Yeo Su Yan</p>
 <p>Ms Pearl Wong</p>
+<p>Mr Xing Han</p>
+<p>Ms Shirley Tay Li Hui</p>
 <p>Mdm Lum Wai Lin</p>
-<p>Ms Kareen Lai</p>
+<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All groups except Pole Vault. Monday, 3:45pm – 6:15pm.&nbsp;</p>
-<p>Pole Vault only. Tuesday, 3:45pm – 6pm.</p>
-<p>All groups. Wednesday, 3:45pm – 6.15pm.</p>
-<p>All groups. Friday, 3:45pm – 6:15pm</p>
+<p>Monday, 3:50pm to 6pm</p>
+<p>Wednesday, 3:50pm – 6pm.</p>
+<p>Friday, 3:50pm – 6pm</p>
 <p></p>
 </td>
 </tr>
