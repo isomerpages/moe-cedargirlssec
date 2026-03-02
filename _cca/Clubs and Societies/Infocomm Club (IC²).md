@@ -6,8 +6,9 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h3>Infocomm Club (IC²)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/cs4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Infocomm/Infocomm_Photo_1.jpg">
 </div>
 <p><strong>ABOUT</strong>
 <br>The Cedar Infocomm Club (CIC) aims to develop computational thinking in
