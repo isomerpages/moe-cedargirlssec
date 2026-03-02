@@ -33,20 +33,32 @@ such as DJing, filmmaking and drone photography.</p>
 <p><strong>CCA SCHEDULE</strong>
 <br>Photography: Monday, 3:50pm to 6.00pm
 <br>Audio-Visual: Wednesday, 3:50pm to 6.00pm</p>
-<p><strong>ACHIEVEMENTS</strong>
-<br><strong>Year 2020</strong> - 2nd Heartstrings of Singapore Photography
+<p><strong>ACHIEVEMENTS</strong><br>
+<strong>Year 2025</strong> - The 20th Ngee Ann Photographic Exhibition
+– 7 Shortlisted for exhibition
+	<br>
+<strong>Year 2024</strong> - The 19th Ngee Ann Photographic Exhibition
+– 12 Shortlisted for exhibition
+	<br>
+<strong>Year 2023 </strong>- The 18th Ngee Ann Photographic Exhibition
+– 6 Shortlisted for exhibition
+	<br>
+	<strong>Year 2022</strong> - 3rd Heartstrings of Singapore Photography
+Competition – 3rd prize for Singapore’s Chinese Culture (student category)
+&amp; Merit for Singapore’s Multi-Cultural Diversity (student category)
+	<br>
+	<strong>Year 2022</strong> -The 17th Ngee Ann Photographic Exhibition -
+Shortlisted for exhibition
+	<br>
+	<strong>Year 2021 - </strong>The 16th Ngee Ann Photographic Exhibition
+- Shortlisted for exhibition
+	<br><strong>Year 2020</strong> - 2nd Heartstrings of Singapore Photography
 Competition - 1st and 3rd prize for Singapore’s Chinese Culture (student
 category)
-<br><strong>Year 2021 - </strong>The 16th Ngee Ann Photographic Exhibition
-- Shortlisted for exhibition
-<br><strong>Year 2022</strong> -The 17th Ngee Ann Photographic Exhibition -
-Shortlisted for exhibition
-<br><strong>Year 2022</strong> - 3rd Heartstrings of Singapore Photography
-Competition – 3rd prize for Singapore’s Chinese Culture (student category)
-&amp; Merit for Singapore’s Multi-Cultural Diversity (student category)</p>
-<p><strong>Year 2023 </strong>- The 18th Ngee Ann Photographic Exhibition
-– 6 Shortlisted for exhibition</p>
-<p><strong>Year 2024</strong> - The 19th Ngee Ann Photographic Exhibition
-– 12 Shortlisted for exhibition</p>
-<p><strong>Year 2025</strong> - The 20th Ngee Ann Photographic Exhibition
-– 7 Shortlisted for exhibition</p>
+<br>
+
+
+
+
+
+</p>
