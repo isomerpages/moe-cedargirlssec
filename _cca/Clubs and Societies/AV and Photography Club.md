@@ -27,9 +27,9 @@ and stories they want to tell through pictures.</p>
 go on learning journeys to theatres and attend media-related workshops
 such as DJing, filmmaking and drone photography.</p>
 <p><strong>TEACHERS-IN-CHARGE</strong>
-<br>Ms Veronica Chua
-<br>Ms Lyana K Bte Masod
-<br>Ms Sri Laxshemy</p>
+<br>Ms Lyana Khairunnisa Ninte Masodi
+<br>Ms Saranpal Kaur Dhilon D/O Harjit Singh
+<br>Ms Katherine Chew Yuh Huey</p>
 <p><strong>CCA SCHEDULE</strong>
 <br>Photography: Monday, 3:50pm to 6.00pm
 <br>Audio-Visual: Wednesday, 3:50pm to 6.00pm</p>
