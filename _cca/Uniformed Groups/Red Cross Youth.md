@@ -90,12 +90,12 @@ compassion.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday and Friday
-<br>3:45pm - 5:45pm</p>
+<br>3:50pm - 6pm</p>
 <p></p>
 </td>
 </tr>
