@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Handbell Ensemble</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Handbell_Ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Handbell/Handbell_SYF03.jpg">
 </div>
 <p><strong>ABOUT</strong> 
 <br>Cedar Handbell Ensemble (CHE) was established in 2000, being one of the
@@ -45,15 +45,32 @@ also boost our team’s confidence for public performance.</p>
 <br>Ms Poon Pui Fun&nbsp;
 <br>
 </p>
-<p><strong>CCA SCHEDULE</strong>
-<br>Monday and Tuesday&nbsp;
+<p><strong>CCA SCHEDULE 2026</strong>
+<br>Monday and Wednesday
 <br>3.45pm - 6.15pm</p>
 <p><strong>ACHIEVEMENTS</strong>
-<br>2017 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
-of Distinction
-<br>2019 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
-of Distinction
-<br>2021 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
-of Distinction
-<br>2023 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
 of Distinction</p>
+</li>
+<li>
+<p>2023 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
+of Distinction</p>
+</li>
+<li>
+<p>2021 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
+of Distinction</p>
+</li>
+<li>
+<p>2019 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
+of Distinction</p>
+</li>
+<li>
+<p>2017 Arts Presentation - Singapore Youth Festival (SYF) - Certificate
+of Distinction</p>
+</li>
+</ul>
+<p></p>
+<p></p>

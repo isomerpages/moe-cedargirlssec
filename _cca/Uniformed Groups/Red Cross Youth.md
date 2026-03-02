@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Red Cross Youth</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Red_Cross_Youth.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Red Cross/RCY___Yeo_Su_Yan.jpg">
 </div>
 <p><strong>ABOUT</strong> 
 <br>Cedar Red Cross Youth (RCY) aims to develop a strong sense of social responsibility
@@ -84,18 +84,20 @@ compassion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Faith He, Ms Christine So, Ms Mumtas Begam</p>
+<p>Ms Yeo Su Yan</p>
+<p>Ms Christine So</p>
+<p>Ms Mumtas Begam</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday and Friday
-<br>3:45pm - 5:45pm</p>
+<br>3:50pm - 6pm</p>
 <p></p>
 </td>
 </tr>
@@ -105,6 +107,8 @@ compassion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2025 First Aid Championships (Senior Category) – Gold Award</p>
+<p>2025 First Aid Championships (Junior Category) – Gold Award</p>
 <p>2024 First Aid Championships (Senior Category) – Overall Champion, Gold
 Award
 <br>2024 First Aid Championships (Junior Category) – Gold Award</p>

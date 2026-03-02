@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h3>Symphonic Band</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025 Band/Symphonic_Band_2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Symphonic Band/Symphonic_Band_1.jpg">
+</div>
 <p><strong>ABOUT </strong>
 <br>Cedar Girls' Secondary School's Symphonic Band embodies the essence of
 our guiding vision, "Ordinary People, Extraordinary Music," as kindred
@@ -47,19 +47,19 @@ ensemble skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Jian Zhang</p>
-<p>Ms Guan Xing Hua</p>
-<p>Mr Chai Ying Chung</p>
+<p>Ms Fong Su Fern Vivien</p>
+<p>Mr Yeo Bi Xia</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Tuesday and Friday
-<br>3:45pm - 6:30pm</p>
+<br>3:50pm - 6pm</p>
 <p></p>
 </td>
 </tr>
@@ -70,6 +70,9 @@ ensemble skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
+<li>
+<p>2025 Singapore Youth Festival (SYF) - Certificate of Distinction</p>
+</li>
 <li>
 <p>2023 Singapore Youth Festival (SYF) - Certificate of Accomplishment</p>
 </li>

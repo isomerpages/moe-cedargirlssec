@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements</h3>
+<h4><a href="/cedar-arts-festival-2026/" rel="noopener nofollow" target="_blank">Cedar Art Festival 2026</a></h4>
+<hr>
 <h4><a href="/admissions/year-1-registration-exercise-2026/" rel="noopener nofollow" target="_blank">Year 1 Registration Exercise for 2026 cohort</a></h4>
 <p></p>
 <hr>

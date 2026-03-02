@@ -6,8 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Track and Field</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sports6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Track and Field/Track_and_Field_Photo_1_.jpg">
 </div>
 <p><strong>ABOUT</strong>
 <br>Track and Field is a niche CCA of Cedar Girls’ Secondary School. Since
@@ -44,24 +45,23 @@ Western Australia).&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chris Chan</p>
-<p>Mr Xing Han</p>
-<p>Ms Yeo Su Yan</p>
 <p>Ms Pearl Wong</p>
+<p>Mr Xing Han</p>
+<p>Ms Shirley Tay Li Hui</p>
 <p>Mdm Lum Wai Lin</p>
-<p>Ms Kareen Lai</p>
+<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All groups except Pole Vault. Monday, 3:45pm – 6:15pm.&nbsp;</p>
-<p>Pole Vault only. Tuesday, 3:45pm – 6pm.</p>
-<p>All groups. Wednesday, 3:45pm – 6.15pm.</p>
-<p>All groups. Friday, 3:45pm – 6:15pm</p>
+<p>Monday, 3:50pm to 6pm</p>
+<p>Wednesday, 3:50pm – 6pm.</p>
+<p>Friday, 3:50pm – 6pm</p>
 <p></p>
 </td>
 </tr>
@@ -71,6 +71,10 @@ Western Australia).&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Track and Field National School Games 2025 Champion B’Div</p>
+<p>Track and Field National School Games 2025, 2nd C’Div.</p>
+<p>Cross Country National School Games 2025, Champion B’Div</p>
+<p>Cross Country National School Games 2025, Champion C’Div</p>
 <p>Track and Field National School Games 2024, Champion B’Div</p>
 <p>Track and Field National School Games 2024, 3<sup>rd</sup> C’Div.</p>
 <p>Cross Country National School Games 2024, Champion B’Div</p>

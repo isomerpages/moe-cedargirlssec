@@ -6,8 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Badminton</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:1000%" height="auto" width="100%" src="/images/sports1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Badminton/CGBT_2.jpg">
 </div>
 <p><strong>ABOUT</strong>
 <br>Cedar Badminton Team encourages discipline, commitment and high standards
@@ -41,19 +42,19 @@ each other to go beyond their limits.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Wei De</p>
 <p>Mdm Shareena Mohd Saniff</p>
-<p>Ms Lai Siow Hui Kareen</p>
+<p>Mr Ho Weng Lun</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 3.45pm – 6pm</p>
-<p>Wednesday, 3.45 pm – 6pm</p>
-<p>Friday, 3.30pm – 6pm</p>
+<p>Monday, 3:45pm to 6pm</p>
+<p>Wednesday, 3:45 pm – 6pm</p>
+<p>Friday, 3:45 pm – 6pm</p>
 <p></p>
 </td>
 </tr>
@@ -63,6 +64,9 @@ each other to go beyond their limits.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong> 
+<br>B Division South Zone - 3rd</p>
+<p></p>
 <p><strong>2024</strong>&nbsp;
 <br>B Division East Zone - 2nd
 <br>B Division National - Top 8</p>
