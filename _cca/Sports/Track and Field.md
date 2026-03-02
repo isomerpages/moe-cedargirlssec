@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h3>Track and Field</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Track and Field/Track_and_Field_Photo_1_.jpg">
+</div>
 <p><strong>ABOUT</strong>
 <br>Track and Field is a niche CCA of Cedar Girls’ Secondary School. Since
 1968, we have clinched&nbsp; more than 40 B and C Division championships
