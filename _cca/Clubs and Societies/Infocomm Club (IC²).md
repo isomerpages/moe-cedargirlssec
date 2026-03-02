@@ -20,9 +20,9 @@ passion in the field of technology. Besides CCA sessions, our members go
 on learning journeys, IMDA workshops and competitions to broaden their
 knowledge and further hone their skills.</p>
 <h5><strong>Teachers:</strong></h5>
-<p>Ms Yeo Bi Xia
-<br>Ms Mumtas Begam Haja Muhudin&nbsp;</p>
-<p><strong>CCA SCHEDULE</strong>
+<p>Ms Lee Yu Shan, Shirleen
+<br>Ms Low Mui Sun Esther</p>
+<p><strong>CCA SCHEDULE 2026</strong>
 <br>Wednesday and Friday
 <br>3:50PM to 6PM</p>
 <h5><strong>CCA Achievements:</strong></h5>
