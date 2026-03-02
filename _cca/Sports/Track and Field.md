@@ -6,9 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Track and Field</h3>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sports6.png">
-</div>
+<p></p>
 <p><strong>ABOUT</strong>
 <br>Track and Field is a niche CCA of Cedar Girls’ Secondary School. Since
 1968, we have clinched&nbsp; more than 40 B and C Division championships
