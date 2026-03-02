@@ -31,8 +31,8 @@ such as DJing, filmmaking and drone photography.</p>
 <br>Ms Lyana K Bte Masod
 <br>Ms Sri Laxshemy</p>
 <p><strong>CCA SCHEDULE</strong>
-<br>Photography: Monday, 3.50pm to 6.00pm
-<br>Audio-Visual: Wednesday, 3.50pm to 6.00pm</p>
+<br>Photography: Monday, 3:50pm to 6.00pm
+<br>Audio-Visual: Wednesday, 3:50pm to 6.00pm</p>
 <p><strong>ACHIEVEMENTS</strong>
 <br>2020 2nd Heartstrings of Singapore Photography Competition - 1st and 3rd
 prize for Singapore’s Chinese Culture (student category)
