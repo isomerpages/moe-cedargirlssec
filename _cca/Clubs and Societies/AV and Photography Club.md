@@ -48,5 +48,5 @@ Competition – 3rd prize for Singapore’s Chinese Culture (student category)
 – 6 Shortlisted for exhibition</p>
 <p><strong>Year 2024</strong> - The 19th Ngee Ann Photographic Exhibition
 – 12 Shortlisted for exhibition</p>
-<p>Year 2025 - The 20th Ngee Ann Photographic Exhibition – 7 Shortlisted
-for exhibition</p>
+<p><strong>Year 2025</strong> - The 20th Ngee Ann Photographic Exhibition
+– 7 Shortlisted for exhibition</p>
