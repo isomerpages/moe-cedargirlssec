@@ -41,3 +41,6 @@ prize for Singapore’s Chinese Culture (student category)
 <br>2022 3rd Heartstrings of Singapore Photography Competition – 3rd prize
 for Singapore’s Chinese Culture (student category) &amp; Merit for Singapore’s
 Multi-Cultural Diversity (student category)</p>
+<p>2023 The 18th Ngee Ann Photographic Exhibition – 6 Shortlisted for exhibition
+2024 The 19th Ngee Ann Photographic Exhibition – 12 Shortlisted for exhibition
+2025 The 20th Ngee Ann Photographic Exhibition – 7 Shortlisted for exhibition</p>
