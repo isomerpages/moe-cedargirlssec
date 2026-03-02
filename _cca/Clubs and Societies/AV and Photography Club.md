@@ -30,7 +30,7 @@ such as DJing, filmmaking and drone photography.</p>
 <br>Ms Lyana Khairunnisa Ninte Masodi
 <br>Ms Saranpal Kaur Dhilon D/O Harjit Singh
 <br>Ms Katherine Chew Yuh Huey</p>
-<p><strong>CCA SCHEDULE</strong>
+<p><strong>CCA SCHEDULE 2026</strong>
 <br>Monday and Wednesday, 3:50pm to 6.00pm
 <br>
 </p>
