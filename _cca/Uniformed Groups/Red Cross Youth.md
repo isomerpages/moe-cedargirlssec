@@ -84,7 +84,9 @@ compassion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Faith He, Ms Christine So, Ms Mumtas Begam</p>
+<p>Ms Yeo Su Yan</p>
+<p>Ms Christine So</p>
+<p>Ms Mumtas Begam</p>
 <p></p>
 </td>
 </tr>
@@ -105,6 +107,8 @@ compassion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2025 First Aid Championships (Senior Category) – Gold Award</p>
+<p>2025 First Aid Championships (Junior Category) – Gold Award</p>
 <p>2024 First Aid Championships (Senior Category) – Overall Champion, Gold
 Award
 <br>2024 First Aid Championships (Junior Category) – Gold Award</p>
