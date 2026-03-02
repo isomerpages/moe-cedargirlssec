@@ -45,7 +45,7 @@ also boost our team’s confidence for public performance.</p>
 <br>Ms Poon Pui Fun&nbsp;
 <br>
 </p>
-<p><strong>CCA SCHEDULE</strong>
+<p><strong>CCA SCHEDULE 2026</strong>
 <br>Monday and Wednesday
 <br>3.45pm - 6.15pm</p>
 <p><strong>ACHIEVEMENTS</strong>
