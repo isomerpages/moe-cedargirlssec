@@ -53,8 +53,8 @@ each other to go beyond their limits.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, 3:45pm to 6pm</p>
-<p>Wednesday, 3.45 pm – 6pm</p>
-<p>Friday, 3.45 pm – 6pm</p>
+<p>Wednesday, 3:45 pm – 6pm</p>
+<p>Friday, 3:45 pm – 6pm</p>
 <p></p>
 </td>
 </tr>
