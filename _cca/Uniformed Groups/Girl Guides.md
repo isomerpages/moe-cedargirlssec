@@ -13,28 +13,31 @@ variant: tiptap
 </p>
 <p><strong><em>VISION</em></strong><em><br>All girls are valued and take action to change the world.</em>
 </p>
-<p><em>Once a Guide, always a Guide.</em>
-</p>
-<p><em>The Cedar Girl Guides provide a platform which enables the guides to develop their fullest potential as responsible citizens of the nation. Through the 5-Point Programme – Personal and Social Development, Home, Community, Outdoor and International, Cedar Girl Guides strive to nurture Guides into leaders of character. The Guides are exposed to a wide array of experiences and learning opportunities, both on a national and international scale. A spirit of fun and adventure pervades every activity be it camping, tent-pitching, outdoor-cooking, fire-building, gadget-making, orienteering or community service. Guides are constantly provided with opportunities to actively participate in events such as the World Thinking Day, International Camps, Camp Galore, Wee Kim Wee Challenge, Wide Game Competition and East Division Day, among others. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow. Guides have also been given opportunities to contribute back to society by actively participating in volunteering activities and events.</em>
-</p>
-<p><em>Standing by their motto – “Be Prepared”, Cedar Girl Guides will always strive for excellence in various aspects and stay vigilant to ensure that they are ready for future challenges.</em>
-</p>
+<p>Once a Guide, always a Guide.</p>
+<p>The Cedar Girl Guides provide a platform which enables the guides to develop
+their fullest potential as responsible citizens of the nation. Through
+the 5-Point Programme – Personal and Social Development, Home, Community,
+Outdoor and International, Cedar Girl Guides strive to nurture Guides into
+leaders of character. The Guides are exposed to a wide array of experiences
+and learning opportunities, both on a national and international scale.
+A spirit of fun and adventure pervades every activity be it campcraft,
+tent-pitching, outdoor-cooking, fire-building, gadget-making, orienteering
+or community service. Guides are constantly provided with opportunities
+to actively participate in events such as the World Thinking Day, GIRL
+Adventure trips, division-based and HQ-based activities, among others.
+These events allow the Guides to forge friendships and strong ties with
+their fellow sister Guides as they support one another and grow. Guides
+have also been given opportunities to contribute back to society by actively
+participating in volunteering activities and events.</p>
+<p>Standing by their motto – “Be Prepared”, Cedar Girl Guides will always
+strive for excellence in various aspects and stay vigilant to ensure that
+they are ready for future challenges.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name of CCA:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Girl Guides</em>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge:</strong>
