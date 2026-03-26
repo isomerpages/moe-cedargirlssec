@@ -6,8 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Volleyball</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sports7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Volleyball/Volleyball_Photo_1.jpg">
 </div>
 <p><strong>ABOUT</strong> 
 <br>The Cedar Volleyball Team aims to develop perseverance, commitment and
@@ -47,12 +48,12 @@ the drive to pursue the best in themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Friday</p>
-<p>3:30 pm – 6:00 pm&nbsp;</p>
+<p>3:50 pm – 6:00 pm&nbsp;</p>
 <p></p>
 </td>
 </tr>
