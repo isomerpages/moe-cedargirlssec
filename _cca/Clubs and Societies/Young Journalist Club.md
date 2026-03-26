@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Young Journalist Club/YJC_Photo_1.jpg">
+</div>
 <p>Cedar Young Journalists' Club uses journalism as a platform for expression,
 while fostering cross-cultural awareness and appreciation. The club focuses
 on content creation and storytelling—developing students’ skills in writing,
