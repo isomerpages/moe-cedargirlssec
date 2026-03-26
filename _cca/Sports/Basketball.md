@@ -6,8 +6,6 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Basketball</h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Basketball.jpg">
 </div>
@@ -41,21 +39,29 @@ that will last for a lifetime.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Kai Hong Kelvin,&nbsp;</p>
-<p>Ms Lei Hong,&nbsp;</p>
-<p>Ms Marianne Elizabeth John</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Neo Kai Hong Kelvin</p>
+</li>
+<li>
+<p>Ms Lei Hong</p>
+</li>
+<li>
+<p>Ms Koh Yu Lin Rachel</p>
 <p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 3.45pm – 6.00pm</p>
-<p>Tuesday, 3.45pm – 6.00pm</p>
-<p>Thursday, 3.00pm – 6.00pm</p>
+<p>Monday, 3:50pm – 6.00pm</p>
+<p>Wednesday, 3:50pm – 6.00pm</p>
+<p>Friday, 3.00pm – 6.00pm</p>
 <p></p>
 </td>
 </tr>
