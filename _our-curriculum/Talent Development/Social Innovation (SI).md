@@ -9,11 +9,9 @@ variant: markdown
 
 
 
-### **CSI INC LOGO**
+Every student has a spark of creativity waiting to be discovered. In this two-year Talent Development Art Programme, students cultivate their skills, explore new mediums, and broaden their perspective on what art can achieve. Through meaningful projects and challenges, they develop resilience, confidence, and social awareness, using their creativity to make a positive impact in the school and wider community.
 
-<img src="/images/csi1.png" style="width:40%">
-
-This vibrant and youthful design brings out the value of empathy, seen in the colourful shape of a heart on the right, formed by people holding hands, symbolising our community. Another heart tops the logo and represents a soaring eagle, inspiring our students to scale to greater heights as social innovators. The three letter ‘i’s in the words ‘social innovation’ show how, with the value of empathy, individuals can come together as a community to break new ground and innovate for social good.
+The Social Innovation (SI) Programme is a niche programme that nurtures socially conscious, future-ready learners who are equipped to make a meaningful difference in the world. Anchored in the Design Thinking framework and aligned with the MOE 21st Century Competencies (21CCs), the programme provides authentic learning experiences that develop students holistically in knowledge, skills and values. Guided by the mission to empower students to become a. innovative problem-solvers, b. empathetic changemakers, and c. collaborative leaders who drive positive social change, the SI Programme enables students to identify real-world community needs and design human-centered, sustainable solutions. \*INSERT PICTURE "SI\_StudentOutcomes\_Table"\* The programme comprises two key components: Social Innovation and Research (SIR) and Talent Development - Social Innovation (TDSI). Together, SIR and TDSI reflect Cedar’s commitment to developing learners who are confident in navigating complexity, responsive to community needs, and ready to contribute meaningfully in a rapidly changing world.
 
 ###  **Three tenets of CSI**<br>
 1. **Incubating Spaces**<br>
