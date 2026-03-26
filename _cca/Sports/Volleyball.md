@@ -79,7 +79,7 @@ the drive to pursue the best in themselves.</p>
 <p>C Division Nationals League 1</p>
 </li>
 </ul>
-<p>Top 8</p>
+<p></p>
 <ul>
 <li>
 <p><strong>2023</strong>
