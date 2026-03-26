@@ -39,19 +39,16 @@ character, and to bring glory to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Ying Chung&nbsp;</p>
-<p>Mr Muhammad Akmal Hussain&nbsp;</p>
-<p>Miss Lim Siao Kien</p>
-<p></p>
+<p>Ms Ding Ying Jye</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Tuesday and Thursday 3.45pm – 6pm</p>
+<p>Monday, Wednesday and Thursday 3:50pm to 6pm</p>
 <p></p>
 </td>
 </tr>
