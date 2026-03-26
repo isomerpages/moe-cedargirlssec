@@ -6,9 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Guzheng Ensemble</h3>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/pa2.png">
-</div>
+<p></p>
 <p><strong>ABOUT</strong> 
 <br>The Cedar Guzheng Ensemble strives to inculcate a deep artistic appreciation
 for the 2500-year-old traditional Chinese instrument as well as its History
