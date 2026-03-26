@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h3><em>Girl Guides</em></h3>
+<p><em>Girl Guides</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Girl_Guides.jpg">
@@ -45,17 +46,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nur Farahin Binte Salleh
 <br>Mdm Faridah Baharawi
-<br>Ms Lim Xinjie
-<br>Ms Goh Sok Hui&nbsp;</p>
+<br>Ms Lee Poh Ching
+<br>Ms Nur Latifah Bte Shaik Md Shafiee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday and Friday, 3.45 pm – 5.45 pm</p>
+<p>Wednesday and Friday, 3:50pm to 6pm</p>
 </td>
 </tr>
 <tr>
@@ -66,33 +67,43 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2015-2023 Puan Noor Aishah Award – Gold</p>
+<p>2015-2024 Puan Noor Aishah Award – Gold</p>
 </li>
 <li>
-<p>2024 World Thinking Day - Build your Dream House (Silver Award)</p>
+<p>2026 World Thinking Day (South Division) - Telepathy Challenge ‘Two Minds,
+One Mission’ (2nd Prize)</p>
 </li>
 <li>
-<p>2024 World Thinking Day - Tiktok Video Challenge (Gold Award)</p>
+<p>2025 Baden-Powell Award - Bernice Chang, Joanne Lim, Aishwaryaa Saravanan</p>
 </li>
 <li>
-<p>2024 East Division Day Competition - Dance (2nd)</p>
+<p>2025 9th Campus Legends - Individual (1st Prize), Team (3rd Prize)</p>
 </li>
 <li>
-<p>2024 East Division Day Competition - Mini Gadget Making (3rd)</p>
+<p>2025 South Div Fest - Patch Design (3rd - 1st Coy), Poster Design (2nd
+- 1st Coy), Snack Making (2nd - 1st Coy)</p>
 </li>
 <li>
-<p>2024 East Division Day Competition - Snack-making (2nd)</p>
+<p>2024 World Thinking Day - Tiktok Video Challenge (Gold Award), Build your
+Dream House (Silver Award)</p>
 </li>
 <li>
-<p>2023 East Division Day Toymaking Competition (3<sup>rd</sup>)</p>
+<p>2024 East Division Day Competition - Dance (2nd), Mini Gadget Making (3rd),
+Snack-making (2nd)</p>
 </li>
 <li>
-<p>2023 East Division Day Dance Competition (3<sup>rd</sup>)</p>
-<p></p>
+<p>2024 GOTC II Tournament - Individual (Gold &amp; Silver), Team (2 Silvers)</p>
+</li>
+<li>
+<p>2023 East Division Day Competitions - Toymaking (3rd), Dance (3rd)</p>
+</li>
+<li>
+<p>2023 GOTC II Tournament - Team (2 Bronze)</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
