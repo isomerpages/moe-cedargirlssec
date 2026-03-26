@@ -22,7 +22,7 @@ of the environment.</p>
 <br>Ms Wendy Chen Lingzhi
 <br>Mr Ang Ter Shien
 <br>Ms Rudrapathy Vijayalakshmi</p>
-<p><strong>CCA SCHEDULE</strong>
+<p><strong>CCA SCHEDULE 2026</strong>
 </p>
 <p>Monday and friday 3:45pm to 5:45pm</p>
 <p><strong>ACHIEVEMENTS</strong>
