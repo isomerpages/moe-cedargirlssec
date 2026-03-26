@@ -31,7 +31,6 @@ the drive to pursue the best in themselves.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Volleyball</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -49,7 +48,6 @@ the drive to pursue the best in themselves.</p>
 </li>
 <li>
 <p>Mr Tay Yong Hwee</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -62,7 +60,6 @@ the drive to pursue the best in themselves.</p>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Friday</p>
 <p>3:50 pm – 6:00 pm&nbsp;</p>
-<p></p>
 </td>
 </tr>
 <tr>
