@@ -70,14 +70,10 @@ and eldercare organizations to foster goodwill and meaningful partnerships.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Monday, Wednesday and Friday&nbsp;</p>
 <p>3:50pm - 6.00pm</p>
 <p>After Term 1, 2 times a week Mon &amp; Wed</p>
 <p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
