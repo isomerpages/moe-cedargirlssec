@@ -34,19 +34,27 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>ASP (NPCC) Chai Chang Yi</p>
+</li>
+<li>
 <p>INSP (NPCC) Kenneth Lui Cherng Ginn</p>
-<p>Ms Ding Ying Jye</p>
+</li>
+<li>
+<p>Ms Chua Chong Lin Veronica</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>CCA Schedule 2025:</em></strong>
+<p><strong><em>CCA Schedule 2026:</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 4pm-6pm</p>
-<p>Friday, 4pm-6pm</p>
+<p>Wednesday, 3:50pm-6pm</p>
+<p>Friday, 3:50pm-6pm</p>
 <p></p>
 </td>
 </tr>
