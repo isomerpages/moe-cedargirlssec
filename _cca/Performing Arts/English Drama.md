@@ -28,7 +28,7 @@ the Society of Sheng Hong Welfare services in 2022.</p>
 <br>Ms Sri Laxshemy
 <br>Ms Charlene Lim Mei Jun
 <br>Ms Zahra</p>
-<p><strong>CCA SCHEDULE</strong>
+<p><strong>CCA SCHEDULE 2026</strong>
 <br>Monday and Wednesday
 <br>3:50PM to 6:00PM</p>
 <p><strong>ACHIEVEMENTS</strong>
