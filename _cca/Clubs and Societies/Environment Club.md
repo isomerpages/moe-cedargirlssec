@@ -22,12 +22,12 @@ students participate in environment-related competitions and workshops,
 so as to nurture social innovators who inspire positive change in the protection
 of the environment.</p>
 <p><strong>TEACHERS-IN-CHARGE</strong>
-<br>Mrs Tan Hui Choo
-<br>Ms Usha Natarajan
-<br>Mr Ang Ter Shien</p>
+<br>Ms Wendy Chen Lingzhi
+<br>Mr Ang Ter Shien
+<br>Ms Rudrapathy Vijayalakshmi</p>
 <p><strong>CCA SCHEDULE</strong>
-<br>Tuesday and Friday
-<br>4.00PM to 6.00PM</p>
+</p>
+<p>Monday and friday 3:45pm to 5:45pm</p>
 <p><strong>ACHIEVEMENTS</strong>
 <br><strong>2023</strong> 
 <br>Bowseat Ocean Awareness Competition - Notable Award
