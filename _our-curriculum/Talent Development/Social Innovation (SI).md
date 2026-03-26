@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Talent Development
 variant: markdown
 ---
-### ABOUT CSI
+### ABOUT SOCIAL INNOVATION @ CGSS
 
-#### **THE CENTRE FOR SOCIAL INNOVATION**
 
-The Cedar Centre for Social Innovation is set up to be a nexus for social innovation, to inspire, create and share best practices. We seek to instill a mindset and disposition towards innovative practices for social causes, and enhance society’s capacity to act. 
 
 ### **CSI INC LOGO**
 
