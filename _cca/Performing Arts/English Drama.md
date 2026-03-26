@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
-<h3>English Drama </h3>
+<h3>English Drama</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 481.594px;" height="auto" width="100%" src="https://www.cedargirlssec.moe.edu.sg/images/cs2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/English Drama/ENGLISH_DRAMA.jpg">
 </div>
 <h5><strong>ABOUT</strong></h5>
 <p>English Drama seeks to develop students as performers, playwrights, directors
@@ -24,14 +25,15 @@ this year for #tellstory. Their passion for the arts has also been shared
 with the wider community. They performed at St John's Home in 2023 and
 the Society of Sheng Hong Welfare services in 2022.</p>
 <p><strong>TEACHERS-IN-CHARGE</strong>
-<br>Ms Zahra
-<br>Mrs Gemma Daniel
-<br>Mrs Peh Lai Wah
-<br>Ms Sri Laxshemy</p>
+<br>Ms Sri Laxshemy
+<br>Ms Charlene Lim Mei Jun
+<br>Ms Zahra</p>
 <p><strong>CCA SCHEDULE</strong>
-<br>Monday and Tuesday
-<br>3.50PM to 6.20PM</p>
+<br>Monday and Wednesday
+<br>3:50PM to 6:00PM</p>
 <p><strong>ACHIEVEMENTS</strong>
+</p>
+<p>2025 Singapore Youth Festival [SYF-AP] Certificate of Distinction
 <br>2023 Singapore Youth Festival [SYF-AP] Certificate of Distinction
 <br>2021 Singapore Youth Festival [SYF-AP] Certificate of Distinction&nbsp;
 <br>2019 Singapore Youth Festival (SYF) - Certificate of Accomplishment</p>
