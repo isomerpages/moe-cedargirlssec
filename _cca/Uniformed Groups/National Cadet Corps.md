@@ -47,20 +47,19 @@ of the cadets in the Cedar NCC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Kai Jie</p>
-<p>Mdm Koh Poh Leng</p>
 <p>Mr Gui Eng Hong</p>
-<p>Ms Shirleen Lee Yu Shan (Sem 2)</p>
+<p>Ms Geetha D/O Muthuramalingam</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday 3.45 – 6pm</p>
-<p>Wednesday 3.45 – 6pm</p>
+<p>Monday 3.50 – 6pm</p>
+<p>Wednesday 3.50 – 6pm</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +68,15 @@ of the cadets in the Cedar NCC.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <ul>
+<li>
+<p>2025 Freestyle Exhibition Drill Competition – 2nd Runner-Up</p>
+</li>
+<li>
+<p>2025 Freestyle Exhibition Drill Competition – East District 2nd Runner
+up</p>
+</li>
 <li>
 <p>2024 Sports Championship Captain’s Ball (Girls) 1<sup>st</sup> Runner-up</p>
 </li>
