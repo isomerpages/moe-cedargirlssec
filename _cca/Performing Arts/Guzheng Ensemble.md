@@ -49,21 +49,17 @@ continue to do their best and strive for greater heights.</p>
 <p><em>Mdm Dai Xiaojin</em>
 </p>
 <p>Ms Hu Xiaosu</p>
-<p>Mr Hang Kam Long</p>
+<p>Mdm Mahani Bte Ahmad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Monday, 4-6pm</em>
-</p>
-<p><em>Wednesday, 4-6pm</em>
-</p>
-<p><em>Friday, 4-6pm</em>
-</p>
+<p>Monday, Wednesday, Friday, two sessions for each day</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,11 +68,26 @@ continue to do their best and strive for greater heights.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 SYF Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2023, Certificate of Accomplishment</p>
+</li>
+<li>
 <p>SYF 2021, Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2019, Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2017, Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2015, Certificate of Distinction</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
