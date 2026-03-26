@@ -40,10 +40,18 @@ the drive to pursue the best in themselves.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Jimmy Kheng</p>
-<p>Ms Geetha Muthuramalingam</p>
+</li>
+<li>
+<p>Ms Faith He Caiqing</p>
+</li>
+<li>
 <p>Mr Tay Yong Hwee</p>
 <p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
