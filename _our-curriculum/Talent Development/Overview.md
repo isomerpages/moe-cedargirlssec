@@ -91,41 +91,13 @@ are:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Humanities</p>
-</li>
-<li>
-<p>Languages</p>
-</li>
-<li>
 <p>Regional Studies Programme (RSP)</p>
 </li>
 <li>
-<p>Social Sciences</p>
-</li>
-</ul>
-<p>·&nbsp;&nbsp; <strong>Sciences, Technology, Engineering &amp; Mathematics (STEM)</strong>
-</p>
-<p>·&nbsp;&nbsp;<strong>Social Innovation (SI)</strong>
-</p>
-<p>·&nbsp;&nbsp;<strong>Sports and Aesthetics (S&amp;A)</strong>
-</p>
-<p>·&nbsp;&nbsp;<strong>Student Leadership (SL)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>CCA and VIA Leaders</p>
+<p>Humanities</p>
 </li>
 <li>
-<p>Class Executive Committees</p>
-</li>
-<li>
-<p>Peer Support Leaders</p>
-</li>
-<li>
-<p>Prefect Councillors</p>
-</li>
-<li>
-<p>Sports &amp; Health Leaders</p>
+<p>Social Sciences (RHS)</p>
 </li>
 </ul>
 <p></p>
