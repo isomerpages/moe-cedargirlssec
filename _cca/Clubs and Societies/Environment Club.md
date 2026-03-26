@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h3>Environment Club</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Environ Club/Environ.jpg">
+</div>
 <p><strong>ABOUT</strong>
 <br>The Cedar Environment Club was established in 2011. Its vision is for
 every Cedarian to be an Environment Champion by empowering students to
