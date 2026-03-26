@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3>National Cadet Corps (NCC)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ug2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/NCC/NCC.jpg">
 </div>
 <p><strong>ABOUT</strong> 
 <br>The Cedar National Cadet Corps (NCC) aims to develop a strong sense of
