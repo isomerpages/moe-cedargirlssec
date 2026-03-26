@@ -6,6 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Girl Guides/GG_2.jpg">
+</div>
 <p><strong><em>MISSION</em></strong><em><br>To enable girls and young women to develop their fullest potential as responsible citizens of the world.</em>
 </p>
 <p><strong><em>VISION</em></strong><em><br>All girls are valued and take action to change the world.</em>
