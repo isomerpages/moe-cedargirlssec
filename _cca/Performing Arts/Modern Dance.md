@@ -31,7 +31,6 @@ to become elegant and articulate performers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Modern Dance Club</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -49,7 +48,6 @@ to become elegant and articulate performers.</p>
 </li>
 <li>
 <p>Ms Zheng Kejie</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -62,7 +60,6 @@ to become elegant and articulate performers.</p>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Friday
 <br>3:45pm - 6:00pm</p>
-<p></p>
 </td>
 </tr>
 <tr>
