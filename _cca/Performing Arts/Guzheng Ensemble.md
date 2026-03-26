@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h3>Guzheng Ensemble</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Gu Zheng/guzheng_photo_1.jpg">
+</div>
 <p><strong>ABOUT</strong> 
 <br>The Cedar Guzheng Ensemble strives to inculcate a deep artistic appreciation
 for the 2500-year-old traditional Chinese instrument as well as its History
