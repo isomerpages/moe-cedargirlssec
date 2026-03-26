@@ -73,11 +73,15 @@ the drive to pursue the best in themselves.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
+<p>2025</p>
+<p>C Division Nationals League 1</p>
+</li>
+<li>
 <p><strong>2024</strong>
 </p>
+<p>C Division Nationals League 1</p>
 </li>
 </ul>
-<p>C Division Nationals League 1</p>
 <p>Top 8</p>
 <ul>
 <li>
@@ -98,6 +102,14 @@ the drive to pursue the best in themselves.</p>
 <br>Nationals - 3rd</p>
 </li>
 </ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
