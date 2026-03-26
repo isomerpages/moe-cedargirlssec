@@ -30,7 +30,6 @@ fosters deep camaraderie and creates lasting friendships beyond the table.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Table Tennis</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -49,7 +48,6 @@ fosters deep camaraderie and creates lasting friendships beyond the table.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Thursday 3:50pm to 6pm</p>
-<p></p>
 </td>
 </tr>
 <tr>
