@@ -59,7 +59,7 @@ the drive to pursue the best in themselves.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Friday</p>
-<p>3:50 pm – 6:00 pm&nbsp;</p>
+3:50 pm – 6:00 pm
 </td>
 </tr>
 <tr>
@@ -68,19 +68,14 @@ the drive to pursue the best in themselves.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
 <li>
-<p>2025</p>
-<p>C Division Nationals League 1</p>
+<p><strong>2025</strong></p>
+C Division Nationals League 1
 </li>
 <li>
-<p><strong>2024</strong>
-</p>
-<p>C Division Nationals League 1</p>
+<p><strong>2024</strong></p>
+C Division Nationals League 1
 </li>
-</ul>
-<p></p>
-<ul>
 <li>
 <p><strong>2023</strong>
 <br>B Division East Zone - 3rd
@@ -98,7 +93,6 @@ the drive to pursue the best in themselves.</p>
 <p>C Division East Zone - 1st
 <br>Nationals - 3rd</p>
 </li>
-</ul>
 <p></p>
 </td>
 </tr>
