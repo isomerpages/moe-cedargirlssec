@@ -81,15 +81,19 @@ Programme (CmPS).</p>
 <p>Through these experiences, students apply entrepreneurial and inventive
 thinking, receive authentic feedback from mentors and partners, and iteratively
 refine their solutions.</p>
-<p><em>INSERT PICTURE "SI_TDSI_IvPShoveMeIn"</em> 
-</p>
-<p><em>INSERT CAPTION</em> Fig.3 Iterations of prototype idea by Year 2 TDSI
-students for their IvP project.</p>
-<p><em>INSERT PICTURE "SI_TDSI_JACoyTradeBooth"</em> 
-</p>
-<p><em>INSERT CAPTION</em> Fig.4 Year 4 TDSI students presenting their product
-to a member of the public at their trade booth during the JA Company of
-the Year Finals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/SI_TDSI_IvPShoveMeIn.jpg">
+</div>
+<p>Fig.3 Iterations of prototype idea by Year 2 TDSI students for their IvP
+project.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/SI_TDSI_JACoyTradeBooth.jpg">
+</div>
+<p>Fig.4 Year 4 TDSI students presenting their product to a member of the
+public at their trade booth during the JA Company of the Year Finals.</p>
 <p></p>
 <h4>Key achievements and highlights</h4>
 <div class="iframe-wrapper">
