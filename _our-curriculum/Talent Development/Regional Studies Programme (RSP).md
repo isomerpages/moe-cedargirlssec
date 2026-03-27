@@ -6,8 +6,9 @@ third_nav_title: Talent Development
 variant: tiptap
 ---
 <h3>Regional Studies Programme (RSP)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/rsp1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/RSP_Photo_2.jpg">
 </div>
 <h4>About</h4>
 <p>The Regional Studies Programme (RSP) is a six-year scholarship programme
