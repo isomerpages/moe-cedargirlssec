@@ -21,11 +21,13 @@ United by a shared commitment to service, the Student Council strives to
 empower every Cedar girl to feel heard, valued and connected.</p>
 <p></p>
 <h4><strong>Sports and Health Leaders</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/SHLB.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Student Leader/SHLB_Photo_2.jpg">
+</div>
 <p>Our Sports and Health Leaders (SHL) aim to motivate and inspire the student
 body to keep fit and active through a well-balanced diet and various exercise
 programmes. They plan and organise various initiatives such mass dances,
