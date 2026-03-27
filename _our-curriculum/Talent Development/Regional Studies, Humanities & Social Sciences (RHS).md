@@ -56,3 +56,23 @@ Students work together in groups on the creation of a final product which
 synthesizes their learning to demonstrate a deeper understanding of Humanities
 concepts. By sharing these projects with their peers, students not only
 showcase their work but also contribute to a collaborative culture of inquiry.</p>
+<p></p>
+<h4>Key achievements and highlights</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 RGS-S7 SEA Students' Symposium - Poster Presenters</p>
+</li>
+<li>
+<p>2025 Year 2 Overseas Immersion Trip to Kuching, Malaysia</p>
+</li>
+<li>
+<p>2025 Year 3 Overseas Immersion Trip to Yogyakarta, Indonesia</p>
+</li>
+<li>
+<p>2024 Year 2 Overseas Immersion Trip to Langkawi, Malaysia</p>
+</li>
+<li>
+<p>2024 Year 3 Overseas Immersion Trip to Yogyakarta &amp; Surabaya, Indonesia</p>
+</li>
+</ul>
+<p></p>
