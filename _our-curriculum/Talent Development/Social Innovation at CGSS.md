@@ -77,7 +77,6 @@ partners.</p>
 <p>2. National STEM challenge</p>
 <p>3. Year 1Cohort Social Innovation and Research Program (SIR) etc</p>
 <p></p>
-<p></p>
 <h4>Talent Development - Social Innovation (TDSI)</h4>
 <p>Talent Development - Social Innovation (TDSI) is a tailored and more rigorous
 programme for selected students who demonstrate strong interest and aptitude
