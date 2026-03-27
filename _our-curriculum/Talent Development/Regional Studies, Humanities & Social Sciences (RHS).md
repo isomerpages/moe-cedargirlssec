@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Talent Development
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/RHS_photo3.jpg">
+</div>
 <h4>Key Programs/Competitions</h4>
 <p><strong><u>Contemporary Issues Reading Circles</u></strong>
 </p>
