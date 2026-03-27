@@ -69,11 +69,11 @@ solutions while collaborating with peers, mentors, and industry or community
 partners.<p></p>
 <p></p>
 <p>Examples of other Key programs/Competition:</p>
-<p>1. Overseas Immersion Program</p>
+1. Overseas Immersion Program<p></p>
 <p></p>
-<p>2. National STEM challenge</p>
+2. National STEM challenge<p></p>
 <p></p>
-<p>3. Year 1Cohort Social Innovation and Research Program (SIR) etc</p>
+3. Year 1Cohort Social Innovation and Research Program (SIR) etc<p></p>
 <p></p>
 <h4>Talent Development - Social Innovation (TDSI)</h4>
 <p>Talent Development - Social Innovation (TDSI) is a tailored and more rigorous
