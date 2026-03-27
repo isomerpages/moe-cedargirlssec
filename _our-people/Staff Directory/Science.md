@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag SH/Chemistry</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Ter Shien</p>
