@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Talent Development
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/Art_photo3.jpg">
+</div>
 <p>Every student has a spark of creativity waiting to be discovered. In this
 two-year Talent Development Art Programme, students cultivate their skills,
 explore new mediums, and broaden their perspective on what art can achieve.
