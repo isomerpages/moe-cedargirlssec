@@ -9,12 +9,27 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math7.png">
 </div>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Department Vision</h4>
+</td>
+<td rowspan="1" colspan="1">
 <p>To nurture critical and adaptive learners, equipped to be effective problem
 solvers and clear communicators who recognize and value the power of Mathematics
 in their daily lives.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Teaching and Learning approaches</h4>
+</td>
+<td rowspan="1" colspan="1">
 <p>Problem Solving is at the center of our Mathematics Curriculum and we
 guide our students to solve problems using the Polya's Problem Solving
 Framework.</p>
@@ -32,7 +47,13 @@ to their every day lives.</p>
 <p>-Allows students to apply their problem solving skills to real-world problems
 that they encounter beyond the classroom.</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>Key Programmes</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
 <p>The Singapore Mathematical Olympiad (SMO) is one of the key programs to
 develop the problem-solving skills of students who are passionate in Mathematics.
 These students undergo a structured training programme and take part in
@@ -45,4 +66,14 @@ understand, analyse and solve real world problems outside of Mathematics
 itself, in realistic contexts.</p>
 <p>The Annual Maths Day aims to help students relate their learning of Mathematics
 to their daily lives in an enjoyable manner through challenges and quizzes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
+<p></p>
 <p></p>
