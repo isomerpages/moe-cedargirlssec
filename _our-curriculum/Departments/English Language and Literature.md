@@ -6,9 +6,6 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h3>English Language and Literature</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/el1.png">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
