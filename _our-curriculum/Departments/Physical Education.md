@@ -10,18 +10,34 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Departments banners/PE_Photo_2.jpg">
 </div>
-<ul>
-<li>
-<p>&nbsp; Department Vision</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Department Vision</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>To develop character and leadership of students through the pursuit of
-excellence in sports, physical health, aesthetics and outdoor activities
-<br>
-<br>
-</p>
-<p>The overall PE programme aims to
-<br>
-<br>
-</p>
+excellence in sports, physical health, aesthetics and outdoor activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>The overall PE programme aims to:</p>
 <p>• Promote and engage students in leading healthy and active lifestyle
 <br>• Develop students’ competence in a wide range of physical sports
 <br>• Inculcate active learning through health and outdoor education
@@ -43,16 +59,16 @@ games
 <img style="width:40%" height="auto" width="100%" src="/images/pe5.png">
 </div>
 <p></p>
-</li>
+<p></p>
+<h4><strong>Department Programme/Highlights</strong></h4>
+<ul>
 <li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Department Programme/Highlights</p>
 <p><strong>Overall 4 year Scheme of Work</strong> 
 <br>
 <br>
 </p>
+</li>
+</ul>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -64,19 +80,24 @@ games
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h2><strong>Week</strong></h2>
+<p><strong>Week</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h2><strong>Sec 1</strong></h2>
+<p><strong>Sec 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h2><strong>Sec 2</strong></h2>
+<p><strong>Sec 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h2><strong>Sec 3</strong></h2>
+<p><strong>Sec 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h2><strong>Sec 4</strong></h2>
+<p><strong>Sec 4</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -384,18 +405,14 @@ games
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
+<ul>
+<li>
 <p>Individualised Games Module (Each student chooses one sports of her choice)
 <br>T= Traditional team sports: basketball, volleyball, soccer, netball, softball
 <br>R= Racket Games: tennis, table-tennis, badminton, pickle-ball
 <br>N= Novel sports: frisbee, floorball, touch-rugby, handball.</p>
 <p></p>
-</li>
-<li>
-<p>&nbsp;</p>
+<p></p>
 </li>
 </ul>
 <p></p>
