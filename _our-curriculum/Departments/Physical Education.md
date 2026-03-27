@@ -37,7 +37,8 @@ excellence in sports, physical health, aesthetics and outdoor activities</p>
 </tbody>
 </table>
 <p></p>
-<p>The overall PE programme aims to:</p>
+<p><strong>The overall PE programme aims to:</strong>
+</p>
 <p>• Promote and engage students in leading healthy and active lifestyle
 <br>• Develop students’ competence in a wide range of physical sports
 <br>• Inculcate active learning through health and outdoor education
@@ -61,14 +62,10 @@ games
 <p></p>
 <p></p>
 <h4><strong>Department Programme/Highlights</strong></h4>
-<ul>
-<li>
 <p><strong>Overall 4 year Scheme of Work</strong> 
 <br>
 <br>
 </p>
-</li>
-</ul>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -405,14 +402,10 @@ games
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
 <p>Individualised Games Module (Each student chooses one sports of her choice)
 <br>T= Traditional team sports: basketball, volleyball, soccer, netball, softball
 <br>R= Racket Games: tennis, table-tennis, badminton, pickle-ball
 <br>N= Novel sports: frisbee, floorball, touch-rugby, handball.</p>
 <p></p>
 <p></p>
-</li>
-</ul>
 <p></p>
