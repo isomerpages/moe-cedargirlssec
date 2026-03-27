@@ -91,3 +91,29 @@ participation, collaboration, and experiential learning. Through engaging
 discussions, real-life case studies, and hands-on activities, students
 continually refine their leadership skills and learn how to manage class
 responsibilities effectively.</p>
+<p></p>
+<h4><strong>Cyber Tech Ambassadors</strong></h4>
+<p>The Cedar Cyber Tech Ambassadors (CTA) comprise students who are passionate
+about using technology responsibly and meaningfully to enhance learning,
+well-being, and personal productivity in the Cedar community. These students
+are positive role models who demonstrate integrity, responsibility, and
+sound judgement in their digital behaviour. Cyber Tech Ambassadors take
+on the responsibility of guiding their peers in navigating the digital
+world wisely and ethically with a positive attitude and willingness to
+learn and share.</p>
+<p>Cyber Tech Ambassadors promote the safe and effective use of digital tools,
+including AI, by encouraging honesty, proper acknowledgement, and respect
+for data privacy and online safety. They help peers understand the purpose
+and appropriate use of different digital and AI tools, empowering them
+to use technology to support thinking and learning. By sharing practical
+tips on organisation, task management, revision, and project work, CTAs
+encourage Cedarians to work smarter and develop positive digital habits.</p>
+<p>In addition, Cyber Tech Ambassadors champion cyber wellness by promoting
+respectful online behaviour, healthy screen use, and the protection of
+personal information. They also serve as a bridge between students and
+teachers by gathering student feedback on digital tools, AI use, and cyber
+wellness, contributing to the continual improvement of school-wide guidance
+and practices.</p>
+<p>Through trainings and school-based initiatives, Cyber Tech Ambassadors
+grow as confident leaders who help foster a positive and responsible digital
+culture at Cedar.</p>
