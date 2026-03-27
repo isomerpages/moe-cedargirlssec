@@ -7,16 +7,17 @@ variant: tiptap
 ---
 <h3>Modern Dance</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025 Modern Dance/Modern_Dance_2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Modern Dance/Modern_Dance.jpg">
+</div>
 <p><strong>ABOUT</strong>
 <br>Cedar Modern Dance is an avenue for aspiring dancers who demonstrate a
-passion for dancing and a love for modern dance. Guided by Ms Leia Ang,
-opportunities are provided for each dancer to showcase their talent on
-various platforms in school to other opportunities on a national level
-with the aim of honing them to become elegant and articulate performers.</p>
+passion for dancing and a love for modern dance. Opportunities are provided
+for each dancer to showcase their talent on various platforms in school
+to other opportunities on a national level with the aim of honing them
+to become elegant and articulate performers.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,7 +31,6 @@ with the aim of honing them to become elegant and articulate performers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Modern Dance Club</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -39,21 +39,27 @@ with the aim of honing them to become elegant and articulate performers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Siew
-<br>Mdm Sia Lay Choon</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Laura Siew</p>
+</li>
+<li>
+<p>Mdm Sia Lay Choon</p>
+</li>
+<li>
 <p>Ms Zheng Kejie</p>
-<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Friday
-<br>3.45pm - 6.00pm</p>
-<p></p>
+<br>3:45pm - 6:00pm</p>
 </td>
 </tr>
 <tr>

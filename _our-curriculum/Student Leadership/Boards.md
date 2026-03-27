@@ -6,29 +6,27 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>Prefectorial Board</h3>
-<h4><strong>Cedar Prefectorial Board</strong></h4>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/CPB.jpg">
-</div>
-<p>The Cedar Prefectorial Board (CPB) comprises of Prefect Councillors who
-are passionate and driven individuals who strive to make a positive impact
-in the Cedar community. Only pupils who are exemplary in conduct and adopt
-a positive attitude in life are given the opportunity to take on the challenge
-of becoming a Prefect Councillor to serve the school. Together, PCs work
-towards creating a strong school identity, culture and a better environment
-for all Cedarians. They embody the Cedar identity and lead by example by
-living out the school motto of Honesty, Courtesy and Perseverance. Through
-events and trainings, CPB creates opportunities for every Prefect Councillor
-to grow and nurture skills essential in daily life. Some of our signature
-events include our Blue, Yellow and Grey Day, where we aim to foster a
-greater school spirit and Our Cedar Conversation, an opportunity for the
-voices of the student body to be heard via our leaders. In Cedar, CPB is
-a unique family that inspires all!</p>
-<h4><strong>Sports and Health Leaders</strong></h4>
+<h4><strong>Cedar Girls’ Student Council</strong></h4>
+<p>The Cedar Girls’ Student Council (CGSC) is a values-driven student leadership
+board committed to serving and strengthening our school community. Guided
+by our school motto of Honesty, Courtesy and Perseverance, our councillors
+model integrity in their words and actions, represent student voice responsibly,
+and work collaboratively to build a positive and inclusive school culture.
+Through purposeful engagement initiatives and meaningful dialogue, the
+Council seeks to improve the learning environment while fostering a strong
+sense of identity and belonging among Cedarians. Beyond organising events,
+councillors are developed through structured leadership training, reflection
+and accountability, equipping them to lead with integrity, care and responsibility.
+United by a shared commitment to service, the Student Council strives to
+empower every Cedar girl to feel heard, valued and connected.</p>
 <p></p>
+<h4><strong>Sports and Health Leaders</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/SHLB.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Student Leader/SHLB_Photo_2.jpg">
 </div>
 <p>Our Sports and Health Leaders (SHL) aim to motivate and inspire the student
 body to keep fit and active through a well-balanced diet and various exercise
@@ -71,18 +69,51 @@ support school-wide programmes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Latest_Monitress_Council_Logo.png">
 </div>
 <p>The Cedar Monitress Council aims to work as a community to build class
-unity and a sense of belonging among Cedarians and their teachers. The
-Monitress Council comprises elected class monitresses, chosen by their
+unity and a strong sense of belonging among Cedarians and their teachers.
+The Monitress Council comprises elected class monitresses, chosen by their
 peers and teachers. These individuals serve as leaders, guiding their classmates
-across various facets of the school journey and transforming classrooms
-into families. class monitresses facilitate dynamic and inclusive circle
-time sessions, empowering their peers to express themselves, fostering
-social-emotional growth, and forging meaningful connections. They play
-a pivotal role in shaping the vibrant atmosphere at Cedar by spearheading
-annual events, creating unforgettable experiences, and enriching the school
-community through their leadership and coordination.</p>
-<p>To empower and support our monitresses, the Monitress Council hosts 2
-to 3 training sessions annually. These sessions, characterised by interactivity,
-encourage participation, collaboration, and experiential learning. Through
-engaging discussions, real-life case studies, and hands-on activities,
-students continually refine their leadership skills.</p>
+across various facets of the school journey and helping to transform classrooms
+into supportive and caring communities.</p>
+<p>Class monitresses play an important role in cultivating a positive class
+culture and maintaining the day-to-day functioning of the class. They support
+teachers in upholding class discipline, overseeing classroom cleanliness
+and management, and ensuring that class routines run smoothly. Through
+these responsibilities, they help create a conducive learning environment
+where every student can feel safe, respected, and ready to learn.</p>
+<p>Class monitresses also facilitate dynamic and inclusive circle time sessions,
+empowering their peers to express themselves, fostering social-emotional
+growth, and forging meaningful connections. They play a pivotal role in
+shaping the vibrant atmosphere at Cedar by creating memorable experiences,
+and enriching the school community through their leadership and coordination.</p>
+<p>To empower and support our monitresses, the Monitress Council hosts two
+to three training sessions annually. These interactive sessions encourage
+participation, collaboration, and experiential learning. Through engaging
+discussions, real-life case studies, and hands-on activities, students
+continually refine their leadership skills and learn how to manage class
+responsibilities effectively.</p>
+<p></p>
+<h4><strong>Cyber Tech Ambassadors</strong></h4>
+<p>The Cedar Cyber Tech Ambassadors (CTA) comprise students who are passionate
+about using technology responsibly and meaningfully to enhance learning,
+well-being, and personal productivity in the Cedar community. These students
+are positive role models who demonstrate integrity, responsibility, and
+sound judgement in their digital behaviour. Cyber Tech Ambassadors take
+on the responsibility of guiding their peers in navigating the digital
+world wisely and ethically with a positive attitude and willingness to
+learn and share.</p>
+<p>Cyber Tech Ambassadors promote the safe and effective use of digital tools,
+including AI, by encouraging honesty, proper acknowledgement, and respect
+for data privacy and online safety. They help peers understand the purpose
+and appropriate use of different digital and AI tools, empowering them
+to use technology to support thinking and learning. By sharing practical
+tips on organisation, task management, revision, and project work, CTAs
+encourage Cedarians to work smarter and develop positive digital habits.</p>
+<p>In addition, Cyber Tech Ambassadors champion cyber wellness by promoting
+respectful online behaviour, healthy screen use, and the protection of
+personal information. They also serve as a bridge between students and
+teachers by gathering student feedback on digital tools, AI use, and cyber
+wellness, contributing to the continual improvement of school-wide guidance
+and practices.</p>
+<p>Through trainings and school-based initiatives, Cyber Tech Ambassadors
+grow as confident leaders who help foster a positive and responsible digital
+culture at Cedar.</p>

@@ -3,11 +3,12 @@ title: Volleyball
 permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: Sports
-variant: tiptap
+variant: markdown
 ---
 <h3>Volleyball</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sports7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Volleyball/Volleyball_Photo_1.jpg">
 </div>
 <p><strong>ABOUT</strong> 
 <br>The Cedar Volleyball Team aims to develop perseverance, commitment and
@@ -30,7 +31,6 @@ the drive to pursue the best in themselves.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Volleyball</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -39,21 +39,27 @@ the drive to pursue the best in themselves.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Jimmy Kheng</p>
-<p>Ms Geetha Muthuramalingam</p>
+</li>
+<li>
+<p>Ms Faith He Caiqing</p>
+</li>
+<li>
 <p>Mr Tay Yong Hwee</p>
-<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday and Friday</p>
-<p>3:30 pm – 6:00 pm&nbsp;</p>
-<p></p>
+3:50 pm – 6:00 pm
 </td>
 </tr>
 <tr>
@@ -62,15 +68,14 @@ the drive to pursue the best in themselves.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
 <li>
-<p><strong>2024</strong>
-</p>
+<p><strong>2025</strong></p>
+C Division Nationals League 1
 </li>
-</ul>
-<p>C Division Nationals League 1</p>
-<p>Top 8</p>
-<ul>
+<li>
+<p><strong>2024</strong></p>
+C Division Nationals League 1
+</li>
 <li>
 <p><strong>2023</strong>
 <br>B Division East Zone - 3rd
@@ -88,7 +93,14 @@ the drive to pursue the best in themselves.</p>
 <p>C Division East Zone - 1st
 <br>Nationals - 3rd</p>
 </li>
-</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>

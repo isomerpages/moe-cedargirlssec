@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SCI DEPT/SCI_DEPT_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Departments banners/Innovation_in_Science.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -81,16 +81,13 @@ thinking about science’s impact in Singapore and in the world.</p>
 <td rowspan="1" colspan="1">
 <ol>
 <li>
-<p><strong>Science Cohort Learning Journey</strong>
+<p><strong>Explore STEM</strong>
 </p>
 </li>
 </ol>
-<p>Every year, the department organises learning journeys for specific cohorts
-of students. This allows students to further build their curiosity in the
-subject and appreciate the application of scientific concepts in our daily
-life.&nbsp;
-<br>
-</p>
+<p>Opportunities to participate in enrichment activities and to represent
+school in STEM competitions are organised under STEM (Science) TD.</p>
+<p></p>
 <ol start="2">
 <li>
 <p><strong>Singapore Junior Science Olympiads (Biology, Chemistry, Physics)</strong>
@@ -102,9 +99,7 @@ them with the opportunity to participate in the Singapore Junior Chemistry,
 Biology, and Physics Olympiads. Through these competitions, students will
 explore concepts beyond the school syllabus, sharpen their problem-solving
 skills, and apply their knowledge to tackle challenging scientific problems.</p>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="3">
 <li>
 <p><strong>Singapore Youth STEM Fair (SYSF)</strong>
@@ -117,9 +112,7 @@ Fair (SYSF), a national competition promoting inquiry, innovation, and
 problem-solving in STEM. Evolving from the Singapore Youth Science Fair,
 it encourages students to explore real-world challenges through investigative
 research and prototyping.&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="4">
 <li>
 <p><strong>National STEM Championship (NSC)</strong>
@@ -131,9 +124,7 @@ scientific knowledge and problem-solving skills in real-world contexts.
 Through interdisciplinary STEM challenges, they develop innovation, critical
 thinking, and teamwork while tackling complex global issues. Participation
 nurtures resilience and prepares them for future STEM pursuits.</p>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="5">
 <li>
 <p><strong>Alternative Assessment (AA)&nbsp;</strong>

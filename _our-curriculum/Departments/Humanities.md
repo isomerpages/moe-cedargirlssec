@@ -62,64 +62,51 @@ angles, fostering both critical thinking and global awareness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Humanities Enrichment</u></strong>
-<br>To allow our students to extend and deepen their learning in the Humanities,
-students with the passion and interest are identified to participate in
-a range of Humanities enrichments and competitions. These enrichment opportunities
-are curated to allow students to understand the real-world applications
-to their knowledge in the classroom.</p>
-<p></p>
+<p><strong>HUMANITIES ENRICHMENT</strong>&nbsp;</p>
 <ul>
 <li>
-<p>Humanities Fieldwork</p>
+<p><strong>Humanities Fieldwork</strong>
+</p>
 </li>
 </ul>
-<p>Our students, as part of their curriculum, get to explore sites around
-Singapore as part of the department’s focus on authentic learning through
-exploration and inquiry. This hones our students’ inventive thinking as
-they learn to take on roles of different stakeholders and generate solutions
-to authentic tasks, such as whether Pulau Ubin can be made into a tourism
-site.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HUM DEPT/Hum1.jpg">
-</div>
-<p></p>
+<p>As part of the department’s focus on authentic learning through exploration
+and inquiry,&nbsp;</p>
+<p>IP3 Geography students explore sites in Singapore and other countries
+through a comparative fieldwork task. The concepts of sustainability and
+tourism are brought to life as students go through the inquiry cycle in
+an authentic context. From collecting and analysing data to designing and
+reflecting on their conclusions, this process hones our students’ critical
+and inventive thinking as they learn how to think like a geographer.</p>
+<p>
+<br>
+</p>
 <ul>
 <li>
-<p>Competitions</p>
+<p><strong>Competitions</strong>
+</p>
 </li>
 </ul>
 <p>Students with a passion for the Humanities are given opportunities to
-participate in various competitions, such as Historical Scene Investigation,
-Student Archivist Project and Geography Challenge) with support by teachers
-from the Department. These competitions stretch the students and develop
+participate in various competitions, such as the Historical Scene Investigation,
+Student Archivist Project, and Geography Challenge. These competitions,
+supported by teachers from the department, stretch the students and develop
 important competencies such as communication and information skills, as
-well as their critical thinking skills.&nbsp;</p>
-<p><strong><u>ASEAN Studies Programme&nbsp;</u></strong>
-<br>As part of the development of our students’ civic, global and cross-cultural
+well as their critical thinking.&nbsp;</p>
+<p>
+<br>
+</p>
+<p><strong>ASEAN Exposure Programme</strong>
+</p>
+<p>As part of the development of our students’ civic, global and cross-cultural
 literacy, students are given the opportunity to learn more about the region
-and appreciate Singapore’s role and place in Southeast Asia. This is nurtured
-through our four-year programme, where they are exposed to cultural workshops
-associated with the art forms of the region to overseas learning journey
-to Malacca where they are given the chance to engage with on-site learning
-overseas and engage with their peers from the region.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HUM DEPT/Hum2.jpg">
-</div>
-<p><u>Exploring Southeast Asia through Dance</u>
+and appreciate Singapore’s role and place in Southeast Asia. Through our
+ASEAN exposure programme, students are exposed to cultural workshops associated
+with the art forms of the region in Year 1, and go on an overseas learning
+journey to Malacca in Year 2 where they are given the chance to engage
+with on-site learning overseas and engage with their peers from the region.</p>
+<p>
+<br>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HUM DEPT/Hum3.jpg">
-</div>
-<p><u>School Visit in Malacca</u>
-</p>
-<p></p>
 </td>
 </tr>
 </tbody>

@@ -6,17 +6,18 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Table Tennis</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sports5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Table Tennis/Table_tennis.jpg">
 </div>
 <p><strong>ABOUT</strong> 
-<br>The Cedar Table Tennis team aims to instill discipline, resilience and
-sportsmanship in every player. The players seek to play their best at every
-competition. The team did their school proud which is a testament to their
-strong desire to remain at the top of the game, through their strong commitment
-to their rigorous training. As members of the Table Tennis team, the students
-certainly have the opportunity to develop a persevering spirit and a resilient
-character, and to bring glory to the school.</p>
+<br>The Table Tennis team balances competitive success with personal growth
+and a strong team spirit. We strive to instill discipline, resilience,
+and sportsmanship in every player, encouraging each other to meet challenges
+with confidence. Through consistent training with dedication, our members
+continually improve their skills. This commitment builds resilient character,
+fosters deep camaraderie and creates lasting friendships beyond the table.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,7 +31,6 @@ character, and to bring glory to the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Table Tennis</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -39,20 +39,16 @@ character, and to bring glory to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Ying Chung&nbsp;</p>
-<p>Mr Muhammad Akmal Hussain&nbsp;</p>
-<p>Miss Lim Siao Kien</p>
-<p></p>
+<p>Ms Ding Ying Jye</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Tuesday and Thursday 3.45pm – 6pm</p>
-<p></p>
+<p>Monday, Wednesday and Thursday 3:50pm to 6pm</p>
 </td>
 </tr>
 <tr>
@@ -62,6 +58,12 @@ character, and to bring glory to the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
+<li>
+<p>2026: SSSC Table Tennis (Team) South Zone B Division - 2nd position</p>
+</li>
+<li>
+<p>2025: SSSC Table Tennis (Team) South Zone B Division - 2nd position</p>
+</li>
 <li>
 <p>2024: SSSC Table Tennis (Team) East B Division Girls - Champion</p>
 </li>

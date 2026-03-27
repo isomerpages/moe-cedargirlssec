@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Environment Club</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Environment_Club.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Environ Club/Environ.jpg">
 </div>
 <p><strong>ABOUT</strong>
 <br>The Cedar Environment Club was established in 2011. Its vision is for
@@ -22,12 +22,12 @@ students participate in environment-related competitions and workshops,
 so as to nurture social innovators who inspire positive change in the protection
 of the environment.</p>
 <p><strong>TEACHERS-IN-CHARGE</strong>
-<br>Mrs Tan Hui Choo
-<br>Ms Usha Natarajan
-<br>Mr Ang Ter Shien</p>
-<p><strong>CCA SCHEDULE</strong>
-<br>Tuesday and Friday
-<br>4.00PM to 6.00PM</p>
+<br>Ms Wendy Chen Lingzhi
+<br>Mr Ang Ter Shien
+<br>Ms Rudrapathy Vijayalakshmi</p>
+<p><strong>CCA SCHEDULE 2026</strong>
+</p>
+<p>Monday and friday 3:45pm to 5:45pm</p>
 <p><strong>ACHIEVEMENTS</strong>
 <br><strong>2023</strong> 
 <br>Bowseat Ocean Awareness Competition - Notable Award

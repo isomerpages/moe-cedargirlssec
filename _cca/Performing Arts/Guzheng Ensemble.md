@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Guzheng Ensemble</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/pa2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Gu Zheng/guzheng_photo_1.jpg">
 </div>
 <p><strong>ABOUT</strong> 
 <br>The Cedar Guzheng Ensemble strives to inculcate a deep artistic appreciation
@@ -49,21 +50,17 @@ continue to do their best and strive for greater heights.</p>
 <p><em>Mdm Dai Xiaojin</em>
 </p>
 <p>Ms Hu Xiaosu</p>
-<p>Mr Hang Kam Long</p>
+<p>Mdm Mahani Bte Ahmad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule 2025:</strong>
+<p><strong>CCA Schedule 2026:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Monday, 4-6pm</em>
-</p>
-<p><em>Wednesday, 4-6pm</em>
-</p>
-<p><em>Friday, 4-6pm</em>
-</p>
+<p>Monday, Wednesday, Friday, two sessions for each day</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,11 +69,26 @@ continue to do their best and strive for greater heights.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 SYF Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2023, Certificate of Accomplishment</p>
+</li>
+<li>
 <p>SYF 2021, Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2019, Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2017, Certificate of Distinction</p>
+</li>
+<li>
 <p>SYF 2015, Certificate of Distinction</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

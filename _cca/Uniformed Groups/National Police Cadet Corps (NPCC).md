@@ -9,10 +9,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/ug3.png">
 </div>
-<p><strong><em>ABOUT</em></strong><em> <br>Cedar Girls’ NPCC Unit has a tradition of excellence and we have been awarded the Unit Overall Proficiency Award – Gold for many years. Through the high standards of weekly trainings, we have inculcated a strong sense of discipline and confidence in our cadets. Cadets will receive varied and systematic training for many activities such as drills, campcraft, singing, PT &amp; Sports, revolver handling, marksmanship, first aid, survival skills, outdoor adventure skills, planning of activities, rafting etc.</em>
-</p>
-<p><em>In addition, cadets will also have opportunities to visit and be attached to police establishments and organizations. The training received will help cadets develop into Leaders of Character who will be self reliant, caring, confident, responsible, disciplined and all-rounded citizens.</em>
-</p>
+<p><strong><em>ABOUT</em></strong><em> <br></em>Cedar Girls’ NPCC Unit has
+a tradition of excellence and we have been awarded the Unit Overall Proficiency
+Award – Gold for many years. Through the high standards of weekly trainings,
+we have inculcated a strong sense of discipline and confidence in our cadets.
+Cadets will receive varied and systematic training for many activities
+such as drills, campcraft, singing, PT &amp; Sports, revolver handling,
+marksmanship, first aid, survival skills, outdoor adventure skills, planning
+of activities, rafting etc.</p>
+<p>In addition, cadets will also have opportunities to visit and be attached
+to police establishments and organizations. The training received will
+help cadets develop into Leaders of Character who will be self reliant,
+caring, confident, responsible, disciplined and all-rounded citizens.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,19 +42,26 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>ASP (NPCC) Chai Chang Yi</p>
+</li>
+<li>
 <p>INSP (NPCC) Kenneth Lui Cherng Ginn</p>
-<p>Ms Ding Ying Jye</p>
+</li>
+<li>
+<p>Ms Chua Chong Lin Veronica</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>CCA Schedule 2025:</em></strong>
+<p><strong><em>CCA Schedule 2026:</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 4pm-6pm</p>
-<p>Friday, 4pm-6pm</p>
+<p>Wednesday and Friday, 3:50pm-6pm</p>
 <p></p>
 </td>
 </tr>
