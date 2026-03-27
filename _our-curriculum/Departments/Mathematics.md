@@ -17,7 +17,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Department Vision</h4>
+<p><strong>Department Vision</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To nurture critical and adaptive learners, equipped to be effective problem
@@ -27,7 +28,8 @@ in their daily lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Teaching and Learning approaches</h4>
+<p><strong>Teaching and Learning approaches</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Problem Solving is at the center of our Mathematics Curriculum and we
@@ -51,7 +53,8 @@ that they encounter beyond the classroom.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Key Programmes</strong></h4>
+<p><strong>Key Programmes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Singapore Mathematical Olympiad (SMO) is one of the key programs to
