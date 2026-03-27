@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>Prefectorial Board</h3>
-<h4><strong>Cedar Girls’ Student Council </strong></h4>
+<h4><strong>Cedar Girls’ Student Council</strong></h4>
 <p>The Cedar Girls’ Student Council (CGSC) is a values-driven student leadership
 board committed to serving and strengthening our school community. Guided
 by our school motto of Honesty, Courtesy and Perseverance, our councillors
@@ -25,6 +25,7 @@ empower every Cedar girl to feel heard, valued and connected.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/SHLB.jpg">
 </div>
+<p></p>
 <p>Our Sports and Health Leaders (SHL) aim to motivate and inspire the student
 body to keep fit and active through a well-balanced diet and various exercise
 programmes. They plan and organise various initiatives such mass dances,
