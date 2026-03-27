@@ -49,6 +49,49 @@ engagement.</p>
 <p>Fig.2 Year 2 students proudly present their personalised fidget boards,
 designed and created for their SIR project.</p>
 <h4>Key Programs / Competitions</h4>
+<p><strong>Year 1&amp; 2 Cohort Social Innovation and Research Program (SIR)</strong>
+</p>
+<p>The <strong>Social Innovation and Research (SIR)</strong> Programme provides
+students with structured opportunities to engage in inquiry and applied
+research on authentic social issues. Through a scaffolded curriculum, students
+develop research literacy, critical thinking, and problem-solving skills,
+while cultivating empathy, social responsibility, and innovative thinking.</p>
+<p><strong>Year 2 Innovation Program by the Gifted Education Branch (IvP)</strong>
+</p>
+<p><strong>The Innovation Programme by the Gifted Education Branch (GEB)</strong> is
+designed to nurture students’ creativity, critical thinking, and problem-solving
+skills through authentic, real-world challenges. Students explore emerging
+issues, apply design thinking and research skills, and develop innovative
+solutions while collaborating with peers, mentors, and industry or community
+partners.</p>
+<p>Examples of other Key programs/Competition:</p>
+<p>1. Overseas Immersion Program</p>
+<p>2. National STEM challenge</p>
+<p>3. Year 1Cohort Social Innovation and Research Program (SIR) etc</p>
+<p>*Change heading to "Talent Development - Social Innovation (TDSI)"</p>
+<p>Talent Development - Social Innovation (TDSI) is a tailored and more rigorous
+programme for selected students who demonstrate strong interest and aptitude
+in Social Innovation.</p>
+<p>Through community trails, students practise empathy-building, interviewing
+and needs-analysis skills, and deepen their learning through Makers Education
+under MOE GEB’s Innovation Programme (IvP). They also get to participate
+in national-level platforms and competitions such as the Junior Achievement
+(JA) Company of the Year competition and the Community Problem-Solving
+Programme (CmPS).</p>
+<p>Through these experiences, students apply entrepreneurial and inventive
+thinking, receive authentic feedback from mentors and partners, and iteratively
+refine their solutions.</p>
+<p><em>INSERT PICTURE "SI_TDSI_IvPShoveMeIn"</em> 
+</p>
+<p><em>INSERT CAPTION</em> Fig.3 Iterations of prototype idea by Year 2 TDSI
+students for their IvP project.</p>
+<p><em>INSERT PICTURE "SI_TDSI_JACoyTradeBooth"</em> 
+</p>
+<p><em>INSERT CAPTION</em> Fig.4 Year 4 TDSI students presenting their product
+to a member of the public at their trade booth during the JA Company of
+the Year Finals.</p>
+<p></p>
+<h4>Key achievements and highlights</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fcedargirls%2Fvideos%2F1149289823710910%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 </div>
