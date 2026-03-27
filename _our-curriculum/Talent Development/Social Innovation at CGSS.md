@@ -26,8 +26,8 @@ Social Innovation and Research (SIR) is a school-based curriculum offered to the
 
 In Year 2, students have the opportunity to collaborate with external beneficiaries to implement their Social Innovation projects, translating ideas into purposeful action and strengthening their understanding of community engagement.
 
-*INSERT PICTURE "SI_SIR_Prototypes"* 
-*INSERT CAPTION* Fig.1 Prototypes designed by our Year 1 students for their SIR projects.
+![](/images/2026/Talent%20Development/SI_SIR_Prototypes.jpg)
+Fig.1 Prototypes designed by our Year 1 students for their SIR projects.
 
-*INSERT PICTURE "SI_SIR_FidgetBoardGrp"* 
-*INSERT CAPTION* Fig.2 Year 2 students proudly present their personalised fidget boards, designed and created for their SIR project.
+![](/images/2026/Talent%20Development/SI_SIR_FidgetBoardGrp.jpg)
+Fig.2 Year 2 students proudly present their personalised fidget boards, designed and created for their SIR project.
