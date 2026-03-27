@@ -42,13 +42,13 @@ engagement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent%20Development/SI_SIR_Prototypes.jpg">
 </div>
-<p>Fig.1 Prototypes designed by our Year 1 students for their SIR projects</p>
+Fig.1 Prototypes designed by our Year 1 students for their SIR projects<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent%20Development/SI_SIR_FidgetBoardGrp.jpg">
 </div>
-<p>Fig.2 Year 2 students proudly present their personalised fidget boards,
-designed and created for their SIR project.</p>
+Fig.2 Year 2 students proudly present their personalised fidget boards,
+designed and created for their SIR project.<p></p>
 <p></p>
 <h4>Key Programs / Competitions</h4>
 <p><strong>Year 1&amp; 2 Cohort Social Innovation and Research Program (SIR)</strong>
