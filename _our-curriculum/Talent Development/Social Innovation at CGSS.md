@@ -74,11 +74,7 @@ partners.</p>
 <p></p>
 <p>Examples of other Key programs/Competition:</p>
 <p>1. Overseas Immersion Program</p>
-<p></p>
-<p></p>
 <p>2. National STEM challenge</p>
-<p></p>
-<p></p>
 <p>3. Year 1Cohort Social Innovation and Research Program (SIR) etc</p>
 <p></p>
 <p></p>
