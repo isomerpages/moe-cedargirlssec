@@ -49,7 +49,7 @@ to students through the various platforms.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Student Leadership Boards</strong> 
 <br>
-<br>• Prefect Councillors
+<br>• Student Councillors
 <br>• Peer Support Leaders
 <br>• Monitresses
 <br>• Sports and Health Leaders</p>
