@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SCI DEPT/SCI_DEPT_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Departments banners/Innovation_in_Science.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -81,14 +81,13 @@ thinking about science’s impact in Singapore and in the world.</p>
 <td rowspan="1" colspan="1">
 <ol>
 <li>
-<p><strong>Science Cohort Learning Journey</strong>
+<p><strong> Explore STEM </strong>
 </p>
 </li>
 </ol>
-<p>Every year, the department organises learning journeys for specific cohorts
-of students. This allows students to further build their curiosity in the
-subject and appreciate the application of scientific concepts in our daily
-life.&nbsp;
+<p>Opportunities to participate in enrichment activities and to represent
+school in STEM competitions are organised under STEM (Science) TD.</p>
+<p>
 <br>
 </p>
 <ol start="2">
