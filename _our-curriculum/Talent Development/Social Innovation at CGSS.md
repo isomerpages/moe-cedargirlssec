@@ -17,6 +17,6 @@ c. collaborative leaders who drive positive social change,
 
 the SI Programme enables students to identify real-world community needs and design human-centered, sustainable solutions.
 
-*INSERT PICTURE "SI_StudentOutcomes_Table"*
+![](/images/2026/Talent%20Development/SI_StudentOutcomes_Table.png)
 
 The programme comprises two key components: Social Innovation and Research (SIR) and Talent Development - Social Innovation (TDSI). Together, SIR and TDSI reflect Cedar’s commitment to developing learners who are confident in navigating complexity, responsive to community needs, and ready to contribute meaningfully in a rapidly changing world.
