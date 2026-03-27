@@ -3,7 +3,7 @@ title: Social Innovation at CGSS
 permalink: /social-innovation-at-cgss/our-story/about-csi/
 description: ""
 third_nav_title: Talent Development
-variant: markdown
+variant: tiptap
 ---
 <h3>SOCIAL INNOVATION @ CGSS</h3>
 <h4>About</h4>
@@ -42,38 +42,45 @@ engagement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent%20Development/SI_SIR_Prototypes.jpg">
 </div>
-Fig.1 Prototypes designed by our Year 1 students for their SIR projects<p></p>
+<p>Fig.1 Prototypes designed by our Year 1 students for their SIR projects</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent%20Development/SI_SIR_FidgetBoardGrp.jpg">
 </div>
-Fig.2 Year 2 students proudly present their personalised fidget boards,
-designed and created for their SIR project.<p></p>
+<p>Fig.2 Year 2 students proudly present their personalised fidget boards,
+designed and created for their SIR project.</p>
+<p></p>
 <p></p>
 <h4>Key Programs / Competitions</h4>
 <p><strong>Year 1&amp; 2 Cohort Social Innovation and Research Program (SIR)</strong>
 </p>
-The <strong>Social Innovation and Research (SIR)</strong> Programme provides
+<p>The <strong>Social Innovation and Research (SIR)</strong> Programme provides
 students with structured opportunities to engage in inquiry and applied
 research on authentic social issues. Through a scaffolded curriculum, students
 develop research literacy, critical thinking, and problem-solving skills,
-while cultivating empathy, social responsibility, and innovative thinking.<p></p>
+while cultivating empathy, social responsibility, and innovative thinking.</p>
+<p></p>
 <p></p>
 <p><strong>Year 2 Innovation Program by the Gifted Education Branch (IvP)</strong>
 </p>
-<strong>The Innovation Programme by the Gifted Education Branch (GEB)</strong> is
+<p><strong>The Innovation Programme by the Gifted Education Branch (GEB)</strong> is
 designed to nurture students’ creativity, critical thinking, and problem-solving
 skills through authentic, real-world challenges. Students explore emerging
 issues, apply design thinking and research skills, and develop innovative
 solutions while collaborating with peers, mentors, and industry or community
-partners.<p></p>
+partners.</p>
+<p></p>
 <p></p>
 <p>Examples of other Key programs/Competition:</p>
-1. Overseas Immersion Program<p></p>
+<p>1. Overseas Immersion Program</p>
 <p></p>
-2. National STEM challenge<p></p>
 <p></p>
-3. Year 1Cohort Social Innovation and Research Program (SIR) etc<p></p>
+<p>2. National STEM challenge</p>
+<p></p>
+<p></p>
+<p>3. Year 1Cohort Social Innovation and Research Program (SIR) etc</p>
+<p></p>
 <p></p>
 <h4>Talent Development - Social Innovation (TDSI)</h4>
 <p>Talent Development - Social Innovation (TDSI) is a tailored and more rigorous
