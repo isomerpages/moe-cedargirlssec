@@ -10,6 +10,11 @@ variant: tiptap
 <img style="width:80%" height="auto" width="100%" src="/images/math7.png">
 </div>
 <p></p>
+<h4>Department Vision</h4>
+<p>To nurture critical and adaptive learners, equipped to be effective problem
+solvers and clear communicators who recognize and value the power of Mathematics
+in their daily lives.</p>
+<p></p>
 <h4>Philosophy</h4>
 <ul>
 <li>
