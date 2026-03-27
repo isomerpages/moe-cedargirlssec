@@ -15,7 +15,6 @@ explore new mediums, and broaden their perspective on what art can achieve.
 Through meaningful projects and challenges, they develop resilience, confidence,
 and social awareness, using their creativity to make a positive impact
 in the school and wider community.</p>
-<p></p>
 <h4>Key programs / Competitions</h4>
 <p>The Tier 1 programme provides students with opportunities to explore a
 variety of art forms, engage with diverse artworks, and pursue their own
