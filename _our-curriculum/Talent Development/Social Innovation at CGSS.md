@@ -31,3 +31,5 @@ Fig.1 Prototypes designed by our Year 1 students for their SIR projects.
 
 ![](/images/2026/Talent%20Development/SI_SIR_FidgetBoardGrp.jpg)
 Fig.2 Year 2 students proudly present their personalised fidget boards, designed and created for their SIR project.
+
+#### Key Programs / Competitions
