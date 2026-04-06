@@ -173,10 +173,6 @@ the school at both national and international levels.</p>
 </p>
 <p>These shared learning experiences provide all STEM TDP students with authentic
 exposure and enrichment beyond their core tier pathway.</p>
-<p>
-<br>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -316,9 +312,7 @@ STEM applications</p>
 1 2nd Runner-up</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong><u>2024</u></strong>
 </p>
 <ul>
