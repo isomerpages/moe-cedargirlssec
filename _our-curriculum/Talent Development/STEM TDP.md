@@ -186,6 +186,9 @@ exposure and enrichment beyond their core tier pathway.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM8.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
