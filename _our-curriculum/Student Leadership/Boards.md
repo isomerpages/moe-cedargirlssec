@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 variant: tiptap
 ---
 <h3>Prefectorial Board</h3>
-<h4><strong>Cedar Girls’ Student Council</strong></h4>
+<h4><strong>Student Council</strong></h4>
 <p>The Cedar Girls’ Student Council (CGSC) is a values-driven student leadership
 board committed to serving and strengthening our school community. Guided
 by our school motto of Honesty, Courtesy and Perseverance, our councillors
