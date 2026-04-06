@@ -29,9 +29,15 @@ through drones, culinary science, and robotics.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM_Fig1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM2.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -64,12 +70,21 @@ agencies and institutions, and external representation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM4.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM_Fig5.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -126,9 +141,15 @@ Biology Olympiad
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM_Fig6.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM7.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -168,6 +189,9 @@ exposure and enrichment beyond their core tier pathway.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM10.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -188,9 +212,15 @@ them in refining their research ideas.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM11.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM TDP/STEM12.jpg">
+</div>
 </td>
 </tr>
 <tr>
