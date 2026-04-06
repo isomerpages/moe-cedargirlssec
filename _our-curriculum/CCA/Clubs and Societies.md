@@ -26,7 +26,9 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+	<a href="/cca/clubs-and-societies/av-and-photography-club/">
 <img style="width:95%" height="auto" width="100%" src="/images/cca66.png">
+	</a>
 </div>
 <p>AV &amp; Photography</p>
 </td>
