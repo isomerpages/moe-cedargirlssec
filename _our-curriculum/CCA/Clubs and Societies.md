@@ -35,7 +35,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 	<a href="/cca/clubs-and-societies/ic/">
-<img style="width:95%" height="auto" width="100%" src="/images/cca67.png">
+<img style="width:100%" height="auto" width="100%" src="/images/cca67.png">
 	</a>
 </div>
 <p>Infocomm Club</p>
@@ -54,7 +54,7 @@ variant: markdown
 <p></p>
 <div class="isomer-image-wrapper">
 	<a href="/cca/clubs-and-societies/young-journalist-club/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Young Journalist Club/YJC_logo.png">
+<img style="width: 95%" height="auto" width="100%" alt="" src="/images/2026/Young Journalist Club/YJC_logo.png">
 	</a>
 </div>
 <p>Young Journalist Club</p>
