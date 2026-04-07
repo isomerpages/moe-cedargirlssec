@@ -53,7 +53,7 @@ role in the community by engaging in activities that will promote the interests
 and welfare of the School, the Alumni and the Community.</p>
 <p></p>
 <h4>Alumni Exco</h4>
-<p>To contact the exco, please write to <a rel="noopener noreferrer nofollow" target="_blank"><u>cedargirlsalumni@gmail.com</u></a>
+<p>To contact the exco, please write to <a href="cedaralumnievents@gmail.com" rel="noopener nofollow" target="_blank"> cedaralumnievents@gmail.com</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cedar_Alumni_Exco_2024.jpg">

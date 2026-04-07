@@ -209,34 +209,10 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alwyn Koh Di Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_di_sheng_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_di_sheng_alwyn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Chew Swee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_swee_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_swee_yee_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chew Swee Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chew_swee_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_swee_yee_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>

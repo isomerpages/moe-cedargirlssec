@@ -53,6 +53,13 @@ to students through the various platforms.</p>
 <br>• Peer Support Leaders
 <br>• Monitresses
 <br>• Sports and Health Leaders</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cyber Tech Ambassadors</p>
+</li>
+</ul>
+<h4></h4>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Co-Curriculum Activities (CCA)</strong> 
