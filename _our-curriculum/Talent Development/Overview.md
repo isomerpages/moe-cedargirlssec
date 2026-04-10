@@ -17,7 +17,6 @@ and wisdom. We are proud of our girls who positively contribute to the
 community with their various talents and passions.</p>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/2026_TDP.png">
 </div>
