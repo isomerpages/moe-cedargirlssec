@@ -1,6 +1,6 @@
 ---
-title: STEM TDP
-permalink: /stem-tdp/
+title: STEM
+permalink: /stem/
 variant: tiptap
 description: ""
 third_nav_title: Talent Development
@@ -200,7 +200,7 @@ session explored how nanosensing tools are transforming agriculture, with
 insights shared by Dr Mervin Ang.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fig. 10 - Through the STEM Speaker Series, Lee Mun Wai, an ex-Cedarian
+<p>Fig. 10 - Through the STEM Speaker Series, Dr Lee Mun Wai, an ex-Cedarian
 and Strategic Lead of Innovation Ecosystem Development (Research &amp;
 Enterprise) at NTU School of Materials Science and Engineering, inspired
 students with her STEM journey and real-world research insights, guiding

@@ -1,6 +1,6 @@
 ---
-title: TD Art
-permalink: /td-art/
+title: ART
+permalink: /art/
 variant: tiptap
 description: ""
 third_nav_title: Talent Development

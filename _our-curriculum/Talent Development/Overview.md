@@ -18,7 +18,7 @@ community with their various talents and passions.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cedar_TDP_framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Talent Development/2026_TDP.png">
 </div>
 <p>Cedar’s talent development programme follows the three Es – Exposure,
 Experience and Extension. These refer to the different tiers of engagement
