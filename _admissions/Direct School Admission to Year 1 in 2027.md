@@ -57,7 +57,7 @@ for the community that they serve.</p>
 <br>f. Learning Journeys and Interactions with Industry Experts
 <br>
 </p>
-<p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/centre-for-social-innovation/our-story/about-csi/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Please click&nbsp;<a href="https://www.cedargirlssec.moe.edu.sg/social-innovation-at-cgss/our-story/about-csi/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on our Social Innovation Programme.</p>
 <h4></h4>
 <h4><strong>Criteria and Selection Process for <u>both SEC and IP Programme</u></strong></h4>
