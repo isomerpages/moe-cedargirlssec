@@ -21,13 +21,11 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
-  - infopic:
-      title: "Cedar Arts Festival 2026: Rhythm & Radiance"
-      id: infopic
+  - infobar:
+      title: Direct School Admission to Year 1 in 2027
+      id: infobar
       button: click here for more info
-      url: /cedar-arts-festival-2026/
-      image: /images/Cedar_Arts_Fest_Poster.jpg
-      alt: Image alt text
+      url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2027/
   - infobar:
       title: Year 1 Registration Exercise  for 2026 Cohort
       id: infobar
@@ -40,14 +38,4 @@ sections:
         community. More details and information can be found at our microsite.
       button: click here for more info
       url: https://go.gov.sg/2025cedar-e-open-house
-  - infobar:
-      title: Direct School Admission to Year 1 in 2027
-      id: infobar
-      button: click here for more info
-      url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2027/
-  - infobar:
-      title: 2024 School Graduation Certificate (SGC) Collection
-      id: infobar
-      button: Click here for more info
-      url: /2024-school-graduation-certificate-sgc-collection/
 ---
