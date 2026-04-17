@@ -41,10 +41,10 @@ sections:
       button: click here for more info
       url: https://go.gov.sg/2025cedar-e-open-house
   - infobar:
-      title: Direct School Admission to Year 1 in 2026
+      title: Direct School Admission to Year 1 in 2027
       id: infobar
       button: click here for more info
-      url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2026/
+      url: https://www.cedargirlssec.moe.edu.sg/admissions/dsa-year-1-2027/
   - infobar:
       title: 2024 School Graduation Certificate (SGC) Collection
       id: infobar
