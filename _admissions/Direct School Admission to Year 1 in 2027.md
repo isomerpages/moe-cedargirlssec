@@ -499,10 +499,11 @@ more information on Posting Groups.</p>
 <p></p>
 <p>Please take note that once your child is successfully allocated to our
 school through the DSA-Sec, they will not be allowed to participate in
-the Secondary 1 (S1) Posting to opt for secondary schools. They will also <u>not</u> be
-allowed to transfer to another school after the release of the PSLE results.</p>
+the Secondary 1 (S1) Posting to opt for secondary schools. They will also
+not be allowed to transfer to another school after the release of the PSLE
+results.</p>
 <p></p>
-<p>Students who are successfully admitted to the school via DSA are expected
+<p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and programme (4 years for the
 Singapore-Cambridge Secondary Education Certificate Programme or 6 years
 for the Integrated Programme) and participate in the activities related
