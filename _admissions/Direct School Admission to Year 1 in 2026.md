@@ -4,7 +4,7 @@ permalink: /admissions/dsa-year-1-2026/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission to Year 1 in 2026</strong></h3>
+<h3><strong>Direct School Admission to Year 1 in 2027</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls
 to apply for admission to Year 1 in 2026 under the Direct School Admission
 into secondary schools (DSA-Sec) scheme. Students could apply for the <u>4-year O-Level Programme</u> in
