@@ -23,8 +23,8 @@ Innovation categories.</p>
 <p></p>
 <h5><strong>DSA (Sports)</strong><br></h5>
 <p>We offer DSA (<u>Sports</u>) in Badminton, Basketball, Netball, Table
-Tennis, Track and Field, or Volleyball. The programme aims to develop students’
-talents and potentials in the various sports categories.</p>
+Tennis, Track and Field, and Volleyball. The programme aims to develop
+students’ talents and potentials in the various sports categories.</p>
 <p></p>
 <p>Our sports programme comprises:
 <br>a. Quality and rigorous trainings by experienced coaches
@@ -35,7 +35,7 @@ more information on our Sports CCAs.</p>
 <p></p>
 <h5><strong>DSA (Performing Arts- Symphonic Band)</strong></h5>
 <p>The Cedar Symphonic Band is dedicated to nurturing the passion, talent,
-and potential of every student in the realm of music.</p>
+and potential of every Band student in the realm of music.</p>
 <p>Our band programme comprises:
 <br>a. Quality guidance and rigorous combined/sectional practices by experienced
 instructors
@@ -45,9 +45,9 @@ instructors
 more information on Cedar Symphonic Band.</p>
 <p></p>
 <h5><strong>DSA (Social Innovation)</strong><br></h5>
-<p>Our DSA (<u>Social Innovation</u>) programme aims to develop students
-to be advocates for social change and nurture their talents in creating
-user-centric solutions for the community that they serve.</p>
+<p>Our DSA (Social Innovation) programme aims to develop students to be advocates
+for social change and nurture their talents in creating user-centric solutions
+for the community that they serve.</p>
 <p>The programme comprises:
 <br>a. Training in Design Thinking and Innovation
 <br>b. Training in Persuasive Communication Skills
@@ -186,9 +186,9 @@ Youth Festival or instrumental related competitions</p>
 </li>
 </ul>
 <p></p>
-<p>^ Audition<strong> pieces must be composed specifically for the instrument that will be used during the audition.</strong> For
-example, a piece written for the vibraphone must be performed on the vibraphone
-and not on any other instrument.</p>
+<p>^ Audition pieces must be composed specifically for the instrument that
+will be used during the audition. For example, a piece written for the
+vibraphone must be performed on the vibraphone and not on any other instrument.</p>
 <p></p>
 <p><u>Part 2: Unprepared Individual Item</u>
 </p>
@@ -246,7 +246,6 @@ Robotics Competition, Tan Kah Kee Young Inventors Awards, Innovation Awards
 <p></p>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted or given an offer.</p>
-<p></p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
@@ -259,20 +258,20 @@ assessing the potential of the applicants.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11am – 3 Jun 2025, 3pm</strong>.
-&nbsp;For more details, please refer to MOE website <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
-</p>
+The application is free-of-charge and will be open from 6 May 2026, 11am
+– 2 Jun 2026, 4.30pm. &nbsp;For more details, please refer to MOE website
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 </li>
 <li>
-<p><strong>Applicants from MOE mainstream primary schools</strong>: Parent
-may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required.
-Parents/guardians who are unable to apply online can approach their child’s
-primary school for assistance.</p>
+<p>Applicants from MOE mainstream primary schools: Parent may log in directly
+to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/guardians
+who are unable to apply online can approach their child’s primary school
+for assistance.</p>
 </li>
 <li>
-<p><strong>Applicants not studying in MOE mainstream primary schools:</strong> They
-need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
-Portal. They may refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p>Applicants not studying in MOE mainstream primary schools: They need to
+apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal.
+They may refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </li>
 <li>
@@ -281,9 +280,9 @@ students in foreign system schools and private education institutions to
 assess their course suitability.</p>
 </li>
 <li>
-<p>All shortlisted International Students who are <strong>not </strong>taking
-PSLE are required to take and fulfil the requirements of the Admissions
-Exercise for International Students test to be successful in DSA.</p>
+<p>All shortlisted International Students who are not taking PSLE are required
+to take and fulfil the requirements of the Admissions Exercise for International
+Students test to be successful in DSA.</p>
 </li>
 <li>
 <p>Students can indicate up to three choices (maximum of two choices for
@@ -297,7 +296,7 @@ the same school under two different talent areas).</p>
 Please scan and email the documents to <a href="cedargirlss@moe.edu.sg" rel="noopener nofollow" target="_blank">cedargirlss@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Please indicate in your subject title: <strong>DSA 2025_DSA Category_ Name of Primary School_Name of student.</strong>
+<p>Please indicate in your subject title: <strong>DSA 2026_DSA Category_ Name of Primary School_Name of student.</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -377,7 +376,7 @@ and achievements</p>
 <p>Online Application @ MOE DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 Jun 2026, 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -388,7 +387,7 @@ and achievements</p>
 <p>Email notification to inform applicants who are not shortlisted</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Jul 2025</p>
+<p>7 Jul 2026</p>
 </td>
 </tr>
 <tr>
@@ -399,7 +398,7 @@ and achievements</p>
 <p>Sports Trials and interviews at Cedar Girls’ Sec School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jul 2025 – 22 Aug 2025</p>
+<p>1 Jul 2026 – 21 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -410,7 +409,7 @@ and achievements</p>
 <p>Notification of outcome via email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep 2025</p>
+<p>By 28 Aug 2026</p>
 </td>
 </tr>
 </tbody>
@@ -447,7 +446,7 @@ and achievements</p>
 <p>Online Application @ MOE DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 Jun 2026, 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +457,7 @@ and achievements</p>
 <p>Email notification to inform applicants who are not shortlisted</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 Jul 2025</p>
+<p>20 Jul 2026</p>
 </td>
 </tr>
 <tr>
@@ -469,7 +468,7 @@ and achievements</p>
 <p>Conduct of performance tasks and interview at Cedar Girls’ Sec School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Jul 2025 – 22 Aug 2025</p>
+<p>20 Jul 2026 – 3 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -480,7 +479,7 @@ and achievements</p>
 <p>Notification of outcome via email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep 2025</p>
+<p>By 28 Aug 2026</p>
 </td>
 </tr>
 </tbody>
