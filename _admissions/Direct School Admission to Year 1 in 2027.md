@@ -6,9 +6,10 @@ variant: tiptap
 ---
 <h3><strong>Direct School Admission to Year 1 in 2027</strong></h3>
 <p>Cedar Girls’ Secondary School (CGSS) would like to invite Primary 6 girls
-to apply for admission to Year 1 in 2026 under the Direct School Admission
-into secondary schools (DSA-Sec) scheme. Students could apply for the <u>4-year O-Level Programme</u> in
-CGSS or the <u>6-year Victoria-Cedar Alliance Integrated Programme (VCA IP)</u>,
+to apply for admission to Year 1 in 2027 under the Direct School Admission
+into secondary schools (DSA-Sec) scheme. Students could apply for the 4-year
+Singapore-Cambridge Secondary Education Certificate Programme (SEC) in
+CGSS or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP),
 which consists of 4 years in CGSS and 2 years in Victoria Junior College
 (VJC).</p>
 <p></p>
@@ -17,9 +18,9 @@ who are enthusiastic and passionate about learning. At Cedar, regardless
 of where your strengths lie, we bring out the best in you, developing you
 to be a woman of character and wisdom. We would like to invite you to join
 us on this exciting journey.</p>
-<p></p>
 <p>CGSS offers DSA in Sports, Performing Arts (Symphonic Band) and Social
 Innovation categories.</p>
+<p></p>
 <h5><strong>DSA (Sports)</strong><br></h5>
 <p>We offer DSA (<u>Sports</u>) in Badminton, Basketball, Netball, Table
 Tennis, Track and Field, or Volleyball. The programme aims to develop students’
