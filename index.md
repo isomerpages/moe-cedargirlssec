@@ -31,11 +31,13 @@ sections:
       id: infobar
       button: click here for more info
       url: /admissions/year-1-registration-exercise-2026/
-  - infobar:
-      title: Physical Open House 2025
-      id: infobar
-      description: Join us & discover how you can thrive as part of the Cedarian
-        community. More details and information can be found at our microsite.
+  - infopic:
+      title: e-Open House 2026
+      id: infopic
+      description: "Date: Saturday, 30 May. Time: 9am to 11am. Join us & discover how
+        you can thrive as part of the Cedarian community!"
       button: click here for more info
-      url: https://go.gov.sg/2025cedar-e-open-house
+      url: https://go.gov.sg/cgssopenhouse2026
+      image: /images/2026/Cedar_e_Open_House_2026_Poster.png
+      alt: Image alt text
 ---
