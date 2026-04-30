@@ -50,6 +50,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms See Hui Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:see_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_hui_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,18 +93,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saranpal_dhillon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saranpal_dhillon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH/Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms See Hui Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:see_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_hui_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
