@@ -17,7 +17,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Tableu from Romeo and Juliet</p>
+<p><sup>Tableu from Romeo and Juliet</sup>
+</p>
 </td>
 </tr>
 <tr>
