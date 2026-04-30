@@ -62,18 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Margaret Wong Pek Funn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:margaret_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_wong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>AYH (Y2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,6 +69,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_lin_rachel_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_lin_rachel_koh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Margaret Wong Pek Funn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:margaret_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_wong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
