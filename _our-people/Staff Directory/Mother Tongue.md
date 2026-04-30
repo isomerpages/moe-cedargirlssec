@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag SH/Well-Being</p>
+<p>Ag ST/Malay &amp; Culture</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Farahin Salleh</p>
@@ -153,6 +153,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahani_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahani_ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rudrapathy Vijayalakshmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rudrapathy_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rudrapathy_vijayalakshmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
