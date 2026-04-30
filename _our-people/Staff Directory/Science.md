@@ -134,18 +134,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Ter Shien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_ter_shien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ter_shien@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,6 +153,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_cui_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_cui_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Ter Shien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_ter_shien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ter_shien@moe.edu.sg</a>
 </p>
 </td>
 </tr>
