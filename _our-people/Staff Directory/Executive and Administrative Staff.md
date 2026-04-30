@@ -16,9 +16,9 @@ variant: markdown
 | Corporate Support Officer | Ms Patricia Nai |
 | Corporate Support Officer | Ms Samantha Tan |
 | Technical Support Officer (D & T) | Mr Abdul Harris Bin Zainudin |
+| Technical Support Officer (Science) | Ms Shamini |
 | Technical Support Officer (Science) | Ms Khadijah Binte Taha |
 | Technical Support Officer (Science) | Ms Ma May Kyi Thet Mon |
-| Technical Support Officer (Science) | Ms Shamini |
 | Operations Support Officer | Mr Jamal Bin Juma'at |
 | Operations Support Officer | Mdm Lei Yow Foon |
 | Operations Support Officer | Mr Mohd Nizam Bin Mahad |
