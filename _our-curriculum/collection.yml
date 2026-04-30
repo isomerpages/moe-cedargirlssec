@@ -4,7 +4,6 @@ collections:
     order:
       - Integrated Programme (IP).md
       - Departments/.keep
-      - Departments/Departments.md
       - Departments/Aesthetics.md
       - Departments/English Language and Literature.md
       - Departments/Humanities.md
@@ -31,9 +30,10 @@ collections:
       - Student Leadership/Boards.md
       - Talent Development/.keep
       - Talent Development/Overview.md
+      - Talent Development/ART.md
       - Talent Development/Regional Studies, Humanities & Social Sciences
         (RHS).md
       - Talent Development/Regional Studies Programme (RSP).md
       - Talent Development/Social Innovation at CGSS.md
-      - Talent Development/STEM.md
-      - Talent Development/ART.md
+      - Talent Development/Science, Technology, Engineering & Mathematics
+        (STEM).md

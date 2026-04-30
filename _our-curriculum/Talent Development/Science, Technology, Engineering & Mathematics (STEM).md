@@ -1,5 +1,5 @@
 ---
-title: STEM
+title: Science, Technology, Engineering & Mathematics (STEM)
 permalink: /stem/
 variant: tiptap
 description: ""

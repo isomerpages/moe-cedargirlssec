@@ -62,18 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/LIT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jina Foo Yu Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jina_foo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jina_foo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,18 +209,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Sik Pei Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sik_pei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sik_pei_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Katherine Chew Yuh Huey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,6 +237,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="toh_hui_choo@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_hui_choo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jina Foo Yu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jina_foo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jina_foo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
