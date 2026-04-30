@@ -27,5 +27,5 @@ variant: markdown
 | Library Officer | Ms Chen Xi |
 | ICT Associate | Mr Darren Chua  |
 | Desktop Engineer | Mr Muhammad Hidayat Bin Musli |
-| Desktop Engineer | Ms Fakhira Zolkafli |
+| Desktop Engineer | Ms Nur Fakhira Binti Zolkafli |
 | AVA and Multimedia Executive | Mr Kelvin John Francis |
