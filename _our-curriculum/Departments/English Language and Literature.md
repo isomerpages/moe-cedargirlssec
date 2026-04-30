@@ -16,6 +16,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Tableu from Romeo and Juliet</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Department Vision:</strong>
 </p>
