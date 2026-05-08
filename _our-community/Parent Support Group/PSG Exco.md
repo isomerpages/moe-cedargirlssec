@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parent Support Group
 variant: tiptap
 ---
-<h3>PSG Exco</h3>
+<h3>PSG Exco 2026</h3>
 <h4><strong>PSG EXCO Committee 2026</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
