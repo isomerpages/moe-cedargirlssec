@@ -12,13 +12,13 @@ collect it from our General Office by 31 July 2026.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School term weekdays: 8:00 am – 5:30 pm</p>
+<p><strong>School term weekdays</strong>: 8:00 am – 5:30 pm</p>
 </li>
 <li>
-<p>School holidays: 8:00 am – 4:30 pm</p>
+<p><strong>School holidays</strong>: 8:00 am – 4:30 pm</p>
 </li>
 <li>
-<p>The office is closed on Public Holidays.</p>
+<p>The office is <strong>closed on Public Holidays</strong>.</p>
 </li>
 </ul>
 <p><strong>Note:</strong>
@@ -26,6 +26,7 @@ collect it from our General Office by 31 July 2026.</p>
 <p>1. Please bring along your NRIC/student’s pass for our verification purpose.</p>
 <p>2. You may authorise your family member to collect it on your behalf by
 bringing along your student’s pass/supporting document for our verification.</p>
-<p>3. Important Reminder: Certificates which are not collected, will be disposed
-eventually, after the retention period.</p>
+<p>3. <strong>Important Reminder</strong>: Certificates which are not collected,
+will be disposed eventually, <strong>after the retention period.</strong>
+</p>
 <p></p>
