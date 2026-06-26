@@ -40,4 +40,15 @@ sections:
       id: infobar
       button: click here for more info
       url: /admissions/year-1-registration-exercise-2026/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - infobar:
+      title: 2025 School Graduation Certificate (SGC) Collection
+      id: infobar
+      button: click here for more info
+      url: /2025-school-graduation-certificate-sgc-collection/
 ---
