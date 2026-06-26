@@ -21,6 +21,11 @@ sections:
           description: ""
           url: /information/
       background: /images/Home Banner/zest_v3.gif
+  - infobar:
+      title: 2025 School Graduation Certificate (SGC) Collection
+      id: infobar
+      button: click here for more info
+      url: /2025-school-graduation-certificate-sgc-collection/
   - infopic:
       title: e-Open House 2026
       id: infopic
