@@ -122,18 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag SH/ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Christine So Xue Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:so_xue_ting_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">so_xue_ting_christine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,6 +141,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_cui_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_cui_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christine So Xue Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:so_xue_ting_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">so_xue_ting_christine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
